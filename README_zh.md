@@ -143,9 +143,9 @@ by {argument name="author" default="Steve Jobs"}
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **13536** |
+| 📝 提示词总数 | **13535** |
 | ⭐ 精选 | **9** |
-| 🔄 最后更新 | **2026年5月18日星期一 UTC 09:03:46** |
+| 🔄 最后更新 | **2026年5月18日星期一 UTC 13:03:53** |
 
 </div>
 
@@ -4446,47 +4446,7 @@ a {argument name="character" default="经典暴走族 (M)"} VS. {argument name="
 
 ---
 
-### No. 90: 产品营销 - 复古未来主义香水广告
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-一个 Y2K 美学风格的商业摄影提示词，适用于包含强制透视效果和活力摄影棚场景的香水广告。
-
-#### 📝 提示词
-
-```
-一张在充满活力的复古未来主义摄影棚中拍摄的高级时装香水广告。在极近的前景中，一只大手戏剧性地向镜头伸出，手指微微张开，营造出强制透视的错觉。中景中心放置着一个圆润柔和的 {argument name="bottle color" default="桃粉色"} 玻璃香水瓶，瓶身标签为 "{argument name="product name" default="DUNE — Eau de Toilette — Christian Dior Paris"}"，配有玫瑰金球形瓶盖和玫瑰金瓶颈。背景中，一位留着棕色短波波头和齐刘海的年轻女性戴着超大号白色猫眼太阳镜，身穿淡粉色缎面飞行员夹克、白色短款上衣和牛仔短裙。她身体前倾，表情流露出惊讶或渴望，仿佛正伸手去拿香水瓶。环境是一个干净的摄影棚，墙壁为明亮的青色/天蓝色，地面铺设带有蓝色条纹装饰的白色几何地砖。灯光锐利、具有编辑感且对比度高，并带有柔和的阴影。整体氛围俏皮、大胆且现代，充满 Y2K 美学。使用广角镜头拍摄以夸大深度和比例。照片级真实感，商业摄影风格。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1779090351706_0svuum_HIfdRtBbgAAL6Nj.jpg" width="600" alt="产品营销 - 复古未来主义香水广告 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1779090351684_npuj31_HIfdRY1aQAApoS5.jpg" width="600" alt="产品营销 - 复古未来主义香水广告 - Image 2">
-</div>
-
-#### 📌 详情
-
-- **作者:** [ShaHid WaNii](https://x.com/meng_dagg695)
-- **来源:** [Twitter Post](https://x.com/meng_dagg695/status/2055855075697045949)
-- **发布时间:** 2026年5月17日
-- **多语言:** en
-
-**[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?id=21000)**
-
----
-
-### No. 91: 产品营销 - 腮红粉时尚大片
+### No. 90: 产品营销 - 腮红粉时尚大片
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4519,7 +4479,7 @@ a {argument name="character" default="经典暴走族 (M)"} VS. {argument name="
 
 ---
 
-### No. 92: 产品营销 - 名人健身摄影拍摄
+### No. 91: 产品营销 - 名人健身摄影拍摄
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4570,7 +4530,7 @@ a {argument name="character" default="经典暴走族 (M)"} VS. {argument name="
 
 ---
 
-### No. 93: 产品营销 - 夜间时尚大片摄影
+### No. 92: 产品营销 - 夜间时尚大片摄影
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4622,7 +4582,7 @@ a {argument name="character" default="经典暴走族 (M)"} VS. {argument name="
 
 ---
 
-### No. 94: 产品营销 - 奢华护肤自拍概念
+### No. 93: 产品营销 - 奢华护肤自拍概念
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4655,7 +4615,7 @@ a {argument name="character" default="经典暴走族 (M)"} VS. {argument name="
 
 ---
 
-### No. 95: 产品营销 - 奢华度假村男性时尚杂志肖像
+### No. 94: 产品营销 - 奢华度假村男性时尚杂志肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4686,6 +4646,40 @@ a {argument name="character" default="经典暴走族 (M)"} VS. {argument name="
 - **多语言:** en
 
 **[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?id=20750)**
+
+---
+
+### No. 95: 产品营销 - 融合科技与路亚饵的奇特沙拉
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+一个关于装有 SSD 固态硬盘和波扒路亚饵的沙拉碗的怪诞超现实提示词，营造出一种奇异的科技与有机融合感。
+
+#### 📝 提示词
+
+```
+一碗装有 {argument name="food" default="沙拉"}、{argument name="object one" default="SSD 固态硬盘"} 和 {argument name="object two" default="波扒路亚饵"} 的组合
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1779002365724_uvl92r_HILRmesbgAA2nUS.jpg" width="600" alt="产品营销 - 融合科技与路亚饵的奇特沙拉 - Image 1">
+</div>
+
+#### 📌 详情
+
+- **作者:** [PSN用アカウント](https://x.com/PSN62595111)
+- **来源:** [Twitter Post](https://x.com/PSN62595111/status/2055612475526013305)
+- **发布时间:** 2026年5月16日
+- **多语言:** en
+
+**[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?id=20775)**
 
 ---
 
@@ -5387,7 +5381,41 @@ nature inspired atmospheric organicism：一个以自然为灵感、充满氛围
 
 ---
 
-### No. 113: 游戏素材 - 手工剪纸风格插画
+### No. 113: 电商主图 - 奢华计时码表微距设计
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+一个用于奢华腕表的高端微距摄影提示词，聚焦于机芯细节与材质纹理。
+
+#### 📝 提示词
+
+```
+"{argument name="subject" default="计时码表"}，搭配 {argument name="strap" default="皮质表带"}。摄影棚微距，头顶聚光灯，擒纵机构特写。{argument name="background" default="深色哑光背景"}。浅景深。照片级真实感。"
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1776137524476_wesjcj_HFq3eagWsAAkWJk.jpg" width="600" alt="电商主图 - 奢华计时码表微距设计 - Image 1">
+</div>
+
+#### 📌 详情
+
+- **作者:** [SRKDAN](https://x.com/SRKDAN)
+- **来源:** [Twitter Post](https://x.com/SRKDAN/status/2043147116122398892)
+- **发布时间:** 2026年4月12日
+- **多语言:** en
+
+**[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?id=13369)**
+
+---
+
+### No. 114: 游戏素材 - 手工剪纸风格插画
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5420,7 +5448,7 @@ nature inspired atmospheric organicism：一个以自然为灵感、充满氛围
 
 ---
 
-### No. 114: 游戏素材 - “魂系”风格蜗牛生物设计
+### No. 115: 游戏素材 - “魂系”风格蜗牛生物设计
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5454,7 +5482,7 @@ nature inspired atmospheric organicism：一个以自然为灵感、充满氛围
 
 ---
 
-### No. 115: 游戏素材 - 超现实骆驼与汽车旅馆场景
+### No. 116: 游戏素材 - 超现实骆驼与汽车旅馆场景
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5488,7 +5516,7 @@ nature inspired atmospheric organicism：一个以自然为灵感、充满氛围
 
 ---
 
-### No. 116: 游戏素材 - 超现实赌场 vs 鹦鹉之战
+### No. 117: 游戏素材 - 超现实赌场 vs 鹦鹉之战
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5522,7 +5550,7 @@ nature inspired atmospheric organicism：一个以自然为灵感、充满氛围
 
 ---
 
-### No. 117: 游戏素材 - 名人风暴兵风格肖像
+### No. 118: 游戏素材 - 名人风暴兵风格肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5572,7 +5600,7 @@ nature inspired atmospheric organicism：一个以自然为灵感、充满氛围
 
 ---
 
-### No. 118: 游戏素材 - 夜色中的人形机甲机器人
+### No. 119: 游戏素材 - 夜色中的人形机甲机器人
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5675,7 +5703,7 @@ nature inspired atmospheric organicism：一个以自然为灵感、充满氛围
 
 ---
 
-### No. 119: 游戏素材 - “破碎现实”电影感人像
+### No. 120: 游戏素材 - “破碎现实”电影感人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5709,53 +5737,13 @@ nature inspired atmospheric organicism：一个以自然为灵感、充满氛围
 
 ---
 
-### No. 120: 游戏素材 - 天龙天空幻想
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-一个超写实的幻想提示词，描绘了一条巨大的冰蓝色巨龙飞翔在明亮的蓝天之上，地面上站着一名女孩。
-
-#### 📝 提示词
-
-```
-一条巨大的 {argument name="dragon" default="冰蓝色天龙"} 飞翔在明亮湛蓝的云层天空中，超写实幻想场景，闪烁的水晶鳞片，锋利的犄角，凶猛的眼神，电影级低角度视角，戏剧性的日光，细节丰富的云层与阴影。在一条荒凉的土路上，一名 {argument name="girl" default="身高 8 英尺的超高女孩"} 双臂张开站立，背对镜头，保持完全相同的姿势和角度。她身穿一件 {argument name="outfit" default="深绿黑色超大格纹衬衫"}，内搭白色 T 恤，穿着宽松的深蓝色阔腿牛仔裤，脚蹬白色运动鞋，留着黑色长发，全身可见。左侧为相同的废弃建筑，两侧为树木与干草，保持相同的土路路径、巨龙位置、构图、光影及氛围，背景无任何改变。超写实，对焦清晰，高对比度，电影级幻想风格，4K 分辨率，9:16 竖屏构图。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1778486144783_o0ot19_HH9S_eQaUAAwdfz.jpg" width="600" alt="游戏素材 - 天龙天空幻想 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1778486144780_2n9ijp_HH9S_n8a8AAguKi.jpg" width="600" alt="游戏素材 - 天龙天空幻想 - Image 2">
-</div>
-
-#### 📌 详情
-
-- **作者:** [Harboris](https://x.com/harboriis)
-- **来源:** [Twitter Post](https://x.com/harboriis/status/2053451211672863071)
-- **发布时间:** 2026年5月10日
-- **多语言:** en
-
-**[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?id=19402)**
-
----
-
 ---
 
 ## 📚 更多提示词
 
 <div align="center">
 
-### 🎯 13416 更多提示词未在此显示
+### 🎯 13415 更多提示词未在此显示
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -5818,6 +5806,6 @@ The gallery features:
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-05-18T09:03:46.920Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-05-18T13:03:53.086Z</sub>
 
 </div>

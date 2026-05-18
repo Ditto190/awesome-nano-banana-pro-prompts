@@ -143,9 +143,9 @@ Quando usado no Raycast, você pode substituir dinamicamente os argumentos para 
 
 | Métrica | Contagem |
 |--------|-------|
-| 📝 Total de prompts | **13536** |
+| 📝 Total de prompts | **13535** |
 | ⭐ Destaque | **9** |
-| 🔄 Última atualização | **segunda-feira, 18 de maio de 2026 às 09:05:06 UTC** |
+| 🔄 Última atualização | **segunda-feira, 18 de maio de 2026 às 13:05:12 UTC** |
 
 </div>
 
@@ -4445,47 +4445,7 @@ A luz solar dourada filtra-se através de nuvens dispersas em um céu azul brilh
 
 ---
 
-### No. 90: Marketing de Produto - Anúncio de Perfume Retrofuturista
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Descrição
-
-Um prompt de fotografia comercial com estética Y2K para um anúncio de perfume, utilizando perspectiva forçada e um cenário de estúdio vibrante.
-
-#### 📝 Prompt
-
-```
-Um anúncio de perfume de alta costura fotografado em um estúdio vibrante e retrofuturista. No primeiro plano extremo, uma mão grande alcança a câmera de forma dramática com os dedos levemente abertos, criando uma ilusão de perspectiva forçada. Centralizado no plano médio, encontra-se um frasco de perfume de vidro redondo e suave {argument name="bottle color" default="rosa-pêssego"} com o rótulo "{argument name="product name" default="DUNE — Eau de Toilette — Christian Dior Paris"}", apresentando uma tampa esférica e um colar em ouro rosé. Ao fundo, uma jovem com um corte chanel curto castanho e franja reta usa óculos de sol brancos grandes estilo gatinho, uma jaqueta bomber de cetim rosa pastel, um top cropped branco e uma minissaia jeans. Ela se inclina para frente com uma expressão de surpresa ou desejo, como se estivesse alcançando o frasco. O ambiente é um estúdio clean com paredes em ciano/azul-celeste brilhante e painéis de piso geométricos brancos com detalhes em listras azuis. A iluminação é nítida, editorial e de alto contraste com sombras suaves. A atmosfera geral é lúdica, ousada e moderna, com uma estética Y2K. Capturado com lente grande-angular para exagerar a profundidade e a escala. Estilo de fotografia comercial fotorrealista.
-```
-
-#### 🖼️ Imagens geradas
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1779090351706_0svuum_HIfdRtBbgAAL6Nj.jpg" width="600" alt="Marketing de Produto - Anúncio de Perfume Retrofuturista - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1779090351684_npuj31_HIfdRY1aQAApoS5.jpg" width="600" alt="Marketing de Produto - Anúncio de Perfume Retrofuturista - Image 2">
-</div>
-
-#### 📌 Detalhes
-
-- **Autor:** [ShaHid WaNii](https://x.com/meng_dagg695)
-- **Fonte:** [Twitter Post](https://x.com/meng_dagg695/status/2055855075697045949)
-- **Publicado:** 17 de maio de 2026
-- **Idiomas:** en
-
-**[👉 Experimente agora →](https://youmind.com/pt-PT/nano-banana-pro-prompts?id=21000)**
-
----
-
-### No. 91: Marketing de Produto - Editorial de Moda Rosa Blush
+### No. 90: Marketing de Produto - Editorial de Moda Rosa Blush
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4518,7 +4478,7 @@ Retrato de moda elegante de uma jovem encostada em uma parede texturizada rosa b
 
 ---
 
-### No. 92: Marketing de Produto - Sessão de Fotos Fitness de Celebridades
+### No. 91: Marketing de Produto - Sessão de Fotos Fitness de Celebridades
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4569,7 +4529,7 @@ Um prompt estruturado baseado em dados para gerar fotografias fitness de Sydney 
 
 ---
 
-### No. 93: Marketing de Produto - Fotografia Editorial de Moda Noturna
+### No. 92: Marketing de Produto - Fotografia Editorial de Moda Noturna
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4621,7 +4581,7 @@ Fotografia editorial de moda noturna, plano médio de {argument name="celebrity 
 
 ---
 
-### No. 94: Marketing de Produto - Conceito de Selfie de Skincare de Luxo
+### No. 93: Marketing de Produto - Conceito de Selfie de Skincare de Luxo
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4654,7 +4614,7 @@ Um prompt de selfie de beleza em alta resolução com estética de spa em amarel
 
 ---
 
-### No. 95: Marketing de Produto - Retrato Editorial de Luxo em Resort
+### No. 94: Marketing de Produto - Retrato Editorial de Luxo em Resort
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4685,6 +4645,40 @@ Um prompt extremamente detalhado para um retrato editorial de luxo sofisticado d
 - **Idiomas:** en
 
 **[👉 Experimente agora →](https://youmind.com/pt-PT/nano-banana-pro-prompts?id=20750)**
+
+---
+
+### No. 95: Marketing de Produto - Salada Bizarra com Tecnologia e Iscas de Pesca
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Descrição
+
+Um prompt estranho e surreal para uma tigela de salada contendo unidades SSD e iscas artificiais do tipo popper, criando uma fusão tecnológica e orgânica peculiar.
+
+#### 📝 Prompt
+
+```
+uma tigela de {argument name="food" default="salada"} com {argument name="object one" default="SSDs"} e {argument name="object two" default="iscas popper"}
+```
+
+#### 🖼️ Imagens geradas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1779002365724_uvl92r_HILRmesbgAA2nUS.jpg" width="600" alt="Marketing de Produto - Salada Bizarra com Tecnologia e Iscas de Pesca - Image 1">
+</div>
+
+#### 📌 Detalhes
+
+- **Autor:** [PSN用アカウント](https://x.com/PSN62595111)
+- **Fonte:** [Twitter Post](https://x.com/PSN62595111/status/2055612475526013305)
+- **Publicado:** 16 de maio de 2026
+- **Idiomas:** en
+
+**[👉 Experimente agora →](https://youmind.com/pt-PT/nano-banana-pro-prompts?id=20775)**
 
 ---
 
@@ -5386,7 +5380,41 @@ No ar, uma {argument name="fruit" default="pitaya"} se abre de forma explosiva, 
 
 ---
 
-### No. 113: Ativo de Jogo - Ilustração em Estilo de Recorte de Papel Artesanal
+### No. 113: Imagem Principal de E-commerce - Design Macro de Cronógrafo de Luxo
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Descrição
+
+Um prompt de fotografia macro de alta qualidade para um relógio de luxo, com foco em detalhes do movimento e texturas dos materiais.
+
+#### 📝 Prompt
+
+```
+"{argument name="subject" default="Cronógrafo"} com {argument name="strap" default="pulseira de couro"}. Macro de estúdio, luz de destaque superior, close-up do escape. {argument name="background" default="Fundo fosco escuro"}. Profundidade de campo rasa. Fotorrealista."
+```
+
+#### 🖼️ Imagens geradas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1776137524476_wesjcj_HFq3eagWsAAkWJk.jpg" width="600" alt="Imagem Principal de E-commerce - Design Macro de Cronógrafo de Luxo - Image 1">
+</div>
+
+#### 📌 Detalhes
+
+- **Autor:** [SRKDAN](https://x.com/SRKDAN)
+- **Fonte:** [Twitter Post](https://x.com/SRKDAN/status/2043147116122398892)
+- **Publicado:** 12 de abril de 2026
+- **Idiomas:** en
+
+**[👉 Experimente agora →](https://youmind.com/pt-PT/nano-banana-pro-prompts?id=13369)**
+
+---
+
+### No. 114: Ativo de Jogo - Ilustração em Estilo de Recorte de Papel Artesanal
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5419,7 +5447,7 @@ Converta esta imagem em um estilo de ilustração suave em camadas de recorte de
 
 ---
 
-### No. 114: Ativo de Jogo - Design de Criatura Caracol Estilo Souls-like
+### No. 115: Ativo de Jogo - Design de Criatura Caracol Estilo Souls-like
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5453,7 +5481,7 @@ um {argument name="subject" default="caracol"} no estilo de um {argument name="g
 
 ---
 
-### No. 115: Ativo de Jogo - Cena Surreal: Camelo vs. Motel
+### No. 116: Ativo de Jogo - Cena Surreal: Camelo vs. Motel
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5487,7 +5515,7 @@ Um prompt bizarro que retrata um confronto ou comparação entre um camelo e um 
 
 ---
 
-### No. 116: Ativo de Jogo - Surreal Casino vs. Batalha de Papagaios
+### No. 117: Ativo de Jogo - Surreal Casino vs. Batalha de Papagaios
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5521,7 +5549,7 @@ Um conceito de prompt estranho e surreal que retrata um confronto entre um cená
 
 ---
 
-### No. 117: Ativo de Jogo - Retrato de Celebridade no Estilo Stormtrooper
+### No. 118: Ativo de Jogo - Retrato de Celebridade no Estilo Stormtrooper
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5571,7 +5599,7 @@ Especificações técnicas: Capturado com um iPhone 15 Pro Max, lente principal 
 
 ---
 
-### No. 118: Ativo de Jogo - Robô Mecha Humanoide à Noite
+### No. 119: Ativo de Jogo - Robô Mecha Humanoide à Noite
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5674,7 +5702,7 @@ Um prompt cinematográfico complexo para um robô mecha humanoide de 4,5 metros 
 
 ---
 
-### No. 119: Ativo de Jogo - Retrato Cinematográfico de Realidade Fragmentada
+### No. 120: Ativo de Jogo - Retrato Cinematográfico de Realidade Fragmentada
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5708,53 +5736,13 @@ Um retrato cinematográfico 8K hiper-realista de uma {argument name="subject" de
 
 ---
 
-### No. 120: Ativo de Jogo - Fantasia Celestial do Dragão do Céu
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Descrição
-
-Um prompt de fantasia hiper-realista apresentando um dragão gigante azul-gelo voando em um céu azul brilhante acima de uma garota em uma estrada de terra.
-
-#### 📝 Prompt
-
-```
-Um dragão gigante {argument name="dragon" default="dragão celestial azul-gelo"} voando através de um céu azul brilhante e nublado, cena de fantasia ultra-realista, escamas de cristal brilhantes, chifres afiados, olhos ferozes, visão cinematográfica em ângulo baixo, luz do dia dramática, nuvens e sombras detalhadas. Em uma estrada de terra solitária, uma {argument name="girl" default="garota extremamente alta de 2,4 metros"} de pé com os braços abertos, de costas para a câmera, exatamente na mesma pose e ângulo. Ela veste uma {argument name="outfit" default="camisa xadrez oversized verde-escura e preta"} sobre uma camiseta branca, calça jeans larga azul-escura, tênis brancos, cabelos pretos longos, corpo inteiro visível. A mesma estrutura abandonada à esquerda, árvores e grama seca nas laterais, o mesmo caminho de terra, a mesma posição do dragão, o mesmo enquadramento, a mesma iluminação, a mesma atmosfera, nada mudou no fundo. Hiper-realista, foco nítido, alto contraste, estilo de fantasia cinematográfica, 4K, composição vertical 9:16.
-```
-
-#### 🖼️ Imagens geradas
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1778486144783_o0ot19_HH9S_eQaUAAwdfz.jpg" width="600" alt="Ativo de Jogo - Fantasia Celestial do Dragão do Céu - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1778486144780_2n9ijp_HH9S_n8a8AAguKi.jpg" width="600" alt="Ativo de Jogo - Fantasia Celestial do Dragão do Céu - Image 2">
-</div>
-
-#### 📌 Detalhes
-
-- **Autor:** [Harboris](https://x.com/harboriis)
-- **Fonte:** [Twitter Post](https://x.com/harboriis/status/2053451211672863071)
-- **Publicado:** 10 de maio de 2026
-- **Idiomas:** en
-
-**[👉 Experimente agora →](https://youmind.com/pt-PT/nano-banana-pro-prompts?id=19402)**
-
----
-
 ---
 
 ## 📚 Mais prompts disponíveis
 
 <div align="center">
 
-### 🎯 13416 mais prompts não mostrados aqui
+### 🎯 13415 mais prompts não mostrados aqui
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -5817,6 +5805,6 @@ Licenciado sob [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Enviar um prompt](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Dar estrela a este repositório](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-05-18T09:05:06.806Z</sub>
+<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-05-18T13:05:12.355Z</sub>
 
 </div>

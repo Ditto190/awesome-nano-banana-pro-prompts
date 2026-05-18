@@ -143,9 +143,9 @@ Raycast'te kullanıldığında, hızlı yinelemeler için argümanları dinamik 
 
 | Metrik | Sayı |
 |--------|-------|
-| 📝 Toplam İstem | **13536** |
+| 📝 Toplam İstem | **13535** |
 | ⭐ Öne Çıkan | **9** |
-| 🔄 Son Güncelleme | **18 Mayıs 2026 Pazartesi 09:05:12 UTC** |
+| 🔄 Son Güncelleme | **18 Mayıs 2026 Pazartesi 13:05:18 UTC** |
 
 </div>
 
@@ -4446,47 +4446,7 @@ Altın rengi güneş ışığı, parlak mavi gökyüzündeki dağınık bulutlar
 
 ---
 
-### No. 90: Ürün Pazarlaması - Retro Fütüristik Parfüm Reklamı
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Açıklama
-
-Zorlamalı perspektif ve canlı bir stüdyo ortamı içeren, Y2K estetiğine sahip bir parfüm reklamı ticari fotoğrafçılık istemi.
-
-#### 📝 İstem
-
-```
-Canlı, retro-fütüristik bir stüdyo ortamında çekilmiş yüksek moda bir parfüm reklamı. En ön planda, parmakları hafifçe açık şekilde kameraya doğru dramatik bir şekilde uzanan büyük bir el, zorlamalı perspektif illüzyonu yaratıyor. Orta planda, merkezde yer alan yuvarlak, yumuşak {argument name="bottle color" default="şeftali pembesi"} cam parfüm şişesinin üzerinde "{argument name="product name" default="DUNE — Eau de Toilette — Christian Dior Paris"}" etiketi, gül kurusu renginde küresel bir kapak ve gül kurusu renginde bir boyun kısmı bulunuyor. Arka planda, kısa kahverengi küt saçlı ve küt kahküllü genç bir kadın; büyük beyaz kedi gözü güneş gözlüğü, pastel pembe saten bomber ceket, beyaz bir crop top ve kot mini etek giyiyor. Şişeye uzanıyormuş gibi şaşkın veya arzulu bir ifadeyle öne doğru eğiliyor. Ortam, parlak camgöbeği/gök mavisi duvarlara ve mavi şerit detaylı beyaz geometrik zemin panellerine sahip temiz bir stüdyo kutusu. Aydınlatma keskin, editoryal ve yumuşak gölgelerle yüksek kontrastlı. Genel atmosfer; Y2K estetiğiyle eğlenceli, cesur ve modern. Derinliği ve ölçeği abartmak için geniş açılı lensle çekilmiştir. Fotogerçekçi, ticari fotoğrafçılık tarzı.
-```
-
-#### 🖼️ Oluşturulan Görseller
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1779090351706_0svuum_HIfdRtBbgAAL6Nj.jpg" width="600" alt="Ürün Pazarlaması - Retro Fütüristik Parfüm Reklamı - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1779090351684_npuj31_HIfdRY1aQAApoS5.jpg" width="600" alt="Ürün Pazarlaması - Retro Fütüristik Parfüm Reklamı - Image 2">
-</div>
-
-#### 📌 Detaylar
-
-- **Yazar:** [ShaHid WaNii](https://x.com/meng_dagg695)
-- **Kaynak:** [Twitter Post](https://x.com/meng_dagg695/status/2055855075697045949)
-- **Yayınlandı:** 17 Mayıs 2026
-- **Diller:** en
-
-**[👉 Şimdi dene →](https://youmind.com/tr-TR/nano-banana-pro-prompts?id=21000)**
-
----
-
-### No. 91: Ürün Pazarlaması - Pudra Pembesi Moda Editöryali
+### No. 90: Ürün Pazarlaması - Pudra Pembesi Moda Editöryali
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4519,7 +4479,7 @@ Tropikal palmiye yaprağı gölgelerinin düştüğü pudra pembesi dokulu bir d
 
 ---
 
-### No. 92: Ürün Pazarlaması - Ünlü Fitness Fotoğraf Çekimi
+### No. 91: Ürün Pazarlaması - Ünlü Fitness Fotoğraf Çekimi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4570,7 +4530,7 @@ Sydney Sweeney ve Millie Bobby Brown'ın fitness fotoğraflarını oluşturmak i
 
 ---
 
-### No. 93: Ürün Pazarlaması - Gece Editoryal Moda Fotoğrafçılığı
+### No. 92: Ürün Pazarlaması - Gece Editoryal Moda Fotoğrafçılığı
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4622,7 +4582,7 @@ Editoryal gece moda fotoğrafçılığı, lüks bir aracın arka koltuğunda zar
 
 ---
 
-### No. 94: Ürün Pazarlaması - Lüks Cilt Bakımı Selfie Konsepti
+### No. 93: Ürün Pazarlaması - Lüks Cilt Bakımı Selfie Konsepti
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4655,7 +4615,7 @@ Tereyağı sarısı spa estetiği ve cilt bakımı detaylarını içeren, ancak 
 
 ---
 
-### No. 95: Ürün Pazarlaması - Lüks Tatil Köyü Erkek Editöryal Portresi
+### No. 94: Ürün Pazarlaması - Lüks Tatil Köyü Erkek Editöryal Portresi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4686,6 +4646,40 @@ Alacakaranlıkta tropikal bir tatil köyünde, hassas ışıklandırma ve kamera
 - **Diller:** en
 
 **[👉 Şimdi dene →](https://youmind.com/tr-TR/nano-banana-pro-prompts?id=20750)**
+
+---
+
+### No. 95: Ürün Pazarlaması - Teknoloji ve Balıkçılık Yemleriyle Hazırlanmış Tuhaf Bir Salata
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Açıklama
+
+SSD sürücüleri ve su üstü balıkçılık yemleri içeren, teknolojik ve organik füzyonun yarattığı tuhaf ve sürreal bir salata kasesi istemi.
+
+#### 📝 İstem
+
+```
+{argument name="object one" default="SSD'ler"} ve {argument name="object two" default="su üstü yemler"} ile hazırlanmış bir kase {argument name="food" default="salata"}
+```
+
+#### 🖼️ Oluşturulan Görseller
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1779002365724_uvl92r_HILRmesbgAA2nUS.jpg" width="600" alt="Ürün Pazarlaması - Teknoloji ve Balıkçılık Yemleriyle Hazırlanmış Tuhaf Bir Salata - Image 1">
+</div>
+
+#### 📌 Detaylar
+
+- **Yazar:** [PSN用アカウント](https://x.com/PSN62595111)
+- **Kaynak:** [Twitter Post](https://x.com/PSN62595111/status/2055612475526013305)
+- **Yayınlandı:** 16 Mayıs 2026
+- **Diller:** en
+
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/nano-banana-pro-prompts?id=20775)**
 
 ---
 
@@ -5387,7 +5381,41 @@ Havada, bir {argument name="fruit" default="ejder meyvesi"} patlayarak ikiye ayr
 
 ---
 
-### No. 113: Oyun Varlığı - El Yapımı Kağıt Kesimi Tarzında İllüstrasyon
+### No. 113: E-ticaret Ana Görseli - Lüks Kronograf Makro Tasarımı
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Açıklama
+
+Lüks bir saat için mekanizma detaylarına ve malzeme dokularına odaklanan üst düzey bir makro fotoğrafçılık istemi.
+
+#### 📝 İstem
+
+```
+"{argument name="subject" default="Kronograf"} ve {argument name="strap" default="deri kayış"}. Stüdyo makro, tepe spot ışığı, eşapman yakın çekim. {argument name="background" default="Koyu mat arka plan"}. Sığ alan derinliği. Fotogerçekçi."
+```
+
+#### 🖼️ Oluşturulan Görseller
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1776137524476_wesjcj_HFq3eagWsAAkWJk.jpg" width="600" alt="E-ticaret Ana Görseli - Lüks Kronograf Makro Tasarımı - Image 1">
+</div>
+
+#### 📌 Detaylar
+
+- **Yazar:** [SRKDAN](https://x.com/SRKDAN)
+- **Kaynak:** [Twitter Post](https://x.com/SRKDAN/status/2043147116122398892)
+- **Yayınlandı:** 12 Nisan 2026
+- **Diller:** en
+
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/nano-banana-pro-prompts?id=13369)**
+
+---
+
+### No. 114: Oyun Varlığı - El Yapımı Kağıt Kesimi Tarzında İllüstrasyon
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5420,7 +5448,7 @@ Bu görseli, kağıt işçiliği diorama estetiğinden ilham alan, yumuşak ve e
 
 ---
 
-### No. 114: Oyun Varlığı - Souls-like Salyangoz Yaratık Tasarımı
+### No. 115: Oyun Varlığı - Souls-like Salyangoz Yaratık Tasarımı
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5454,7 +5482,7 @@ Karanlık ve karmaşık detaylara sahip, zorlu bir 'souls-like' video oyunundan 
 
 ---
 
-### No. 115: Oyun Varlığı - Sürreal Deve ve Motel Sahnesi
+### No. 116: Oyun Varlığı - Sürreal Deve ve Motel Sahnesi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5488,7 +5516,7 @@ Bir deve ile bir motel arasındaki karşılaşmayı veya karşılaştırmayı ta
 
 ---
 
-### No. 116: Oyun Varlığı - Surreal Casino ve Papağan Savaşı
+### No. 117: Oyun Varlığı - Surreal Casino ve Papağan Savaşı
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5522,7 +5550,7 @@ Bir kumarhane ortamı ile bir papağan arasındaki yüzleşmeyi betimleyen tuhaf
 
 ---
 
-### No. 117: Oyun Varlığı - Ünlü Stormtrooper Tarzı Portre
+### No. 118: Oyun Varlığı - Ünlü Stormtrooper Tarzı Portre
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5572,7 +5600,7 @@ Teknik özellikler: iPhone 15 Pro Max ile çekilmiş, 24mm ana lens, f/1.78, uyl
 
 ---
 
-### No. 118: Oyun Varlığı - Gece Vakti İnsansı Mecha Robot
+### No. 119: Oyun Varlığı - Gece Vakti İnsansı Mecha Robot
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5675,7 +5703,7 @@ Yayın aracı parçalarından inşa edilmiş, 15 fit (yaklaşık 4,5 metre) boyu
 
 ---
 
-### No. 119: Oyun Varlığı - Parçalanmış Gerçeklik Sinematik Portresi
+### No. 120: Oyun Varlığı - Parçalanmış Gerçeklik Sinematik Portresi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5709,53 +5737,13 @@ Holografik 'parçalanmış gerçeklik' efekti ve parlayan neon çerçevelere sah
 
 ---
 
-### No. 120: Oyun Varlığı - Göksel Ejderha Gökyüzü Fantezisi
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Açıklama
-
-Parlak mavi bir gökyüzünde uçan devasa buz mavisi bir ejderha ve toprak yolda duran bir kızın yer aldığı hiper gerçekçi fantezi istemi.
-
-#### 📝 İstem
-
-```
-Parlak mavi bulutlu bir gökyüzünde uçan devasa bir {argument name="dragon" default="buz mavisi göksel ejderha"}, ultra gerçekçi fantezi sahnesi, parlayan kristal pullar, keskin boynuzlar, vahşi gözler, sinematik düşük açılı çekim, dramatik gün ışığı, detaylı bulutlar ve gölgeler. Issız bir toprak yolda, kolları açık, kameraya arkası dönük şekilde duran bir {argument name="girl" default="8 fit boyunda, aşırı uzun bir kız"}, aynı duruş ve açı. Üzerinde beyaz bir tişörtün üstüne giyilmiş {argument name="outfit" default="koyu yeşil-siyah büyük beden ekose gömlek"}, bol kesim koyu mavi jean, beyaz spor ayakkabılar, uzun siyah saçlar, tüm vücudu görünüyor. Solda aynı terk edilmiş yapı, kenarlarda ağaçlar ve kuru otlar, aynı toprak yol, aynı ejderha konumu, aynı kadraj, aynı aydınlatma, aynı atmosfer, arka planda hiçbir şey değişmedi. Hiper gerçekçi, keskin odak, yüksek kontrast, sinematik fantezi tarzı, 4K, dikey 9:16 kompozisyon.
-```
-
-#### 🖼️ Oluşturulan Görseller
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1778486144783_o0ot19_HH9S_eQaUAAwdfz.jpg" width="600" alt="Oyun Varlığı - Göksel Ejderha Gökyüzü Fantezisi - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1778486144780_2n9ijp_HH9S_n8a8AAguKi.jpg" width="600" alt="Oyun Varlığı - Göksel Ejderha Gökyüzü Fantezisi - Image 2">
-</div>
-
-#### 📌 Detaylar
-
-- **Yazar:** [Harboris](https://x.com/harboriis)
-- **Kaynak:** [Twitter Post](https://x.com/harboriis/status/2053451211672863071)
-- **Yayınlandı:** 10 Mayıs 2026
-- **Diller:** en
-
-**[👉 Şimdi dene →](https://youmind.com/tr-TR/nano-banana-pro-prompts?id=19402)**
-
----
-
 ---
 
 ## 📚 Daha fazla istem mevcut
 
 <div align="center">
 
-### 🎯 13416 burada gösterilmeyen daha fazla istem
+### 🎯 13415 burada gösterilmeyen daha fazla istem
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -5818,6 +5806,6 @@ Detaylı yönergeler için [CONTRIBUTING.md](docs/CONTRIBUTING.md) dosyasına ba
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-05-18T09:05:12.200Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-05-18T13:05:18.498Z</sub>
 
 </div>

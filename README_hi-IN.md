@@ -143,9 +143,9 @@ Raycast में उपयोग करते समय, आप त्वरि
 
 | मीट्रिक | गिनती |
 |--------|-------|
-| 📝 कुल प्रॉम्पट्स | **13536** |
+| 📝 कुल प्रॉम्पट्स | **13535** |
 | ⭐ विशेष | **9** |
-| 🔄 अंतिम अपडेट | **सोमवार, 18 मई 2026 को 9:04:23 am UTC बजे** |
+| 🔄 अंतिम अपडेट | **सोमवार, 18 मई 2026 को 1:04:28 pm UTC बजे** |
 
 </div>
 
@@ -4446,47 +4446,7 @@ classic {argument name="character" default="Bosozoku (F)"} VS. {argument name="o
 
 ---
 
-### No. 90: प्रोडक्ट मार्केटिंग - रेट्रो फ्यूचुरिस्टिक परफ्यूम विज्ञापन
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 विवरण
-
-एक Y2K एस्थेटिक कमर्शियल फोटोग्राफी प्रॉम्प्ट, जिसमें फोर्सड पर्सपेक्टिव और वाइब्रेंट स्टूडियो सेटिंग का उपयोग किया गया है।
-
-#### 📝 प्रॉम्पट
-
-```
-एक वाइब्रेंट, रेट्रो-फ्यूचुरिस्टिक स्टूडियो सेटिंग में शूट किया गया हाई-फैशन परफ्यूम विज्ञापन। बिल्कुल सामने की तरफ, एक बड़ा हाथ नाटकीय रूप से कैमरे की ओर बढ़ा हुआ है, जिसकी उंगलियां थोड़ी फैली हुई हैं, जो एक फोर्सड-पर्सपेक्टिव इल्यूजन पैदा कर रही हैं। बीच में एक गोल, सॉफ्ट {argument name="bottle color" default="peach-pink"} कांच की परफ्यूम की बोतल रखी है, जिस पर "{argument name="product name" default="DUNE — Eau de Toilette — Christian Dior Paris"}" लेबल लगा है, साथ ही इसमें रोज़-गोल्ड स्फेरिकल कैप और रोज़-गोल्ड कॉलर है। बैकग्राउंड में, छोटे भूरे बॉब हेयरकट और ब्लंट बैंग्स वाली एक युवती ने ओवरसाइज़्ड सफेद कैट-आई सनग्लासेस, पेस्टल पिंक सैटिन बॉम्बर जैकेट, सफेद क्रॉप टॉप और डेनिम मिनी स्कर्ट पहनी हुई है। वह आश्चर्य या चाहत के भाव के साथ आगे की ओर झुकती है, जैसे कि बोतल तक पहुँचने की कोशिश कर रही हो। वातावरण एक साफ स्टूडियो बॉक्स जैसा है, जिसमें चमकीली सियान/आसमानी नीली दीवारें और नीली धारियों वाले सफेद ज्यामितीय फर्श पैनल हैं। लाइटिंग शार्प, एडिटोरियल और हाई-कॉन्ट्रास्ट है, जिसमें सॉफ्ट शैडो हैं। कुल मिलाकर मूड चंचल, बोल्ड और Y2K एस्थेटिक के साथ आधुनिक है। गहराई और पैमाने को बढ़ाने के लिए वाइड-एंगल लेंस के साथ शूट किया गया। फोटो-रियलिस्टिक, कमर्शियल फोटोग्राफी स्टाइल।
-```
-
-#### 🖼️ उत्पन्न चित्र
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1779090351706_0svuum_HIfdRtBbgAAL6Nj.jpg" width="600" alt="प्रोडक्ट मार्केटिंग - रेट्रो फ्यूचुरिस्टिक परफ्यूम विज्ञापन - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1779090351684_npuj31_HIfdRY1aQAApoS5.jpg" width="600" alt="प्रोडक्ट मार्केटिंग - रेट्रो फ्यूचुरिस्टिक परफ्यूम विज्ञापन - Image 2">
-</div>
-
-#### 📌 विवरण
-
-- **लेखक:** [ShaHid WaNii](https://x.com/meng_dagg695)
-- **स्रोत:** [Twitter Post](https://x.com/meng_dagg695/status/2055855075697045949)
-- **प्रकाशित:** 17 मई 2026
-- **भाषाएं:** en
-
-**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/nano-banana-pro-prompts?id=21000)**
-
----
-
-### No. 91: प्रोडक्ट मार्केटिंग - ब्लश पिंक फैशन एडिटोरियल
+### No. 90: प्रोडक्ट मार्केटिंग - ब्लश पिंक फैशन एडिटोरियल
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4519,7 +4479,7 @@ classic {argument name="character" default="Bosozoku (F)"} VS. {argument name="o
 
 ---
 
-### No. 92: प्रोडक्ट मार्केटिंग - सेलिब्रिटी फिटनेस फोटोशूट
+### No. 91: प्रोडक्ट मार्केटिंग - सेलिब्रिटी फिटनेस फोटोशूट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4570,7 +4530,7 @@ classic {argument name="character" default="Bosozoku (F)"} VS. {argument name="o
 
 ---
 
-### No. 93: प्रोडक्ट मार्केटिंग - नाइट एडिटोरियल फैशन फोटोग्राफी
+### No. 92: प्रोडक्ट मार्केटिंग - नाइट एडिटोरियल फैशन फोटोग्राफी
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4622,7 +4582,7 @@ classic {argument name="character" default="Bosozoku (F)"} VS. {argument name="o
 
 ---
 
-### No. 94: प्रोडक्ट मार्केटिंग - लक्ज़री स्किनकेयर सेल्फी कॉन्सेप्ट
+### No. 93: प्रोडक्ट मार्केटिंग - लक्ज़री स्किनकेयर सेल्फी कॉन्सेप्ट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4655,7 +4615,7 @@ classic {argument name="character" default="Bosozoku (F)"} VS. {argument name="o
 
 ---
 
-### No. 95: प्रोडक्ट मार्केटिंग - लक्ज़री रिज़ॉर्ट मेल एडिटोरियल पोर्ट्रेट
+### No. 94: प्रोडक्ट मार्केटिंग - लक्ज़री रिज़ॉर्ट मेल एडिटोरियल पोर्ट्रेट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4686,6 +4646,40 @@ classic {argument name="character" default="Bosozoku (F)"} VS. {argument name="o
 - **भाषाएं:** en
 
 **[👉 अभी आज़माएं →](https://youmind.com/hi-IN/nano-banana-pro-prompts?id=20750)**
+
+---
+
+### No. 95: प्रोडक्ट मार्केटिंग - तकनीक और फिशिंग ल्यूर्स के साथ अजीबोगरीब सलाद
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 विवरण
+
+SSD ड्राइव और पॉपर ल्यूर्स वाले सलाद के कटोरे के लिए एक अजीब और असली (surreal) प्रॉम्प्ट, जो एक विचित्र तकनीकी-जैविक फ्यूजन बनाता है।
+
+#### 📝 प्रॉम्पट
+
+```
+{argument name="food" default="सलाद"} का एक कटोरा जिसमें {argument name="object one" default="SSDs"} और {argument name="object two" default="पॉपर ल्यूर्स"} हैं
+```
+
+#### 🖼️ उत्पन्न चित्र
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1779002365724_uvl92r_HILRmesbgAA2nUS.jpg" width="600" alt="प्रोडक्ट मार्केटिंग - तकनीक और फिशिंग ल्यूर्स के साथ अजीबोगरीब सलाद - Image 1">
+</div>
+
+#### 📌 विवरण
+
+- **लेखक:** [PSN用アカウント](https://x.com/PSN62595111)
+- **स्रोत:** [Twitter Post](https://x.com/PSN62595111/status/2055612475526013305)
+- **प्रकाशित:** 16 मई 2026
+- **भाषाएं:** en
+
+**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/nano-banana-pro-prompts?id=20775)**
 
 ---
 
@@ -5387,7 +5381,41 @@ Nano Banana Pro के लिए एक लाइफस्टाइल प्र
 
 ---
 
-### No. 113: गेम एसेट - हस्तनिर्मित पेपर-कट स्टाइल इलस्ट्रेशन
+### No. 113: ई-कॉमर्स मुख्य इमेज - लक्ज़री क्रोनोग्राफ मैक्रो डिज़ाइन
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 विवरण
+
+लक्ज़री घड़ी के मूवमेंट विवरण और मटीरियल टेक्सचर पर केंद्रित एक हाई-एंड मैक्रो फोटोग्राफी प्रॉम्प्ट।
+
+#### 📝 प्रॉम्पट
+
+```
+"{argument name="subject" default="क्रोनोग्राफ"} {argument name="strap" default="लेदर स्ट्रैप"} के साथ। स्टूडियो मैक्रो, ओवरहेड स्पॉटलाइट, एस्केपमेंट क्लोज़-अप। {argument name="background" default="डार्क मैट बैकग्राउंड"}। शैलो डेप्थ ऑफ़ फील्ड। फोटो रियलिस्टिक।"
+```
+
+#### 🖼️ उत्पन्न चित्र
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1776137524476_wesjcj_HFq3eagWsAAkWJk.jpg" width="600" alt="ई-कॉमर्स मुख्य इमेज - लक्ज़री क्रोनोग्राफ मैक्रो डिज़ाइन - Image 1">
+</div>
+
+#### 📌 विवरण
+
+- **लेखक:** [SRKDAN](https://x.com/SRKDAN)
+- **स्रोत:** [Twitter Post](https://x.com/SRKDAN/status/2043147116122398892)
+- **प्रकाशित:** 12 अप्रैल 2026
+- **भाषाएं:** en
+
+**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/nano-banana-pro-prompts?id=13369)**
+
+---
+
+### No. 114: गेम एसेट - हस्तनिर्मित पेपर-कट स्टाइल इलस्ट्रेशन
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5420,7 +5448,7 @@ Nano Banana Pro के लिए एक लाइफस्टाइल प्र
 
 ---
 
-### No. 114: गेम एसेट - Souls-like घोंघे (Snail) का क्रिएचर डिज़ाइन
+### No. 115: गेम एसेट - Souls-like घोंघे (Snail) का क्रिएचर डिज़ाइन
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5454,7 +5482,7 @@ Nano Banana Pro के लिए एक लाइफस्टाइल प्र
 
 ---
 
-### No. 115: गेम एसेट - अवास्तविक ऊँट बनाम मोटल दृश्य
+### No. 116: गेम एसेट - अवास्तविक ऊँट बनाम मोटल दृश्य
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5488,7 +5516,7 @@ Nano Banana Pro के लिए एक लाइफस्टाइल प्र
 
 ---
 
-### No. 116: गेम एसेट - Surreal Casino बनाम Parrot Battle
+### No. 117: गेम एसेट - Surreal Casino बनाम Parrot Battle
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5522,7 +5550,7 @@ Nano Banana Pro के लिए एक लाइफस्टाइल प्र
 
 ---
 
-### No. 117: गेम एसेट - सेलिब्रिटी स्टॉर्मट्रूपर स्टाइल पोर्ट्रेट
+### No. 118: गेम एसेट - सेलिब्रिटी स्टॉर्मट्रूपर स्टाइल पोर्ट्रेट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5572,7 +5600,7 @@ Nano Banana Pro के लिए एक लाइफस्टाइल प्र
 
 ---
 
-### No. 118: गेम एसेट - रात में ह्यूमनॉइड मेका रोबोट
+### No. 119: गेम एसेट - रात में ह्यूमनॉइड मेका रोबोट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5675,7 +5703,7 @@ Nano Banana Pro के लिए एक लाइफस्टाइल प्र
 
 ---
 
-### No. 119: गेम एसेट - Shattered Reality सिनेमैटिक पोर्ट्रेट
+### No. 120: गेम एसेट - Shattered Reality सिनेमैटिक पोर्ट्रेट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5709,53 +5737,13 @@ Nano Banana Pro के लिए एक लाइफस्टाइल प्र
 
 ---
 
-### No. 120: गेम एसेट - सेलेस्टियल ड्रैगन स्काई फैंटेसी
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 विवरण
-
-एक हाइपर-रियलिस्टिक फैंटेसी प्रॉम्प्ट जिसमें एक विशाल बर्फीले नीले रंग का ड्रैगन एक लड़की के ऊपर चमकीले नीले आसमान में उड़ रहा है, जो एक कच्चे रास्ते पर खड़ी है।
-
-#### 📝 प्रॉम्पट
-
-```
-एक विशाल {argument name="dragon" default="बर्फीले नीले रंग का सेलेस्टियल ड्रैगन"} चमकीले नीले बादलों वाले आसमान में उड़ रहा है, अल्ट्रा रियलिस्टिक फैंटेसी दृश्य, चमकते हुए क्रिस्टल जैसे तराजू, नुकीले सींग, उग्र आँखें, सिनेमाई लो-एंगल व्यू, नाटकीय दिन का प्रकाश, विस्तृत बादल और छाया। एक सुनसान कच्चे रास्ते पर, एक {argument name="girl" default="8 फीट लंबी लड़की"} बाहें फैलाए खड़ी है, पीठ कैमरे की ओर है, बिल्कुल वही पोज़ और एंगल। उसने सफेद टी-शर्ट के ऊपर एक {argument name="outfit" default="गहरे हरे-काले रंग की ओवरसाइज़्ड चेक शर्ट"} पहनी है, ढीली गहरे नीले रंग की बैगी जींस, सफेद स्नीकर्स, लंबे काले बाल, पूरा शरीर दिखाई दे रहा है। बाईं ओर वही पुरानी संरचना, किनारों पर पेड़ और सूखी घास, वही कच्चा रास्ता, ड्रैगन की वही स्थिति, वही फ्रेमिंग, वही लाइटिंग, वही वातावरण, पृष्ठभूमि में कुछ भी नहीं बदला। हाइपर रियलिस्टिक, शार्प फोकस, हाई कंट्रास्ट, सिनेमाई फैंटेसी स्टाइल, 4K, वर्टिकल 9:16 कंपोजिशन।
-```
-
-#### 🖼️ उत्पन्न चित्र
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1778486144783_o0ot19_HH9S_eQaUAAwdfz.jpg" width="600" alt="गेम एसेट - सेलेस्टियल ड्रैगन स्काई फैंटेसी - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1778486144780_2n9ijp_HH9S_n8a8AAguKi.jpg" width="600" alt="गेम एसेट - सेलेस्टियल ड्रैगन स्काई फैंटेसी - Image 2">
-</div>
-
-#### 📌 विवरण
-
-- **लेखक:** [Harboris](https://x.com/harboriis)
-- **स्रोत:** [Twitter Post](https://x.com/harboriis/status/2053451211672863071)
-- **प्रकाशित:** 10 मई 2026
-- **भाषाएं:** en
-
-**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/nano-banana-pro-prompts?id=19402)**
-
----
-
 ---
 
 ## 📚 अधिक प्रॉम्पट्स उपलब्ध
 
 <div align="center">
 
-### 🎯 13416 और प्रॉम्पट्स यहां नहीं दिखाए गए हैं
+### 🎯 13415 और प्रॉम्पट्स यहां नहीं दिखाए गए हैं
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -5818,6 +5806,6 @@ The gallery features:
 **[📝 एक प्रॉम्पट जमा करें](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ इस रिपॉजिटरी को स्टार करें](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 यह README स्वचालित रूप से जेनरेट किया गया है। अंतिम अपडेट: 2026-05-18T09:04:23.188Z</sub>
+<sub>🤖 यह README स्वचालित रूप से जेनरेट किया गया है। अंतिम अपडेट: 2026-05-18T13:04:28.451Z</sub>
 
 </div>

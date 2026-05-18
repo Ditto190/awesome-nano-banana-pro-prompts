@@ -143,9 +143,9 @@ When used in Raycast, you can dynamically replace the arguments for quick iterat
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **13536** |
+| 📝 Total Prompts | **13535** |
 | ⭐ Featured | **9** |
-| 🔄 Last Updated | **Monday, May 18, 2026 at 9:03:42 AM UTC** |
+| 🔄 Last Updated | **Monday, May 18, 2026 at 1:03:46 PM UTC** |
 
 </div>
 
@@ -4382,47 +4382,7 @@ Golden sunlight filters through scattered clouds in a bright blue sky, creating 
 
 ---
 
-### No. 90: Product Marketing - Retro Futuristic Perfume Advertisement
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Description
-
-A Y2K aesthetic commercial photography prompt for a perfume ad featuring forced perspective and a vibrant studio setting.
-
-#### 📝 Prompt
-
-```
-A high-fashion perfume advertisement shot in a vibrant, retro-futuristic studio setting. In the extreme foreground, a large hand dramatically reaches toward the camera with fingers slightly spread, creating a forced-perspective illusion. Centered in the mid-ground sits a round, soft {argument name="bottle color" default="peach-pink"} glass perfume bottle labeled "{argument name="product name" default="DUNE — Eau de Toilette — Christian Dior Paris"}" with a rose-gold spherical cap and rose-gold collar. In the background, a young woman with a short brown bob haircut and blunt bangs wears oversized white cat-eye sunglasses, a pastel pink satin bomber jacket, a white crop top, and a denim mini skirt. She leans forward with an expression of surprise or desire, as if reaching for the bottle. The environment is a clean studio box with bright cyan/sky-blue walls, white geometric floor panels with blue stripe accents. Lighting is sharp, editorial, and high-contrast with soft shadows. The overall mood is playful, bold, and modern with a Y2K aesthetic. Shot with a wide-angle lens to exaggerate depth and scale. Photorealistic, commercial photography style.
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1779090351706_0svuum_HIfdRtBbgAAL6Nj.jpg" width="600" alt="Product Marketing - Retro Futuristic Perfume Advertisement - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1779090351684_npuj31_HIfdRY1aQAApoS5.jpg" width="600" alt="Product Marketing - Retro Futuristic Perfume Advertisement - Image 2">
-</div>
-
-#### 📌 Details
-
-- **Author:** [ShaHid WaNii](https://x.com/meng_dagg695)
-- **Source:** [Twitter Post](https://x.com/meng_dagg695/status/2055855075697045949)
-- **Published:** May 17, 2026
-- **Languages:** en
-
-**[👉 Try it now →](https://youmind.com/en-US/nano-banana-pro-prompts?id=21000)**
-
----
-
-### No. 91: Product Marketing - Blush Pink Fashion Editorial
+### No. 90: Product Marketing - Blush Pink Fashion Editorial
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4455,7 +4415,7 @@ Elegant fashion portrait of a young woman leaning against a blush pink textured 
 
 ---
 
-### No. 92: Product Marketing - Celebrity Fitness Photo Shoot
+### No. 91: Product Marketing - Celebrity Fitness Photo Shoot
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4506,7 +4466,7 @@ A structured data-driven prompt to generate fitness photography of Sydney Sweene
 
 ---
 
-### No. 93: Product Marketing - Night Editorial Fashion Photography
+### No. 92: Product Marketing - Night Editorial Fashion Photography
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4558,7 +4518,7 @@ Editorial night fashion photography, medium shot of {argument name="celebrity na
 
 ---
 
-### No. 94: Product Marketing - Luxury Skincare Selfie Concept
+### No. 93: Product Marketing - Luxury Skincare Selfie Concept
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4591,7 +4551,7 @@ A high-resolution beauty selfie prompt featuring a butter-yellow spa aesthetic a
 
 ---
 
-### No. 95: Product Marketing - Luxury Resort Male Editorial Portrait
+### No. 94: Product Marketing - Luxury Resort Male Editorial Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4622,6 +4582,40 @@ An extremely detailed prompt for a sophisticated luxury editorial portrait of a 
 - **Languages:** en
 
 **[👉 Try it now →](https://youmind.com/en-US/nano-banana-pro-prompts?id=20750)**
+
+---
+
+### No. 95: Product Marketing - Bizarre Salad with Tech and Fishing Lures
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Description
+
+A weird and surreal prompt for a bowl of salad containing SSD drives and popper lures, creating a strange technological-organic fusion.
+
+#### 📝 Prompt
+
+```
+a bowl of {argument name="food" default="salad"} with {argument name="object one" default="SSDs"} and {argument name="object two" default="popper lures"}
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1779002365724_uvl92r_HILRmesbgAA2nUS.jpg" width="600" alt="Product Marketing - Bizarre Salad with Tech and Fishing Lures - Image 1">
+</div>
+
+#### 📌 Details
+
+- **Author:** [PSN用アカウント](https://x.com/PSN62595111)
+- **Source:** [Twitter Post](https://x.com/PSN62595111/status/2055612475526013305)
+- **Published:** May 16, 2026
+- **Languages:** en
+
+**[👉 Try it now →](https://youmind.com/en-US/nano-banana-pro-prompts?id=20775)**
 
 ---
 
@@ -5323,7 +5317,41 @@ In mid-air, a {argument name="fruit" default="dragon fruit"} splits explosively,
 
 ---
 
-### No. 113: Game Asset - Handcrafted Paper-Cut Style Illustration
+### No. 113: E-commerce Main Image - Luxury Chronograph Macro Design
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Description
+
+A high-end macro photography prompt for a luxury watch focusing on movement details and material textures.
+
+#### 📝 Prompt
+
+```
+"{argument name="subject" default="Chronograph"} with {argument name="strap" default="leather strap"}. Studio macro, overhead spotlight, escapement close-up. {argument name="background" default="Dark matte background"}. Shallow depth of field. Photorealistic."
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1776137524476_wesjcj_HFq3eagWsAAkWJk.jpg" width="600" alt="E-commerce Main Image - Luxury Chronograph Macro Design - Image 1">
+</div>
+
+#### 📌 Details
+
+- **Author:** [SRKDAN](https://x.com/SRKDAN)
+- **Source:** [Twitter Post](https://x.com/SRKDAN/status/2043147116122398892)
+- **Published:** April 12, 2026
+- **Languages:** en
+
+**[👉 Try it now →](https://youmind.com/en-US/nano-banana-pro-prompts?id=13369)**
+
+---
+
+### No. 114: Game Asset - Handcrafted Paper-Cut Style Illustration
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5356,7 +5384,7 @@ Convert this image into a soft, handcrafted paper-cut layered illustration style
 
 ---
 
-### No. 114: Game Asset - Souls-like Snail Creature Design
+### No. 115: Game Asset - Souls-like Snail Creature Design
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5390,7 +5418,7 @@ a {argument name="subject" default="snail"} in the style of a {argument name="ga
 
 ---
 
-### No. 115: Game Asset - Surreal Camel vs Motel Scene
+### No. 116: Game Asset - Surreal Camel vs Motel Scene
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5424,7 +5452,7 @@ A bizarre prompt depicting a confrontation or comparison between a camel and a m
 
 ---
 
-### No. 116: Game Asset - Surreal Casino vs Parrot Battle
+### No. 117: Game Asset - Surreal Casino vs Parrot Battle
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5458,7 +5486,7 @@ A strange and surreal prompt concept depicting a confrontation between a casino 
 
 ---
 
-### No. 117: Game Asset - Celebrity Stormtrooper Style Portrait
+### No. 118: Game Asset - Celebrity Stormtrooper Style Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5508,7 +5536,7 @@ Technical specs: Shot with an iPhone 15 Pro Max, 24mm main lens, f/1.78, medium 
 
 ---
 
-### No. 118: Game Asset - Humanoid Mecha Robot at Night
+### No. 119: Game Asset - Humanoid Mecha Robot at Night
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5611,7 +5639,7 @@ A complex cinematic prompt for a 15-foot tall humanoid mecha built from broadcas
 
 ---
 
-### No. 119: Game Asset - Shattered Reality Cinematic Portrait
+### No. 120: Game Asset - Shattered Reality Cinematic Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5645,53 +5673,13 @@ A hyper-realistic 8K cinematic portrait of a {argument name="subject" default="b
 
 ---
 
-### No. 120: Game Asset - Celestial Dragon Sky Fantasy
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Description
-
-A hyper-realistic fantasy prompt featuring a giant icy-blue dragon flying in a bright blue sky above a girl standing on a dirt road.
-
-#### 📝 Prompt
-
-```
-A giant {argument name="dragon" default="icy-blue celestial dragon"} flying through a bright blue cloudy sky, ultra realistic fantasy scene, glowing crystal scales, sharp horns, fierce eyes, cinematic low-angle view, dramatic daylight, detailed clouds and shadows. On a lonely dirt road, an {argument name="girl" default="extremely tall 8-feet girl"} standing with arms open, back facing camera, same exact pose and angle. She wears a {argument name="outfit" default="dark green-black oversized check shirt"} over a white t-shirt, loose dark blue baggy jeans, white sneakers, long black hair, full body visible. Same abandoned structure on left, trees and dry grass on sides, same dirt pathway, same dragon position, same framing, same lighting, same atmosphere, nothing changed in background. Hyper realistic, sharp focus, high contrast, cinematic fantasy style, 4K, vertical 9:16 composition.
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1778486144783_o0ot19_HH9S_eQaUAAwdfz.jpg" width="600" alt="Game Asset - Celestial Dragon Sky Fantasy - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1778486144780_2n9ijp_HH9S_n8a8AAguKi.jpg" width="600" alt="Game Asset - Celestial Dragon Sky Fantasy - Image 2">
-</div>
-
-#### 📌 Details
-
-- **Author:** [Harboris](https://x.com/harboriis)
-- **Source:** [Twitter Post](https://x.com/harboriis/status/2053451211672863071)
-- **Published:** May 10, 2026
-- **Languages:** en
-
-**[👉 Try it now →](https://youmind.com/en-US/nano-banana-pro-prompts?id=19402)**
-
----
-
 ---
 
 ## 📚 More Prompts Available
 
 <div align="center">
 
-### 🎯 13416 more prompts not shown here
+### 🎯 13415 more prompts not shown here
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -5754,6 +5742,6 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-05-18T09:03:42.512Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-05-18T13:03:46.845Z</sub>
 
 </div>

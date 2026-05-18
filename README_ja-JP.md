@@ -143,9 +143,9 @@ Raycast で使用すると、引数を動的に置き換えて迅速に反復で
 
 | 指標 | 数 |
 |--------|-------|
-| 📝 プロンプト総数 | **13536** |
+| 📝 プロンプト総数 | **13535** |
 | ⭐ おすすめ | **9** |
-| 🔄 最終更新 | **2026年5月18日月曜日 9:03:57 UTC** |
+| 🔄 最終更新 | **2026年5月18日月曜日 13:04:05 UTC** |
 
 </div>
 
@@ -4446,47 +4446,7 @@ a {argument name="character" default="往年の暴走族 (男性)"} VS. {argumen
 
 ---
 
-### No. 90: プロダクトマーケティング - レトロフューチャーな香水広告
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 説明
-
-強制遠近法と鮮やかなスタジオセットを用いた、Y2K 美学の香水広告向けコマーシャルフォトプロンプト。
-
-#### 📝 プロンプト
-
-```
-鮮やかなレトロフューチャー調のスタジオで撮影された、ハイファッションな香水広告。極端な前景には、指をわずかに広げた大きな手がカメラに向かってドラマチックに伸びており、強制遠近法による錯覚を生み出している。中景の中央には、丸みを帯びた柔らかな {argument name="bottle color" default="ピーチピンク"} のガラス製香水ボトルが置かれ、ラベルには「{argument name="product name" default="DUNE — Eau de Toilette — Christian Dior Paris"}」と記されている。ボトルにはローズゴールドの球体キャップとカラーがあしらわれている。背景には、ショートボブで切り揃えられた前髪の若い女性が、オーバーサイズの白いキャットアイサングラス、パステルピンクのサテン製ボンバージャケット、白いクロップドトップス、デニムのミニスカートを着用している。彼女はボトルに手を伸ばすかのように、驚きや憧れを込めた表情で身を乗り出している。環境は清潔感のあるスタジオボックスで、明るいシアン／スカイブルーの壁と、青いストライプのアクセントが入った白い幾何学模様の床パネルが特徴。照明はシャープでエディトリアルな高コントラスト、影は柔らかい。全体的な雰囲気は遊び心があり、大胆で、Y2K 美学を感じさせるモダンな仕上がり。広角レンズを使用して奥行きとスケール感を強調。フォトリアルで商業写真のようなスタイル。
-```
-
-#### 🖼️ 生成画像
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1779090351706_0svuum_HIfdRtBbgAAL6Nj.jpg" width="600" alt="プロダクトマーケティング - レトロフューチャーな香水広告 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1779090351684_npuj31_HIfdRY1aQAApoS5.jpg" width="600" alt="プロダクトマーケティング - レトロフューチャーな香水広告 - Image 2">
-</div>
-
-#### 📌 詳細
-
-- **作者:** [ShaHid WaNii](https://x.com/meng_dagg695)
-- **ソース:** [Twitter Post](https://x.com/meng_dagg695/status/2055855075697045949)
-- **公開日:** 2026年5月17日
-- **言語:** en
-
-**[👉 今すぐ試す →](https://youmind.com/ja-JP/nano-banana-pro-prompts?id=21000)**
-
----
-
-### No. 91: プロダクトマーケティング - ブラッシュピンクのファッションエディトリアル
+### No. 90: プロダクトマーケティング - ブラッシュピンクのファッションエディトリアル
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4519,7 +4479,7 @@ a {argument name="character" default="往年の暴走族 (男性)"} VS. {argumen
 
 ---
 
-### No. 92: プロダクトマーケティング - セレブリティのフィットネス写真撮影
+### No. 91: プロダクトマーケティング - セレブリティのフィットネス写真撮影
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4570,7 +4530,7 @@ Sydney Sweeney と Millie Bobby Brown のフィットネス写真を生成する
 
 ---
 
-### No. 93: プロダクトマーケティング - ナイト・エディトリアル・ファッションフォトグラフィー
+### No. 92: プロダクトマーケティング - ナイト・エディトリアル・ファッションフォトグラフィー
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4622,7 +4582,7 @@ Sydney Sweeney と Millie Bobby Brown のフィットネス写真を生成する
 
 ---
 
-### No. 94: プロダクトマーケティング - ラグジュアリーなスキンケア自撮りコンセプト
+### No. 93: プロダクトマーケティング - ラグジュアリーなスキンケア自撮りコンセプト
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4655,7 +4615,7 @@ Sydney Sweeney と Millie Bobby Brown のフィットネス写真を生成する
 
 ---
 
-### No. 95: プロダクトマーケティング - ラグジュアリーリゾートでの男性エディトリアルポートレート
+### No. 94: プロダクトマーケティング - ラグジュアリーリゾートでの男性エディトリアルポートレート
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4686,6 +4646,40 @@ Sydney Sweeney と Millie Bobby Brown のフィットネス写真を生成する
 - **言語:** en
 
 **[👉 今すぐ試す →](https://youmind.com/ja-JP/nano-banana-pro-prompts?id=20750)**
+
+---
+
+### No. 95: プロダクトマーケティング - テクノロジーとルアーが混ざった奇妙なサラダ
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 説明
+
+SSD とポッパー（ルアー）が入ったサラダボウルという、奇妙でシュールなプロンプト。テクノロジーと有機物が融合した不思議な世界観を表現します。
+
+#### 📝 プロンプト
+
+```
+{argument name="food" default="サラダ"} と {argument name="object one" default="SSD"}、そして {argument name="object two" default="ポッパー（ルアー）"} が入ったボウル
+```
+
+#### 🖼️ 生成画像
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1779002365724_uvl92r_HILRmesbgAA2nUS.jpg" width="600" alt="プロダクトマーケティング - テクノロジーとルアーが混ざった奇妙なサラダ - Image 1">
+</div>
+
+#### 📌 詳細
+
+- **作者:** [PSN用アカウント](https://x.com/PSN62595111)
+- **ソース:** [Twitter Post](https://x.com/PSN62595111/status/2055612475526013305)
+- **公開日:** 2026年5月16日
+- **言語:** en
+
+**[👉 今すぐ試す →](https://youmind.com/ja-JP/nano-banana-pro-prompts?id=20775)**
 
 ---
 
@@ -5387,7 +5381,41 @@ turn this into a photorealism of a {argument name="car type" default="clean car"
 
 ---
 
-### No. 113: ゲームアセット - ハンドクラフト風ペーパーカットイラスト
+### No. 113: E コマースのメイン画像 - 高級クロノグラフのマクロデザイン
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 説明
+
+高級時計のムーブメントの細部や素材の質感に焦点を当てた、ハイエンドなマクロ撮影用プロンプトです。
+
+#### 📝 プロンプト
+
+```
+"{argument name="subject" default="クロノグラフ"} 、{argument name="strap" default="レザーストラップ"} 付き。スタジオマクロ撮影、オーバーヘッドスポットライト、脱進機のクローズアップ。{argument name="background" default="ダークマットな背景"}。浅い被写界深度。フォトリアル。
+```
+
+#### 🖼️ 生成画像
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1776137524476_wesjcj_HFq3eagWsAAkWJk.jpg" width="600" alt="E コマースのメイン画像 - 高級クロノグラフのマクロデザイン - Image 1">
+</div>
+
+#### 📌 詳細
+
+- **作者:** [SRKDAN](https://x.com/SRKDAN)
+- **ソース:** [Twitter Post](https://x.com/SRKDAN/status/2043147116122398892)
+- **公開日:** 2026年4月12日
+- **言語:** en
+
+**[👉 今すぐ試す →](https://youmind.com/ja-JP/nano-banana-pro-prompts?id=13369)**
+
+---
+
+### No. 114: ゲームアセット - ハンドクラフト風ペーパーカットイラスト
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5420,7 +5448,7 @@ turn this into a photorealism of a {argument name="car type" default="clean car"
 
 ---
 
-### No. 114: ゲームアセット - 死にゲー風のカタツムリのクリーチャーデザイン
+### No. 115: ゲームアセット - 死にゲー風のカタツムリのクリーチャーデザイン
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5454,7 +5482,7 @@ turn this into a photorealism of a {argument name="car type" default="clean car"
 
 ---
 
-### No. 115: ゲームアセット - シュールなラクダ vs モーテルのシーン
+### No. 116: ゲームアセット - シュールなラクダ vs モーテルのシーン
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5488,7 +5516,7 @@ turn this into a photorealism of a {argument name="car type" default="clean car"
 
 ---
 
-### No. 116: ゲームアセット - Surreal Casino vs Parrot Battle
+### No. 117: ゲームアセット - Surreal Casino vs Parrot Battle
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5522,7 +5550,7 @@ turn this into a photorealism of a {argument name="car type" default="clean car"
 
 ---
 
-### No. 117: ゲームアセット - セレブリティ・ストームトルーパー風ポートレート
+### No. 118: ゲームアセット - セレブリティ・ストームトルーパー風ポートレート
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5572,7 +5600,7 @@ turn this into a photorealism of a {argument name="car type" default="clean car"
 
 ---
 
-### No. 118: ゲームアセット - 夜のヒューマノイド・メカ・ロボット
+### No. 119: ゲームアセット - 夜のヒューマノイド・メカ・ロボット
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5675,7 +5703,7 @@ turn this into a photorealism of a {argument name="car type" default="clean car"
 
 ---
 
-### No. 119: ゲームアセット - 砕け散る現実のシネマティック・ポートレート
+### No. 120: ゲームアセット - 砕け散る現実のシネマティック・ポートレート
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5709,53 +5737,13 @@ turn this into a photorealism of a {argument name="car type" default="clean car"
 
 ---
 
-### No. 120: ゲームアセット - セレスティアル・ドラゴン・スカイ・ファンタジー
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 説明
-
-明るい青空の下、未舗装の道に立つ少女の上空を巨大な氷青色のドラゴンが飛ぶ、超リアルなファンタジープロンプト。
-
-#### 📝 プロンプト
-
-```
-明るい青空と雲の中を飛ぶ巨大な {argument name="dragon" default="氷青色のセレスティアル・ドラゴン"}、超リアルなファンタジーシーン、輝くクリスタルの鱗、鋭い角、猛々しい目、映画のようなローアングル、ドラマチックな日光、詳細な雲と影。寂れた未舗装の道に、腕を広げて背を向けた {argument name="girl" default="身長約 240 cm の非常に背の高い少女"} が立っている。ポーズと角度は完全に一致。彼女は {argument name="outfit" default="ダークグリーンと黒のオーバーサイズチェックシャツ"} を白の T シャツの上に羽織り、ゆったりとしたダークブルーのバギーデニム、白いスニーカーを着用、長い黒髪、全身が見える状態。左側には同じ廃墟、両サイドには木々と枯れ草、同じ未舗装の小道、ドラゴンの位置、フレーミング、照明、雰囲気はすべて維持し、背景には一切の変更なし。超リアル、シャープなフォーカス、高コントラスト、映画のようなファンタジースタイル、4K、縦長 9:16 の構図。
-```
-
-#### 🖼️ 生成画像
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1778486144783_o0ot19_HH9S_eQaUAAwdfz.jpg" width="600" alt="ゲームアセット - セレスティアル・ドラゴン・スカイ・ファンタジー - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1778486144780_2n9ijp_HH9S_n8a8AAguKi.jpg" width="600" alt="ゲームアセット - セレスティアル・ドラゴン・スカイ・ファンタジー - Image 2">
-</div>
-
-#### 📌 詳細
-
-- **作者:** [Harboris](https://x.com/harboriis)
-- **ソース:** [Twitter Post](https://x.com/harboriis/status/2053451211672863071)
-- **公開日:** 2026年5月10日
-- **言語:** en
-
-**[👉 今すぐ試す →](https://youmind.com/ja-JP/nano-banana-pro-prompts?id=19402)**
-
----
-
 ---
 
 ## 📚 その他のプロンプト
 
 <div align="center">
 
-### 🎯 13416 さらに多くのプロンプトがあります
+### 🎯 13415 さらに多くのプロンプトがあります
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -5818,6 +5806,6 @@ The gallery features:
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 この README は自動生成されています。最終更新： 2026-05-18T09:03:57.165Z</sub>
+<sub>🤖 この README は自動生成されています。最終更新： 2026-05-18T13:04:05.080Z</sub>
 
 </div>
