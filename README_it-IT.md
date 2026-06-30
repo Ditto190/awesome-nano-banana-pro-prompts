@@ -143,9 +143,9 @@ Quando usato in Raycast, puoi sostituire dinamicamente gli argomenti per iterazi
 
 | Metrica | Conteggio |
 |--------|-------|
-| 📝 Totale prompt | **14643** |
+| 📝 Totale prompt | **14642** |
 | ⭐ In evidenza | **9** |
-| 🔄 Ultimo aggiornamento | **martedì 30 giugno 2026 alle ore 09:02:10 UTC** |
+| 🔄 Ultimo aggiornamento | **martedì 30 giugno 2026 alle ore 12:35:35 UTC** |
 
 </div>
 
@@ -829,62 +829,7 @@ Lo sfondo include un'insegna a muro al neon rosso brillante con il "logo", opere
 
 ---
 
-### No. 5: Profilo / Avatar - Ritratto streetwear di un uomo sudasiatico
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Descrizione
-
-Un prompt per ritratti ad alta fedeltà focalizzato sul preservare l'identità del volto da un'immagine di riferimento, inserendo il soggetto in un contesto streetwear rustico all'aperto.
-
-#### 📝 Prompt
-
-```
-Utilizza l'immagine caricata come riferimento facciale e preserva l'esatta identità del volto con la massima precisione. Mantieni la stessa struttura del viso, la forma degli occhi, le sopracciglia, il naso, le labbra, la linea della mascella, il tono della pelle, le caratteristiche dell'acconciatura, i dettagli della barba/peli facciali (se presenti) e tutti i tratti somatici riconoscibili dall'immagine di riferimento.
-
-Ritratto a mezzo busto ultra-realistico dello stesso {argument name="subject" default="giovane uomo sudasiatico"} appoggiato con disinvoltura a una ringhiera in ferro battuto scuro e decorato, con un'espressione sicura e molta attitudine.
-
-Indossa {argument name="clothing" default="una t-shirt oversize arancione vivace con una grande e dettagliata grafica di una farfalla bianca e blu sul davanti, abbinata a eleganti pantaloni cargo in denim grigio e un moderno smartwatch"}. L'acconciatura è elegante e naturale, con un aspetto maschile ben curato. Indossa {argument name="accessories" default="occhiali da sole sfumati arancioni con montatura bianca trasparente"}.
-
-SFONDO:
-Una porta in legno rustico color bruno-rossastro alle sue spalle, dettagli architettonici vintage, ambientazione esterna realistica, atmosfera cinematografica.
-
-POSA E COMPOSIZIONE:
-Mezzo busto, posa rilassata e sicura, stile editoriale di moda maschile, look streetwear casual, postura naturale, composizione fotografica di alta moda.
-
-FOTOCAMERA E ILLUMINAZIONE:
-Scattato con obiettivo 85mm, qualità DSLR, profondità di campo ridotta, illuminazione cinematografica calda, luce naturale soffusa, ombre realistiche, aspetto fotografico professionale.
-
-STILE:
-Iper-realistico, fotorealistico, ultra dettagliato, risoluzione 8K, HDR, texture della pelle realistica, messa a fuoco nitida, colori naturali, qualità da rivista di moda di lusso, profondità cinematografica, texture del tessuto altamente dettagliata, tratti maschili realistici.
-
-Proporzioni: 4:5 Verticale
-
-Prompt negativo:
-Bassa qualità, sfocato, cartone animato, illustrazione, dipinto, volto finto, persona diversa, identità cambiata, volto distorto, anatomia errata, dita extra, arti extra, mani deformate, corpo non realistico, pelle di plastica, colori sovrasaturi, filigrana, logo, testo, rumore, artefatti.
-```
-
-#### 🖼️ Immagini generate
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1782805348046_18d4xm_HL8QAUab0AArRBm.jpg" width="600" alt="Profilo / Avatar - Ritratto streetwear di un uomo sudasiatico - Image 1">
-</div>
-
-#### 📌 Dettagli
-
-- **Autore:** [Dilshad Hussain](https://x.com/DilshadAI1)
-- **Fonte:** [Twitter Post](https://x.com/DilshadAI1/status/2071391964285837705)
-- **Pubblicato:** 29 giugno 2026
-- **Lingue:** en
-
-**[👉 Provalo ora →](https://youmind.com/it-IT/nano-banana-pro-prompts?id=27123)**
-
----
-
-### No. 6: Profilo / Avatar - Ritratto editoriale monocromatico ad alto contrasto
+### No. 5: Profilo / Avatar - Ritratto editoriale monocromatico ad alto contrasto
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -918,7 +863,7 @@ Ritratto editoriale in bianco e nero ultra-realistico, ripresa dal basso, rappor
 
 ---
 
-### No. 7: Profilo / Avatar - Ritratto editoriale maschile di lusso fotorealistico
+### No. 6: Profilo / Avatar - Ritratto editoriale maschile di lusso fotorealistico
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -952,7 +897,7 @@ Utilizza l'immagine di riferimento caricata come base per l'aspetto del soggetto
 
 ---
 
-### No. 8: Profilo / Avatar - Collage di ritratti di una donna dai capelli rossi
+### No. 7: Profilo / Avatar - Collage di ritratti di una donna dai capelli rossi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -986,7 +931,7 @@ Un vivace collage fotografico presenta una giovane donna con lunghi e lisci cape
 
 ---
 
-### No. 9: Profilo / Avatar - Ritratto cinematografico di una donna durante l'ora d'oro
+### No. 8: Profilo / Avatar - Ritratto cinematografico di una donna durante l'ora d'oro
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1020,7 +965,7 @@ Uno straordinario ritratto cinematografico di alta moda di una {argument name="s
 
 ---
 
-### No. 10: Profilo / Avatar - Ritratto in studio di un'androide femminile con occhi laser
+### No. 9: Profilo / Avatar - Ritratto in studio di un'androide femminile con occhi laser
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1054,7 +999,7 @@ Un ritratto in studio in primo piano, frontale, di un {argument name="subject" d
 
 ---
 
-### No. 11: Profilo / Avatar - Ritratto di moda urbana iperrealistico
+### No. 10: Profilo / Avatar - Ritratto di moda urbana iperrealistico
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1088,7 +1033,7 @@ Fotografia iperrealistica di una {argument name="subject" default="giovane donna
 
 ---
 
-### No. 12: Profilo / Avatar - Ritratto in studio iperrealistico con fascia geometrica
+### No. 11: Profilo / Avatar - Ritratto in studio iperrealistico con fascia geometrica
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1122,7 +1067,7 @@ Un ritratto in studio iperrealistico e drammatico di una {argument name="subject
 
 ---
 
-### No. 13: Profilo / Avatar - Ritratto dettagliato in grafite monocromatica
+### No. 12: Profilo / Avatar - Ritratto dettagliato in grafite monocromatica
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1168,7 +1113,7 @@ Un prompt sofisticato per generare schizzi in grafite monocromatica ad alto cont
 
 ---
 
-### No. 14: Profilo / Avatar - Ritratto di un produttore di musica cinematografica
+### No. 13: Profilo / Avatar - Ritratto di un produttore di musica cinematografica
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1206,7 +1151,7 @@ La color grading è cinematografica con alto contrasto, neri profondi e una fort
 
 ---
 
-### No. 15: Profilo / Avatar - Ritratto cinematografico di un evocatore di corvi
+### No. 14: Profilo / Avatar - Ritratto cinematografico di un evocatore di corvi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1240,7 +1185,7 @@ Un ritratto fotografico iperrealistico, dal busto alla testa, di me (usa una fot
 
 ---
 
-### No. 16: Profilo / Avatar - Ritratto in un home office minimalista
+### No. 15: Profilo / Avatar - Ritratto in un home office minimalista
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1274,7 +1219,7 @@ Una bellissima giovane {argument name="ethnicity" default="donna dell'Asia orien
 
 ---
 
-### No. 17: Profilo / Avatar - Ritratto cinematografico di donna con gatto
+### No. 16: Profilo / Avatar - Ritratto cinematografico di donna con gatto
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1308,7 +1253,7 @@ Un ritratto cinematografico di qualità da copertina di rivista di una {argument
 
 ---
 
-### No. 18: Profilo / Avatar - Fotografia notturna spontanea con smartphone
+### No. 17: Profilo / Avatar - Fotografia notturna spontanea con smartphone
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1372,7 +1317,7 @@ corrispondenza identità, copia del volto, replica di persona reale
 
 ---
 
-### No. 19: Profilo / Avatar - Ritratto drammatico con luce rossa
+### No. 18: Profilo / Avatar - Ritratto drammatico con luce rossa
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1409,6 +1354,63 @@ Ritratto drammatico ultra-realistico di un {argument name="subject" default="uom
 - **Lingue:** en
 
 **[👉 Provalo ora →](https://youmind.com/it-IT/nano-banana-pro-prompts?id=26725)**
+
+---
+
+### No. 19: Profilo / Avatar - Collage Diario Cinematografico Dark
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Descrizione
+
+Un prompt sofisticato per creare ritratti in collage cinematografico dark iperrealistici con un'estetica da scrapbook. Mantiene l'identità del volto fondendo molteplici cornici di carta strappata in uno stile editoriale streetwear di lusso, cupo e a bassa saturazione.
+
+#### 📝 Prompt
+
+```
+Usa la mia immagine caricata come riferimento principale per l'identità. Preserva con la massima precisione la mia identità facciale, la forma del viso, l'acconciatura, la texture dei capelli, lo stile della barba, il tono della pelle, la forma degli occhi, le sopracciglia, il naso, le labbra e tutti i dettagli unici del volto. Non cambiare il mio viso e non farmi sembrare una persona diversa.
+
+Crea un ritratto in collage cinematografico dark iperrealistico ispirato all'immagine di riferimento. Realizza un'estetica cupa in bianco e nero/bassa saturazione con una texture cinematografica granulosa. Crea un layout in stile scrapbook con molteplici cornici di carta strappata che mi ritraggono in pose e momenti diversi.
+
+Ritratto centrale principale: un primo piano di me che indosso {argument name="clothing" default="una felpa con cappuccio nera"} e {argument name="accessory" default="occhiali da sole scuri"}, con un'espressione seria e calma, scattato di notte con ombre drammatiche e una soffusa illuminazione stradale.
+
+Elementi del collage circostante:
+•foto in {argument name="setting" default="strada notturna"} con strade bagnate e luci della città
+•ritratto di profilo con occhiali da sole
+•seduto da solo all'aperto di notte, atmosfera riflessiva
+•primo piano in posa da fumatore (senza sigaretta visibile se necessario)
+•ombre astratte scure e fotografie granulose
+•bordi di carta strappata, segni di nastro adesivo, note scritte a mano, estetica da vecchio diario
+•piccole citazioni scritte a mano ed elementi testuali emozionali come:
+“no expectations, no disappointments”
+“it’s 2am again and I’m still thinking about everything”
+“good music, bad days”
+“nobody understands”
+“empty inside”
+
+Stile: editoriale streetwear di lusso + estetica dark + collage di diario emozionale.
+Illuminazione: fotografia cinematografica notturna, alto contrasto, neri profondi, luci soffuse.
+Texture: grana di pellicola vintage, carta graffiata, imperfezioni realistiche.
+Fallo sembrare un vero collage fotografico da rivista, non generato dall'IA. Mantieni l'identità del mio volto coerente in ogni fotogramma.
+```
+
+#### 🖼️ Immagini generate
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1782460093403_4ja3kj_HLoicCCbsAAfTcZ.jpg" width="600" alt="Profilo / Avatar - Collage Diario Cinematografico Dark - Image 1">
+</div>
+
+#### 📌 Dettagli
+
+- **Autore:** [Professor](https://x.com/Professor_134)
+- **Fonte:** [Twitter Post](https://x.com/Professor_134/status/2070004852416287005)
+- **Pubblicato:** 25 giugno 2026
+- **Lingue:** en
+
+**[👉 Provalo ora →](https://youmind.com/it-IT/nano-banana-pro-prompts?id=26718)**
 
 ---
 
@@ -5473,7 +5475,7 @@ Affascinante personaggio animato 3D stilizzato {argument name="character" defaul
 
 <div align="center">
 
-### 🎯 14523 altri prompt non mostrati qui
+### 🎯 14522 altri prompt non mostrati qui
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -5536,6 +5538,6 @@ Concesso in licenza sotto [CC BY 4.0](https://creativecommons.org/licenses/by/4.
 **[📝 Invia un prompt](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Metti una stella a questo repository](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-06-30T09:02:10.499Z</sub>
+<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-06-30T12:35:35.110Z</sub>
 
 </div>
