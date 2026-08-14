@@ -143,9 +143,9 @@ by {argument name="author" default="Steve Jobs"}
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **15193** |
+| 📝 提示词总数 | **15192** |
 | ⭐ 精选 | **9** |
-| 🔄 最后更新 | **2026年8月14日星期五 UTC 08:25:07** |
+| 🔄 最后更新 | **2026年8月14日星期五 UTC 12:12:45** |
 
 </div>
 
@@ -2028,41 +2028,7 @@ A {argument name="subject" default="young East Asian woman with sleek shoulder-l
 
 ---
 
-### No. 32: 社交媒体帖子 - South Asian Fashion Portrait
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-A photorealistic fashion portrait prompt that uses a reference image to maintain exact facial identity and features.
-
-#### 📝 提示词
-
-```
-Use the uploaded image as the only facial reference and preserve 100% facial identity, hairstyle, beard, skin tone, and natural skin texture. A photorealistic fashion portrait of a stylish young {argument name="subject" default="South Asian man"} with a well-groomed short beard and voluminous, styled dark hair. He is wearing {argument name="sunglasses" default="thick black square sunglasses"}, a {argument name="shirt" default="short-sleeved button-down shirt featuring a bold geometric pattern in beige and black"}, a thin chain necklace, distressed dark grey jeans with ripped knees, and chunky off-white sneakers. He is posing confidently, leaning casually against a white concrete post-and-rail fence with one foot resting on the lower rail. His hands are lightly adjusting the collar of his shirt as he looks off-camera to the side. The background is a beautifully blurred, lush green agricultural field under bright, soft natural daylight. Shot on an 85mm lens, shallow depth of field, bokeh, cinematic lighting, ultra-detailed, 8k. Keep exactly original face and hairstyle 100% reference Ratio 9:16
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1786690127072_03kcmn_HPkEbxdbkAAVdzo.jpg" width="600" alt="社交媒体帖子 - South Asian Fashion Portrait - Image 1">
-</div>
-
-#### 📌 详情
-
-- **作者:** [Dilshad Hussain](https://x.com/DilshadAI1)
-- **来源:** [Twitter Post](https://x.com/DilshadAI1/status/2087704799496310819)
-- **发布时间:** 2026年8月13日
-- **多语言:** en
-
-**[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?id=31307)**
-
----
-
-### No. 33: 社交媒体帖子 - Primitive Stencil Dog Illustration
+### No. 32: 社交媒体帖子 - Primitive Stencil Dog Illustration
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2093,6 +2059,52 @@ A stylized, primitive illustration of a {argument name="subject" default="dog"} 
 - **多语言:** en
 
 **[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?id=31258)**
+
+---
+
+### No. 33: 社交媒体帖子 - Photorealistic Woman at Pool Table
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+A detailed lifestyle photography prompt for a woman posing at a wooden pool table, focusing on natural lighting and high-resolution textures.
+
+#### 📝 提示词
+
+```
+Photorealistic professional photograph of a brunette lookalike with long wavy ponytail hair, smiling and looking toward the camera over her shoulder. She is wearing a {argument name="top style" default="neon orange short-sleeved crop top with a small hood"}, a {argument name="skirt style" default="very short black ruffled mini skirt"}, and {argument name="footwear" default="neon orange high heels"} from attached picture 1. She is sitting on the edge of a wooden pool table with a small sign 'Keor' engraved on it, holding a pool cue vertically with both hands near her shoulder, one leg raised and bent with the foot resting near the table. Large wooden-framed windows behind her show a sunny hilly landscape. Glass block detailing under the table, polished floor, and pool balls visible on the table surface. Bright natural daylight fills the room. Highly detailed textures, realistic skin and hair, sharp focus, professional lifestyle photography style, 8k resolution.
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1786690138967_pp4br6_HPjD3YrW0AA9aE2.jpg" width="600" alt="社交媒体帖子 - Photorealistic Woman at Pool Table - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1786690137419_nst8ka_HPjD3YsWgAAHZ8p.jpg" width="600" alt="社交媒体帖子 - Photorealistic Woman at Pool Table - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1786690137349_fb5rbn_HPjD3YnWIAEsSfX.jpg" width="600" alt="社交媒体帖子 - Photorealistic Woman at Pool Table - Image 3">
+</div>
+
+#### 📌 详情
+
+- **作者:** [KeorUnreal](https://x.com/KeorUnreal)
+- **来源:** [Twitter Post](https://x.com/KeorUnreal/status/2087633793318596894)
+- **发布时间:** 2026年8月12日
+- **多语言:** en
+
+**[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?id=31358)**
 
 ---
 
@@ -4477,53 +4489,7 @@ Ultra-photorealistic high-fashion cover portrait of {argument name="subject" def
 
 ---
 
-### No. 90: 产品营销 - Photorealistic Woman at Pool Table
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-A detailed lifestyle photography prompt for a woman posing at a wooden pool table, focusing on natural lighting and high-resolution textures.
-
-#### 📝 提示词
-
-```
-Photorealistic professional photograph of a brunette lookalike with long wavy ponytail hair, smiling and looking toward the camera over her shoulder. She is wearing a {argument name="top style" default="neon orange short-sleeved crop top with a small hood"}, a {argument name="skirt style" default="very short black ruffled mini skirt"}, and {argument name="footwear" default="neon orange high heels"} from attached picture 1. She is sitting on the edge of a wooden pool table with a small sign 'Keor' engraved on it, holding a pool cue vertically with both hands near her shoulder, one leg raised and bent with the foot resting near the table. Large wooden-framed windows behind her show a sunny hilly landscape. Glass block detailing under the table, polished floor, and pool balls visible on the table surface. Bright natural daylight fills the room. Highly detailed textures, realistic skin and hair, sharp focus, professional lifestyle photography style, 8k resolution.
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1786690138967_pp4br6_HPjD3YrW0AA9aE2.jpg" width="600" alt="产品营销 - Photorealistic Woman at Pool Table - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1786690137419_nst8ka_HPjD3YsWgAAHZ8p.jpg" width="600" alt="产品营销 - Photorealistic Woman at Pool Table - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1786690137349_fb5rbn_HPjD3YnWIAEsSfX.jpg" width="600" alt="产品营销 - Photorealistic Woman at Pool Table - Image 3">
-</div>
-
-#### 📌 详情
-
-- **作者:** [KeorUnreal](https://x.com/KeorUnreal)
-- **来源:** [Twitter Post](https://x.com/KeorUnreal/status/2087633793318596894)
-- **发布时间:** 2026年8月12日
-- **多语言:** en
-
-**[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?id=31358)**
-
----
-
-### No. 91: 产品营销 - Cozy Cafe Fashion Portrait
+### No. 90: 产品营销 - Cozy Cafe Fashion Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4571,7 +4537,7 @@ Cozy cafe interior with warm wooden walls and paneling, a large window showing g
 
 ---
 
-### No. 92: 产品营销 - Cinematic Product Advertisement with Spider Web
+### No. 91: 产品营销 - Cinematic Product Advertisement with Spider Web
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4611,7 +4577,7 @@ Using the uploaded product as the exact reference, preserve its original shape, 
 
 ---
 
-### No. 93: 产品营销 - Cinematic Amateur Fashion Editorial
+### No. 92: 产品营销 - Cinematic Amateur Fashion Editorial
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4663,7 +4629,7 @@ Cinematic amateur-fashion aesthetic blended with premium luxury realism, emotion
 
 ---
 
-### No. 94: 产品营销 - Emerald Evening Dress Fashion Portrait
+### No. 93: 产品营销 - Emerald Evening Dress Fashion Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4719,7 +4685,7 @@ Photorealistic luxury fashion photography, 85mm portrait lens, vertical composit
 
 ---
 
-### No. 95: 产品营销 - Mixed Media Fashion Studio Art
+### No. 94: 产品营销 - Mixed Media Fashion Studio Art
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4753,7 +4719,7 @@ A vibrant mixed media composition blending high-end studio fashion photography w
 
 ---
 
-### No. 96: 产品营销 - Tropical Fashion Editorial Portrait
+### No. 95: 产品营销 - Tropical Fashion Editorial Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4815,7 +4781,7 @@ Low-angle full-body fashion photograph, camera positioned slightly below the sub
 
 ---
 
-### No. 97: 产品营销 - Luxury Rooftop Blue Hour Portrait
+### No. 96: 产品营销 - Luxury Rooftop Blue Hour Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4855,7 +4821,7 @@ A photorealistic luxury rooftop lifestyle portrait of a young woman during blue 
 
 ---
 
-### No. 98: 产品营销 - Surreal Botanical Couture Fashion Editorial
+### No. 97: 产品营销 - Surreal Botanical Couture Fashion Editorial
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4981,7 +4947,7 @@ A surreal high-fashion editorial prompt featuring a gown made of living saffron 
 
 ---
 
-### No. 99: 产品营销 - Industrial Loft Fashion Editorial
+### No. 98: 产品营销 - Industrial Loft Fashion Editorial
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5027,7 +4993,7 @@ A photorealistic editorial lifestyle portrait of a young woman in a sophisticate
 
 ---
 
-### No. 100: 产品营销 - Superhero Soda Promotional Posters
+### No. 99: 产品营销 - Superhero Soda Promotional Posters
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5144,7 +5110,7 @@ A series of conceptual prompts for creating cinematic movie posters featuring Ma
 
 ---
 
-### No. 101: 产品营销 - Product in Ice Cube Minimalist
+### No. 100: 产品营销 - Product in Ice Cube Minimalist
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5178,7 +5144,7 @@ A simple product photography prompt used to compare Grok Imagine 2.0 and Nano Ba
 
 ---
 
-### No. 102: 产品营销 - Y2K Paparazzi Luxury Hair Shot
+### No. 101: 产品营销 - Y2K Paparazzi Luxury Hair Shot
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5212,7 +5178,7 @@ Use the uploaded photo as the exact facial reference and preserve the person’s
 
 ---
 
-### No. 103: 产品营销 - Luxury Water Bottle Product Photography
+### No. 102: 产品营销 - Luxury Water Bottle Product Photography
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5252,7 +5218,7 @@ Ultra-realistic luxury commercial product photography of a {argument name="produ
 
 ---
 
-### No. 104: 电商主图 - Summer Skincare Product Photography
+### No. 103: 电商主图 - Summer Skincare Product Photography
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5304,7 +5270,7 @@ Ultra-realistic summer skincare product photography of a bronzing drop bottle na
 
 ---
 
-### No. 105: 电商主图 - Nano Banana Pro Product Collage
+### No. 104: 电商主图 - Nano Banana Pro Product Collage
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5344,7 +5310,7 @@ Three-panel collage product photography of {argument name="product" default="lux
 
 ---
 
-### No. 106: 电商主图 - 风格化收藏级玩具包装
+### No. 105: 电商主图 - 风格化收藏级玩具包装
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5396,7 +5362,7 @@ Three-panel collage product photography of {argument name="product" default="lux
 
 ---
 
-### No. 107: 电商主图 - 高端产品摄影棚级视觉转换
+### No. 106: 电商主图 - 高端产品摄影棚级视觉转换
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5448,7 +5414,7 @@ Three-panel collage product photography of {argument name="product" default="lux
 
 ---
 
-### No. 108: 电商主图 - 奢华护肤品广告
+### No. 107: 电商主图 - 奢华护肤品广告
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5500,7 +5466,7 @@ Three-panel collage product photography of {argument name="product" default="lux
 
 ---
 
-### No. 109: 电商主图 - 将 3D 模型转换为照片级真实感产品渲染图
+### No. 108: 电商主图 - 将 3D 模型转换为照片级真实感产品渲染图
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5534,7 +5500,7 @@ Three-panel collage product photography of {argument name="product" default="lux
 
 ---
 
-### No. 110: 电商主图 - 奢侈品集群主提示词
+### No. 109: 电商主图 - 奢侈品集群主提示词
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5598,7 +5564,7 @@ Three-panel collage product photography of {argument name="product" default="lux
 
 ---
 
-### No. 111: 电商主图 - 显示器微距屏幕纹理
+### No. 110: 电商主图 - 显示器微距屏幕纹理
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5632,7 +5598,7 @@ Three-panel collage product photography of {argument name="product" default="lux
 
 ---
 
-### No. 112: 电商主图 - 休闲牛仔风格摄影棚人像
+### No. 111: 电商主图 - 休闲牛仔风格摄影棚人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5666,7 +5632,7 @@ Three-panel collage product photography of {argument name="product" default="lux
 
 ---
 
-### No. 113: 电商主图 - 草地山丘上的极简主义产品摄影
+### No. 112: 电商主图 - 草地山丘上的极简主义产品摄影
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5718,7 +5684,7 @@ Three-panel collage product photography of {argument name="product" default="lux
 
 ---
 
-### No. 114: 电商主图 - 湿润板岩上的编辑风格产品摄影
+### No. 113: 电商主图 - 湿润板岩上的编辑风格产品摄影
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5758,7 +5724,7 @@ Three-panel collage product photography of {argument name="product" default="lux
 
 ---
 
-### No. 115: 电商主图 - 海滨生活方式产品摄影
+### No. 114: 电商主图 - 海滨生活方式产品摄影
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5792,7 +5758,7 @@ Three-panel collage product photography of {argument name="product" default="lux
 
 ---
 
-### No. 116: 电商主图 - 极简主义年轻男子摄影棚肖像
+### No. 115: 电商主图 - 极简主义年轻男子摄影棚肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5826,7 +5792,7 @@ Three-panel collage product photography of {argument name="product" default="lux
 
 ---
 
-### No. 117: 电商主图 - 奢华护肤品商业摄影
+### No. 116: 电商主图 - 奢华护肤品商业摄影
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5868,7 +5834,7 @@ Three-panel collage product photography of {argument name="product" default="lux
 
 ---
 
-### No. 118: 电商主图 - 极简主义耳机电商产品图
+### No. 117: 电商主图 - 极简主义耳机电商产品图
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5914,7 +5880,7 @@ Three-panel collage product photography of {argument name="product" default="lux
 
 ---
 
-### No. 119: 游戏素材 - Airport Field Critic with Gear
+### No. 118: 游戏素材 - Airport Field Critic with Gear
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5947,7 +5913,7 @@ Union member field critic with cooling gear, airport ready.
 
 ---
 
-### No. 120: 游戏素材 - Ana de Armas as Spider-Gwen
+### No. 119: 游戏素材 - Ana de Armas as Spider-Gwen
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5981,13 +5947,47 @@ A simple character cosplay prompt featuring Ana de Armas as Spider-Gwen.
 
 ---
 
+### No. 120: 游戏素材 - Clockpunk Miniature Greenhouse
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+A detailed prompt for creating a whimsical miniature world featuring a grand botanical conservatory in a clockpunk aesthetic.
+
+#### 📝 提示词
+
+```
+{argument name="atmosphere" default="Whimsical"} miniature world depiction of a {argument name="subject" default="grand botanical greenhouse conservatory"} imagined and rendered in an {argument name="style" default="artistic clockpunk style"}
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1786257248830_oedq19_HPNenTpbMAAr1r3.png" width="600" alt="游戏素材 - Clockpunk Miniature Greenhouse - Image 1">
+</div>
+
+#### 📌 详情
+
+- **作者:** [sayobonita](https://x.com/sayobonito)
+- **来源:** [Twitter Post](https://x.com/sayobonito/status/2086115369513848934)
+- **发布时间:** 2026年8月8日
+- **多语言:** en
+
+**[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?id=30820)**
+
+---
+
 ---
 
 ## 📚 更多提示词
 
 <div align="center">
 
-### 🎯 15073 更多提示词未在此显示
+### 🎯 15072 更多提示词未在此显示
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -6050,6 +6050,6 @@ The gallery features:
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-08-14T08:25:07.987Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-08-14T12:12:45.173Z</sub>
 
 </div>
