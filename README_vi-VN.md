@@ -143,9 +143,9 @@ Khi sử dụng trong Raycast, bạn có thể thay thế động các đối s�
 
 | Chỉ số | Số lượng |
 |--------|-------|
-| 📝 Tổng số câu lệnh | **15226** |
+| 📝 Tổng số câu lệnh | **15225** |
 | ⭐ Nổi bật | **9** |
-| 🔄 Cập nhật lần cuối | **lúc 08:04:27 UTC Chủ Nhật, 16 tháng 8, 2026** |
+| 🔄 Cập nhật lần cuối | **lúc 12:02:57 UTC Chủ Nhật, 16 tháng 8, 2026** |
 
 </div>
 
@@ -793,42 +793,7 @@ Create a photorealistic portrait of a young woman standing indoors against a mut
 
 ---
 
-### No. 4: Hồ sơ / Ảnh đại diện - Cinematic Male Portrait with Car
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Mô tả
-
-A detailed prompt for a high-end commercial style portrait of a man leaning against a luxury vehicle, focusing on preserving facial identity from a reference image.
-
-#### 📝 Câu lệnh
-
-```
-Use the uploaded image as the only facial reference and preserve 100% facial identity, hairstyle, beard, skin tone, and natural skin texture.
-A {argument name="subject" default="stylish young Pakistani man"} leaning casually against a {argument name="car" default="blue BMW X5 M"}, wearing a {argument name="clothing" default="black traditional Kurta Shalwar"} with a mandarin collar, brown leather loafers, black sunglasses, and a black smartwatch. Pose: one leg bent against the car, hands clasped in front, confident attitude, looking away from camera. Background: open road or parking area, blurred cityscape, bright daylight, cinematic lighting, luxury
-```
-
-#### 🖼️ Hình ảnh được tạo
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1786861120869_235ysi_HPuamLWaEAA0lZJ.jpg" width="600" alt="Hồ sơ / Ảnh đại diện - Cinematic Male Portrait with Car - Image 1">
-</div>
-
-#### 📌 Chi tiết
-
-- **Tác giả:** [Dilshad Hussain](https://x.com/DilshadAI1)
-- **Nguồn:** [Twitter Post](https://x.com/DilshadAI1/status/2088432846683910481)
-- **Đã xuất bản:** 15 tháng 8, 2026
-- **Ngôn ngữ:** en
-
-**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=31467)**
-
----
-
-### No. 5: Hồ sơ / Ảnh đại diện - Detailed East Asian Woman Portrait
+### No. 4: Hồ sơ / Ảnh đại diện - Detailed East Asian Woman Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -881,7 +846,7 @@ Indoor setting with soft, warm directional lighting casting gentle shadows, slig
 
 ---
 
-### No. 6: Hồ sơ / Ảnh đại diện - Playful Mirror Selfie Portrait
+### No. 5: Hồ sơ / Ảnh đại diện - Playful Mirror Selfie Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -927,7 +892,7 @@ A young East Asian woman with long, straight, {argument name="hair color" defaul
 
 ---
 
-### No. 7: Hồ sơ / Ảnh đại diện - Futuristic Arachnid Gamer Persona
+### No. 6: Hồ sơ / Ảnh đại diện - Futuristic Arachnid Gamer Persona
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -981,7 +946,7 @@ Soft cinematic key lighting. Deep controlled shadows. Subtle crimson ambient ill
 
 ---
 
-### No. 8: Hồ sơ / Ảnh đại diện - Retro Studio Magazine Portrait
+### No. 7: Hồ sơ / Ảnh đại diện - Retro Studio Magazine Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1015,7 +980,7 @@ Vertical studio portrait in a 3:4 format. The frame is shot approximately from t
 
 ---
 
-### No. 9: Hồ sơ / Ảnh đại diện - Cinematic Photographer Studio Portrait
+### No. 8: Hồ sơ / Ảnh đại diện - Cinematic Photographer Studio Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1049,7 +1014,7 @@ A medium close-up cinematic portrait of a {argument name="subject" default="youn
 
 ---
 
-### No. 10: Hồ sơ / Ảnh đại diện - Beach Arcade Night iPhone Shot
+### No. 9: Hồ sơ / Ảnh đại diện - Beach Arcade Night iPhone Shot
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1095,7 +1060,7 @@ hyper real vertical amateur iphone shot of a young woman around {argument name="
 
 ---
 
-### No. 11: Hồ sơ / Ảnh đại diện - Monochrome Studio Portrait with Colored Lens
+### No. 10: Hồ sơ / Ảnh đại diện - Monochrome Studio Portrait with Colored Lens
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1147,7 +1112,7 @@ Ultra-realistic studio portrait of a man, close-up headshot, centered compositio
 
 ---
 
-### No. 12: Hồ sơ / Ảnh đại diện - Minimalist Sage Green Studio Portrait
+### No. 11: Hồ sơ / Ảnh đại diện - Minimalist Sage Green Studio Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1229,7 +1194,7 @@ A structured JSON-formatted prompt for a high-fashion studio portrait with a lar
 
 ---
 
-### No. 13: Hồ sơ / Ảnh đại diện - Stylish Airport Travel Portrait
+### No. 12: Hồ sơ / Ảnh đại diện - Stylish Airport Travel Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1269,7 +1234,7 @@ Ultra-realistic 8K portrait of a stylish young man FROM ATTACHED PHOTO, standing
 
 ---
 
-### No. 14: Hồ sơ / Ảnh đại diện - Woman with Teal and Yellow Parrots
+### No. 13: Hồ sơ / Ảnh đại diện - Woman with Teal and Yellow Parrots
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1303,7 +1268,7 @@ A close up, studio portrait features a fair skinned woman with {argument name="h
 
 ---
 
-### No. 15: Hồ sơ / Ảnh đại diện - Spirited Away Watercolor Portrait
+### No. 14: Hồ sơ / Ảnh đại diện - Spirited Away Watercolor Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1355,7 +1320,7 @@ Transform my portrait into a whimsical {argument name="art style" default="hand-
 
 ---
 
-### No. 16: Hồ sơ / Ảnh đại diện - Elegant Mirror Selfie with Parrot
+### No. 15: Hồ sơ / Ảnh đại diện - Elegant Mirror Selfie with Parrot
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1395,7 +1360,7 @@ Create a highly realistic, elegant indoor mirror-selfie portrait of a young woma
 
 ---
 
-### No. 17: Hồ sơ / Ảnh đại diện - Cozy Bedroom Mirror Selfie
+### No. 16: Hồ sơ / Ảnh đại diện - Cozy Bedroom Mirror Selfie
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1435,7 +1400,7 @@ A structured prompt for an ultra-realistic mirror selfie in a cozy bedroom setti
 
 ---
 
-### No. 18: Hồ sơ / Ảnh đại diện - Starry Night Motion Blur Portrait
+### No. 17: Hồ sơ / Ảnh đại diện - Starry Night Motion Blur Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1481,7 +1446,7 @@ Long-exposure astrophotography: stars sharp and detailed, light grain, cinematic
 
 ---
 
-### No. 19: Hồ sơ / Ảnh đại diện - Glacial Ice Warrior Facial Transformation
+### No. 18: Hồ sơ / Ảnh đại diện - Glacial Ice Warrior Facial Transformation
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1542,6 +1507,57 @@ Place me in a mass
 - **Ngôn ngữ:** en
 
 **[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=31155)**
+
+---
+
+### No. 19: Hồ sơ / Ảnh đại diện - Botanical Bedroom Selfie Cosplay
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Mô tả
+
+An ultra-realistic selfie-style portrait prompt for a cosplayer in a plant-themed swimsuit, set in a detailed botanical bedroom.
+
+#### 📝 Câu lệnh
+
+```
+{ "subject": { "description": "Young woman brunette posing confidently. Long hair styled in a casual high ponytail with soft face-framing strands. Smooth luminous skin with realistic texture, faint freckles, natural makeup, winged eyeliner, defined lashes, softly contoured cheeks, hydrated glossy lips, and delicate silver hoop earrings. Thin necklace resting on the collarbone.", "pose": "Close-up wide-angle smartphone selfie perspective with one arm extended toward the camera. Leaning forward slightly with shoulders drawn back in an elegant S-curve posture. Head tilted slightly backward and to the side, chin raised. Soft and flirtatious expression with half-lidded eyes and a subtle confident smirk.", "clothing": { "main": "Fitted green plant-themed one-piece swimsuit with thin spaghetti straps, deep V-neckline, smooth stretch fabric, and sleek minimalist design. Features bold leaf symbols and vine-inspired details. Small elegant 'Keor' embroidery on the border. Paired with matching neon green stockings.", "style": "Contours naturally to the body with realistic fabric tension and soft folds around the waist and torso." } }, "setting": { "environment": "Botanical home room — cluttered teenage bedroom with posters of plants, vines and science, a messy desk with notebooks and gadgets, a bed with tangled sheets, bookshelves, and personal belongings creating an authentic lived-in atmosphere.", "lighting": "Soft natural daylight from a nearby window, warm neutral color grading, gentle shadows, smooth skin highlights, realistic light falloff." }, "style": { "photography": "Ultra-realistic selfie-style fashion portrait of a photorealistic cosplayer, high-end lifestyle photography, smartphone camera realism, 35mm equivalent lens, HDR, photorealistic, fashion-editorial quality, ultra-detailed, 8K resolution, no anime style, no posterized effects.", "mood": "Confident, glamorous, and self-assured.", "composition": "Close-up wide-angle POV selfie, camera slightly below face level and angled upward." }, "full_prompt": "Ultra-realistic selfie-style fashion portrait of a photorealistic cosplayer brunette posing confidently in a botanical home room. She wears a fitted green plant-themed one-piece swimsuit with thin spaghetti straps, deep V-neckline, bold leaf symbols and vine-inspired details, plus a small 'Keor' embroidery, and neon green stockings. High ponytail, soft flirtatious expression, one arm extended for a POV selfie. Soft natural daylight, detailed bedroom with plant and science posters and cluttered desk in the background. Photorealistic, 8K, sharp focus, natural skin texture, no anime style, no posterized image." }
+```
+
+#### 🖼️ Hình ảnh được tạo
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1786518703580_ned4g7_HPcZ2vsXIAA8Vi5.jpg" width="600" alt="Hồ sơ / Ảnh đại diện - Botanical Bedroom Selfie Cosplay - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1786518703385_o8kli4_HPcZ330XUAA8BaE.jpg" width="600" alt="Hồ sơ / Ảnh đại diện - Botanical Bedroom Selfie Cosplay - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1786518703370_kcrw7h_HPcZ45qWkAAMzI7.jpg" width="600" alt="Hồ sơ / Ảnh đại diện - Botanical Bedroom Selfie Cosplay - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1786518703989_ov14k7_HPcZ53TWwAAPTOY.jpg" width="600" alt="Hồ sơ / Ảnh đại diện - Botanical Bedroom Selfie Cosplay - Image 4">
+</div>
+
+#### 📌 Chi tiết
+
+- **Tác giả:** [KeorUnreal](https://x.com/KeorUnreal)
+- **Nguồn:** [Twitter Post](https://x.com/KeorUnreal/status/2087165449741988241)
+- **Đã xuất bản:** 11 tháng 8, 2026
+- **Ngôn ngữ:** en
+
+**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=31158)**
 
 ---
 
@@ -5880,7 +5896,7 @@ Một {argument name="subject" default="người phụ nữ Đông Á"} trẻ tu
 
 <div align="center">
 
-### 🎯 15106 câu lệnh khác không hiển thị ở đây
+### 🎯 15105 câu lệnh khác không hiển thị ở đây
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -5943,6 +5959,6 @@ Xem [CONTRIBUTING.md](docs/CONTRIBUTING.md) để biết hướng dẫn chi ti�
 **[📝 Gửi một câu lệnh](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-08-16T08:04:27.565Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-08-16T12:02:57.742Z</sub>
 
 </div>

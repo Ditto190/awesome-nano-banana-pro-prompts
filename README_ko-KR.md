@@ -143,9 +143,9 @@ Raycast에서 사용하면 인수를 동적으로 교체하여 빠르게 반복�
 
 | 지표 | 수 |
 |--------|-------|
-| 📝 총 프롬프트 수 | **15226** |
+| 📝 총 프롬프트 수 | **15225** |
 | ⭐ 추천 | **9** |
-| 🔄 마지막 업데이트 | **2026년 8월 16일 일요일 AM 8시 4분 15초 UTC** |
+| 🔄 마지막 업데이트 | **2026년 8월 16일 일요일 PM 12시 2분 45초 UTC** |
 
 </div>
 
@@ -793,42 +793,7 @@ Create a photorealistic portrait of a young woman standing indoors against a mut
 
 ---
 
-### No. 4: 프로필 / 아바타 - Cinematic Male Portrait with Car
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 설명
-
-A detailed prompt for a high-end commercial style portrait of a man leaning against a luxury vehicle, focusing on preserving facial identity from a reference image.
-
-#### 📝 프롬프트
-
-```
-Use the uploaded image as the only facial reference and preserve 100% facial identity, hairstyle, beard, skin tone, and natural skin texture.
-A {argument name="subject" default="stylish young Pakistani man"} leaning casually against a {argument name="car" default="blue BMW X5 M"}, wearing a {argument name="clothing" default="black traditional Kurta Shalwar"} with a mandarin collar, brown leather loafers, black sunglasses, and a black smartwatch. Pose: one leg bent against the car, hands clasped in front, confident attitude, looking away from camera. Background: open road or parking area, blurred cityscape, bright daylight, cinematic lighting, luxury
-```
-
-#### 🖼️ 생성된 이미지
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1786861120869_235ysi_HPuamLWaEAA0lZJ.jpg" width="600" alt="프로필 / 아바타 - Cinematic Male Portrait with Car - Image 1">
-</div>
-
-#### 📌 상세 정보
-
-- **작성자:** [Dilshad Hussain](https://x.com/DilshadAI1)
-- **출처:** [Twitter Post](https://x.com/DilshadAI1/status/2088432846683910481)
-- **게시일:** 2026년 8월 15일
-- **언어:** en
-
-**[👉 지금 시도하기 →](https://youmind.com/ko-KR/nano-banana-pro-prompts?id=31467)**
-
----
-
-### No. 5: 프로필 / 아바타 - Detailed East Asian Woman Portrait
+### No. 4: 프로필 / 아바타 - Detailed East Asian Woman Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -881,7 +846,7 @@ Indoor setting with soft, warm directional lighting casting gentle shadows, slig
 
 ---
 
-### No. 6: 프로필 / 아바타 - Playful Mirror Selfie Portrait
+### No. 5: 프로필 / 아바타 - Playful Mirror Selfie Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -927,7 +892,7 @@ A young East Asian woman with long, straight, {argument name="hair color" defaul
 
 ---
 
-### No. 7: 프로필 / 아바타 - Futuristic Arachnid Gamer Persona
+### No. 6: 프로필 / 아바타 - Futuristic Arachnid Gamer Persona
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -981,7 +946,7 @@ Soft cinematic key lighting. Deep controlled shadows. Subtle crimson ambient ill
 
 ---
 
-### No. 8: 프로필 / 아바타 - Retro Studio Magazine Portrait
+### No. 7: 프로필 / 아바타 - Retro Studio Magazine Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1015,7 +980,7 @@ Vertical studio portrait in a 3:4 format. The frame is shot approximately from t
 
 ---
 
-### No. 9: 프로필 / 아바타 - Cinematic Photographer Studio Portrait
+### No. 8: 프로필 / 아바타 - Cinematic Photographer Studio Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1049,7 +1014,7 @@ A medium close-up cinematic portrait of a {argument name="subject" default="youn
 
 ---
 
-### No. 10: 프로필 / 아바타 - Beach Arcade Night iPhone Shot
+### No. 9: 프로필 / 아바타 - Beach Arcade Night iPhone Shot
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1095,7 +1060,7 @@ hyper real vertical amateur iphone shot of a young woman around {argument name="
 
 ---
 
-### No. 11: 프로필 / 아바타 - Monochrome Studio Portrait with Colored Lens
+### No. 10: 프로필 / 아바타 - Monochrome Studio Portrait with Colored Lens
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1147,7 +1112,7 @@ Ultra-realistic studio portrait of a man, close-up headshot, centered compositio
 
 ---
 
-### No. 12: 프로필 / 아바타 - Minimalist Sage Green Studio Portrait
+### No. 11: 프로필 / 아바타 - Minimalist Sage Green Studio Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1229,7 +1194,7 @@ A structured JSON-formatted prompt for a high-fashion studio portrait with a lar
 
 ---
 
-### No. 13: 프로필 / 아바타 - Stylish Airport Travel Portrait
+### No. 12: 프로필 / 아바타 - Stylish Airport Travel Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1269,7 +1234,7 @@ Ultra-realistic 8K portrait of a stylish young man FROM ATTACHED PHOTO, standing
 
 ---
 
-### No. 14: 프로필 / 아바타 - Woman with Teal and Yellow Parrots
+### No. 13: 프로필 / 아바타 - Woman with Teal and Yellow Parrots
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1303,7 +1268,7 @@ A close up, studio portrait features a fair skinned woman with {argument name="h
 
 ---
 
-### No. 15: 프로필 / 아바타 - Spirited Away Watercolor Portrait
+### No. 14: 프로필 / 아바타 - Spirited Away Watercolor Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1355,7 +1320,7 @@ Transform my portrait into a whimsical {argument name="art style" default="hand-
 
 ---
 
-### No. 16: 프로필 / 아바타 - Elegant Mirror Selfie with Parrot
+### No. 15: 프로필 / 아바타 - Elegant Mirror Selfie with Parrot
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1395,7 +1360,7 @@ Create a highly realistic, elegant indoor mirror-selfie portrait of a young woma
 
 ---
 
-### No. 17: 프로필 / 아바타 - Cozy Bedroom Mirror Selfie
+### No. 16: 프로필 / 아바타 - Cozy Bedroom Mirror Selfie
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1435,7 +1400,7 @@ A structured prompt for an ultra-realistic mirror selfie in a cozy bedroom setti
 
 ---
 
-### No. 18: 프로필 / 아바타 - Starry Night Motion Blur Portrait
+### No. 17: 프로필 / 아바타 - Starry Night Motion Blur Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1481,7 +1446,7 @@ Long-exposure astrophotography: stars sharp and detailed, light grain, cinematic
 
 ---
 
-### No. 19: 프로필 / 아바타 - Glacial Ice Warrior Facial Transformation
+### No. 18: 프로필 / 아바타 - Glacial Ice Warrior Facial Transformation
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1542,6 +1507,57 @@ Place me in a mass
 - **언어:** en
 
 **[👉 지금 시도하기 →](https://youmind.com/ko-KR/nano-banana-pro-prompts?id=31155)**
+
+---
+
+### No. 19: 프로필 / 아바타 - Botanical Bedroom Selfie Cosplay
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 설명
+
+An ultra-realistic selfie-style portrait prompt for a cosplayer in a plant-themed swimsuit, set in a detailed botanical bedroom.
+
+#### 📝 프롬프트
+
+```
+{ "subject": { "description": "Young woman brunette posing confidently. Long hair styled in a casual high ponytail with soft face-framing strands. Smooth luminous skin with realistic texture, faint freckles, natural makeup, winged eyeliner, defined lashes, softly contoured cheeks, hydrated glossy lips, and delicate silver hoop earrings. Thin necklace resting on the collarbone.", "pose": "Close-up wide-angle smartphone selfie perspective with one arm extended toward the camera. Leaning forward slightly with shoulders drawn back in an elegant S-curve posture. Head tilted slightly backward and to the side, chin raised. Soft and flirtatious expression with half-lidded eyes and a subtle confident smirk.", "clothing": { "main": "Fitted green plant-themed one-piece swimsuit with thin spaghetti straps, deep V-neckline, smooth stretch fabric, and sleek minimalist design. Features bold leaf symbols and vine-inspired details. Small elegant 'Keor' embroidery on the border. Paired with matching neon green stockings.", "style": "Contours naturally to the body with realistic fabric tension and soft folds around the waist and torso." } }, "setting": { "environment": "Botanical home room — cluttered teenage bedroom with posters of plants, vines and science, a messy desk with notebooks and gadgets, a bed with tangled sheets, bookshelves, and personal belongings creating an authentic lived-in atmosphere.", "lighting": "Soft natural daylight from a nearby window, warm neutral color grading, gentle shadows, smooth skin highlights, realistic light falloff." }, "style": { "photography": "Ultra-realistic selfie-style fashion portrait of a photorealistic cosplayer, high-end lifestyle photography, smartphone camera realism, 35mm equivalent lens, HDR, photorealistic, fashion-editorial quality, ultra-detailed, 8K resolution, no anime style, no posterized effects.", "mood": "Confident, glamorous, and self-assured.", "composition": "Close-up wide-angle POV selfie, camera slightly below face level and angled upward." }, "full_prompt": "Ultra-realistic selfie-style fashion portrait of a photorealistic cosplayer brunette posing confidently in a botanical home room. She wears a fitted green plant-themed one-piece swimsuit with thin spaghetti straps, deep V-neckline, bold leaf symbols and vine-inspired details, plus a small 'Keor' embroidery, and neon green stockings. High ponytail, soft flirtatious expression, one arm extended for a POV selfie. Soft natural daylight, detailed bedroom with plant and science posters and cluttered desk in the background. Photorealistic, 8K, sharp focus, natural skin texture, no anime style, no posterized image." }
+```
+
+#### 🖼️ 생성된 이미지
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1786518703580_ned4g7_HPcZ2vsXIAA8Vi5.jpg" width="600" alt="프로필 / 아바타 - Botanical Bedroom Selfie Cosplay - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1786518703385_o8kli4_HPcZ330XUAA8BaE.jpg" width="600" alt="프로필 / 아바타 - Botanical Bedroom Selfie Cosplay - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1786518703370_kcrw7h_HPcZ45qWkAAMzI7.jpg" width="600" alt="프로필 / 아바타 - Botanical Bedroom Selfie Cosplay - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1786518703989_ov14k7_HPcZ53TWwAAPTOY.jpg" width="600" alt="프로필 / 아바타 - Botanical Bedroom Selfie Cosplay - Image 4">
+</div>
+
+#### 📌 상세 정보
+
+- **작성자:** [KeorUnreal](https://x.com/KeorUnreal)
+- **출처:** [Twitter Post](https://x.com/KeorUnreal/status/2087165449741988241)
+- **게시일:** 2026년 8월 11일
+- **언어:** en
+
+**[👉 지금 시도하기 →](https://youmind.com/ko-KR/nano-banana-pro-prompts?id=31158)**
 
 ---
 
@@ -5880,7 +5896,7 @@ A complex JSON prompt for a photorealistic superhero editorial featuring Spiderm
 
 <div align="center">
 
-### 🎯 15106 여기에 표시되지 않은 더 많은 프롬프트가 있습니다
+### 🎯 15105 여기에 표시되지 않은 더 많은 프롬프트가 있습니다
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -5943,6 +5959,6 @@ The gallery features:
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-08-16T08:04:15.557Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-08-16T12:02:45.171Z</sub>
 
 </div>
