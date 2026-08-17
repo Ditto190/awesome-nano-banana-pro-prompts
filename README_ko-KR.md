@@ -145,7 +145,7 @@ Raycast에서 사용하면 인수를 동적으로 교체하여 빠르게 반복�
 |--------|-------|
 | 📝 총 프롬프트 수 | **15225** |
 | ⭐ 추천 | **9** |
-| 🔄 마지막 업데이트 | **2026년 8월 17일 월요일 AM 12시 34분 35초 UTC** |
+| 🔄 마지막 업데이트 | **2026년 8월 17일 월요일 AM 4시 30분 31초 UTC** |
 
 </div>
 
@@ -5959,6 +5959,6 @@ The gallery features:
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-08-17T00:34:35.941Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-08-17T04:30:31.300Z</sub>
 
 </div>
