@@ -143,9 +143,9 @@ by {argument name="author" default="Steve Jobs"}
 
 | 指標 | 數量 |
 |--------|-------|
-| 📝 提示詞總數 | **15248** |
+| 📝 提示詞總數 | **15246** |
 | ⭐ 精選 | **9** |
-| 🔄 最後更新 | **2026年8月18日 星期二 中午12:21:00 [UTC]** |
+| 🔄 最後更新 | **2026年8月18日 星期二 下午4:18:23 [UTC]** |
 
 </div>
 
@@ -2105,39 +2105,18 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 31: 社群媒體貼文 - 在現代臥室中放鬆的朋友
+### No. 31: 社群媒體貼文 - 彩色鉛筆風格的草地風景
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 描述
 
-這是一個生活風格肖像提示詞，描述兩位朋友在舒適的現代臥室中，透過落地窗共享歡樂時光的場景。
+這是一個寧靜的彩色鉛筆風格提示詞，描繪了一對情侶在日落時分漫步於藍色矢車菊花海中的場景。
 
 #### 📝 提示詞
 
 ```
-創作一張寫實的生活風格肖像，兩位年輕女性舒適地坐在明亮現代臥室中整理整齊的床上。她們是親密的朋友，正在分享一段輕鬆愉快的時光，並帶著溫暖自然的微笑直視鏡頭。
-
-1. 主體、髮型、皮膚、表情與姿勢：
-
-左側女性：溫暖的白皙膚色，帶有自然的膚質與細緻的面部紋理，{argument name="woman one hair" default="紅褐色"} 頭髮紮成鬆散的馬尾，臉頰旁有幾縷柔和的髮絲，眉型修剪整齊，妝容自然，笑容明亮親切。她舒適地盤腿坐著，肩膀放鬆，一隻手自然地放在膝蓋附近。
-
-右側女性：白皙膚色，帶有真實自然的紋理，金色長髮紮成高馬尾，柔順的髮絲垂落在肩後，眉型柔和，妝容淡雅自然，笑容開朗愉悅。她坐在朋友身旁，姿勢放鬆，身體微微向對方傾斜，雙手擺放自然。
-
-兩位主體應具備真實的成人面部特徵、自然的比例、真實的表情以及放鬆的肢體語言。她們的互動應感覺自然隨性，而非刻意擺拍。
-
-2. 服裝與飾品：
-左側女性穿著 {argument name="woman one outfit" default="深祖母綠色針織開襟衫"}，帶有小巧的鈕扣，並配戴一條簡單的金色細項鍊，墜飾為小型長方形。加上低調的戒指，指甲修剪整齊並塗上中性色指甲油。
-右側女性穿著 {argument name="woman two outfit" default="深海軍藍色針織開襟衫"}，剪裁舒適現代，配戴極簡風格的首飾。
-服裝應保持高雅、休閒且得體，呈現真實的布料紋理、縫線、皺褶與自然的垂墜感。避免出現明顯的品牌標誌。
-
-3. 環境與燈光：
-場景設定在一間舒適的現代臥室，床上鋪著柔軟的柔灰色紋理毯子與中性色寢具，主體後方有大型落地窗。透過窗戶，可以看到柔焦處理的綠色戶外景觀，包含樹木與自然景色。加入細緻的臥室細節，例如枕頭以及背景床上自然擺放的小物件。
-使用透過窗戶射入的柔和日光，在兩人的臉上形成溫和的照明與細微的自然陰影。氛圍應感覺溫暖、寧靜、舒適且真實。
-
-4. 相機與視覺風格：
-使用全片幅相機搭配 50mm 或 85mm 人像鏡頭拍攝，視角與眼睛平齊，具備自然的人像壓縮感、中景構圖、淺景深，並精確對焦於兩人的臉部。運用柔和的自然窗光，呈現真實的曝光、高動態範圍與準確的色彩。
+這是一幅充滿活力的直式彩色鉛筆插畫。一對年輕情侶手牽著手，背對著觀者，沿著一條蜿蜒的窄路走過前景中廣闊的鮮豔藍色矢車菊（Centaurea cyanus）花海，花叢間夾雜著高大的金黃色草叢、莖幹與花苞。女子身穿飄逸的白裙，男子穿著捲起袖口的白襯衫與深色長褲，兩人頭部輕輕向對方傾斜。柔和的連綿山丘向地平線延伸。當晚霞灑落在場景中時，輕柔的夏日微風吹拂著草地與花朵。遠處，陽光在溫暖的琥珀色田野上方探出頭來。天空佔據了畫面的上三分之一，色彩從頂部的深暮藍色過渡到靠近低垂太陽處溫暖的橙色、金色與淡黃色，並點綴著柔軟且帶有背光的雲絲。視角寬廣且略微抬高，展現了細緻的矢車菊、情侶與廣闊的陽光草地。風格令人聯想到彩色鉛筆畫，可見的筆觸營造出一種柔和、寧靜的氛圍。整體氣氛平和、浪漫且充滿懷舊感，溫暖的金色調與花朵冷冽的電光藍形成鮮明對比。這是一幅充滿活力的直式彩色鉛筆插畫。前景覆蓋著廣闊的鮮豔藍色矢車菊（Centaurea cyanus）花海，夾雜著高大的金黃色草叢、莖幹與花苞。一條蜿蜒的泥土小徑穿過花叢向遠方延伸。一層柔和的晨霧與輕微的薄霧輕輕飄過田野與遠岸，柔化了地平線。田野之外，寧靜的海洋延伸至地平線，一艘帆船在平靜的水面上緩緩漂浮。水面映照出天空的溫暖光芒。天空佔據了畫面的上三分之一，色彩從頂部的深暮藍色過渡到靠近低垂太陽處溫暖的橙色、金色與淡黃色，並點綴著柔軟且帶有背光的雲絲。視角寬廣且略微抬高，展現了細緻的矢車菊、霧氣繚繞的草地，以及帶有遠處帆船的廣闊平靜海景。風格令人聯想到彩色鉛筆畫，可見的筆觸營造出一種柔和、寧靜的氛圍。整體氣氛平和、夢幻且充滿懷舊感，溫暖的金色調與花朵冷冽的電光藍形成鮮明對比。
 ```
 
 #### 🖼️ 生成圖片
@@ -2145,23 +2124,23 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1786861132331_7nhdm0_HPv0l5vWAAA9Zfc.jpg" width="600" alt="社群媒體貼文 - 在現代臥室中放鬆的朋友 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1786861122193_hdzbyd_HPvngouXMAAzl8D.jpg" width="600" alt="社群媒體貼文 - 彩色鉛筆風格的草地風景 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1786861132386_emo54d_HPv0oqSXQAAoz3j.jpg" width="600" alt="社群媒體貼文 - 在現代臥室中放鬆的朋友 - Image 2">
+<img src="https://cms-assets.youmind.com/media/1786861122162_wa2ul6_HPvnhY9XwAA2tPS.jpg" width="600" alt="社群媒體貼文 - 彩色鉛筆風格的草地風景 - Image 2">
 </div>
 
 #### 📌 詳情
 
-- **作者:** [J⭕DIE](https://x.com/Jodie_Noraa)
-- **來源:** [Twitter Post](https://x.com/Jodie_Noraa/status/2088531849010135447)
+- **作者:** [Viki](https://x.com/churvikv)
+- **來源:** [Twitter Post](https://x.com/churvikv/status/2088517844535287875)
 - **發布時間:** 2026年8月15日
 - **多語言:** en
 
-**[👉 立即嘗試 →](https://youmind.com/zh-TW/nano-banana-pro-prompts?id=31575)**
+**[👉 立即嘗試 →](https://youmind.com/zh-TW/nano-banana-pro-prompts?id=31568)**
 
 ---
 
@@ -3626,46 +3605,7 @@ Mini Cooper 內裝呈現照片級細節（儀表板、方向盤、座椅、倒�
 
 ---
 
-### No. 67: 漫畫 / 分鏡腳本 - 彩色鉛筆風格的草地風景
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 描述
-
-這是一個寧靜的彩色鉛筆風格提示詞，描繪了一對情侶在日落時分漫步於藍色矢車菊花海中的場景。
-
-#### 📝 提示詞
-
-```
-這是一幅充滿活力的直式彩色鉛筆插畫。一對年輕情侶手牽著手，背對著觀者，沿著一條蜿蜒的窄路走過前景中廣闊的鮮豔藍色矢車菊（Centaurea cyanus）花海，花叢間夾雜著高大的金黃色草叢、莖幹與花苞。女子身穿飄逸的白裙，男子穿著捲起袖口的白襯衫與深色長褲，兩人頭部輕輕向對方傾斜。柔和的連綿山丘向地平線延伸。當晚霞灑落在場景中時，輕柔的夏日微風吹拂著草地與花朵。遠處，陽光在溫暖的琥珀色田野上方探出頭來。天空佔據了畫面的上三分之一，色彩從頂部的深暮藍色過渡到靠近低垂太陽處溫暖的橙色、金色與淡黃色，並點綴著柔軟且帶有背光的雲絲。視角寬廣且略微抬高，展現了細緻的矢車菊、情侶與廣闊的陽光草地。風格令人聯想到彩色鉛筆畫，可見的筆觸營造出一種柔和、寧靜的氛圍。整體氣氛平和、浪漫且充滿懷舊感，溫暖的金色調與花朵冷冽的電光藍形成鮮明對比。這是一幅充滿活力的直式彩色鉛筆插畫。前景覆蓋著廣闊的鮮豔藍色矢車菊（Centaurea cyanus）花海，夾雜著高大的金黃色草叢、莖幹與花苞。一條蜿蜒的泥土小徑穿過花叢向遠方延伸。一層柔和的晨霧與輕微的薄霧輕輕飄過田野與遠岸，柔化了地平線。田野之外，寧靜的海洋延伸至地平線，一艘帆船在平靜的水面上緩緩漂浮。水面映照出天空的溫暖光芒。天空佔據了畫面的上三分之一，色彩從頂部的深暮藍色過渡到靠近低垂太陽處溫暖的橙色、金色與淡黃色，並點綴著柔軟且帶有背光的雲絲。視角寬廣且略微抬高，展現了細緻的矢車菊、霧氣繚繞的草地，以及帶有遠處帆船的廣闊平靜海景。風格令人聯想到彩色鉛筆畫，可見的筆觸營造出一種柔和、寧靜的氛圍。整體氣氛平和、夢幻且充滿懷舊感，溫暖的金色調與花朵冷冽的電光藍形成鮮明對比。
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1786861122193_hdzbyd_HPvngouXMAAzl8D.jpg" width="600" alt="漫畫 / 分鏡腳本 - 彩色鉛筆風格的草地風景 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1786861122162_wa2ul6_HPvnhY9XwAA2tPS.jpg" width="600" alt="漫畫 / 分鏡腳本 - 彩色鉛筆風格的草地風景 - Image 2">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [Viki](https://x.com/churvikv)
-- **來源:** [Twitter Post](https://x.com/churvikv/status/2088517844535287875)
-- **發布時間:** 2026年8月15日
-- **多語言:** en
-
-**[👉 立即嘗試 →](https://youmind.com/zh-TW/nano-banana-pro-prompts?id=31568)**
-
----
-
-### No. 68: 漫畫 / 分鏡腳本 - 日本校服教室肖像
+### No. 67: 漫畫 / 分鏡腳本 - 日本校服教室肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3717,7 +3657,7 @@ Mini Cooper 內裝呈現照片級細節（儀表板、方向盤、座椅、倒�
 
 ---
 
-### No. 69: 漫畫 / 分鏡腳本 - 地下大教堂與機械鯨魚
+### No. 68: 漫畫 / 分鏡腳本 - 地下大教堂與機械鯨魚
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3756,7 +3696,7 @@ Mini Cooper 內裝呈現照片級細節（儀表板、方向盤、座椅、倒�
 
 ---
 
-### No. 70: 漫畫 / 分鏡腳本 - 羊毛氈青蛙海灘立體模型
+### No. 69: 漫畫 / 分鏡腳本 - 羊毛氈青蛙海灘立體模型
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3790,7 +3730,7 @@ Mini Cooper 內裝呈現照片級細節（儀表板、方向盤、座椅、倒�
 
 ---
 
-### No. 71: 漫畫 / 分鏡腳本 - 電影感火車站旅人
+### No. 70: 漫畫 / 分鏡腳本 - 電影感火車站旅人
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3829,7 +3769,7 @@ Mini Cooper 內裝呈現照片級細節（儀表板、方向盤、座椅、倒�
 
 ---
 
-### No. 72: 漫畫 / 分鏡腳本 - 歐洲浪漫華人情侶
+### No. 71: 漫畫 / 分鏡腳本 - 歐洲浪漫華人情侶
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3872,7 +3812,7 @@ Mini Cooper 內裝呈現照片級細節（儀表板、方向盤、座椅、倒�
 
 ---
 
-### No. 73: 漫畫 / 分鏡腳本 - 碎片化幾何具象插畫
+### No. 72: 漫畫 / 分鏡腳本 - 碎片化幾何具象插畫
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3915,7 +3855,7 @@ Mini Cooper 內裝呈現照片級細節（儀表板、方向盤、座椅、倒�
 
 ---
 
-### No. 74: 漫畫 / 分鏡腳本 - 編輯風格幽靈蜘蛛城市肖像
+### No. 73: 漫畫 / 分鏡腳本 - 編輯風格幽靈蜘蛛城市肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3967,7 +3907,7 @@ Mini Cooper 內裝呈現照片級細節（儀表板、方向盤、座椅、倒�
 
 ---
 
-### No. 75: 漫畫 / 分鏡腳本 - 黑暗奇幻戰場戰士
+### No. 74: 漫畫 / 分鏡腳本 - 黑暗奇幻戰場戰士
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4012,7 +3952,7 @@ Mini Cooper 內裝呈現照片級細節（儀表板、方向盤、座椅、倒�
 
 ---
 
-### No. 76: 漫畫 / 分鏡腳本 - 維多利亞時代植物檔案館肖像
+### No. 75: 漫畫 / 分鏡腳本 - 維多利亞時代植物檔案館肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4102,7 +4042,7 @@ Mini Cooper 內裝呈現照片級細節（儀表板、方向盤、座椅、倒�
 
 ---
 
-### No. 77: 漫畫 / 分鏡腳本 - 3D 紙藝立體透視風格
+### No. 76: 漫畫 / 分鏡腳本 - 3D 紙藝立體透視風格
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4169,7 +4109,7 @@ Mini Cooper 內裝呈現照片級細節（儀表板、方向盤、座椅、倒�
 
 ---
 
-### No. 78: 漫畫 / 分鏡腳本 - 哥德式奇幻鬼屋
+### No. 77: 漫畫 / 分鏡腳本 - 哥德式奇幻鬼屋
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4203,7 +4143,7 @@ Mini Cooper 內裝呈現照片級細節（儀表板、方向盤、座椅、倒�
 
 ---
 
-### No. 79: 漫畫 / 分鏡腳本 - 寧靜文學花園之旅
+### No. 78: 漫畫 / 分鏡腳本 - 寧靜文學花園之旅
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4237,7 +4177,7 @@ Mini Cooper 內裝呈現照片級細節（儀表板、方向盤、座椅、倒�
 
 ---
 
-### No. 80: 漫畫 / 分鏡腳本 - 哆啦 A 夢電影風格場景渲染
+### No. 79: 漫畫 / 分鏡腳本 - 哆啦 A 夢電影風格場景渲染
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4271,7 +4211,7 @@ Mini Cooper 內裝呈現照片級細節（儀表板、方向盤、座椅、倒�
 
 ---
 
-### No. 81: 漫畫 / 分鏡腳本 - 多面板表情網格
+### No. 80: 漫畫 / 分鏡腳本 - 多面板表情網格
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4311,7 +4251,7 @@ Mini Cooper 內裝呈現照片級細節（儀表板、方向盤、座椅、倒�
 
 ---
 
-### No. 82: 漫畫 / 分鏡腳本 - 寧靜花園文學肖像
+### No. 81: 漫畫 / 分鏡腳本 - 寧靜花園文學肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4357,7 +4297,7 @@ Mini Cooper 內裝呈現照片級細節（儀表板、方向盤、座椅、倒�
 
 ---
 
-### No. 83: 漫畫 / 分鏡腳本 - 奢華香氛專案版面設計
+### No. 82: 漫畫 / 分鏡腳本 - 奢華香氛專案版面設計
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4391,7 +4331,7 @@ Mini Cooper 內裝呈現照片級細節（儀表板、方向盤、座椅、倒�
 
 ---
 
-### No. 84: 漫畫 / 分鏡腳本 - 角色互動道具新增
+### No. 83: 漫畫 / 分鏡腳本 - 角色互動道具新增
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4425,7 +4365,7 @@ Mini Cooper 內裝呈現照片級細節（儀表板、方向盤、座椅、倒�
 
 ---
 
-### No. 85: 產品行銷 - 時尚雜誌風格人像參考
+### No. 84: 產品行銷 - 時尚雜誌風格人像參考
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4459,7 +4399,7 @@ Mini Cooper 內裝呈現照片級細節（儀表板、方向盤、座椅、倒�
 
 ---
 
-### No. 86: 產品行銷 - 城市街頭潮流雜誌編輯企劃
+### No. 85: 產品行銷 - 城市街頭潮流雜誌編輯企劃
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4511,7 +4451,7 @@ Mini Cooper 內裝呈現照片級細節（儀表板、方向盤、座椅、倒�
 
 ---
 
-### No. 87: 產品行銷 - 奢華巧克力廣告靜物攝影
+### No. 86: 產品行銷 - 奢華巧克力廣告靜物攝影
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4563,7 +4503,7 @@ Mini Cooper 內裝呈現照片級細節（儀表板、方向盤、座椅、倒�
 
 ---
 
-### No. 88: 產品行銷 - 優雅男士暮光時尚特輯
+### No. 87: 產品行銷 - 優雅男士暮光時尚特輯
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4597,7 +4537,7 @@ Mini Cooper 內裝呈現照片級細節（儀表板、方向盤、座椅、倒�
 
 ---
 
-### No. 89: 產品行銷 - 暮色男裝時尚肖像
+### No. 88: 產品行銷 - 暮色男裝時尚肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4631,7 +4571,7 @@ Mini Cooper 內裝呈現照片級細節（儀表板、方向盤、座椅、倒�
 
 ---
 
-### No. 90: 產品行銷 - 超現實美妝產品髮捲
+### No. 89: 產品行銷 - 超現實美妝產品髮捲
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4665,7 +4605,7 @@ Mini Cooper 內裝呈現照片級細節（儀表板、方向盤、座椅、倒�
 
 ---
 
-### No. 91: 產品行銷 - 花卉大腦雕塑
+### No. 90: 產品行銷 - 花卉大腦雕塑
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4699,7 +4639,7 @@ Mini Cooper 內裝呈現照片級細節（儀表板、方向盤、座椅、倒�
 
 ---
 
-### No. 92: 產品行銷 - 極簡室內時尚人像
+### No. 91: 產品行銷 - 極簡室內時尚人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4739,7 +4679,7 @@ Mini Cooper 內裝呈現照片級細節（儀表板、方向盤、座椅、倒�
 
 ---
 
-### No. 93: 產品行銷 - 電影感城市夜景廣告看板人像
+### No. 92: 產品行銷 - 電影感城市夜景廣告看板人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4807,7 +4747,7 @@ Mini Cooper 內裝呈現照片級細節（儀表板、方向盤、座椅、倒�
 
 ---
 
-### No. 94: 產品行銷 - 覆盆子外殼產品攝影
+### No. 93: 產品行銷 - 覆盆子外殼產品攝影
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4859,7 +4799,7 @@ Mini Cooper 內裝呈現照片級細節（儀表板、方向盤、座椅、倒�
 
 ---
 
-### No. 95: 產品行銷 - 身穿螢光黃泳裝的女子在別墅泳池畔
+### No. 94: 產品行銷 - 身穿螢光黃泳裝的女子在別墅泳池畔
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4908,6 +4848,40 @@ Mini Cooper 內裝呈現照片級細節（儀表板、方向盤、座椅、倒�
 - **多語言:** en
 
 **[👉 立即嘗試 →](https://youmind.com/zh-TW/nano-banana-pro-prompts?id=31478)**
+
+---
+
+### No. 95: 產品行銷 - 宮廷時尚雜誌封面
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+一組以歐洲宮殿為背景的高級時尚編輯攝影提示詞，包含紫色鮑伯頭造型與奢華配件。
+
+#### 📝 提示詞
+
+```
+一張高級時尚編輯攝影照片，主角是一位時髦的年輕女性，留著 {argument name="hair style" default="亮紫色鮑伯頭"} 並戴著時尚太陽眼鏡。她穿著一件 {argument name="clothing" default="深藍色天鵝絨無袖連身褲"}，並向鏡頭展示一個大型、奢華的 {argument name="accessory" default="祖母綠皮革手提包"}，包上配有金色金屬扣。低角度透視。場景設定在優雅的古典歐洲宮殿內，背景有石拱門、高大的法式落地窗以及柔和的自然光。照片級真實感，8k 解析度，電影級燈光，焦點清晰，時尚雜誌封面風格。
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1786774867894_9j93j5_HPs3uqja4AA_W3d.jpg" width="600" alt="產品行銷 - 宮廷時尚雜誌封面 - Image 1">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [Wareen AI 💟](https://x.com/Wareenaa)
+- **來源:** [Twitter Post](https://x.com/Wareenaa/status/2088324136909357375)
+- **發布時間:** 2026年8月14日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/zh-TW/nano-banana-pro-prompts?id=31470)**
 
 ---
 
@@ -5976,7 +5950,7 @@ Mini Cooper 內裝呈現照片級細節（儀表板、方向盤、座椅、倒�
 
 <div align="center">
 
-### 🎯 15128 更多提示詞未在此顯示
+### 🎯 15126 更多提示詞未在此顯示
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -6039,6 +6013,6 @@ The gallery features:
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-08-18T12:21:00.176Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-08-18T16:18:23.166Z</sub>
 
 </div>

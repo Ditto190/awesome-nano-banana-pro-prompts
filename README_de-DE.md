@@ -143,9 +143,9 @@ Bei Verwendung in Raycast können Sie die Argumente dynamisch ersetzen, um schne
 
 | Metrik | Anzahl |
 |--------|-------|
-| 📝 Gesamtanzahl Prompts | **15248** |
+| 📝 Gesamtanzahl Prompts | **15246** |
 | ⭐ Ausgewählt | **9** |
-| 🔄 Zuletzt aktualisiert | **Dienstag, 18. August 2026 um 12:21:33 UTC** |
+| 🔄 Zuletzt aktualisiert | **Dienstag, 18. August 2026 um 16:19:53 UTC** |
 
 </div>
 
@@ -2048,19 +2048,18 @@ Ein selbstbewusstes junges männliches Model sitzt auf der linken Seite des Bild
 
 ---
 
-### No. 31: Social-Media-Beitrag - Freunde entspannen in modernem Schlafzimmer
+### No. 31: Social-Media-Beitrag - Wiesenlandschaft mit Buntstiften
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Beschreibung
 
-Ein Lifestyle-Porträt-Prompt von zwei Freunden, die einen fröhlichen Moment in einem gemütlichen, modernen Schlafzimmer mit großen Fenstern teilen.
+Ein ruhiger Prompt im Buntstift-Stil, der ein Paar zeigt, das bei Sonnenuntergang durch ein Feld mit blauen Kornblumen spaziert.
 
 #### 📝 Prompt
 
 ```
-Erstelle ein fotorealistisches Lifestyle-Porträt von zwei jungen Frauen, die gemütlich zusammen auf einem ordentlich gemachten Bett in einem hellen, modernen Schlafzimmer sitzen. Sie sind enge Freundinnen, die einen entspannten, fröhlichen Moment teilen und mit warmem, natürlichem Lächeln direkt in die Kamera schauen.\n\n1. Personen, Haare, Haut, Ausdruck und Pose:\n\nFrau links: warme, helle Haut mit natürlichem Teint und dezenter Hautstruktur, {argument name="woman one hair" default="rötlich-kastanienbraunes"} Haar, das zu einem lockeren Pferdeschwanz zusammengebunden ist, mit ein paar weichen Strähnen um das Gesicht, sauber geformte Augenbrauen, natürliches Make-up und ein strahlendes, freundliches Lächeln. Sie sitzt bequem mit zur Seite angewinkelten Beinen, entspannten Schultern und einer Hand, die natürlich in der Nähe ihres Knies ruht.\n\nFrau rechts: helle Haut mit realistischer, natürlicher Textur, langes blondes Haar, das zu einem hohen Pferdeschwanz gebunden ist, wobei glatte Strähnen hinter ihre Schulter fallen, sanft definierte Augenbrauen, dezentes natürliches Make-up und ein fröhliches, offenes Lächeln. Sie sitzt neben ihrer Freundin in einer entspannten Haltung, lehnt sich leicht zu ihr hinüber und hält ihre Arme in einer bequemen Position.\n\nBeide Personen sollten realistische erwachsene Gesichtszüge, natürliche Proportionen, authentische Ausdrücke und eine entspannte Körpersprache aufweisen. Ihre Interaktion sollte sich spontan und freundschaftlich anfühlen, nicht gestellt.\n\n2. Kleidung und Accessoires:\nDie Frau links trägt eine {argument name="woman one outfit" default="tief smaragdgrüne Strickjacke mit Struktur"} mit kleinen Knöpfen und eine schlichte Goldkette mit einem kleinen rechteckigen Anhänger. Füge dezente Ringe und sauber manikürte Nägel in neutralen Farben hinzu.\nDie Frau rechts trägt eine {argument name="woman two outfit" default="tief dunkelblaue Strickjacke mit Struktur"} mit einer bequemen, modernen Silhouette und minimalistischem Schmuck.\nHalte die Kleidung geschmackvoll, lässig und absolut angemessen, mit realistischer Stoffstruktur, Nähten, Falten und natürlichem Fall. Vermeide sichtbare Markenlogos.\n\n3. Umgebung und Beleuchtung:\nSetze die Szene in ein gemütliches, modernes Schlafzimmer mit einem großen Bett, das mit einer weichen, gedeckt grauen Decke mit Struktur, neutraler Bettwäsche und großen, bodentiefen Fenstern hinter den Personen bedeckt ist. Zeige durch die Fenster eine sanft verschwommene grüne Außenlandschaft mit Bäumen und natürlicher Kulisse. Füge dezente Schlafzimmerdetails wie Kissen und einen kleinen Gegenstand hinzu, der natürlich im Hintergrund auf dem Bett liegt.\nNutze weiches Tageslicht, das durch die Fenster fällt und eine sanfte Ausleuchtung der Gesichter sowie subtile, natürliche Schatten erzeugt. Die Atmosphäre sollte sich warm, friedlich, komfortabel und ungezwungen anfühlen.\n\n4. Kamera und visueller Stil:\nFotografiert mit einer Vollformatkamera und einem 50mm- oder 85mm-Porträtobjektiv, Augenhöhe, natürliche Porträtkompression, mittlere Weitwinkelaufnahme, geringe Schärfentiefe und präziser Fokus auf beide Gesichter. Nutze weiches, natürliches Fensterlicht, realistische Belichtung, hohen Dynamikumfang, akkurate
+Eine lebendige Buntstift-Illustration im Hochformat. Ein junges Paar geht Hand in Hand vom Betrachter weg auf einem schmalen, gewundenen Pfad durch ein riesiges Feld aus leuchtend blauen Kornblumen (Centaurea cyanus) im Vordergrund, inmitten von hohem, goldgelbem Gras, durchsetzt mit Stängeln und Knospen. Die Frau trägt ein fließendes weißes Kleid, der Mann ein weißes Hemd mit hochgekrempelten Ärmeln und eine dunkle Hose; ihre Köpfe sind sanft zueinander geneigt. Sanfte Hügel erstrecken sich bis zum Horizont. Eine leichte Sommerbrise biegt das Gras und die Blumen, während das Abendlicht über die Szene fällt. In der Ferne lugt das Sonnenlicht über warme, bernsteinfarbene Felder. Der Himmel füllt das obere Drittel und ist von einem tiefen, dämmrigen Blau an der Spitze bis hin zu warmen Orange-, Gold- und hellen Gelbtönen in der Nähe der tiefstehenden Sonne gefärbt, mit weichen, zarten, von hinten beleuchteten Wolken. Die Perspektive ist weit und leicht erhöht und zeigt die detaillierten Kornblumen, das Paar und die weitläufige, sonnendurchflutete Wiese. Der Stil erinnert an Buntstiftkunst, wobei sichtbare Texturen eine weiche, heitere Stimmung erzeugen. Die Gesamtatmosphäre ist friedlich, romantisch und nostalgisch, mit warmen Goldtönen, die einen Kontrast zum kühlen Elektroblau der Blumen bilden. Eine lebendige Buntstift-Illustration im Hochformat. Ein riesiges Feld aus leuchtend blauen Kornblumen (Centaurea cyanus) bedeckt den Vordergrund, inmitten von hohem, goldgelbem Gras, durchsetzt mit Stängeln und Knospen. Ein schmaler, gewundener Feldweg schlängelt sich durch die Blumen in die Ferne. Eine sanfte Schicht aus Morgennebel und leichtem Dunst zieht sanft über das Feld und das ferne Ufer und lässt den Horizont weicher erscheinen. Jenseits des Feldes erstreckt sich ein ruhiger Ozean bis zum Horizont, wo ein einzelnes Segelboot sanft auf dem stillen Wasser treibt. Das Wasser reflektiert den warmen Glanz des Himmels. Der Himmel füllt das obere Drittel und ist von einem tiefen, dämmrigen Blau an der Spitze bis hin zu warmen Orange-, Gold- und hellen Gelbtönen in der Nähe der tiefstehenden Sonne gefärbt, mit weichen, zarten, von hinten beleuchteten Wolken. Die Perspektive ist weit und leicht erhöht und zeigt die detaillierten Kornblumen, die neblige Wiese und die weitläufige, ruhige Meereslandschaft mit dem entfernten Segelboot. Der Stil erinnert an Buntstiftkunst, wobei sichtbare Texturen eine weiche, heitere Stimmung erzeugen. Die Gesamtatmosphäre ist friedlich, verträumt und nostalgisch, mit warmen Goldtönen, die einen Kontrast zum kühlen Elektroblau der Blumen bilden.
 ```
 
 #### 🖼️ Generierte Bilder
@@ -2068,23 +2067,23 @@ Erstelle ein fotorealistisches Lifestyle-Porträt von zwei jungen Frauen, die ge
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1786861132331_7nhdm0_HPv0l5vWAAA9Zfc.jpg" width="600" alt="Social-Media-Beitrag - Freunde entspannen in modernem Schlafzimmer - Image 1">
+<img src="https://cms-assets.youmind.com/media/1786861122193_hdzbyd_HPvngouXMAAzl8D.jpg" width="600" alt="Social-Media-Beitrag - Wiesenlandschaft mit Buntstiften - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1786861132386_emo54d_HPv0oqSXQAAoz3j.jpg" width="600" alt="Social-Media-Beitrag - Freunde entspannen in modernem Schlafzimmer - Image 2">
+<img src="https://cms-assets.youmind.com/media/1786861122162_wa2ul6_HPvnhY9XwAA2tPS.jpg" width="600" alt="Social-Media-Beitrag - Wiesenlandschaft mit Buntstiften - Image 2">
 </div>
 
 #### 📌 Details
 
-- **Autor:** [J⭕DIE](https://x.com/Jodie_Noraa)
-- **Quelle:** [Twitter Post](https://x.com/Jodie_Noraa/status/2088531849010135447)
+- **Autor:** [Viki](https://x.com/churvikv)
+- **Quelle:** [Twitter Post](https://x.com/churvikv/status/2088517844535287875)
 - **Veröffentlicht:** 15. August 2026
 - **Sprachen:** en
 
-**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/nano-banana-pro-prompts?id=31575)**
+**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/nano-banana-pro-prompts?id=31568)**
 
 ---
 
@@ -3549,46 +3548,7 @@ Ein Prompt mit trockenem Humor, in dem eine winzige orangefarbene Katze in einem
 
 ---
 
-### No. 67: Comic / Storyboard - Wiesenlandschaft mit Buntstiften
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Beschreibung
-
-Ein ruhiger Prompt im Buntstift-Stil, der ein Paar zeigt, das bei Sonnenuntergang durch ein Feld mit blauen Kornblumen spaziert.
-
-#### 📝 Prompt
-
-```
-Eine lebendige Buntstift-Illustration im Hochformat. Ein junges Paar geht Hand in Hand vom Betrachter weg auf einem schmalen, gewundenen Pfad durch ein riesiges Feld aus leuchtend blauen Kornblumen (Centaurea cyanus) im Vordergrund, inmitten von hohem, goldgelbem Gras, durchsetzt mit Stängeln und Knospen. Die Frau trägt ein fließendes weißes Kleid, der Mann ein weißes Hemd mit hochgekrempelten Ärmeln und eine dunkle Hose; ihre Köpfe sind sanft zueinander geneigt. Sanfte Hügel erstrecken sich bis zum Horizont. Eine leichte Sommerbrise biegt das Gras und die Blumen, während das Abendlicht über die Szene fällt. In der Ferne lugt das Sonnenlicht über warme, bernsteinfarbene Felder. Der Himmel füllt das obere Drittel und ist von einem tiefen, dämmrigen Blau an der Spitze bis hin zu warmen Orange-, Gold- und hellen Gelbtönen in der Nähe der tiefstehenden Sonne gefärbt, mit weichen, zarten, von hinten beleuchteten Wolken. Die Perspektive ist weit und leicht erhöht und zeigt die detaillierten Kornblumen, das Paar und die weitläufige, sonnendurchflutete Wiese. Der Stil erinnert an Buntstiftkunst, wobei sichtbare Texturen eine weiche, heitere Stimmung erzeugen. Die Gesamtatmosphäre ist friedlich, romantisch und nostalgisch, mit warmen Goldtönen, die einen Kontrast zum kühlen Elektroblau der Blumen bilden. Eine lebendige Buntstift-Illustration im Hochformat. Ein riesiges Feld aus leuchtend blauen Kornblumen (Centaurea cyanus) bedeckt den Vordergrund, inmitten von hohem, goldgelbem Gras, durchsetzt mit Stängeln und Knospen. Ein schmaler, gewundener Feldweg schlängelt sich durch die Blumen in die Ferne. Eine sanfte Schicht aus Morgennebel und leichtem Dunst zieht sanft über das Feld und das ferne Ufer und lässt den Horizont weicher erscheinen. Jenseits des Feldes erstreckt sich ein ruhiger Ozean bis zum Horizont, wo ein einzelnes Segelboot sanft auf dem stillen Wasser treibt. Das Wasser reflektiert den warmen Glanz des Himmels. Der Himmel füllt das obere Drittel und ist von einem tiefen, dämmrigen Blau an der Spitze bis hin zu warmen Orange-, Gold- und hellen Gelbtönen in der Nähe der tiefstehenden Sonne gefärbt, mit weichen, zarten, von hinten beleuchteten Wolken. Die Perspektive ist weit und leicht erhöht und zeigt die detaillierten Kornblumen, die neblige Wiese und die weitläufige, ruhige Meereslandschaft mit dem entfernten Segelboot. Der Stil erinnert an Buntstiftkunst, wobei sichtbare Texturen eine weiche, heitere Stimmung erzeugen. Die Gesamtatmosphäre ist friedlich, verträumt und nostalgisch, mit warmen Goldtönen, die einen Kontrast zum kühlen Elektroblau der Blumen bilden.
-```
-
-#### 🖼️ Generierte Bilder
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1786861122193_hdzbyd_HPvngouXMAAzl8D.jpg" width="600" alt="Comic / Storyboard - Wiesenlandschaft mit Buntstiften - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1786861122162_wa2ul6_HPvnhY9XwAA2tPS.jpg" width="600" alt="Comic / Storyboard - Wiesenlandschaft mit Buntstiften - Image 2">
-</div>
-
-#### 📌 Details
-
-- **Autor:** [Viki](https://x.com/churvikv)
-- **Quelle:** [Twitter Post](https://x.com/churvikv/status/2088517844535287875)
-- **Veröffentlicht:** 15. August 2026
-- **Sprachen:** en
-
-**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/nano-banana-pro-prompts?id=31568)**
-
----
-
-### No. 68: Comic / Storyboard - Porträt einer japanischen Schülerin im Klassenzimmer
+### No. 67: Comic / Storyboard - Porträt einer japanischen Schülerin im Klassenzimmer
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3640,7 +3600,7 @@ Eine junge {argument name="subject" default="ostasiatische Frau"} mit einem schw
 
 ---
 
-### No. 69: Comic / Storyboard - Unterirdische Kathedrale und mechanischer Wal
+### No. 68: Comic / Storyboard - Unterirdische Kathedrale und mechanischer Wal
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3679,7 +3639,7 @@ Ultra-scharfes, filmisches Standbild von vier Frauen aus verschiedenen vergessen
 
 ---
 
-### No. 70: Comic / Storyboard - Filzfrosch-Diorama am Strand
+### No. 69: Comic / Storyboard - Filzfrosch-Diorama am Strand
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3713,7 +3673,7 @@ Ein Filzfrosch, der {argument name="clothing" default="eine blau gepunktete Bade
 
 ---
 
-### No. 71: Comic / Storyboard - Filmreifer Reisender am Bahnhof
+### No. 70: Comic / Storyboard - Filmreifer Reisender am Bahnhof
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3752,7 +3712,7 @@ Eine realistische, filmreife Weitwinkelaufnahme von hinten eines Mannes, der auf
 
 ---
 
-### No. 72: Comic / Storyboard - Romantisches chinesisches Paar in Europa
+### No. 71: Comic / Storyboard - Romantisches chinesisches Paar in Europa
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3795,7 +3755,7 @@ Konsistente Charaktere in allen vier Panels, dasselbe chinesische Paar, dieselbe
 
 ---
 
-### No. 73: Comic / Storyboard - Fragmentierte geometrische figurative Illustration
+### No. 72: Comic / Storyboard - Fragmentierte geometrische figurative Illustration
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3838,7 +3798,7 @@ Hochgradig ausdrucksstarke Linienhierarchie, komplexe Mikrodetails, eleganter vi
 
 ---
 
-### No. 74: Comic / Storyboard - Editorial Ghost-Spider Urban-Porträt
+### No. 73: Comic / Storyboard - Editorial Ghost-Spider Urban-Porträt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3890,7 +3850,7 @@ Die Beleuchtung ist eine diegetische urbane Nachtbeleuchtung mit satten, erhalte
 
 ---
 
-### No. 75: Comic / Storyboard - Dark-Fantasy-Schlachtfeldkrieger
+### No. 74: Comic / Storyboard - Dark-Fantasy-Schlachtfeldkrieger
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3935,7 +3895,7 @@ Hochdetaillierter filmischer Realismus, fotorealistische Texturen, realistische 
 
 ---
 
-### No. 76: Comic / Storyboard - Botanisches Archiv Viktorianisches Porträt
+### No. 75: Comic / Storyboard - Botanisches Archiv Viktorianisches Porträt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4025,7 +3985,7 @@ Ein strukturiertes, hyperrealistisches Porträt-Prompt-Set in einem dichten bota
 
 ---
 
-### No. 77: Comic / Storyboard - 3D-Papierkunst-Diorama-Stil
+### No. 76: Comic / Storyboard - 3D-Papierkunst-Diorama-Stil
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4092,7 +4052,7 @@ Fügen Sie keine neuen Personen hinzu, entfernen Sie keine wichtigen Motive, än
 
 ---
 
-### No. 78: Comic / Storyboard - Skurriles gotisches Spukhaus
+### No. 77: Comic / Storyboard - Skurriles gotisches Spukhaus
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4126,7 +4086,7 @@ Ein skurriles, {argument name="style" default="gothic-style"} Spukhaus thront au
 
 ---
 
-### No. 79: Comic / Storyboard - Gelassene literarische Gartenflucht
+### No. 78: Comic / Storyboard - Gelassene literarische Gartenflucht
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4160,7 +4120,7 @@ Eine gelassene {argument name="setting" default="literarische Zuflucht inmitten 
 
 ---
 
-### No. 80: Comic / Storyboard - Szenen-Rendering im Doraemon-Filmstil
+### No. 79: Comic / Storyboard - Szenen-Rendering im Doraemon-Filmstil
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4194,7 +4154,7 @@ Rendere das Referenz-Blockout als Szene aus einem {argument name="movie style" d
 
 ---
 
-### No. 81: Comic / Storyboard - Multi-Panel-Ausdrucksraster
+### No. 80: Comic / Storyboard - Multi-Panel-Ausdrucksraster
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4234,7 +4194,7 @@ Ein mehrteiliges fotografisches Raster mit einer {argument name="subject" defaul
 
 ---
 
-### No. 82: Comic / Storyboard - Literarisches Porträt im stillen Garten
+### No. 81: Comic / Storyboard - Literarisches Porträt im stillen Garten
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4280,7 +4240,7 @@ Eine ruhige literarische Auszeit inmitten blühender Gartenruinen, wo stille Sei
 
 ---
 
-### No. 83: Comic / Storyboard - Storyboard-Layout für Luxusparfüms
+### No. 82: Comic / Storyboard - Storyboard-Layout für Luxusparfüms
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4314,7 +4274,7 @@ Erstelle ein hochwertiges 4:3-Storyboards für ein Parfüm-Pitch-Deck im {argume
 
 ---
 
-### No. 84: Comic / Storyboard - Hinzufügen von Interaktionsobjekten für Charaktere
+### No. 83: Comic / Storyboard - Hinzufügen von Interaktionsobjekten für Charaktere
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4348,7 +4308,7 @@ Eine {argument name="object" default="Teetasse"} auf einer {argument name="surfa
 
 ---
 
-### No. 85: Produktmarketing - Fashion-Editorial-Referenzporträt
+### No. 84: Produktmarketing - Fashion-Editorial-Referenzporträt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4382,7 +4342,7 @@ Erstelle ein High-Fashion-Editorial-Porträt von {argument name="subject" defaul
 
 ---
 
-### No. 86: Produktmarketing - Urban Streetwear Magazin-Editorial
+### No. 85: Produktmarketing - Urban Streetwear Magazin-Editorial
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4434,7 +4394,7 @@ Ein {argument name="style" default="hochwertiges Urban-Streetwear-Modemagazin-Co
 
 ---
 
-### No. 87: Produktmarketing - Luxus-Schokoladenwerbung Stillleben
+### No. 86: Produktmarketing - Luxus-Schokoladenwerbung Stillleben
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4486,7 +4446,7 @@ Ein helles, stilisiertes Stillleben und eine konzeptionelle Fotografie aus einer
 
 ---
 
-### No. 88: Produktmarketing - Elegantes Herren-Editorial zur Dämmerungszeit
+### No. 87: Produktmarketing - Elegantes Herren-Editorial zur Dämmerungszeit
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4520,7 +4480,7 @@ Ein junges, konventionell attraktives männliches Model steht selbstbewusst in d
 
 ---
 
-### No. 89: Produktmarketing - Twilight Menswear Editorial Portrait
+### No. 88: Produktmarketing - Twilight Menswear Editorial Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4554,7 +4514,7 @@ Ein junger, konventionell attraktiver {argument name="gender" default="männlich
 
 ---
 
-### No. 90: Produktmarketing - Surreales Beauty-Produkt Haarwickler
+### No. 89: Produktmarketing - Surreales Beauty-Produkt Haarwickler
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4588,7 +4548,7 @@ Studio-Produktfoto von hinten einer Person mit {argument name="hair color" defau
 
 ---
 
-### No. 91: Produktmarketing - Blumige Gehirn-Skulptur
+### No. 90: Produktmarketing - Blumige Gehirn-Skulptur
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4622,7 +4582,7 @@ Eine Nahaufnahme im Seitenprofil einer menschlichen Gehirn-Skulptur aus {argumen
 
 ---
 
-### No. 92: Produktmarketing - Minimalistisches Interior-Modeporträt
+### No. 91: Produktmarketing - Minimalistisches Interior-Modeporträt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4656,7 +4616,7 @@ Ultrarealistisches Ganzkörper-Lifestyle-Modeporträt einer schönen jungen Frau
 
 ---
 
-### No. 93: Produktmarketing - Cinematic Urban Night Billboard Portrait
+### No. 92: Produktmarketing - Cinematic Urban Night Billboard Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4725,7 +4685,7 @@ Verwenden Sie das Referenzbild als primäre Quelle für die Gesichtszüge, das E
 
 ---
 
-### No. 94: Produktmarketing - Himbeer-Schalen-Produktfotografie
+### No. 93: Produktmarketing - Himbeer-Schalen-Produktfotografie
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4777,7 +4737,7 @@ Studio-Produktfoto von {argument name="product" default="Produkt aus hochgeladen
 
 ---
 
-### No. 95: Produktmarketing - Frau im neongelben Badeanzug am Villenpool
+### No. 94: Produktmarketing - Frau im neongelben Badeanzug am Villenpool
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4826,6 +4786,40 @@ Eine private Poolterrasse einer Villa, umgeben von rustikalem alten Mauerwerk un
 - **Sprachen:** en
 
 **[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/nano-banana-pro-prompts?id=31478)**
+
+---
+
+### No. 95: Produktmarketing - Palast-Modemagazin-Cover
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Beschreibung
+
+Ein High-Fashion-Editorial-Prompt, angesiedelt in einem europäischen Palast, mit einer violetten Bob-Frisur und Luxus-Accessoires.
+
+#### 📝 Prompt
+
+```
+High-Fashion-Editorial-Foto einer stilvollen jungen Frau mit einem {argument name="hair style" default="leuchtend violetten Bob-Haarschnitt"} und schicker Sonnenbrille. Sie trägt einen {argument name="clothing" default="ärmellosen Jumpsuit aus tiefblauem Samt"} und hält eine große, luxuriöse {argument name="accessory" default="smaragdgrüne Ledertasche"} mit goldenem Metallverschluss in Richtung Kamera. Froschperspektive. Aufgenommen in einem eleganten, klassischen europäischen Palast mit Steinbögen, hohen Fenstertüren und weichem, natürlichem Sonnenlicht. Fotorealistisch, 8k-Auflösung, filmische Beleuchtung, scharfer Fokus, Stil eines Modemagazin-Covers.
+```
+
+#### 🖼️ Generierte Bilder
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1786774867894_9j93j5_HPs3uqja4AA_W3d.jpg" width="600" alt="Produktmarketing - Palast-Modemagazin-Cover - Image 1">
+</div>
+
+#### 📌 Details
+
+- **Autor:** [Wareen AI 💟](https://x.com/Wareenaa)
+- **Quelle:** [Twitter Post](https://x.com/Wareenaa/status/2088324136909357375)
+- **Veröffentlicht:** 14. August 2026
+- **Sprachen:** en
+
+**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/nano-banana-pro-prompts?id=31470)**
 
 ---
 
@@ -5894,7 +5888,7 @@ Ein einfacher, atmosphärischer Prompt für ein Schulmädchen, das in einer dunk
 
 <div align="center">
 
-### 🎯 15128 weitere Prompts hier nicht angezeigt
+### 🎯 15126 weitere Prompts hier nicht angezeigt
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -5957,6 +5951,6 @@ Lizenziert unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Prompt einreichen](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Dieses Repository mit Stern markieren](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-08-18T12:21:33.831Z</sub>
+<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-08-18T16:19:53.043Z</sub>
 
 </div>

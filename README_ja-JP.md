@@ -143,9 +143,9 @@ Raycast で使用すると、引数を動的に置き換えて迅速に反復で
 
 | 指標 | 数 |
 |--------|-------|
-| 📝 プロンプト総数 | **15248** |
+| 📝 プロンプト総数 | **15246** |
 | ⭐ おすすめ | **9** |
-| 🔄 最終更新 | **2026年8月18日火曜日 12:21:04 UTC** |
+| 🔄 最終更新 | **2026年8月18日火曜日 16:18:41 UTC** |
 
 </div>
 
@@ -2112,39 +2112,18 @@ VISUAL HIERARCHY（視覚的階層）
 
 ---
 
-### No. 31: ソーシャルメディア投稿 - モダンなベッドルームでくつろぐ友人たち
+### No. 31: ソーシャルメディア投稿 - 色鉛筆で描く草原の風景
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 説明
 
-大きな窓のある居心地の良いモダンなベッドルームで、楽しげなひとときを過ごす友人2人を捉えたライフスタイルポートレート用プロンプト。
+夕暮れ時の青いヤグルマギクの野原を歩くカップルを描いた、穏やかな色鉛筆スタイルのプロンプトです。
 
 #### 📝 プロンプト
 
 ```
-明るくモダンなベッドルームで、きれいに整えられたベッドの上に仲良く座る2人の若い女性のフォトリアルなライフスタイルポートレートを作成してください。親しい友人同士がリラックスして楽しそうに過ごしており、温かく自然な笑顔でカメラをまっすぐに見つめています。
-
-1. 被写体、髪型、肌、表情、ポーズ：
-
-左側の女性：自然な顔色と繊細な肌の質感を持つ温かみのある色白の肌、{argument name="woman one hair" default="赤みがかったオーバーン（赤褐色）"}の髪をゆるいポニーテールにまとめ、顔周りに柔らかな後れ毛を残しています。整った眉、ナチュラルメイク、明るく親しみやすい笑顔。片側に足を折りたたんで快適に座り、肩の力を抜き、片手を膝の近くに自然に置いています。
-
-右側の女性：リアルで自然な質感の色白の肌、長いブロンドヘアを高い位置でポニーテールにし、滑らかな毛束が肩の後ろに流れています。柔らかく描かれた眉、控えめなナチュラルメイク、楽しげな満面の笑み。友人の隣でリラックスした姿勢で座り、腕を自然な位置に保ちながら、少し友人に寄り添っています。
-
-両被写体とも、リアルな大人の顔立ち、自然なプロポーション、本物の表情、リラックスしたボディランゲージである必要があります。演出された感じではなく、自然で親密な交流の様子を表現してください。
-
-2. 服装とアクセサリー：
-左側の女性は、小さなボタンが付いた{argument name="woman one outfit" default="深いエメラルドグリーンの質感のあるニットカーディガン"}を着用し、小さな長方形のペンダントが付いたシンプルなゴールドのチェーンネックレスを身につけています。控えめな指輪を加え、爪はニュートラルカラーで丁寧に整えられています。
-右側の女性は、快適で現代的なシルエットの{argument name="woman two outfit" default="深いネイビーブルーの質感のあるニットカーディガン"}を着用し、ジュエリーは最小限に抑えています。
-服装は上品でカジュアル、かつ適切なものにし、リアルな生地の質感、縫い目、シワ、自然なドレープを表現してください。目立つブランドロゴは避けてください。
-
-3. 環境と照明：
-舞台は、柔らかい落ち着いたグレーの質感のあるブランケットとニュートラルな寝具で覆われた大きなベッドがある、居心地の良いモダンなベッドルームです。被写体の背後には大きな床から天井までの窓を配置します。窓の外には、木々や自然の風景が柔らかくぼやけて見えるようにしてください。枕やベッドの上に自然に置かれた小さな小物など、ベッドルームの細部もさりげなく含めてください。
-窓から差し込む柔らかな自然光を使用し、両者の顔に優しい光を当て、自然な影を落とします。温かく、穏やかで、快適な、ありのままの雰囲気を感じさせるようにしてください。
-
-4. カメラとビジュアルスタイル：
-フルサイズカメラと 50mm または 85mm のポートレートレンズで撮影。アイレベルの視点、自然なポートレート圧縮、ミディアムワイドのフレーミング、浅い被写界深度で、両者の顔に正確にピントを合わせてください。窓からの柔らかな自然光、リアルな露出、高いダイナミックレンジ、正確な
+縦長の構図で描かれた、鮮やかな色鉛筆画です。手前には鮮やかな青いヤグルマギク（Centaurea cyanus）が咲き誇る広大な野原が広がり、背の高い黄金色の草や茎、蕾が混ざり合っています。その中を、若いカップルが手をつなぎ、曲がりくねった細い道を歩き去っていく様子が描かれています。女性は白いワンピースをまとい、男性は袖をまくった白いシャツにダークカラーのパンツを着用し、互いに優しく頭を寄せ合っています。なだらかな丘が地平線まで続き、夏の穏やかなそよ風が草花を揺らし、夕暮れの光がシーン全体を包み込みます。遠くでは、温かみのある琥珀色の野原の向こうから太陽が顔をのぞかせています。画面の上部 3 分の 1 を占める空は、上部の深い夕闇の青から、太陽に近いオレンジ、ゴールド、淡いイエローへとグラデーションを描き、柔らかな薄雲が逆光に照らされています。広角で少し高い位置からの視点は、細部まで描き込まれたヤグルマギク、カップル、そして広大な日差しを受けた草原を際立たせています。色鉛筆画を思わせるスタイルで、目に見える質感が柔らかく穏やかな雰囲気を醸し出しています。全体として、温かみのある黄金色のトーンと、花々のクールなエレクトリックブルーが対比を成し、平和でロマンチック、そしてノスタルジックな雰囲気に満ちています。縦長の構図で描かれた、鮮やかな色鉛筆画です。手前には鮮やかな青いヤグルマギク（Centaurea cyanus）が一面に咲き誇り、背の高い黄金色の草や茎、蕾が混ざり合っています。花々の間を縫うように、曲がりくねった細い土の道が遠くへと続いています。朝霧と薄い靄が野原と遠くの岸辺に優しく漂い、地平線を柔らかくぼかしています。野原の向こうには穏やかな海が地平線まで広がり、静かな水面には一艘のヨットがゆっくりと浮かんでいます。水面には空の温かな輝きが反射しています。画面の上部 3 分の 1 を占める空は、上部の深い夕闇の青から、太陽に近いオレンジ、ゴールド、淡いイエローへとグラデーションを描き、柔らかな薄雲が逆光に照らされています。広角で少し高い位置からの視点は、細部まで描き込まれたヤグルマギク、霧に包まれた草原、そして遠くにヨットを望む広大で穏やかな海景を際立たせています。色鉛筆画を思わせるスタイルで、目に見える質感が柔らかく穏やかな雰囲気を醸し出しています。全体として、温かみのある黄金色のトーンと、花々のクールなエレクトリックブルーが対比を成し、平和で夢見心地な、ノスタルジックな雰囲気に満ちています。
 ```
 
 #### 🖼️ 生成画像
@@ -2152,23 +2131,23 @@ VISUAL HIERARCHY（視覚的階層）
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1786861132331_7nhdm0_HPv0l5vWAAA9Zfc.jpg" width="600" alt="ソーシャルメディア投稿 - モダンなベッドルームでくつろぐ友人たち - Image 1">
+<img src="https://cms-assets.youmind.com/media/1786861122193_hdzbyd_HPvngouXMAAzl8D.jpg" width="600" alt="ソーシャルメディア投稿 - 色鉛筆で描く草原の風景 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1786861132386_emo54d_HPv0oqSXQAAoz3j.jpg" width="600" alt="ソーシャルメディア投稿 - モダンなベッドルームでくつろぐ友人たち - Image 2">
+<img src="https://cms-assets.youmind.com/media/1786861122162_wa2ul6_HPvnhY9XwAA2tPS.jpg" width="600" alt="ソーシャルメディア投稿 - 色鉛筆で描く草原の風景 - Image 2">
 </div>
 
 #### 📌 詳細
 
-- **作者:** [J⭕DIE](https://x.com/Jodie_Noraa)
-- **ソース:** [Twitter Post](https://x.com/Jodie_Noraa/status/2088531849010135447)
+- **作者:** [Viki](https://x.com/churvikv)
+- **ソース:** [Twitter Post](https://x.com/churvikv/status/2088517844535287875)
 - **公開日:** 2026年8月15日
 - **言語:** en
 
-**[👉 今すぐ試す →](https://youmind.com/ja-JP/nano-banana-pro-prompts?id=31575)**
+**[👉 今すぐ試す →](https://youmind.com/ja-JP/nano-banana-pro-prompts?id=31568)**
 
 ---
 
@@ -3633,46 +3612,7 @@ Nano Banana 2 を使用して、エイプリルフール向けのフェイクニ
 
 ---
 
-### No. 67: コミック / ストーリーボード - 色鉛筆で描く草原の風景
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 説明
-
-夕暮れ時の青いヤグルマギクの野原を歩くカップルを描いた、穏やかな色鉛筆スタイルのプロンプトです。
-
-#### 📝 プロンプト
-
-```
-縦長の構図で描かれた、鮮やかな色鉛筆画です。手前には鮮やかな青いヤグルマギク（Centaurea cyanus）が咲き誇る広大な野原が広がり、背の高い黄金色の草や茎、蕾が混ざり合っています。その中を、若いカップルが手をつなぎ、曲がりくねった細い道を歩き去っていく様子が描かれています。女性は白いワンピースをまとい、男性は袖をまくった白いシャツにダークカラーのパンツを着用し、互いに優しく頭を寄せ合っています。なだらかな丘が地平線まで続き、夏の穏やかなそよ風が草花を揺らし、夕暮れの光がシーン全体を包み込みます。遠くでは、温かみのある琥珀色の野原の向こうから太陽が顔をのぞかせています。画面の上部 3 分の 1 を占める空は、上部の深い夕闇の青から、太陽に近いオレンジ、ゴールド、淡いイエローへとグラデーションを描き、柔らかな薄雲が逆光に照らされています。広角で少し高い位置からの視点は、細部まで描き込まれたヤグルマギク、カップル、そして広大な日差しを受けた草原を際立たせています。色鉛筆画を思わせるスタイルで、目に見える質感が柔らかく穏やかな雰囲気を醸し出しています。全体として、温かみのある黄金色のトーンと、花々のクールなエレクトリックブルーが対比を成し、平和でロマンチック、そしてノスタルジックな雰囲気に満ちています。縦長の構図で描かれた、鮮やかな色鉛筆画です。手前には鮮やかな青いヤグルマギク（Centaurea cyanus）が一面に咲き誇り、背の高い黄金色の草や茎、蕾が混ざり合っています。花々の間を縫うように、曲がりくねった細い土の道が遠くへと続いています。朝霧と薄い靄が野原と遠くの岸辺に優しく漂い、地平線を柔らかくぼかしています。野原の向こうには穏やかな海が地平線まで広がり、静かな水面には一艘のヨットがゆっくりと浮かんでいます。水面には空の温かな輝きが反射しています。画面の上部 3 分の 1 を占める空は、上部の深い夕闇の青から、太陽に近いオレンジ、ゴールド、淡いイエローへとグラデーションを描き、柔らかな薄雲が逆光に照らされています。広角で少し高い位置からの視点は、細部まで描き込まれたヤグルマギク、霧に包まれた草原、そして遠くにヨットを望む広大で穏やかな海景を際立たせています。色鉛筆画を思わせるスタイルで、目に見える質感が柔らかく穏やかな雰囲気を醸し出しています。全体として、温かみのある黄金色のトーンと、花々のクールなエレクトリックブルーが対比を成し、平和で夢見心地な、ノスタルジックな雰囲気に満ちています。
-```
-
-#### 🖼️ 生成画像
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1786861122193_hdzbyd_HPvngouXMAAzl8D.jpg" width="600" alt="コミック / ストーリーボード - 色鉛筆で描く草原の風景 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1786861122162_wa2ul6_HPvnhY9XwAA2tPS.jpg" width="600" alt="コミック / ストーリーボード - 色鉛筆で描く草原の風景 - Image 2">
-</div>
-
-#### 📌 詳細
-
-- **作者:** [Viki](https://x.com/churvikv)
-- **ソース:** [Twitter Post](https://x.com/churvikv/status/2088517844535287875)
-- **公開日:** 2026年8月15日
-- **言語:** en
-
-**[👉 今すぐ試す →](https://youmind.com/ja-JP/nano-banana-pro-prompts?id=31568)**
-
----
-
-### No. 68: コミック / ストーリーボード - 日本の学校の制服を着た教室でのポートレート
+### No. 67: コミック / ストーリーボード - 日本の学校の制服を着た教室でのポートレート
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3724,7 +3664,7 @@ Nano Banana 2 を使用して、エイプリルフール向けのフェイクニ
 
 ---
 
-### No. 69: コミック / ストーリーボード - 地底の聖堂と機械のクジラ
+### No. 68: コミック / ストーリーボード - 地底の聖堂と機械のクジラ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3763,7 +3703,7 @@ Nano Banana 2 を使用して、エイプリルフール向けのフェイクニ
 
 ---
 
-### No. 70: コミック / ストーリーボード - フェルト製カエルのビーチジオラマ
+### No. 69: コミック / ストーリーボード - フェルト製カエルのビーチジオラマ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3797,7 +3737,7 @@ Nano Banana 2 を使用して、エイプリルフール向けのフェイクニ
 
 ---
 
-### No. 71: コミック / ストーリーボード - 映画のような駅と旅人
+### No. 70: コミック / ストーリーボード - 映画のような駅と旅人
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3836,7 +3776,7 @@ Nano Banana 2 を使用して、エイプリルフール向けのフェイクニ
 
 ---
 
-### No. 72: コミック / ストーリーボード - ヨーロッパを散策するロマンチックな中国人カップル
+### No. 71: コミック / ストーリーボード - ヨーロッパを散策するロマンチックな中国人カップル
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3879,7 +3819,7 @@ Nano Banana 2 を使用して、エイプリルフール向けのフェイクニ
 
 ---
 
-### No. 73: コミック / ストーリーボード - 断片化された幾何学的具象イラストレーション
+### No. 72: コミック / ストーリーボード - 断片化された幾何学的具象イラストレーション
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3922,7 +3862,7 @@ Nano Banana 2 を使用して、エイプリルフール向けのフェイクニ
 
 ---
 
-### No. 74: コミック / ストーリーボード - エディトリアル・ゴーストスパイダーのアーバンポートレート
+### No. 73: コミック / ストーリーボード - エディトリアル・ゴーストスパイダーのアーバンポートレート
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3974,7 +3914,7 @@ Nano Banana 2 を使用して、エイプリルフール向けのフェイクニ
 
 ---
 
-### No. 75: コミック / ストーリーボード - ダークファンタジーの戦場に立つ戦士
+### No. 74: コミック / ストーリーボード - ダークファンタジーの戦場に立つ戦士
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4019,7 +3959,7 @@ Nano Banana 2 を使用して、エイプリルフール向けのフェイクニ
 
 ---
 
-### No. 76: コミック / ストーリーボード - ボタニカル・アーカイブ：ヴィクトリア朝の肖像
+### No. 75: コミック / ストーリーボード - ボタニカル・アーカイブ：ヴィクトリア朝の肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4109,7 +4049,7 @@ Nano Banana 2 を使用して、エイプリルフール向けのフェイクニ
 
 ---
 
-### No. 77: コミック / ストーリーボード - 3D ペーパークラフト・ジオラマ風
+### No. 76: コミック / ストーリーボード - 3D ペーパークラフト・ジオラマ風
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4176,7 +4116,7 @@ Nano Banana 2 を使用して、エイプリルフール向けのフェイクニ
 
 ---
 
-### No. 78: コミック / ストーリーボード - ゴシックで幻想的な幽霊屋敷
+### No. 77: コミック / ストーリーボード - ゴシックで幻想的な幽霊屋敷
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4210,7 +4150,7 @@ Nano Banana 2 を使用して、エイプリルフール向けのフェイクニ
 
 ---
 
-### No. 79: コミック / ストーリーボード - 静寂の文学的ガーデン・エスケープ
+### No. 78: コミック / ストーリーボード - 静寂の文学的ガーデン・エスケープ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4244,7 +4184,7 @@ Nano Banana 2 を使用して、エイプリルフール向けのフェイクニ
 
 ---
 
-### No. 80: コミック / ストーリーボード - ドラえもん映画風シーンのレンダリング
+### No. 79: コミック / ストーリーボード - ドラえもん映画風シーンのレンダリング
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4278,7 +4218,7 @@ Nano Banana 2 を使用して、エイプリルフール向けのフェイクニ
 
 ---
 
-### No. 81: コミック / ストーリーボード - マルチパネル表情グリッド
+### No. 80: コミック / ストーリーボード - マルチパネル表情グリッド
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4318,7 +4258,7 @@ Nano Banana 2 を使用して、エイプリルフール向けのフェイクニ
 
 ---
 
-### No. 82: コミック / ストーリーボード - 静寂の庭園と文学的なポートレート
+### No. 81: コミック / ストーリーボード - 静寂の庭園と文学的なポートレート
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4364,7 +4304,7 @@ Nano Banana 2 を使用して、エイプリルフール向けのフェイクニ
 
 ---
 
-### No. 83: コミック / ストーリーボード - 高級フレグランスのストーリーボードレイアウト
+### No. 82: コミック / ストーリーボード - 高級フレグランスのストーリーボードレイアウト
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4398,7 +4338,7 @@ Nano Banana 2 を使用して、エイプリルフール向けのフェイクニ
 
 ---
 
-### No. 84: コミック / ストーリーボード - キャラクターへの小道具追加
+### No. 83: コミック / ストーリーボード - キャラクターへの小道具追加
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4432,7 +4372,7 @@ Nano Banana 2 を使用して、エイプリルフール向けのフェイクニ
 
 ---
 
-### No. 85: プロダクトマーケティング - ファッション誌風エディトリアル・ポートレート
+### No. 84: プロダクトマーケティング - ファッション誌風エディトリアル・ポートレート
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4466,7 +4406,7 @@ Nano Banana 2 を使用して、エイプリルフール向けのフェイクニ
 
 ---
 
-### No. 86: プロダクトマーケティング - アーバン・ストリートウェア・マガジン・エディトリアル
+### No. 85: プロダクトマーケティング - アーバン・ストリートウェア・マガジン・エディトリアル
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4518,7 +4458,7 @@ Nano Banana 2 を使用して、エイプリルフール向けのフェイクニ
 
 ---
 
-### No. 87: プロダクトマーケティング - 高級チョコレートの広告用静物写真
+### No. 86: プロダクトマーケティング - 高級チョコレートの広告用静物写真
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4570,7 +4510,7 @@ Nano Banana 2 を使用して、エイプリルフール向けのフェイクニ
 
 ---
 
-### No. 88: プロダクトマーケティング - エレガントなメンズ・トワイライト・エディトリアル
+### No. 87: プロダクトマーケティング - エレガントなメンズ・トワイライト・エディトリアル
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4604,7 +4544,7 @@ Nano Banana 2 を使用して、エイプリルフール向けのフェイクニ
 
 ---
 
-### No. 89: プロダクトマーケティング - トワイライト・メンズウェア・エディトリアル・ポートレート
+### No. 88: プロダクトマーケティング - トワイライト・メンズウェア・エディトリアル・ポートレート
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4638,7 +4578,7 @@ Nano Banana 2 を使用して、エイプリルフール向けのフェイクニ
 
 ---
 
-### No. 90: プロダクトマーケティング - シュールで美しいヘアローラーの製品広告
+### No. 89: プロダクトマーケティング - シュールで美しいヘアローラーの製品広告
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4672,7 +4612,7 @@ Nano Banana 2 を使用して、エイプリルフール向けのフェイクニ
 
 ---
 
-### No. 91: プロダクトマーケティング - 花の脳の彫刻
+### No. 90: プロダクトマーケティング - 花の脳の彫刻
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4706,7 +4646,7 @@ Nano Banana 2 を使用して、エイプリルフール向けのフェイクニ
 
 ---
 
-### No. 92: プロダクトマーケティング - ミニマリストなインテリアとファッションポートレート
+### No. 91: プロダクトマーケティング - ミニマリストなインテリアとファッションポートレート
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4746,7 +4686,7 @@ Sony A7R V、85mm f/1.8 ポートレートレンズで撮影。アイレベル�
 
 ---
 
-### No. 93: プロダクトマーケティング - シネマティックな都会の夜のビルボードポートレート
+### No. 92: プロダクトマーケティング - シネマティックな都会の夜のビルボードポートレート
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4815,7 +4755,7 @@ Sony A7R V、85mm f/1.8 ポートレートレンズで撮影。アイレベル�
 
 ---
 
-### No. 94: プロダクトマーケティング - ラズベリーシェルを用いたプロダクト撮影
+### No. 93: プロダクトマーケティング - ラズベリーシェルを用いたプロダクト撮影
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4867,7 +4807,7 @@ Sony A7R V、85mm f/1.8 ポートレートレンズで撮影。アイレベル�
 
 ---
 
-### No. 95: プロダクトマーケティング - ヴィラのプールサイドでくつろぐネオンイエローの水着を着た女性
+### No. 94: プロダクトマーケティング - ヴィラのプールサイドでくつろぐネオンイエローの水着を着た女性
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4916,6 +4856,40 @@ Sony A7R V、85mm f/1.8 ポートレートレンズで撮影。アイレベル�
 - **言語:** en
 
 **[👉 今すぐ試す →](https://youmind.com/ja-JP/nano-banana-pro-prompts?id=31478)**
+
+---
+
+### No. 95: プロダクトマーケティング - 宮殿ファッション誌の表紙
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 説明
+
+ヨーロッパの宮殿を舞台にした、紫色のボブヘアと高級アクセサリーが特徴のハイファッション・エディトリアル用プロンプト。
+
+#### 📝 プロンプト
+
+```
+スタイリッシュな若い女性を捉えたハイファッション・エディトリアル写真。{argument name="hair style" default="鮮やかな紫色のボブヘア"}にシックなサングラスを合わせている。{argument name="clothing" default="深い青色のベルベット素材のノースリーブジャンプスーツ"}を着用し、ゴールドの留め具が付いた豪華な{argument name="accessory" default="エメラルドグリーンのレザーハンドバッグ"}をカメラに向けて差し出している。ローアングルからの視点。石造りのアーチや高いフレンチウィンドウを備えた優雅でクラシックなヨーロッパの宮殿内が舞台。柔らかな自然光。フォトリアル、8k 解像度、シネマティックなライティング、シャープなフォーカス、ファッション雑誌の表紙スタイル。
+```
+
+#### 🖼️ 生成画像
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1786774867894_9j93j5_HPs3uqja4AA_W3d.jpg" width="600" alt="プロダクトマーケティング - 宮殿ファッション誌の表紙 - Image 1">
+</div>
+
+#### 📌 詳細
+
+- **作者:** [Wareen AI 💟](https://x.com/Wareenaa)
+- **ソース:** [Twitter Post](https://x.com/Wareenaa/status/2088324136909357375)
+- **公開日:** 2026年8月14日
+- **言語:** en
+
+**[👉 今すぐ試す →](https://youmind.com/ja-JP/nano-banana-pro-prompts?id=31470)**
 
 ---
 
@@ -5984,7 +5958,7 @@ Nano Banana Pro 向けのプロフェッショナルなプロダクトフォト�
 
 <div align="center">
 
-### 🎯 15128 さらに多くのプロンプトがあります
+### 🎯 15126 さらに多くのプロンプトがあります
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -6047,6 +6021,6 @@ The gallery features:
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 この README は自動生成されています。最終更新： 2026-08-18T12:21:04.976Z</sub>
+<sub>🤖 この README は自動生成されています。最終更新： 2026-08-18T16:18:41.036Z</sub>
 
 </div>

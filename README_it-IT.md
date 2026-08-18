@@ -143,9 +143,9 @@ Quando usato in Raycast, puoi sostituire dinamicamente gli argomenti per iterazi
 
 | Metrica | Conteggio |
 |--------|-------|
-| 📝 Totale prompt | **15248** |
+| 📝 Totale prompt | **15246** |
 | ⭐ In evidenza | **9** |
-| 🔄 Ultimo aggiornamento | **martedì 18 agosto 2026 alle ore 12:21:43 UTC** |
+| 🔄 Ultimo aggiornamento | **martedì 18 agosto 2026 alle ore 16:20:09 UTC** |
 
 </div>
 
@@ -2036,19 +2036,18 @@ Un giovane modello sicuro di sé siede rivolto verso la fotocamera sul lato sini
 
 ---
 
-### No. 31: Post sui social media - Amici che si rilassano in una camera da letto moderna
+### No. 31: Post sui social media - Paesaggio di prato a matita colorata
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descrizione
 
-Un prompt per un ritratto lifestyle di due amici che condividono un momento di allegria in un'accogliente camera da letto moderna con grandi finestre.
+Un sereno prompt in stile matita colorata che ritrae una coppia che cammina attraverso un campo di fiordalisi blu al tramonto.
 
 #### 📝 Prompt
 
 ```
-Crea un ritratto lifestyle fotorealistico di due giovani donne sedute comodamente insieme su un letto ben rifatto in una camera da letto luminosa e moderna. Sono amiche intime che condividono un momento rilassato e allegro, guardando direttamente verso la fotocamera con sorrisi caldi e naturali.\n\n1. Soggetti, capelli, pelle, espressione e posa:\n\nDonna a sinistra: pelle chiara e calda con carnagione naturale e sottile texture del viso, capelli {argument name="woman one hair" default="rosso ramato"} raccolti in una coda di cavallo morbida con alcune ciocche leggere attorno al viso, sopracciglia ben definite, trucco naturale e un sorriso luminoso e amichevole. È seduta comodamente con le gambe ripiegate di lato, le spalle rilassate e una mano appoggiata naturalmente vicino al ginocchio.\n\nDonna a destra: pelle chiara con una texture naturale realistica, lunghi capelli biondi raccolti in una coda di cavallo alta con ciocche lisce che cadono dietro la spalla, sopracciglia delicatamente definite, trucco naturale leggero e un sorriso aperto e allegro. È seduta accanto alla sua amica con una postura rilassata, inclinata leggermente verso di lei mentre tiene le braccia in una posizione comoda.\n\nEntrambi i soggetti devono avere tratti del viso realistici, proporzioni naturali, espressioni autentiche e un linguaggio del corpo rilassato. La loro interazione deve apparire spontanea e amichevole, non costruita.\n\n2. Abbigliamento e accessori:\nLa donna a sinistra indossa un {argument name="woman one outfit" default="cardigan in maglia lavorata verde smeraldo intenso"} con piccoli bottoni e una semplice collana a catena d'oro con un piccolo ciondolo rettangolare. Aggiungi anelli discreti e unghie curate con uno smalto dai toni neutri.\nLa donna a destra indossa un {argument name="woman two outfit" default="cardigan in maglia lavorata blu navy intenso"} con una silhouette comoda e contemporanea e gioielli minimali.\nMantieni l'abbigliamento elegante, casual e appropriato, con una texture del tessuto, cuciture, pieghe e drappeggi realistici. Evita loghi di brand visibili.\n\n3. Ambiente e illuminazione:\nImposta la scena in un'accogliente camera da letto moderna con un grande letto coperto da una morbida coperta in tessuto grigio tenue, biancheria da letto neutra e grandi finestre a tutta altezza dietro i soggetti. Attraverso le finestre, mostra un paesaggio esterno verde leggermente sfocato con alberi e scenari naturali. Includi dettagli sottili della camera da letto come cuscini e un piccolo oggetto appoggiato naturalmente sul letto sullo sfondo.\nUsa la luce naturale del giorno che entra dalle finestre, creando un'illuminazione delicata su entrambi i volti e sottili ombre naturali. L'atmosfera deve risultare calda, pacifica, confortevole e spontanea.\n\n4. Fotocamera e stile visivo:\nFotografato con una fotocamera full-frame e un obiettivo per ritratti da 50mm o 85mm, prospettiva ad altezza occhi, compressione naturale del ritratto, inquadratura medio-ampia, profondità di campo ridotta e messa a fuoco precisa su entrambi i volti. Usa una luce naturale soffusa proveniente dalla finestra, esposizione realistica, alta gamma dinamica, accurata
+Una vibrante illustrazione a matita colorata con orientamento verticale. Una giovane coppia cammina mano nella mano, voltata di spalle rispetto all'osservatore, lungo uno stretto sentiero tortuoso che attraversa un vasto campo di vividi fiordalisi blu (Centaurea cyanus) in primo piano, tra l'erba alta giallo oro, con steli e boccioli sparsi. La donna indossa un abito bianco fluido, l'uomo una camicia bianca con le maniche arrotolate e pantaloni scuri, le teste leggermente inclinate l'una verso l'altra. Dolci colline ondulate si estendono verso l'orizzonte. Una leggera brezza estiva piega l'erba e i fiori mentre la luce della sera cade sulla scena. In lontananza, la luce del sole fa capolino sopra caldi campi color ambra. Il cielo occupa il terzo superiore ed è colorato da un blu scuro profondo nella parte alta fino a calde tonalità di arancione, oro e giallo pallido vicino al sole basso, con soffici nuvole controluce. La prospettiva è ampia e leggermente elevata, mettendo in mostra i dettagli dei fiordalisi, la coppia e l'ampio prato illuminato dal sole. Lo stile ricorda l'arte a matita colorata, con texture visibili che creano un'atmosfera morbida e serena. L'atmosfera generale è pacifica, romantica e nostalgica, con caldi toni dorati che contrastano con il fresco blu elettrico dei fiori. Una vibrante illustrazione a matita colorata con orientamento verticale. Un vasto campo di vividi fiordalisi blu (Centaurea cyanus) copre il primo piano, tra l'erba alta giallo oro, con steli e boccioli sparsi. Uno stretto sentiero sterrato si snoda tra i fiori verso la distanza. Un soffice strato di nebbia mattutina e una leggera foschia fluttuano delicatamente sul campo e sulla riva lontana, ammorbidendo l'orizzonte. Oltre il campo, un oceano sereno si estende fino all'orizzonte, dove una singola barca a vela naviga dolcemente sulle acque calme. L'acqua riflette il bagliore caldo del cielo. Il cielo occupa il terzo superiore ed è colorato da un blu scuro profondo nella parte alta fino a calde tonalità di arancione, oro e giallo pallido vicino al sole basso, con soffici nuvole controluce. La prospettiva è ampia e leggermente elevata, mettendo in mostra i dettagli dei fiordalisi, il prato nebbioso e l'ampio paesaggio marino calmo con la barca a vela in lontananza. Lo stile ricorda l'arte a matita colorata, con texture visibili che creano un'atmosfera morbida e serena. L'atmosfera generale è pacifica, sognante e nostalgica, con caldi toni dorati che contrastano con il fresco blu elettrico dei fiori.
 ```
 
 #### 🖼️ Immagini generate
@@ -2056,23 +2055,23 @@ Crea un ritratto lifestyle fotorealistico di due giovani donne sedute comodament
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1786861132331_7nhdm0_HPv0l5vWAAA9Zfc.jpg" width="600" alt="Post sui social media - Amici che si rilassano in una camera da letto moderna - Image 1">
+<img src="https://cms-assets.youmind.com/media/1786861122193_hdzbyd_HPvngouXMAAzl8D.jpg" width="600" alt="Post sui social media - Paesaggio di prato a matita colorata - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1786861132386_emo54d_HPv0oqSXQAAoz3j.jpg" width="600" alt="Post sui social media - Amici che si rilassano in una camera da letto moderna - Image 2">
+<img src="https://cms-assets.youmind.com/media/1786861122162_wa2ul6_HPvnhY9XwAA2tPS.jpg" width="600" alt="Post sui social media - Paesaggio di prato a matita colorata - Image 2">
 </div>
 
 #### 📌 Dettagli
 
-- **Autore:** [J⭕DIE](https://x.com/Jodie_Noraa)
-- **Fonte:** [Twitter Post](https://x.com/Jodie_Noraa/status/2088531849010135447)
+- **Autore:** [Viki](https://x.com/churvikv)
+- **Fonte:** [Twitter Post](https://x.com/churvikv/status/2088517844535287875)
 - **Pubblicato:** 15 agosto 2026
 - **Lingue:** en
 
-**[👉 Provalo ora →](https://youmind.com/it-IT/nano-banana-pro-prompts?id=31575)**
+**[👉 Provalo ora →](https://youmind.com/it-IT/nano-banana-pro-prompts?id=31568)**
 
 ---
 
@@ -3537,46 +3536,7 @@ Un prompt dall'umorismo impassibile che ritrae un minuscolo gatto arancione sedu
 
 ---
 
-### No. 67: Fumetto / Storyboard - Paesaggio di prato a matita colorata
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Descrizione
-
-Un sereno prompt in stile matita colorata che ritrae una coppia che cammina attraverso un campo di fiordalisi blu al tramonto.
-
-#### 📝 Prompt
-
-```
-Una vibrante illustrazione a matita colorata con orientamento verticale. Una giovane coppia cammina mano nella mano, voltata di spalle rispetto all'osservatore, lungo uno stretto sentiero tortuoso che attraversa un vasto campo di vividi fiordalisi blu (Centaurea cyanus) in primo piano, tra l'erba alta giallo oro, con steli e boccioli sparsi. La donna indossa un abito bianco fluido, l'uomo una camicia bianca con le maniche arrotolate e pantaloni scuri, le teste leggermente inclinate l'una verso l'altra. Dolci colline ondulate si estendono verso l'orizzonte. Una leggera brezza estiva piega l'erba e i fiori mentre la luce della sera cade sulla scena. In lontananza, la luce del sole fa capolino sopra caldi campi color ambra. Il cielo occupa il terzo superiore ed è colorato da un blu scuro profondo nella parte alta fino a calde tonalità di arancione, oro e giallo pallido vicino al sole basso, con soffici nuvole controluce. La prospettiva è ampia e leggermente elevata, mettendo in mostra i dettagli dei fiordalisi, la coppia e l'ampio prato illuminato dal sole. Lo stile ricorda l'arte a matita colorata, con texture visibili che creano un'atmosfera morbida e serena. L'atmosfera generale è pacifica, romantica e nostalgica, con caldi toni dorati che contrastano con il fresco blu elettrico dei fiori. Una vibrante illustrazione a matita colorata con orientamento verticale. Un vasto campo di vividi fiordalisi blu (Centaurea cyanus) copre il primo piano, tra l'erba alta giallo oro, con steli e boccioli sparsi. Uno stretto sentiero sterrato si snoda tra i fiori verso la distanza. Un soffice strato di nebbia mattutina e una leggera foschia fluttuano delicatamente sul campo e sulla riva lontana, ammorbidendo l'orizzonte. Oltre il campo, un oceano sereno si estende fino all'orizzonte, dove una singola barca a vela naviga dolcemente sulle acque calme. L'acqua riflette il bagliore caldo del cielo. Il cielo occupa il terzo superiore ed è colorato da un blu scuro profondo nella parte alta fino a calde tonalità di arancione, oro e giallo pallido vicino al sole basso, con soffici nuvole controluce. La prospettiva è ampia e leggermente elevata, mettendo in mostra i dettagli dei fiordalisi, il prato nebbioso e l'ampio paesaggio marino calmo con la barca a vela in lontananza. Lo stile ricorda l'arte a matita colorata, con texture visibili che creano un'atmosfera morbida e serena. L'atmosfera generale è pacifica, sognante e nostalgica, con caldi toni dorati che contrastano con il fresco blu elettrico dei fiori.
-```
-
-#### 🖼️ Immagini generate
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1786861122193_hdzbyd_HPvngouXMAAzl8D.jpg" width="600" alt="Fumetto / Storyboard - Paesaggio di prato a matita colorata - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1786861122162_wa2ul6_HPvnhY9XwAA2tPS.jpg" width="600" alt="Fumetto / Storyboard - Paesaggio di prato a matita colorata - Image 2">
-</div>
-
-#### 📌 Dettagli
-
-- **Autore:** [Viki](https://x.com/churvikv)
-- **Fonte:** [Twitter Post](https://x.com/churvikv/status/2088517844535287875)
-- **Pubblicato:** 15 agosto 2026
-- **Lingue:** en
-
-**[👉 Provalo ora →](https://youmind.com/it-IT/nano-banana-pro-prompts?id=31568)**
-
----
-
-### No. 68: Fumetto / Storyboard - Ritratto in aula con divisa scolastica giapponese
+### No. 67: Fumetto / Storyboard - Ritratto in aula con divisa scolastica giapponese
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3628,7 +3588,7 @@ Una giovane {argument name="subject" default="donna dell'Asia orientale"} con un
 
 ---
 
-### No. 69: Fumetto / Storyboard - Cattedrale sotterranea e balena meccanica
+### No. 68: Fumetto / Storyboard - Cattedrale sotterranea e balena meccanica
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3667,7 +3627,7 @@ Fotogramma cinematografico ultra-nitido di quattro donne appartenenti a diverse 
 
 ---
 
-### No. 70: Fumetto / Storyboard - Diorama di una rana in feltro in spiaggia
+### No. 69: Fumetto / Storyboard - Diorama di una rana in feltro in spiaggia
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3701,7 +3661,7 @@ Una rana in feltro che indossa {argument name="clothing" default="pantaloncini d
 
 ---
 
-### No. 71: Fumetto / Storyboard - Viaggiatore in stazione ferroviaria cinematografica
+### No. 70: Fumetto / Storyboard - Viaggiatore in stazione ferroviaria cinematografica
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3740,7 +3700,7 @@ Uno scatto cinematografico grandangolare realistico ripreso da dietro un uomo in
 
 ---
 
-### No. 72: Fumetto / Storyboard - Coppia cinese romantica in Europa
+### No. 71: Fumetto / Storyboard - Coppia cinese romantica in Europa
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3783,7 +3743,7 @@ Personaggi coerenti in tutti e quattro i pannelli, stessa coppia cinese, stessi 
 
 ---
 
-### No. 73: Fumetto / Storyboard - Illustrazione figurativa geometrica frammentata
+### No. 72: Fumetto / Storyboard - Illustrazione figurativa geometrica frammentata
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3826,7 +3786,7 @@ Gerarchia di linee altamente espressiva, micro-dettagli intricati, ritmo visivo 
 
 ---
 
-### No. 74: Fumetto / Storyboard - Ritratto urbano editoriale di Ghost-Spider
+### No. 73: Fumetto / Storyboard - Ritratto urbano editoriale di Ghost-Spider
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3878,7 +3838,7 @@ L'illuminazione è quella diegetica notturna urbana, con ombre profonde e ricche
 
 ---
 
-### No. 75: Fumetto / Storyboard - Guerriero fantasy oscuro sul campo di battaglia
+### No. 74: Fumetto / Storyboard - Guerriero fantasy oscuro sul campo di battaglia
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3923,7 +3883,7 @@ Realismo cinematografico altamente dettagliato, texture fotorealistiche, anatomi
 
 ---
 
-### No. 76: Fumetto / Storyboard - Ritratto Vittoriano dell'Archivio Botanico
+### No. 75: Fumetto / Storyboard - Ritratto Vittoriano dell'Archivio Botanico
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4013,7 +3973,7 @@ Un prompt per un ritratto iperrealistico e strutturato, ambientato in un denso a
 
 ---
 
-### No. 77: Fumetto / Storyboard - Stile diorama in carta 3D
+### No. 76: Fumetto / Storyboard - Stile diorama in carta 3D
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4080,7 +4040,7 @@ Non introdurre nuove persone, non rimuovere soggetti importanti, non cambiare l'
 
 ---
 
-### No. 78: Fumetto / Storyboard - Casa stregata gotica e stravagante
+### No. 77: Fumetto / Storyboard - Casa stregata gotica e stravagante
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4114,7 +4074,7 @@ Una stravagante casa stregata {argument name="style" default="in stile gotico"} 
 
 ---
 
-### No. 79: Fumetto / Storyboard - Fuga in un sereno giardino letterario
+### No. 78: Fumetto / Storyboard - Fuga in un sereno giardino letterario
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4148,7 +4108,7 @@ Una serena {argument name="setting" default="fuga letteraria tra le rovine di un
 
 ---
 
-### No. 80: Fumetto / Storyboard - Render di scena in stile film di Doraemon
+### No. 79: Fumetto / Storyboard - Render di scena in stile film di Doraemon
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4182,7 +4142,7 @@ Renderizza il blockout di riferimento come una scena tratta da un film {argument
 
 ---
 
-### No. 81: Fumetto / Storyboard - Griglia di espressioni multi-pannello
+### No. 80: Fumetto / Storyboard - Griglia di espressioni multi-pannello
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4222,7 +4182,7 @@ Una griglia fotografica multi-pannello che ritrae una {argument name="subject" d
 
 ---
 
-### No. 82: Fumetto / Storyboard - Ritratto letterario in un giardino sereno
+### No. 81: Fumetto / Storyboard - Ritratto letterario in un giardino sereno
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4268,7 +4228,7 @@ Una serena fuga letteraria tra le rovine di un giardino in fiore, dove pagine si
 
 ---
 
-### No. 83: Fumetto / Storyboard - Layout storyboard per fragranze di lusso
+### No. 82: Fumetto / Storyboard - Layout storyboard per fragranze di lusso
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4302,7 +4262,7 @@ Crea uno storyboard per una presentazione di fragranze in formato 4:3 con {argum
 
 ---
 
-### No. 84: Fumetto / Storyboard - Aggiunta di oggetti nell'interazione con il personaggio
+### No. 83: Fumetto / Storyboard - Aggiunta di oggetti nell'interazione con il personaggio
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4336,7 +4296,7 @@ Un {argument name="object" default="tazza da tè"} su un {argument name="surface
 
 ---
 
-### No. 85: Marketing di Prodotto - Ritratto editoriale di moda di riferimento
+### No. 84: Marketing di Prodotto - Ritratto editoriale di moda di riferimento
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4370,7 +4330,7 @@ Crea un ritratto editoriale di alta moda di {argument name="subject" default="un
 
 ---
 
-### No. 86: Marketing di Prodotto - Editoriale per rivista di streetwear urbano
+### No. 85: Marketing di Prodotto - Editoriale per rivista di streetwear urbano
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4422,7 +4382,7 @@ Una {argument name="style" default="copertina di rivista di moda streetwear urba
 
 ---
 
-### No. 87: Marketing di Prodotto - Pubblicità di cioccolato di lusso, natura morta
+### No. 86: Marketing di Prodotto - Pubblicità di cioccolato di lusso, natura morta
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4474,7 +4434,7 @@ Una natura morta luminosa e stilizzata e una fotografia concettuale tratta da un
 
 ---
 
-### No. 88: Marketing di Prodotto - Editoriale elegante di moda maschile al crepuscolo
+### No. 87: Marketing di Prodotto - Editoriale elegante di moda maschile al crepuscolo
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4508,7 +4468,7 @@ Un giovane modello dal fascino convenzionale posa con sicurezza al centro dell'i
 
 ---
 
-### No. 89: Marketing di Prodotto - Ritratto editoriale di moda maschile al crepuscolo
+### No. 88: Marketing di Prodotto - Ritratto editoriale di moda maschile al crepuscolo
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4542,7 +4502,7 @@ Un giovane uomo, convenzionalmente attraente {argument name="gender" default="mo
 
 ---
 
-### No. 90: Marketing di Prodotto - Bigodini surrealisti per prodotti di bellezza
+### No. 89: Marketing di Prodotto - Bigodini surrealisti per prodotti di bellezza
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4576,7 +4536,7 @@ Foto di prodotto in studio ripresa da dietro di una persona con capelli {argumen
 
 ---
 
-### No. 91: Marketing di Prodotto - Scultura floreale a forma di cervello
+### No. 90: Marketing di Prodotto - Scultura floreale a forma di cervello
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4610,7 +4570,7 @@ Una vista ravvicinata di profilo di una scultura di un cervello umano realizzata
 
 ---
 
-### No. 92: Marketing di Prodotto - Ritratto di moda in interni minimalisti
+### No. 91: Marketing di Prodotto - Ritratto di moda in interni minimalisti
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4644,7 +4604,7 @@ Ritratto di moda lifestyle a figura intera ultra-realistico di una bella giovane
 
 ---
 
-### No. 93: Marketing di Prodotto - Ritratto cinematografico notturno in città con cartellone pubblicitario
+### No. 92: Marketing di Prodotto - Ritratto cinematografico notturno in città con cartellone pubblicitario
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4712,7 +4672,7 @@ Un ritratto cinematografico notturno di una donna in una strada cittadina, con u
 
 ---
 
-### No. 94: Marketing di Prodotto - Fotografia di prodotto: guscio di lampone
+### No. 93: Marketing di Prodotto - Fotografia di prodotto: guscio di lampone
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4764,7 +4724,7 @@ Foto di prodotto in studio di {argument name="product" default="prodotto dalla f
 
 ---
 
-### No. 95: Marketing di Prodotto - Donna in costume da bagno giallo neon a bordo piscina in una villa
+### No. 94: Marketing di Prodotto - Donna in costume da bagno giallo neon a bordo piscina in una villa
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4813,6 +4773,40 @@ Una terrazza con piscina in una villa privata, circondata da mura in pietra rust
 - **Lingue:** en
 
 **[👉 Provalo ora →](https://youmind.com/it-IT/nano-banana-pro-prompts?id=31478)**
+
+---
+
+### No. 95: Marketing di Prodotto - Copertina di rivista di moda Palace
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Descrizione
+
+Un prompt editoriale di alta moda ambientato in un palazzo europeo, caratterizzato da un taglio a caschetto viola e accessori di lusso.
+
+#### 📝 Prompt
+
+```
+Fotografia editoriale di alta moda di una giovane donna elegante con un {argument name="hair style" default="taglio a caschetto viola acceso"} e occhiali da sole chic. Indossa una {argument name="clothing" default="tuta smanicata in velluto blu profondo"} e porge verso la fotocamera una grande e lussuosa {argument name="accessory" default="borsa in pelle verde smeraldo"} con una chiusura in metallo dorato. Prospettiva dal basso. Ambientato all'interno di un elegante palazzo europeo classico con archi in pietra, alte finestre alla francese e una morbida luce solare naturale. Fotorealistico, risoluzione 8k, illuminazione cinematografica, messa a fuoco nitida, stile copertina di rivista di moda.
+```
+
+#### 🖼️ Immagini generate
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1786774867894_9j93j5_HPs3uqja4AA_W3d.jpg" width="600" alt="Marketing di Prodotto - Copertina di rivista di moda Palace - Image 1">
+</div>
+
+#### 📌 Dettagli
+
+- **Autore:** [Wareen AI 💟](https://x.com/Wareenaa)
+- **Fonte:** [Twitter Post](https://x.com/Wareenaa/status/2088324136909357375)
+- **Pubblicato:** 14 agosto 2026
+- **Lingue:** en
+
+**[👉 Provalo ora →](https://youmind.com/it-IT/nano-banana-pro-prompts?id=31470)**
 
 ---
 
@@ -5881,7 +5875,7 @@ Un semplice prompt suggestivo per una studentessa che fluttua in un ambiente osc
 
 <div align="center">
 
-### 🎯 15128 altri prompt non mostrati qui
+### 🎯 15126 altri prompt non mostrati qui
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -5944,6 +5938,6 @@ Concesso in licenza sotto [CC BY 4.0](https://creativecommons.org/licenses/by/4.
 **[📝 Invia un prompt](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Metti una stella a questo repository](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-08-18T12:21:43.907Z</sub>
+<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-08-18T16:20:09.983Z</sub>
 
 </div>

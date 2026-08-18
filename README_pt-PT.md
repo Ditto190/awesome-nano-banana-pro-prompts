@@ -143,9 +143,9 @@ Quando usado no Raycast, você pode substituir dinamicamente os argumentos para 
 
 | Métrica | Contagem |
 |--------|-------|
-| 📝 Total de prompts | **15248** |
+| 📝 Total de prompts | **15246** |
 | ⭐ Destaque | **9** |
-| 🔄 Última atualização | **terça-feira, 18 de agosto de 2026 às 12:21:52 UTC** |
+| 🔄 Última atualização | **terça-feira, 18 de agosto de 2026 às 16:20:25 UTC** |
 
 </div>
 
@@ -2097,19 +2097,18 @@ Um modelo masculino jovem e confiante senta-se de frente para a câmera no lado 
 
 ---
 
-### No. 31: Publicação em Redes Sociais - Amigos relaxando em um quarto moderno
+### No. 31: Publicação em Redes Sociais - Paisagem de Prado em Lápis de Cor
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descrição
 
-Um prompt de retrato lifestyle de dois amigos compartilhando um momento alegre em um quarto moderno e aconchegante com janelas grandes.
+Um prompt sereno em estilo de lápis de cor retratando um casal caminhando por um campo de centáureas azuis ao pôr do sol.
 
 #### 📝 Prompt
 
 ```
-Crie um retrato lifestyle fotorrealista de duas jovens sentadas confortavelmente juntas em uma cama bem arrumada em um quarto moderno e iluminado. Elas são amigas próximas compartilhando um momento relaxado e alegre, olhando diretamente para a câmera com sorrisos calorosos e naturais.\n\n1. Sujeitos, cabelo, pele, expressão e pose:\n\nMulher à esquerda: pele clara e quente com tez natural e textura facial sutil, cabelo {argument name="woman one hair" default="ruivo-acobreado"} preso em um rabo de cavalo solto com algumas mechas suaves ao redor do rosto, sobrancelhas bem desenhadas, maquiagem natural e um sorriso brilhante e amigável. Ela está sentada confortavelmente com as pernas dobradas para um lado, ombros relaxados e uma mão descansando naturalmente perto do joelho.\n\nMulher à direita: pele clara com textura natural realista, cabelo loiro longo preso em um rabo de cavalo alto com mechas lisas caindo atrás do ombro, sobrancelhas suavemente definidas, maquiagem natural sutil e um sorriso aberto e alegre. Ela está sentada ao lado da amiga com uma postura relaxada, inclinando-se levemente em direção a ela enquanto mantém os braços posicionados confortavelmente.\n\nAmbas as sujeitas devem ter características faciais adultas realistas, proporções naturais, expressões autênticas e linguagem corporal relaxada. A interação delas deve parecer espontânea e amigável, em vez de encenada.\n\n2. Roupas e acessórios:\nA mulher à esquerda veste um {argument name="woman one outfit" default="cardigã de tricô texturizado em verde-esmeralda profundo"} com botões pequenos e um colar de corrente dourada simples com um pequeno pingente retangular. Adicione anéis discretos e unhas bem cuidadas em tons neutros.\nA mulher à direita veste um {argument name="woman two outfit" default="cardigã de tricô texturizado em azul-marinho profundo"} com uma silhueta confortável e contemporânea e joias minimalistas.\nMantenha as roupas elegantes, casuais e totalmente apropriadas, com textura de tecido, costuras, dobras e caimento natural realistas. Evite logotipos de marcas visíveis.\n\n3. Ambiente e iluminação:\nPrepare a cena em um quarto moderno e aconchegante com uma cama grande coberta por um cobertor texturizado em cinza suave, roupas de cama neutras e grandes janelas do chão ao teto atrás das sujeitas. Através das janelas, mostre uma paisagem externa verde suavemente desfocada com árvores e cenário natural. Inclua detalhes sutis do quarto, como travesseiros e um pequeno objeto descansando naturalmente na cama ao fundo.\nUse a luz suave do dia entrando pelas janelas, criando uma iluminação gentil em ambos os rostos e sombras naturais sutis. A atmosfera deve parecer calorosa, pacífica, confortável e espontânea.\n\n4. Câmera e estilo visual:\nFotografado com uma câmera full-frame e uma lente de retrato de 50mm ou 85mm, perspectiva ao nível dos olhos, compressão de retrato natural, enquadramento médio-amplo, profundidade de campo rasa e foco preciso em ambos os rostos. Use luz natural suave da janela, exposição realista, alta faixa dinâmica, preciso
+Uma ilustração vibrante em lápis de cor com orientação vertical. Um jovem casal caminha de mãos dadas, afastando-se do observador, ao longo de um caminho estreito e sinuoso através de um vasto campo de centáureas azuis vívidas (Centaurea cyanus) em primeiro plano, entre gramíneas altas de tom amarelo-dourado, com caules e botões intercalados. A mulher veste um vestido branco fluido, o homem uma camisa branca com mangas dobradas e calças escuras, com as cabeças levemente inclinadas um para o outro. Colinas suaves estendem-se em direção ao horizonte. Uma brisa suave de verão curva a grama e as flores enquanto a luz do entardecer cai sobre a cena. Ao longe, a luz do sol espreita sobre campos em tons de âmbar quente. O céu preenche o terço superior, colorido desde um azul crepuscular profundo no topo até tons quentes de laranja, dourado e amarelo pálido perto do sol baixo, com nuvens suaves e tênues retroiluminadas. A perspectiva é ampla e ligeiramente elevada, destacando as centáureas detalhadas, o casal e o vasto prado iluminado pelo sol. O estilo remete à arte em lápis de cor, com texturas visíveis criando um clima suave e sereno. A atmosfera geral é pacífica, romântica e nostálgica, com tons dourados quentes contrastando com o azul elétrico frio das flores. Uma ilustração vibrante em lápis de cor com orientação vertical. Um vasto campo de centáureas azuis vívidas (Centaurea cyanus) cobre o primeiro plano, entre gramíneas altas de tom amarelo-dourado, com caules e botões intercalados. Um caminho estreito de terra sinuoso serpenteia através das flores em direção à distância. Uma camada suave de névoa matinal e leve neblina flutua suavemente sobre o campo e a costa distante, suavizando o horizonte. Além do campo, um oceano sereno estende-se até o horizonte, onde um único veleiro deriva suavemente nas águas calmas. A água reflete o brilho quente do céu. O céu preenche o terço superior, colorido desde um azul crepuscular profundo no topo até tons quentes de laranja, dourado e amarelo pálido perto do sol baixo, com nuvens suaves e tênues retroiluminadas. A perspectiva é ampla e ligeiramente elevada, destacando as centáureas detalhadas, o prado enevoado e a vasta paisagem marinha calma com o veleiro ao longe. O estilo remete à arte em lápis de cor, com texturas visíveis criando um clima suave e sereno. A atmosfera geral é pacífica, onírica e nostálgica, com tons dourados quentes contrastando com o azul elétrico frio das flores.
 ```
 
 #### 🖼️ Imagens geradas
@@ -2117,23 +2116,23 @@ Crie um retrato lifestyle fotorrealista de duas jovens sentadas confortavelmente
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1786861132331_7nhdm0_HPv0l5vWAAA9Zfc.jpg" width="600" alt="Publicação em Redes Sociais - Amigos relaxando em um quarto moderno - Image 1">
+<img src="https://cms-assets.youmind.com/media/1786861122193_hdzbyd_HPvngouXMAAzl8D.jpg" width="600" alt="Publicação em Redes Sociais - Paisagem de Prado em Lápis de Cor - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1786861132386_emo54d_HPv0oqSXQAAoz3j.jpg" width="600" alt="Publicação em Redes Sociais - Amigos relaxando em um quarto moderno - Image 2">
+<img src="https://cms-assets.youmind.com/media/1786861122162_wa2ul6_HPvnhY9XwAA2tPS.jpg" width="600" alt="Publicação em Redes Sociais - Paisagem de Prado em Lápis de Cor - Image 2">
 </div>
 
 #### 📌 Detalhes
 
-- **Autor:** [J⭕DIE](https://x.com/Jodie_Noraa)
-- **Fonte:** [Twitter Post](https://x.com/Jodie_Noraa/status/2088531849010135447)
+- **Autor:** [Viki](https://x.com/churvikv)
+- **Fonte:** [Twitter Post](https://x.com/churvikv/status/2088517844535287875)
 - **Publicado:** 15 de agosto de 2026
 - **Idiomas:** en
 
-**[👉 Experimente agora →](https://youmind.com/pt-PT/nano-banana-pro-prompts?id=31575)**
+**[👉 Experimente agora →](https://youmind.com/pt-PT/nano-banana-pro-prompts?id=31568)**
 
 ---
 
@@ -3598,46 +3597,7 @@ Um prompt de humor seco apresentando um pequeno gato laranja sentado em uma cade
 
 ---
 
-### No. 67: Banda desenhada / Storyboard - Paisagem de Prado em Lápis de Cor
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Descrição
-
-Um prompt sereno em estilo de lápis de cor retratando um casal caminhando por um campo de centáureas azuis ao pôr do sol.
-
-#### 📝 Prompt
-
-```
-Uma ilustração vibrante em lápis de cor com orientação vertical. Um jovem casal caminha de mãos dadas, afastando-se do observador, ao longo de um caminho estreito e sinuoso através de um vasto campo de centáureas azuis vívidas (Centaurea cyanus) em primeiro plano, entre gramíneas altas de tom amarelo-dourado, com caules e botões intercalados. A mulher veste um vestido branco fluido, o homem uma camisa branca com mangas dobradas e calças escuras, com as cabeças levemente inclinadas um para o outro. Colinas suaves estendem-se em direção ao horizonte. Uma brisa suave de verão curva a grama e as flores enquanto a luz do entardecer cai sobre a cena. Ao longe, a luz do sol espreita sobre campos em tons de âmbar quente. O céu preenche o terço superior, colorido desde um azul crepuscular profundo no topo até tons quentes de laranja, dourado e amarelo pálido perto do sol baixo, com nuvens suaves e tênues retroiluminadas. A perspectiva é ampla e ligeiramente elevada, destacando as centáureas detalhadas, o casal e o vasto prado iluminado pelo sol. O estilo remete à arte em lápis de cor, com texturas visíveis criando um clima suave e sereno. A atmosfera geral é pacífica, romântica e nostálgica, com tons dourados quentes contrastando com o azul elétrico frio das flores. Uma ilustração vibrante em lápis de cor com orientação vertical. Um vasto campo de centáureas azuis vívidas (Centaurea cyanus) cobre o primeiro plano, entre gramíneas altas de tom amarelo-dourado, com caules e botões intercalados. Um caminho estreito de terra sinuoso serpenteia através das flores em direção à distância. Uma camada suave de névoa matinal e leve neblina flutua suavemente sobre o campo e a costa distante, suavizando o horizonte. Além do campo, um oceano sereno estende-se até o horizonte, onde um único veleiro deriva suavemente nas águas calmas. A água reflete o brilho quente do céu. O céu preenche o terço superior, colorido desde um azul crepuscular profundo no topo até tons quentes de laranja, dourado e amarelo pálido perto do sol baixo, com nuvens suaves e tênues retroiluminadas. A perspectiva é ampla e ligeiramente elevada, destacando as centáureas detalhadas, o prado enevoado e a vasta paisagem marinha calma com o veleiro ao longe. O estilo remete à arte em lápis de cor, com texturas visíveis criando um clima suave e sereno. A atmosfera geral é pacífica, onírica e nostálgica, com tons dourados quentes contrastando com o azul elétrico frio das flores.
-```
-
-#### 🖼️ Imagens geradas
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1786861122193_hdzbyd_HPvngouXMAAzl8D.jpg" width="600" alt="Banda desenhada / Storyboard - Paisagem de Prado em Lápis de Cor - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1786861122162_wa2ul6_HPvnhY9XwAA2tPS.jpg" width="600" alt="Banda desenhada / Storyboard - Paisagem de Prado em Lápis de Cor - Image 2">
-</div>
-
-#### 📌 Detalhes
-
-- **Autor:** [Viki](https://x.com/churvikv)
-- **Fonte:** [Twitter Post](https://x.com/churvikv/status/2088517844535287875)
-- **Publicado:** 15 de agosto de 2026
-- **Idiomas:** en
-
-**[👉 Experimente agora →](https://youmind.com/pt-PT/nano-banana-pro-prompts?id=31568)**
-
----
-
-### No. 68: Banda desenhada / Storyboard - Retrato em Sala de Aula com Uniforme Escolar Japonês
+### No. 67: Banda desenhada / Storyboard - Retrato em Sala de Aula com Uniforme Escolar Japonês
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3689,7 +3649,7 @@ Uma jovem {argument name="subject" default="mulher do Leste Asiático"} com cabe
 
 ---
 
-### No. 69: Banda desenhada / Storyboard - Catedral Subterrânea e Baleia Mecânica
+### No. 68: Banda desenhada / Storyboard - Catedral Subterrânea e Baleia Mecânica
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3728,7 +3688,7 @@ Still cinematográfico ultra nítido de quatro mulheres de diferentes culturas e
 
 ---
 
-### No. 70: Banda desenhada / Storyboard - Diorama de Sapo de Feltro na Praia
+### No. 69: Banda desenhada / Storyboard - Diorama de Sapo de Feltro na Praia
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3762,7 +3722,7 @@ Um sapo de feltro vestindo {argument name="clothing" default="calção de banho 
 
 ---
 
-### No. 71: Banda desenhada / Storyboard - Viajante em Estação de Trem Cinematográfica
+### No. 70: Banda desenhada / Storyboard - Viajante em Estação de Trem Cinematográfica
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3801,7 +3761,7 @@ Uma foto cinematográfica realista de grande angular, vista por trás de um home
 
 ---
 
-### No. 72: Banda desenhada / Storyboard - Casal chinês romântico na Europa
+### No. 71: Banda desenhada / Storyboard - Casal chinês romântico na Europa
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3844,7 +3804,7 @@ Personagens consistentes em todos os quatro painéis, o mesmo casal chinês, as 
 
 ---
 
-### No. 73: Banda desenhada / Storyboard - Ilustração Figurativa Geométrica Fragmentada
+### No. 72: Banda desenhada / Storyboard - Ilustração Figurativa Geométrica Fragmentada
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3887,7 +3847,7 @@ Hierarquia de linhas altamente expressiva, microdetalhes intrincados, ritmo visu
 
 ---
 
-### No. 74: Banda desenhada / Storyboard - Retrato Urbano Editorial da Ghost-Spider
+### No. 73: Banda desenhada / Storyboard - Retrato Urbano Editorial da Ghost-Spider
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3939,7 +3899,7 @@ A iluminação é uma luz urbana noturna diegética com sombras profundas ricas 
 
 ---
 
-### No. 75: Banda desenhada / Storyboard - Guerreiro de Campo de Batalha em Fantasia Sombria
+### No. 74: Banda desenhada / Storyboard - Guerreiro de Campo de Batalha em Fantasia Sombria
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3984,7 +3944,7 @@ Realismo cinematográfico altamente detalhado, texturas fotorrealistas, anatomia
 
 ---
 
-### No. 76: Banda desenhada / Storyboard - Retrato Vitoriano em Arquivo Botânico
+### No. 75: Banda desenhada / Storyboard - Retrato Vitoriano em Arquivo Botânico
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4074,7 +4034,7 @@ Um prompt de retrato hiper-realista e estruturado, ambientado em um denso arquiv
 
 ---
 
-### No. 77: Banda desenhada / Storyboard - Estilo Diorama de Artesanato em Papel 3D
+### No. 76: Banda desenhada / Storyboard - Estilo Diorama de Artesanato em Papel 3D
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4141,7 +4101,7 @@ Não introduza novas pessoas, não remova sujeitos importantes, não altere a id
 
 ---
 
-### No. 78: Banda desenhada / Storyboard - Casa Assombrada Gótica e Fantástica
+### No. 77: Banda desenhada / Storyboard - Casa Assombrada Gótica e Fantástica
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4175,7 +4135,7 @@ Uma casa assombrada fantástica, {argument name="style" default="estilo gótico"
 
 ---
 
-### No. 79: Banda desenhada / Storyboard - Refúgio Literário Sereno
+### No. 78: Banda desenhada / Storyboard - Refúgio Literário Sereno
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4209,7 +4169,7 @@ Um {argument name="setting" default="refúgio literário em meio a ruínas de um
 
 ---
 
-### No. 80: Banda desenhada / Storyboard - Renderização de Cena no Estilo de Filme do Doraemon
+### No. 79: Banda desenhada / Storyboard - Renderização de Cena no Estilo de Filme do Doraemon
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4243,7 +4203,7 @@ Renderize a imagem de referência como uma cena de um filme {argument name="movi
 
 ---
 
-### No. 81: Banda desenhada / Storyboard - Grade de Expressões em Múltiplos Painéis
+### No. 80: Banda desenhada / Storyboard - Grade de Expressões em Múltiplos Painéis
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4283,7 +4243,7 @@ Uma grade fotográfica de múltiplos painéis apresentando uma {argument name="s
 
 ---
 
-### No. 82: Banda desenhada / Storyboard - Retrato Literário em Jardim Sereno
+### No. 81: Banda desenhada / Storyboard - Retrato Literário em Jardim Sereno
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4329,7 +4289,7 @@ Um refúgio literário sereno em meio a ruínas de jardim florido, onde páginas
 
 ---
 
-### No. 83: Banda desenhada / Storyboard - Layout de Storyboard para Fragrância de Luxo
+### No. 82: Banda desenhada / Storyboard - Layout de Storyboard para Fragrância de Luxo
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4363,7 +4323,7 @@ Crie um storyboard de pitch deck de fragrância em formato 4:3 de alto padrão c
 
 ---
 
-### No. 84: Banda desenhada / Storyboard - Adição de Objeto na Interação com Personagem
+### No. 83: Banda desenhada / Storyboard - Adição de Objeto na Interação com Personagem
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4397,7 +4357,7 @@ Um(a) {argument name="object" default="xícara de chá"} sobre um(a) {argument n
 
 ---
 
-### No. 85: Marketing de Produto - Retrato de Referência para Editorial de Moda
+### No. 84: Marketing de Produto - Retrato de Referência para Editorial de Moda
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4431,7 +4391,7 @@ Crie um retrato editorial de alta moda de {argument name="subject" default="uma 
 
 ---
 
-### No. 86: Marketing de Produto - Editorial de Revista de Streetwear Urbano
+### No. 85: Marketing de Produto - Editorial de Revista de Streetwear Urbano
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4483,7 +4443,7 @@ Um {argument name="style" default="capa de revista de moda streetwear urbana de 
 
 ---
 
-### No. 87: Marketing de Produto - Anúncio de Chocolate de Luxo - Natureza-Morta
+### No. 86: Marketing de Produto - Anúncio de Chocolate de Luxo - Natureza-Morta
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4535,7 +4495,7 @@ Uma natureza-morta estilizada e brilhante e uma fotografia conceitual de um anú
 
 ---
 
-### No. 88: Marketing de Produto - Editorial Elegante de Moda Masculina ao Crepúsculo
+### No. 87: Marketing de Produto - Editorial Elegante de Moda Masculina ao Crepúsculo
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4569,7 +4529,7 @@ Um modelo masculino jovem e convencionalmente atraente está posicionado com con
 
 ---
 
-### No. 89: Marketing de Produto - Editorial de Moda Masculina ao Crepúsculo
+### No. 88: Marketing de Produto - Editorial de Moda Masculina ao Crepúsculo
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4603,7 +4563,7 @@ Um jovem, convencionalmente atraente {argument name="gender" default="modelo mas
 
 ---
 
-### No. 90: Marketing de Produto - Rolo de Cabelo de Produto de Beleza Surreal
+### No. 89: Marketing de Produto - Rolo de Cabelo de Produto de Beleza Surreal
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4637,7 +4597,7 @@ Foto de estúdio de produto, tirada por trás de uma pessoa com cabelo {argument
 
 ---
 
-### No. 91: Marketing de Produto - Escultura de Cérebro Floral
+### No. 90: Marketing de Produto - Escultura de Cérebro Floral
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4671,7 +4631,7 @@ Uma visão em close-up, de perfil lateral, de uma escultura de um cérebro human
 
 ---
 
-### No. 92: Marketing de Produto - Retrato de Moda em Interior Minimalista
+### No. 91: Marketing de Produto - Retrato de Moda em Interior Minimalista
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4711,7 +4671,7 @@ Capturado com uma Sony A7R V, lente de retrato 85mm f/1.8, perspectiva ao nível
 
 ---
 
-### No. 93: Marketing de Produto - Retrato Cinematográfico Urbano Noturno com Outdoor
+### No. 92: Marketing de Produto - Retrato Cinematográfico Urbano Noturno com Outdoor
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4780,7 +4740,7 @@ Um retrato cinematográfico urbano noturno de uma mulher em uma rua da cidade, a
 
 ---
 
-### No. 94: Marketing de Produto - Fotografia de Produto: Casca de Framboesa
+### No. 93: Marketing de Produto - Fotografia de Produto: Casca de Framboesa
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4832,7 +4792,7 @@ Foto de estúdio do produto {argument name="product" default="product from uploa
 
 ---
 
-### No. 95: Marketing de Produto - Mulher de fato de banho amarelo néon na piscina de uma villa
+### No. 94: Marketing de Produto - Mulher de fato de banho amarelo néon na piscina de uma villa
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4881,6 +4841,40 @@ Um terraço com piscina numa villa privada, rodeado por alvenaria rústica antig
 - **Idiomas:** en
 
 **[👉 Experimente agora →](https://youmind.com/pt-PT/nano-banana-pro-prompts?id=31478)**
+
+---
+
+### No. 95: Marketing de Produto - Capa de Revista de Moda Palace
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Descrição
+
+Um prompt editorial de alta costura ambientado em um palácio europeu, apresentando um corte de cabelo chanel roxo e acessórios de luxo.
+
+#### 📝 Prompt
+
+```
+Fotografia editorial de alta costura de uma jovem estilosa com um {argument name="hair style" default="corte chanel roxo vibrante"} e óculos de sol elegantes. Ela está vestindo um {argument name="clothing" default="macacão sem mangas de veludo azul profundo"} e estendendo uma {argument name="accessory" default="bolsa de couro verde esmeralda"} grande e luxuosa com um fecho de metal dourado em direção à câmera. Perspectiva de ângulo baixo. Ambientado dentro de um elegante palácio europeu clássico com arcos de pedra, janelas francesas altas e luz solar natural suave. Fotorrealista, resolução 8k, iluminação cinematográfica, foco nítido, estilo de capa de revista de moda.
+```
+
+#### 🖼️ Imagens geradas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1786774867894_9j93j5_HPs3uqja4AA_W3d.jpg" width="600" alt="Marketing de Produto - Capa de Revista de Moda Palace - Image 1">
+</div>
+
+#### 📌 Detalhes
+
+- **Autor:** [Wareen AI 💟](https://x.com/Wareenaa)
+- **Fonte:** [Twitter Post](https://x.com/Wareenaa/status/2088324136909357375)
+- **Publicado:** 14 de agosto de 2026
+- **Idiomas:** en
+
+**[👉 Experimente agora →](https://youmind.com/pt-PT/nano-banana-pro-prompts?id=31470)**
 
 ---
 
@@ -5949,7 +5943,7 @@ Um prompt atmosférico simples para uma estudante flutuando em um ambiente escur
 
 <div align="center">
 
-### 🎯 15128 mais prompts não mostrados aqui
+### 🎯 15126 mais prompts não mostrados aqui
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -6012,6 +6006,6 @@ Licenciado sob [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Enviar um prompt](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Dar estrela a este repositório](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-08-18T12:21:52.796Z</sub>
+<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-08-18T16:20:25.909Z</sub>
 
 </div>

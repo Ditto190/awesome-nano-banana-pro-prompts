@@ -143,9 +143,9 @@ Khi sử dụng trong Raycast, bạn có thể thay thế động các đối s�
 
 | Chỉ số | Số lượng |
 |--------|-------|
-| 📝 Tổng số câu lệnh | **15248** |
+| 📝 Tổng số câu lệnh | **15246** |
 | ⭐ Nổi bật | **9** |
-| 🔄 Cập nhật lần cuối | **lúc 12:21:16 UTC Thứ Ba, 18 tháng 8, 2026** |
+| 🔄 Cập nhật lần cuối | **lúc 16:19:20 UTC Thứ Ba, 18 tháng 8, 2026** |
 
 </div>
 
@@ -2066,19 +2066,18 @@ Một nam người mẫu trẻ đầy tự tin ngồi đối diện với máy �
 
 ---
 
-### No. 31: Bài đăng trên mạng xã hội - Bạn bè thư giãn trong phòng ngủ hiện đại
+### No. 31: Bài đăng trên mạng xã hội - Phong cảnh đồng cỏ bằng bút chì màu
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Mô tả
 
-Một gợi ý (prompt) ảnh chân dung phong cách sống về hai người bạn đang chia sẻ khoảnh khắc vui vẻ trong một phòng ngủ hiện đại, ấm cúng với cửa sổ lớn.
+Một câu lệnh (prompt) theo phong cách bút chì màu thanh bình, mô tả một cặp đôi đang đi dạo giữa cánh đồng hoa thanh cúc xanh vào lúc hoàng hôn.
 
 #### 📝 Câu lệnh
 
 ```
-Tạo một bức ảnh chân dung phong cách sống chân thực về hai cô gái trẻ đang ngồi thoải mái cùng nhau trên chiếc giường được dọn dẹp gọn gàng trong một căn phòng ngủ hiện đại, sáng sủa. Họ là những người bạn thân đang chia sẻ một khoảnh khắc thư thái, vui vẻ và nhìn thẳng vào ống kính với nụ cười ấm áp, tự nhiên.\n\n1. Chủ thể, tóc, da, biểu cảm và tư thế:\n\nNgười phụ nữ bên trái: da sáng màu ấm áp với nước da tự nhiên và kết cấu khuôn mặt tinh tế, tóc {argument name="woman one hair" default="màu nâu đỏ"} được buộc đuôi ngựa lỏng với vài sợi tóc mềm mại quanh khuôn mặt, lông mày được tỉa gọn gàng, trang điểm tự nhiên và nụ cười thân thiện rạng rỡ. Cô ấy ngồi thoải mái với đôi chân gập sang một bên, vai thả lỏng và một bàn tay đặt tự nhiên gần đầu gối.\n\nNgười phụ nữ bên phải: da sáng màu với kết cấu tự nhiên chân thực, tóc vàng dài buộc đuôi ngựa cao với những sợi tóc mượt mà xõa sau vai, lông mày được định hình nhẹ nhàng, trang điểm tự nhiên tinh tế và nụ cười rạng rỡ, cởi mở. Cô ấy ngồi cạnh bạn mình với tư thế thư giãn, hơi nghiêng người về phía bạn trong khi giữ cánh tay ở vị trí thoải mái.\n\nCả hai chủ thể nên có các đặc điểm khuôn mặt người lớn chân thực, tỷ lệ tự nhiên, biểu cảm xác thực và ngôn ngữ cơ thể thư thái. Sự tương tác của họ nên tạo cảm giác tự nhiên và thân thiện thay vì dàn dựng.\n\n2. Trang phục và phụ kiện:\nNgười phụ nữ bên trái mặc một chiếc {argument name="woman one outfit" default="áo cardigan dệt kim màu xanh lục bảo đậm"} với các nút nhỏ và dây chuyền vàng đơn giản có mặt dây chuyền hình chữ nhật nhỏ. Thêm những chiếc nhẫn tinh tế và móng tay được cắt tỉa gọn gàng với màu sắc trung tính.\nNgười phụ nữ bên phải mặc một chiếc {argument name="woman two outfit" default="áo cardigan dệt kim màu xanh navy đậm"} với kiểu dáng hiện đại, thoải mái và trang sức tối giản.\nGiữ cho trang phục trang nhã, giản dị và hoàn toàn phù hợp, với kết cấu vải, đường khâu, nếp gấp và độ rủ tự nhiên chân thực. Tránh các logo thương hiệu dễ thấy.\n\n3. Môi trường và ánh sáng:\nThiết lập bối cảnh trong một phòng ngủ hiện đại, ấm cúng với chiếc giường lớn được phủ một chiếc chăn dệt kim màu xám nhạt mềm mại, bộ chăn ga gối đệm màu trung tính và cửa sổ lớn từ sàn đến trần phía sau các chủ thể. Qua cửa sổ, hãy hiển thị phong cảnh ngoài trời màu xanh lá cây được làm mờ nhẹ với cây cối và cảnh quan thiên nhiên. Bao gồm các chi tiết phòng ngủ tinh tế như gối và một vật nhỏ đặt tự nhiên trên giường ở phía sau.\nSử dụng ánh sáng ban ngày dịu nhẹ chiếu qua cửa sổ, tạo ra sự chiếu sáng nhẹ nhàng trên cả hai khuôn mặt và những bóng đổ tự nhiên tinh tế. Bầu không khí nên mang lại cảm giác ấm áp, yên bình, thoải mái và chân thực.\n\n4. Máy ảnh và phong cách hình ảnh:\nĐược chụp bằng máy ảnh full-frame và ống kính chân dung 50mm hoặc 85mm, góc nhìn ngang tầm mắt, độ nén chân dung tự nhiên, khung hình trung bình rộng, độ sâu trường ảnh nông và lấy nét chính xác vào cả hai khuôn mặt. Sử dụng ánh sáng cửa sổ tự nhiên dịu nhẹ, độ phơi sáng chân thực, dải động cao, chính xác
+Một bức tranh minh họa bằng bút chì màu sống động theo hướng dọc. Một cặp đôi trẻ nắm tay nhau đi xa dần về phía chân trời dọc theo con đường mòn quanh co, xuyên qua cánh đồng hoa thanh cúc (Centaurea cyanus) xanh biếc ở tiền cảnh, xen lẫn giữa những đám cỏ cao màu vàng óng cùng những thân cây và nụ hoa. Người phụ nữ mặc chiếc váy trắng thướt tha, người đàn ông mặc áo sơ mi trắng xắn tay và quần tối màu, đầu họ nghiêng nhẹ về phía nhau. Những ngọn đồi thoai thoải trải dài về phía chân trời. Một làn gió mùa hè nhẹ nhàng làm lay động cỏ và hoa khi ánh sáng buổi chiều bao trùm khung cảnh. Ở phía xa, ánh mặt trời lấp ló trên những cánh đồng màu hổ phách ấm áp. Bầu trời chiếm một phần ba phía trên, chuyển từ màu xanh thẫm ở đỉnh xuống các sắc thái ấm áp của màu cam, vàng kim và vàng nhạt gần phía mặt trời, với những đám mây mỏng manh được chiếu sáng ngược. Góc nhìn rộng và hơi cao, làm nổi bật những bông hoa thanh cúc chi tiết, cặp đôi và đồng cỏ rộng lớn ngập tràn ánh nắng. Phong cách gợi nhớ đến nghệ thuật bút chì màu, với các kết cấu rõ nét tạo nên một tâm trạng nhẹ nhàng, thanh bình. Bầu không khí tổng thể mang vẻ yên bình, lãng mạn và hoài cổ, với những tông màu vàng ấm áp tương phản với sắc xanh điện lạnh của những bông hoa. Một bức tranh minh họa bằng bút chì màu sống động theo hướng dọc. Một cánh đồng hoa thanh cúc (Centaurea cyanus) xanh biếc bao phủ tiền cảnh, xen lẫn giữa những đám cỏ cao màu vàng óng cùng những thân cây và nụ hoa. Một con đường đất nhỏ quanh co uốn lượn xuyên qua những bông hoa về phía xa. Một lớp sương mù buổi sáng nhẹ nhàng trôi lững lờ trên cánh đồng và bờ xa, làm mờ đi đường chân trời. Phía sau cánh đồng, đại dương thanh bình trải dài đến tận chân trời, nơi một chiếc thuyền buồm đơn độc trôi nhẹ trên mặt nước tĩnh lặng. Mặt nước phản chiếu ánh sáng ấm áp của bầu trời. Bầu trời chiếm một phần ba phía trên, chuyển từ màu xanh thẫm ở đỉnh xuống các sắc thái ấm áp của màu cam, vàng kim và vàng nhạt gần phía mặt trời, với những đám mây mỏng manh được chiếu sáng ngược. Góc nhìn rộng và hơi cao, làm nổi bật những bông hoa thanh cúc chi tiết, đồng cỏ sương mù và cảnh biển tĩnh lặng bao la với chiếc thuyền buồm ở phía xa. Phong cách gợi nhớ đến nghệ thuật bút chì màu, với các kết cấu rõ nét tạo nên một tâm trạng nhẹ nhàng, thanh bình. Bầu không khí tổng thể mang vẻ yên bình, mơ màng và hoài cổ, với những tông màu vàng ấm áp tương phản với sắc xanh điện lạnh của những bông hoa.
 ```
 
 #### 🖼️ Hình ảnh được tạo
@@ -2086,23 +2085,23 @@ Tạo một bức ảnh chân dung phong cách sống chân thực về hai cô 
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1786861132331_7nhdm0_HPv0l5vWAAA9Zfc.jpg" width="600" alt="Bài đăng trên mạng xã hội - Bạn bè thư giãn trong phòng ngủ hiện đại - Image 1">
+<img src="https://cms-assets.youmind.com/media/1786861122193_hdzbyd_HPvngouXMAAzl8D.jpg" width="600" alt="Bài đăng trên mạng xã hội - Phong cảnh đồng cỏ bằng bút chì màu - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1786861132386_emo54d_HPv0oqSXQAAoz3j.jpg" width="600" alt="Bài đăng trên mạng xã hội - Bạn bè thư giãn trong phòng ngủ hiện đại - Image 2">
+<img src="https://cms-assets.youmind.com/media/1786861122162_wa2ul6_HPvnhY9XwAA2tPS.jpg" width="600" alt="Bài đăng trên mạng xã hội - Phong cảnh đồng cỏ bằng bút chì màu - Image 2">
 </div>
 
 #### 📌 Chi tiết
 
-- **Tác giả:** [J⭕DIE](https://x.com/Jodie_Noraa)
-- **Nguồn:** [Twitter Post](https://x.com/Jodie_Noraa/status/2088531849010135447)
+- **Tác giả:** [Viki](https://x.com/churvikv)
+- **Nguồn:** [Twitter Post](https://x.com/churvikv/status/2088517844535287875)
 - **Đã xuất bản:** 15 tháng 8, 2026
 - **Ngôn ngữ:** en
 
-**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=31575)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=31568)**
 
 ---
 
@@ -3567,46 +3566,7 @@ Một câu lệnh (prompt) hài hước theo phong cách châm biếm, mô tả 
 
 ---
 
-### No. 67: Truyện tranh / Bảng phân cảnh - Phong cảnh đồng cỏ bằng bút chì màu
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Mô tả
-
-Một câu lệnh (prompt) theo phong cách bút chì màu thanh bình, mô tả một cặp đôi đang đi dạo giữa cánh đồng hoa thanh cúc xanh vào lúc hoàng hôn.
-
-#### 📝 Câu lệnh
-
-```
-Một bức tranh minh họa bằng bút chì màu sống động theo hướng dọc. Một cặp đôi trẻ nắm tay nhau đi xa dần về phía chân trời dọc theo con đường mòn quanh co, xuyên qua cánh đồng hoa thanh cúc (Centaurea cyanus) xanh biếc ở tiền cảnh, xen lẫn giữa những đám cỏ cao màu vàng óng cùng những thân cây và nụ hoa. Người phụ nữ mặc chiếc váy trắng thướt tha, người đàn ông mặc áo sơ mi trắng xắn tay và quần tối màu, đầu họ nghiêng nhẹ về phía nhau. Những ngọn đồi thoai thoải trải dài về phía chân trời. Một làn gió mùa hè nhẹ nhàng làm lay động cỏ và hoa khi ánh sáng buổi chiều bao trùm khung cảnh. Ở phía xa, ánh mặt trời lấp ló trên những cánh đồng màu hổ phách ấm áp. Bầu trời chiếm một phần ba phía trên, chuyển từ màu xanh thẫm ở đỉnh xuống các sắc thái ấm áp của màu cam, vàng kim và vàng nhạt gần phía mặt trời, với những đám mây mỏng manh được chiếu sáng ngược. Góc nhìn rộng và hơi cao, làm nổi bật những bông hoa thanh cúc chi tiết, cặp đôi và đồng cỏ rộng lớn ngập tràn ánh nắng. Phong cách gợi nhớ đến nghệ thuật bút chì màu, với các kết cấu rõ nét tạo nên một tâm trạng nhẹ nhàng, thanh bình. Bầu không khí tổng thể mang vẻ yên bình, lãng mạn và hoài cổ, với những tông màu vàng ấm áp tương phản với sắc xanh điện lạnh của những bông hoa. Một bức tranh minh họa bằng bút chì màu sống động theo hướng dọc. Một cánh đồng hoa thanh cúc (Centaurea cyanus) xanh biếc bao phủ tiền cảnh, xen lẫn giữa những đám cỏ cao màu vàng óng cùng những thân cây và nụ hoa. Một con đường đất nhỏ quanh co uốn lượn xuyên qua những bông hoa về phía xa. Một lớp sương mù buổi sáng nhẹ nhàng trôi lững lờ trên cánh đồng và bờ xa, làm mờ đi đường chân trời. Phía sau cánh đồng, đại dương thanh bình trải dài đến tận chân trời, nơi một chiếc thuyền buồm đơn độc trôi nhẹ trên mặt nước tĩnh lặng. Mặt nước phản chiếu ánh sáng ấm áp của bầu trời. Bầu trời chiếm một phần ba phía trên, chuyển từ màu xanh thẫm ở đỉnh xuống các sắc thái ấm áp của màu cam, vàng kim và vàng nhạt gần phía mặt trời, với những đám mây mỏng manh được chiếu sáng ngược. Góc nhìn rộng và hơi cao, làm nổi bật những bông hoa thanh cúc chi tiết, đồng cỏ sương mù và cảnh biển tĩnh lặng bao la với chiếc thuyền buồm ở phía xa. Phong cách gợi nhớ đến nghệ thuật bút chì màu, với các kết cấu rõ nét tạo nên một tâm trạng nhẹ nhàng, thanh bình. Bầu không khí tổng thể mang vẻ yên bình, mơ màng và hoài cổ, với những tông màu vàng ấm áp tương phản với sắc xanh điện lạnh của những bông hoa.
-```
-
-#### 🖼️ Hình ảnh được tạo
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1786861122193_hdzbyd_HPvngouXMAAzl8D.jpg" width="600" alt="Truyện tranh / Bảng phân cảnh - Phong cảnh đồng cỏ bằng bút chì màu - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1786861122162_wa2ul6_HPvnhY9XwAA2tPS.jpg" width="600" alt="Truyện tranh / Bảng phân cảnh - Phong cảnh đồng cỏ bằng bút chì màu - Image 2">
-</div>
-
-#### 📌 Chi tiết
-
-- **Tác giả:** [Viki](https://x.com/churvikv)
-- **Nguồn:** [Twitter Post](https://x.com/churvikv/status/2088517844535287875)
-- **Đã xuất bản:** 15 tháng 8, 2026
-- **Ngôn ngữ:** en
-
-**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=31568)**
-
----
-
-### No. 68: Truyện tranh / Bảng phân cảnh - Chân dung nữ sinh trong lớp học với đồng phục Nhật Bản
+### No. 67: Truyện tranh / Bảng phân cảnh - Chân dung nữ sinh trong lớp học với đồng phục Nhật Bản
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3658,7 +3618,7 @@ Một cô gái trẻ {argument name="subject" default="phụ nữ Đông Á"} v�
 
 ---
 
-### No. 69: Truyện tranh / Bảng phân cảnh - Thánh đường dưới lòng đất và Cá voi cơ khí
+### No. 68: Truyện tranh / Bảng phân cảnh - Thánh đường dưới lòng đất và Cá voi cơ khí
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3697,7 +3657,7 @@ Các câu lệnh điện ảnh để tạo ra những khung cảnh huyền ảo 
 
 ---
 
-### No. 70: Truyện tranh / Bảng phân cảnh - Diorama chú ếch nỉ trên bãi biển
+### No. 69: Truyện tranh / Bảng phân cảnh - Diorama chú ếch nỉ trên bãi biển
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3731,7 +3691,7 @@ Một chú ếch bằng vải nỉ đang mặc {argument name="clothing" default
 
 ---
 
-### No. 71: Truyện tranh / Bảng phân cảnh - Du khách tại nhà ga tàu hỏa đậm chất điện ảnh
+### No. 70: Truyện tranh / Bảng phân cảnh - Du khách tại nhà ga tàu hỏa đậm chất điện ảnh
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3770,7 +3730,7 @@ Một bức ảnh điện ảnh góc rộng, chân thực chụp từ phía sau 
 
 ---
 
-### No. 72: Truyện tranh / Bảng phân cảnh - Cặp đôi Trung Quốc lãng mạn tại châu Âu
+### No. 71: Truyện tranh / Bảng phân cảnh - Cặp đôi Trung Quốc lãng mạn tại châu Âu
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3813,7 +3773,7 @@ Nhân vật nhất quán qua cả bốn khung hình, cùng một cặp đôi Tru
 
 ---
 
-### No. 73: Truyện tranh / Bảng phân cảnh - Minh họa hình tượng hình học phân mảnh
+### No. 72: Truyện tranh / Bảng phân cảnh - Minh họa hình tượng hình học phân mảnh
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3856,7 +3816,7 @@ Phân cấp đường nét biểu cảm cao, chi tiết vi mô phức tạp, nh�
 
 ---
 
-### No. 74: Truyện tranh / Bảng phân cảnh - Ảnh chân dung đô thị phong cách tạp chí về Ghost-Spider
+### No. 73: Truyện tranh / Bảng phân cảnh - Ảnh chân dung đô thị phong cách tạp chí về Ghost-Spider
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3908,7 +3868,7 @@ Cơ thể cô hơi nghiêng với đôi chân gập hoàn toàn, trọng lượn
 
 ---
 
-### No. 75: Truyện tranh / Bảng phân cảnh - Chiến binh trên chiến trường kỳ ảo đen tối
+### No. 74: Truyện tranh / Bảng phân cảnh - Chiến binh trên chiến trường kỳ ảo đen tối
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3953,7 +3913,7 @@ Chủ nghĩa hiện thực điện ảnh chi tiết cao, kết cấu chân thự
 
 ---
 
-### No. 76: Truyện tranh / Bảng phân cảnh - Chân dung thời Victoria trong kho lưu trữ thực vật
+### No. 75: Truyện tranh / Bảng phân cảnh - Chân dung thời Victoria trong kho lưu trữ thực vật
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4043,7 +4003,7 @@ Một bộ câu lệnh (prompt) tạo chân dung siêu thực, có cấu trúc, 
 
 ---
 
-### No. 77: Truyện tranh / Bảng phân cảnh - Phong cách mô hình giấy thủ công 3D
+### No. 76: Truyện tranh / Bảng phân cảnh - Phong cách mô hình giấy thủ công 3D
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4110,7 +4070,7 @@ Không thêm người mới, không xóa bỏ các chủ thể quan trọng, kh�
 
 ---
 
-### No. 78: Truyện tranh / Bảng phân cảnh - Ngôi nhà ma ám phong cách Gothic kỳ ảo
+### No. 77: Truyện tranh / Bảng phân cảnh - Ngôi nhà ma ám phong cách Gothic kỳ ảo
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4144,7 +4104,7 @@ Một ngôi nhà ma ám đầy kỳ ảo, {argument name="style" default="phong 
 
 ---
 
-### No. 79: Truyện tranh / Bảng phân cảnh - Khu vườn văn chương tĩnh lặng
+### No. 78: Truyện tranh / Bảng phân cảnh - Khu vườn văn chương tĩnh lặng
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4178,7 +4138,7 @@ Một {argument name="setting" default="chốn ẩn mình văn chương giữa t
 
 ---
 
-### No. 80: Truyện tranh / Bảng phân cảnh - Kết xuất cảnh phim theo phong cách Doraemon
+### No. 79: Truyện tranh / Bảng phân cảnh - Kết xuất cảnh phim theo phong cách Doraemon
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4212,7 +4172,7 @@ Kết xuất hình ảnh phác thảo tham chiếu thành một cảnh trong b�
 
 ---
 
-### No. 81: Truyện tranh / Bảng phân cảnh - Lưới Biểu Cảm Đa Khung Hình
+### No. 80: Truyện tranh / Bảng phân cảnh - Lưới Biểu Cảm Đa Khung Hình
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4252,7 +4212,7 @@ Một lưới ảnh đa khung hình hiển thị {argument name="subject" defaul
 
 ---
 
-### No. 82: Truyện tranh / Bảng phân cảnh - Chân dung văn học trong khu vườn thanh bình
+### No. 81: Truyện tranh / Bảng phân cảnh - Chân dung văn học trong khu vườn thanh bình
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4298,7 +4258,7 @@ Một không gian văn học thanh bình giữa những tàn tích vườn hoa �
 
 ---
 
-### No. 83: Truyện tranh / Bảng phân cảnh - Bố cục Storyboard cho nước hoa cao cấp
+### No. 82: Truyện tranh / Bảng phân cảnh - Bố cục Storyboard cho nước hoa cao cấp
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4332,7 +4292,7 @@ Tạo một storyboard cho bản thuyết trình nước hoa cao cấp tỷ lệ
 
 ---
 
-### No. 84: Truyện tranh / Bảng phân cảnh - Thêm đạo cụ tương tác với nhân vật
+### No. 83: Truyện tranh / Bảng phân cảnh - Thêm đạo cụ tương tác với nhân vật
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4366,7 +4326,7 @@ Một {argument name="object" default="tách trà"} trên một {argument name="
 
 ---
 
-### No. 85: Tiếp thị sản phẩm - Ảnh chân dung tham khảo theo phong cách thời trang
+### No. 84: Tiếp thị sản phẩm - Ảnh chân dung tham khảo theo phong cách thời trang
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4400,7 +4360,7 @@ Tạo một bức chân dung thời trang cao cấp của {argument name="subjec
 
 ---
 
-### No. 86: Tiếp thị sản phẩm - Ấn phẩm Tạp chí Thời trang Đường phố
+### No. 85: Tiếp thị sản phẩm - Ấn phẩm Tạp chí Thời trang Đường phố
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4452,7 +4412,7 @@ Một {argument name="style" default="trang bìa tạp chí thời trang đườ
 
 ---
 
-### No. 87: Tiếp thị sản phẩm - Ảnh tĩnh vật quảng cáo sô-cô-la cao cấp
+### No. 86: Tiếp thị sản phẩm - Ảnh tĩnh vật quảng cáo sô-cô-la cao cấp
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4504,7 +4464,7 @@ Một bức ảnh tĩnh vật đầy phong cách và mang tính khái niệm t�
 
 ---
 
-### No. 88: Tiếp thị sản phẩm - Bộ ảnh thời trang nam sang trọng lúc hoàng hôn
+### No. 87: Tiếp thị sản phẩm - Bộ ảnh thời trang nam sang trọng lúc hoàng hôn
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4538,7 +4498,7 @@ Một nam người mẫu trẻ, ngoại hình chuẩn mực đứng tự tin ở
 
 ---
 
-### No. 89: Tiếp thị sản phẩm - Ảnh chân dung biên tập thời trang nam lúc hoàng hôn
+### No. 88: Tiếp thị sản phẩm - Ảnh chân dung biên tập thời trang nam lúc hoàng hôn
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4572,7 +4532,7 @@ Một chàng trai trẻ, ngoại hình thu hút {argument name="gender" default=
 
 ---
 
-### No. 90: Tiếp thị sản phẩm - Sản phẩm làm đẹp siêu thực: Lô cuốn tóc
+### No. 89: Tiếp thị sản phẩm - Sản phẩm làm đẹp siêu thực: Lô cuốn tóc
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4606,7 +4566,7 @@ Một gợi ý chụp ảnh thương mại đầy tinh nghịch và siêu thực
 
 ---
 
-### No. 91: Tiếp thị sản phẩm - Tác phẩm điêu khắc não bộ hoa
+### No. 90: Tiếp thị sản phẩm - Tác phẩm điêu khắc não bộ hoa
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4640,7 +4600,7 @@ Góc nhìn cận cảnh từ một bên của tác phẩm điêu khắc não ng�
 
 ---
 
-### No. 92: Tiếp thị sản phẩm - Chân dung thời trang nội thất tối giản
+### No. 91: Tiếp thị sản phẩm - Chân dung thời trang nội thất tối giản
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4674,7 +4634,7 @@ Chân dung thời trang phong cách sống toàn thân siêu thực của một 
 
 ---
 
-### No. 93: Tiếp thị sản phẩm - Chân dung điện ảnh bên bảng quảng cáo thành phố về đêm
+### No. 92: Tiếp thị sản phẩm - Chân dung điện ảnh bên bảng quảng cáo thành phố về đêm
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4743,7 +4703,7 @@ Một bức chân dung điện ảnh về người phụ nữ trên đường ph
 
 ---
 
-### No. 94: Tiếp thị sản phẩm - Chụp ảnh sản phẩm vỏ quả mâm xôi
+### No. 93: Tiếp thị sản phẩm - Chụp ảnh sản phẩm vỏ quả mâm xôi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4795,7 +4755,7 @@ Một câu lệnh tạo ảnh sản phẩm thương mại với hình ảnh sả
 
 ---
 
-### No. 95: Tiếp thị sản phẩm - Người phụ nữ mặc đồ bơi màu vàng neon tại hồ bơi biệt thự
+### No. 94: Tiếp thị sản phẩm - Người phụ nữ mặc đồ bơi màu vàng neon tại hồ bơi biệt thự
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4844,6 +4804,40 @@ Một sân hiên hồ bơi biệt thự riêng tư, được bao quanh bởi nh�
 - **Ngôn ngữ:** en
 
 **[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=31478)**
+
+---
+
+### No. 95: Tiếp thị sản phẩm - Trang bìa tạp chí thời trang cung điện
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Mô tả
+
+Một gợi ý biên tập thời trang cao cấp lấy bối cảnh tại một cung điện châu Âu, với kiểu tóc bob màu tím và các phụ kiện sang trọng.
+
+#### 📝 Câu lệnh
+
+```
+Ảnh biên tập thời trang cao cấp chụp một cô gái trẻ sành điệu với {argument name="hair style" default="kiểu tóc bob màu tím sáng"} và cặp kính râm thời thượng. Cô ấy đang mặc một bộ {argument name="clothing" default="jumpsuit không tay bằng nhung màu xanh đậm"} và đưa một chiếc {argument name="accessory" default="túi xách da màu xanh ngọc lục bảo"} sang trọng, cỡ lớn với khóa kim loại vàng về phía máy ảnh. Góc chụp từ dưới lên. Bối cảnh bên trong một cung điện châu Âu cổ điển thanh lịch với các mái vòm bằng đá, cửa sổ kiểu Pháp cao và ánh sáng tự nhiên dịu nhẹ. Ảnh chân thực, độ phân giải 8k, ánh sáng điện ảnh, lấy nét sắc nét, phong cách trang bìa tạp chí thời trang.
+```
+
+#### 🖼️ Hình ảnh được tạo
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1786774867894_9j93j5_HPs3uqja4AA_W3d.jpg" width="600" alt="Tiếp thị sản phẩm - Trang bìa tạp chí thời trang cung điện - Image 1">
+</div>
+
+#### 📌 Chi tiết
+
+- **Tác giả:** [Wareen AI 💟](https://x.com/Wareenaa)
+- **Nguồn:** [Twitter Post](https://x.com/Wareenaa/status/2088324136909357375)
+- **Đã xuất bản:** 14 tháng 8, 2026
+- **Ngôn ngữ:** en
+
+**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=31470)**
 
 ---
 
@@ -5912,7 +5906,7 @@ Một câu lệnh (prompt) đơn giản tạo không khí về một nữ sinh �
 
 <div align="center">
 
-### 🎯 15128 câu lệnh khác không hiển thị ở đây
+### 🎯 15126 câu lệnh khác không hiển thị ở đây
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -5975,6 +5969,6 @@ Xem [CONTRIBUTING.md](docs/CONTRIBUTING.md) để biết hướng dẫn chi ti�
 **[📝 Gửi một câu lệnh](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-08-18T12:21:16.112Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-08-18T16:19:20.920Z</sub>
 
 </div>

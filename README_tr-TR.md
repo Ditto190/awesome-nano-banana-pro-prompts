@@ -143,9 +143,9 @@ Raycast'te kullanıldığında, hızlı yinelemeler için argümanları dinamik 
 
 | Metrik | Sayı |
 |--------|-------|
-| 📝 Toplam İstem | **15248** |
+| 📝 Toplam İstem | **15246** |
 | ⭐ Öne Çıkan | **9** |
-| 🔄 Son Güncelleme | **18 Ağustos 2026 Salı 12:21:57 UTC** |
+| 🔄 Son Güncelleme | **18 Ağustos 2026 Salı 16:20:33 UTC** |
 
 </div>
 
@@ -2064,19 +2064,18 @@ Kendinden emin genç bir erkek model, kadrajın sol tarafında kameraya dönük 
 
 ---
 
-### No. 31: Sosyal Medya Gönderisi - Modern Yatak Odasında Dinlenen Arkadaşlar
+### No. 31: Sosyal Medya Gönderisi - Renkli Kalemle Çizilmiş Çayır Manzarası
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Açıklama
 
-Büyük pencereli, konforlu ve modern bir yatak odasında neşeli bir anı paylaşan iki arkadaşın yaşam tarzı portre istemi.
+Gün batımında mavi peygamber çiçekleriyle dolu bir tarlada yürüyen bir çifti betimleyen, huzurlu ve renkli kalem tarzında bir görsel istemi.
 
 #### 📝 İstem
 
 ```
-Aydınlık ve modern bir yatak odasında, düzgünce yapılmış bir yatağın üzerinde rahatça oturan iki genç kadının fotogerçekçi bir yaşam tarzı portresini oluşturun. Birbirine yakın arkadaşlar, rahat ve neşeli bir anı paylaşıyorlar; doğrudan kameraya bakarak sıcak ve doğal bir şekilde gülümsüyorlar.\n\n1. Öznenin saç, cilt, ifade ve duruşu:\n\nSoldaki kadın: Doğal ten rengine ve hafif yüz dokusuna sahip sıcak, açık tenli; {argument name="woman one hair" default="kızıl-kestane rengi"} saçları yüzünün etrafında birkaç yumuşak tutamla gevşek bir at kuyruğu şeklinde toplanmış, düzgün şekilli kaşlar, doğal makyaj ve parlak, dostça bir gülümseme. Bacaklarını bir yana katlayarak rahatça oturuyor, omuzları gevşek ve bir eli doğal bir şekilde dizinin yakınında duruyor.\n\nSağdaki kadın: Gerçekçi doğal dokuya sahip açık tenli, omzunun arkasına düşen pürüzsüz tutamlarla yüksek at kuyruğu yapılmış uzun sarı saçlar, hafif belirgin kaşlar, sade doğal makyaj ve neşeli, içten bir gülümseme. Arkadaşının yanında rahat bir duruşla oturuyor, kollarını rahat bir konumda tutarken hafifçe ona doğru eğiliyor.\n\nHer iki özne de gerçekçi yetişkin yüz hatlarına, doğal oranlara, otantik ifadelere ve rahat bir vücut diline sahip olmalı. Aralarındaki etkileşim kurgulanmış gibi değil, kendiliğinden ve samimi hissettirmeli.\n\n2. Kıyafet ve aksesuarlar:\nSoldaki kadın, küçük düğmeli {argument name="woman one outfit" default="koyu zümrüt yeşili dokulu örgü hırka"} ve küçük dikdörtgen uçlu sade bir altın zincir kolye takıyor. Göze çarpmayan yüzükler ve düzgün yapılmış nötr renkli tırnaklar ekleyin.\nSağdaki kadın, rahat ve çağdaş bir silüete sahip {argument name="woman two outfit" default="koyu lacivert dokulu örgü hırka"} giyiyor ve minimal takılar takıyor.\nKıyafetleri zevkli, günlük ve tamamen uygun tutun; gerçekçi kumaş dokusu, dikişler, kıvrımlar ve doğal dökümlere dikkat edin. Görünür marka logolarından kaçının.\n\n3. Ortam ve aydınlatma:\nSahneyi, yumuşak, mat gri dokulu bir battaniye, nötr nevresimler ve öznelerin arkasında tavandan tabana büyük pencerelerin bulunduğu konforlu, modern bir yatak odasına yerleştirin. Pencerelerin dışından, ağaçlar ve doğal manzarayla hafifçe bulanıklaştırılmış yeşil bir dış mekan manzarası gösterin. Yastıklar ve arka planda yatağın üzerinde doğal bir şekilde duran küçük bir nesne gibi ince yatak odası detayları ekleyin.\nPencerelerden giren yumuşak gün ışığını kullanarak her iki yüzde de hafif bir aydınlatma ve doğal gölgeler oluşturun. Atmosfer sıcak, huzurlu, konforlu ve doğal hissettirmeli.\n\n4. Kamera ve görsel stil:\nFull-frame bir kamera ve 50mm veya 85mm portre lensi ile çekilmiş, göz hizasında perspektif, doğal portre sıkıştırması, orta-geniş kadraj, sığ alan derinliği ve her iki yüze de hassas odaklama. Yumuşak doğal pencere ışığı, gerçekçi pozlama, yüksek dinamik aralık, doğru
+Dikey formatta canlı bir renkli kalem illüstrasyonu. Genç bir çift, ön planda yer alan canlı mavi peygamber çiçekleri (Centaurea cyanus) ve uzun altın sarısı otlar arasında, kıvrımlı dar bir patikada el ele tutuşarak izleyiciden uzaklaşıyor; aralara serpiştirilmiş saplar ve tomurcuklar dikkat çekiyor. Kadın uçuşan beyaz bir elbise, erkek ise kolları sıvanmış beyaz bir gömlek ve koyu renkli pantolon giyiyor; başları birbirine doğru hafifçe eğik. Ufka doğru uzanan hafif engebeli tepeler görülüyor. Akşam ışığı sahneye yayılırken hafif bir yaz esintisi otları ve çiçekleri eğiyor. Uzakta, güneş sıcak kehribar rengi tarlaların üzerinden kendini gösteriyor. Gökyüzü, üst üçte birlik kısmı kaplıyor; tepede koyu alacakaranlık mavisinden, alçak güneşin yakınında turuncu, altın ve soluk sarının sıcak tonlarına geçiş yapıyor; yumuşak ve ince bulutlar arkadan aydınlanıyor. Geniş ve hafif yüksekten bakış açısı, detaylı peygamber çiçeklerini, çifti ve geniş güneşli çayırı gözler önüne seriyor. Stil, görünür dokularıyla yumuşak ve huzurlu bir ruh hali yaratan renkli kalem sanatını anımsatıyor. Genel atmosfer huzurlu, romantik ve nostaljik; sıcak altın tonları, çiçeklerin soğuk elektrik mavisiyle kontrast oluşturuyor. Dikey formatta canlı bir renkli kalem illüstrasyonu. Ön planı kaplayan uçsuz bucaksız, canlı mavi peygamber çiçeği (Centaurea cyanus) tarlası, uzun altın sarısı otlar ve aralara serpiştirilmiş saplar ve tomurcuklar. Çiçeklerin arasından uzanan dar ve kıvrımlı bir toprak yol uzaklara doğru ilerliyor. Hafif bir sabah sisi ve pus tabakası, tarlanın ve uzak kıyının üzerinde nazikçe süzülerek ufku yumuşatıyor. Tarlanın ötesinde, durgun suyun üzerinde tek bir yelkenlinin süzüldüğü, ufka kadar uzanan dingin bir okyanus yer alıyor. Su, gökyüzünün sıcak ışıltısını yansıtıyor. Gökyüzü, üst üçte birlik kısmı kaplıyor; tepede koyu alacakaranlık mavisinden, alçak güneşin yakınında turuncu, altın ve soluk sarının sıcak tonlarına geçiş yapıyor; yumuşak ve ince bulutlar arkadan aydınlanıyor. Geniş ve hafif yüksekten bakış açısı, detaylı peygamber çiçeklerini, sisli çayırı ve uzaktaki yelkenliyle geniş, sakin deniz manzarasını gözler önüne seriyor. Stil, görünür dokularıyla yumuşak ve huzurlu bir ruh hali yaratan renkli kalem sanatını anımsatıyor. Genel atmosfer huzurlu, rüya gibi ve nostaljik; sıcak altın tonları, çiçeklerin soğuk elektrik mavisiyle kontrast oluşturuyor.
 ```
 
 #### 🖼️ Oluşturulan Görseller
@@ -2084,23 +2083,23 @@ Aydınlık ve modern bir yatak odasında, düzgünce yapılmış bir yatağın �
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1786861132331_7nhdm0_HPv0l5vWAAA9Zfc.jpg" width="600" alt="Sosyal Medya Gönderisi - Modern Yatak Odasında Dinlenen Arkadaşlar - Image 1">
+<img src="https://cms-assets.youmind.com/media/1786861122193_hdzbyd_HPvngouXMAAzl8D.jpg" width="600" alt="Sosyal Medya Gönderisi - Renkli Kalemle Çizilmiş Çayır Manzarası - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1786861132386_emo54d_HPv0oqSXQAAoz3j.jpg" width="600" alt="Sosyal Medya Gönderisi - Modern Yatak Odasında Dinlenen Arkadaşlar - Image 2">
+<img src="https://cms-assets.youmind.com/media/1786861122162_wa2ul6_HPvnhY9XwAA2tPS.jpg" width="600" alt="Sosyal Medya Gönderisi - Renkli Kalemle Çizilmiş Çayır Manzarası - Image 2">
 </div>
 
 #### 📌 Detaylar
 
-- **Yazar:** [J⭕DIE](https://x.com/Jodie_Noraa)
-- **Kaynak:** [Twitter Post](https://x.com/Jodie_Noraa/status/2088531849010135447)
+- **Yazar:** [Viki](https://x.com/churvikv)
+- **Kaynak:** [Twitter Post](https://x.com/churvikv/status/2088517844535287875)
 - **Yayınlandı:** 15 Ağustos 2026
 - **Diller:** en
 
-**[👉 Şimdi dene →](https://youmind.com/tr-TR/nano-banana-pro-prompts?id=31575)**
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/nano-banana-pro-prompts?id=31568)**
 
 ---
 
@@ -3565,46 +3564,7 @@ Fütüristik bir gökdelen ofisinde, CEO koltuğunda oturan minik bir turuncu ke
 
 ---
 
-### No. 67: Çizgi Roman / Hikaye Taslağı - Renkli Kalemle Çizilmiş Çayır Manzarası
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Açıklama
-
-Gün batımında mavi peygamber çiçekleriyle dolu bir tarlada yürüyen bir çifti betimleyen, huzurlu ve renkli kalem tarzında bir görsel istemi.
-
-#### 📝 İstem
-
-```
-Dikey formatta canlı bir renkli kalem illüstrasyonu. Genç bir çift, ön planda yer alan canlı mavi peygamber çiçekleri (Centaurea cyanus) ve uzun altın sarısı otlar arasında, kıvrımlı dar bir patikada el ele tutuşarak izleyiciden uzaklaşıyor; aralara serpiştirilmiş saplar ve tomurcuklar dikkat çekiyor. Kadın uçuşan beyaz bir elbise, erkek ise kolları sıvanmış beyaz bir gömlek ve koyu renkli pantolon giyiyor; başları birbirine doğru hafifçe eğik. Ufka doğru uzanan hafif engebeli tepeler görülüyor. Akşam ışığı sahneye yayılırken hafif bir yaz esintisi otları ve çiçekleri eğiyor. Uzakta, güneş sıcak kehribar rengi tarlaların üzerinden kendini gösteriyor. Gökyüzü, üst üçte birlik kısmı kaplıyor; tepede koyu alacakaranlık mavisinden, alçak güneşin yakınında turuncu, altın ve soluk sarının sıcak tonlarına geçiş yapıyor; yumuşak ve ince bulutlar arkadan aydınlanıyor. Geniş ve hafif yüksekten bakış açısı, detaylı peygamber çiçeklerini, çifti ve geniş güneşli çayırı gözler önüne seriyor. Stil, görünür dokularıyla yumuşak ve huzurlu bir ruh hali yaratan renkli kalem sanatını anımsatıyor. Genel atmosfer huzurlu, romantik ve nostaljik; sıcak altın tonları, çiçeklerin soğuk elektrik mavisiyle kontrast oluşturuyor. Dikey formatta canlı bir renkli kalem illüstrasyonu. Ön planı kaplayan uçsuz bucaksız, canlı mavi peygamber çiçeği (Centaurea cyanus) tarlası, uzun altın sarısı otlar ve aralara serpiştirilmiş saplar ve tomurcuklar. Çiçeklerin arasından uzanan dar ve kıvrımlı bir toprak yol uzaklara doğru ilerliyor. Hafif bir sabah sisi ve pus tabakası, tarlanın ve uzak kıyının üzerinde nazikçe süzülerek ufku yumuşatıyor. Tarlanın ötesinde, durgun suyun üzerinde tek bir yelkenlinin süzüldüğü, ufka kadar uzanan dingin bir okyanus yer alıyor. Su, gökyüzünün sıcak ışıltısını yansıtıyor. Gökyüzü, üst üçte birlik kısmı kaplıyor; tepede koyu alacakaranlık mavisinden, alçak güneşin yakınında turuncu, altın ve soluk sarının sıcak tonlarına geçiş yapıyor; yumuşak ve ince bulutlar arkadan aydınlanıyor. Geniş ve hafif yüksekten bakış açısı, detaylı peygamber çiçeklerini, sisli çayırı ve uzaktaki yelkenliyle geniş, sakin deniz manzarasını gözler önüne seriyor. Stil, görünür dokularıyla yumuşak ve huzurlu bir ruh hali yaratan renkli kalem sanatını anımsatıyor. Genel atmosfer huzurlu, rüya gibi ve nostaljik; sıcak altın tonları, çiçeklerin soğuk elektrik mavisiyle kontrast oluşturuyor.
-```
-
-#### 🖼️ Oluşturulan Görseller
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1786861122193_hdzbyd_HPvngouXMAAzl8D.jpg" width="600" alt="Çizgi Roman / Hikaye Taslağı - Renkli Kalemle Çizilmiş Çayır Manzarası - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1786861122162_wa2ul6_HPvnhY9XwAA2tPS.jpg" width="600" alt="Çizgi Roman / Hikaye Taslağı - Renkli Kalemle Çizilmiş Çayır Manzarası - Image 2">
-</div>
-
-#### 📌 Detaylar
-
-- **Yazar:** [Viki](https://x.com/churvikv)
-- **Kaynak:** [Twitter Post](https://x.com/churvikv/status/2088517844535287875)
-- **Yayınlandı:** 15 Ağustos 2026
-- **Diller:** en
-
-**[👉 Şimdi dene →](https://youmind.com/tr-TR/nano-banana-pro-prompts?id=31568)**
-
----
-
-### No. 68: Çizgi Roman / Hikaye Taslağı - Japon Okul Üniformalı Sınıf Portresi
+### No. 67: Çizgi Roman / Hikaye Taslağı - Japon Okul Üniformalı Sınıf Portresi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3656,7 +3616,7 @@ Kısa siyah küt saçlı ve düz perçemli, açık tenli, doğrudan kameraya bak
 
 ---
 
-### No. 69: Çizgi Roman / Hikaye Taslağı - Yeraltı Katedrali ve Mekanik Balina
+### No. 68: Çizgi Roman / Hikaye Taslağı - Yeraltı Katedrali ve Mekanik Balina
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3695,7 +3655,7 @@ Tamamen canlı siyah buzdan oyulmuş devasa bir yeraltı katedralinin içinde m�
 
 ---
 
-### No. 70: Çizgi Roman / Hikaye Taslağı - Keçe Kurbağa Plaj Dioraması
+### No. 69: Çizgi Roman / Hikaye Taslağı - Keçe Kurbağa Plaj Dioraması
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3729,7 +3689,7 @@ Karmaşık el işi detaylarıyla, plajda gününü geçiren bir keçe kurbağan�
 
 ---
 
-### No. 71: Çizgi Roman / Hikaye Taslağı - Sinematik Tren İstasyonu Yolcusu
+### No. 70: Çizgi Roman / Hikaye Taslağı - Sinematik Tren İstasyonu Yolcusu
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3768,7 +3728,7 @@ Islak bir açık hava tren istasyonu platformunda duran bir adamın arkasından 
 
 ---
 
-### No. 72: Çizgi Roman / Hikaye Taslağı - Avrupa'da Romantik Çinli Çift
+### No. 71: Çizgi Roman / Hikaye Taslağı - Avrupa'da Romantik Çinli Çift
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3811,7 +3771,7 @@ Dört panel boyunca tutarlı karakterler, aynı Çinli çift, aynı kıyafetler,
 
 ---
 
-### No. 73: Çizgi Roman / Hikaye Taslağı - Parçalı Geometrik Figüratif İllüstrasyon
+### No. 72: Çizgi Roman / Hikaye Taslağı - Parçalı Geometrik Figüratif İllüstrasyon
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3854,7 +3814,7 @@ Son derece etkileyici çizgi hiyerarşisi, karmaşık mikro detaylar, zarif gör
 
 ---
 
-### No. 74: Çizgi Roman / Hikaye Taslağı - Editöryal Ghost-Spider Şehir Portresi
+### No. 73: Çizgi Roman / Hikaye Taslağı - Editöryal Ghost-Spider Şehir Portresi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3906,7 +3866,7 @@ Aydınlatma, zengin ve korunmuş derin gölgelere sahip, yüksek dinamik aralık
 
 ---
 
-### No. 75: Çizgi Roman / Hikaye Taslağı - Karanlık Fantastik Savaş Alanı Savaşçısı
+### No. 74: Çizgi Roman / Hikaye Taslağı - Karanlık Fantastik Savaş Alanı Savaşçısı
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3951,7 +3911,7 @@ Yüksek detaylı sinematik gerçekçilik, fotogerçekçi dokular, gerçekçi ins
 
 ---
 
-### No. 76: Çizgi Roman / Hikaye Taslağı - Viktorya Dönemi Botanik Arşiv Portresi
+### No. 75: Çizgi Roman / Hikaye Taslağı - Viktorya Dönemi Botanik Arşiv Portresi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4041,7 +4001,7 @@ Yoğun bir Viktorya dönemi botanik serası arşivinde geçen, karmaşık dantel
 
 ---
 
-### No. 77: Çizgi Roman / Hikaye Taslağı - 3D Kağıt İşi Diorama Tarzı
+### No. 76: Çizgi Roman / Hikaye Taslağı - 3D Kağıt İşi Diorama Tarzı
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4108,7 +4068,7 @@ Yeni insanlar eklemeyin, önemli özneleri kaldırmayın, kimliği değiştirmey
 
 ---
 
-### No. 78: Çizgi Roman / Hikaye Taslağı - Gotik ve Kaprisli Perili Ev
+### No. 77: Çizgi Roman / Hikaye Taslağı - Gotik ve Kaprisli Perili Ev
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4142,7 +4102,7 @@ Kaprisli bir, {argument name="style" default="gotik tarzda"} perili ev, asılı 
 
 ---
 
-### No. 79: Çizgi Roman / Hikaye Taslağı - Huzurlu Edebi Bahçe Kaçamağı
+### No. 78: Çizgi Roman / Hikaye Taslağı - Huzurlu Edebi Bahçe Kaçamağı
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4176,7 +4136,7 @@ Güneşli ve sarmaşıklarla kaplı bir bahçe harabesinde kitap okuyan bir kad�
 
 ---
 
-### No. 80: Çizgi Roman / Hikaye Taslağı - Doraemon Film Tarzında Sahne Oluşturma
+### No. 79: Çizgi Roman / Hikaye Taslağı - Doraemon Film Tarzında Sahne Oluşturma
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4210,7 +4170,7 @@ Referans blok görselini bir {argument name="movie style" default="Doraemon"} fi
 
 ---
 
-### No. 81: Çizgi Roman / Hikaye Taslağı - Çok Panelli İfade Izgarası
+### No. 80: Çizgi Roman / Hikaye Taslağı - Çok Panelli İfade Izgarası
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4250,7 +4210,7 @@ Neşeli kahkahalar, oyuncu göz kırpmalar, derin düşünceler, hafif bir kafa 
 
 ---
 
-### No. 82: Çizgi Roman / Hikaye Taslağı - Huzurlu Bahçe Edebi Portresi
+### No. 81: Çizgi Roman / Hikaye Taslağı - Huzurlu Bahçe Edebi Portresi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4296,7 +4256,7 @@ Sarmaşıklarla kaplı taş kalıntılar arasında günlük tutan bir kadının 
 
 ---
 
-### No. 83: Çizgi Roman / Hikaye Taslağı - Lüks Parfüm Storyboard Düzeni
+### No. 82: Çizgi Roman / Hikaye Taslağı - Lüks Parfüm Storyboard Düzeni
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4330,7 +4290,7 @@ Minimalist Aesop esintili estetik ve 12 karelik yapılandırılmış bir ızgara
 
 ---
 
-### No. 84: Çizgi Roman / Hikaye Taslağı - Karakter Etkileşimli Nesne Ekleme
+### No. 83: Çizgi Roman / Hikaye Taslağı - Karakter Etkileşimli Nesne Ekleme
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4364,7 +4324,7 @@ Görsel yeniden oluşturma sırasında bir karakterin önüne, fincan tabağı �
 
 ---
 
-### No. 85: Ürün Pazarlaması - Moda Editöryel Referans Portresi
+### No. 84: Ürün Pazarlaması - Moda Editöryel Referans Portresi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4398,7 +4358,7 @@ Referans görseldeki {argument name="subject" default="genç bir kadın"} kişis
 
 ---
 
-### No. 86: Ürün Pazarlaması - Kentsel Sokak Giyimi Dergisi Editöryeli
+### No. 85: Ürün Pazarlaması - Kentsel Sokak Giyimi Dergisi Editöryeli
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4450,7 +4410,7 @@ Bir {argument name="style" default="üst düzey kentsel sokak giyimi moda dergis
 
 ---
 
-### No. 87: Ürün Pazarlaması - Lüks Çikolata Reklamı Natürmort
+### No. 86: Ürün Pazarlaması - Lüks Çikolata Reklamı Natürmort
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4502,7 +4462,7 @@ Kademeli cam tepsiler, içerikler ve pembe arka plan üzerinde altın folyolu am
 
 ---
 
-### No. 88: Ürün Pazarlaması - Zarif Erkek Giyim Alacakaranlık Editöryali
+### No. 87: Ürün Pazarlaması - Zarif Erkek Giyim Alacakaranlık Editöryali
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4536,7 +4496,7 @@ Genç ve klasik anlamda çekici bir erkek model, omuzları düz ve bilinçli bir
 
 ---
 
-### No. 89: Ürün Pazarlaması - Twilight Erkek Giyim Editöryel Portresi
+### No. 88: Ürün Pazarlaması - Twilight Erkek Giyim Editöryel Portresi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4570,7 +4530,7 @@ Genç ve geleneksel olarak çekici bir {argument name="gender" default="erkek mo
 
 ---
 
-### No. 90: Ürün Pazarlaması - Sürreal Güzellik Ürünü Saç Bigudisi
+### No. 89: Ürün Pazarlaması - Sürreal Güzellik Ürünü Saç Bigudisi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4604,7 +4564,7 @@ Arka plandan çekilmiş, {argument name="hair color" default="açık kahverengi"
 
 ---
 
-### No. 91: Ürün Pazarlaması - Çiçekli Beyin Heykeli
+### No. 90: Ürün Pazarlaması - Çiçekli Beyin Heykeli
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4638,7 +4598,7 @@ Narin kurutulmuş çiçekler ve dokulu tüylerden yapılmış, yandan profilli b
 
 ---
 
-### No. 92: Ürün Pazarlaması - Minimalist İç Mekan Moda Portresi
+### No. 91: Ürün Pazarlaması - Minimalist İç Mekan Moda Portresi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4672,7 +4632,7 @@ Modern minimalist bir iç mekanda, pürüzsüz açık gri bir duvara karşı rah
 
 ---
 
-### No. 93: Ürün Pazarlaması - Sinematik Şehir Gecesi Billboard Portresi
+### No. 92: Ürün Pazarlaması - Sinematik Şehir Gecesi Billboard Portresi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4740,7 +4700,7 @@ Bir şehir sokağında, yüksek moda tarzında yansıyan dijital bir billboardı
 
 ---
 
-### No. 94: Ürün Pazarlaması - Ahududu Kabuğu Ürün Fotoğrafçılığı
+### No. 93: Ürün Pazarlaması - Ahududu Kabuğu Ürün Fotoğrafçılığı
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4792,7 +4752,7 @@ Hiper gerçekçi, büyük boy bir ahududu kesitinin içine yerleştirilmiş {arg
 
 ---
 
-### No. 95: Ürün Pazarlaması - Villa Havuzunda Neon Sarı Mayolu Kadın
+### No. 94: Ürün Pazarlaması - Villa Havuzunda Neon Sarı Mayolu Kadın
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4841,6 +4801,40 @@ Rustik eski taş duvarlarla çevrili ve berrak kobalt mavisi bir gökyüzü alt�
 - **Diller:** en
 
 **[👉 Şimdi dene →](https://youmind.com/tr-TR/nano-banana-pro-prompts?id=31478)**
+
+---
+
+### No. 95: Ürün Pazarlaması - Saray Modası Dergi Kapağı
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Açıklama
+
+Avrupa sarayında geçen, mor küt saç modeli ve lüks aksesuarlara sahip yüksek moda editoryal istemi.
+
+#### 📝 İstem
+
+```
+{argument name="hair style" default="parlak mor küt saç kesimi"} ve şık güneş gözlüklerine sahip, stil sahibi genç bir kadının yüksek moda editoryal fotoğrafı. Üzerinde {argument name="clothing" default="koyu mavi kadife kolsuz tulum"} var ve kameraya doğru altın metal tokalı, büyük, lüks bir {argument name="accessory" default="zümrüt yeşili deri el çantası"} uzatıyor. Alçak açı perspektifi. Taş kemerler, yüksek Fransız pencereleri ve yumuşak doğal gün ışığı ile zarif, klasik bir Avrupa sarayının içinde geçiyor. Fotogerçekçi, 8k çözünürlük, sinematik aydınlatma, keskin odak, moda dergisi kapağı stili.
+```
+
+#### 🖼️ Oluşturulan Görseller
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1786774867894_9j93j5_HPs3uqja4AA_W3d.jpg" width="600" alt="Ürün Pazarlaması - Saray Modası Dergi Kapağı - Image 1">
+</div>
+
+#### 📌 Detaylar
+
+- **Yazar:** [Wareen AI 💟](https://x.com/Wareenaa)
+- **Kaynak:** [Twitter Post](https://x.com/Wareenaa/status/2088324136909357375)
+- **Yayınlandı:** 14 Ağustos 2026
+- **Diller:** en
+
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/nano-banana-pro-prompts?id=31470)**
 
 ---
 
@@ -5909,7 +5903,7 @@ Karanlık bir ortamda süzülen bir okul kızının karakter güzelliğini vurgu
 
 <div align="center">
 
-### 🎯 15128 burada gösterilmeyen daha fazla istem
+### 🎯 15126 burada gösterilmeyen daha fazla istem
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -5972,6 +5966,6 @@ Detaylı yönergeler için [CONTRIBUTING.md](docs/CONTRIBUTING.md) dosyasına ba
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-08-18T12:21:57.396Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-08-18T16:20:33.096Z</sub>
 
 </div>

@@ -143,9 +143,9 @@ by {argument name="author" default="Steve Jobs"}
 
 | Métrica | Cantidad |
 |--------|-------|
-| 📝 Total de prompts | **15248** |
+| 📝 Total de prompts | **15246** |
 | ⭐ Destacado | **9** |
-| 🔄 Última actualización | **martes, 18 de agosto de 2026, 12:21:24 UTC** |
+| 🔄 Última actualización | **martes, 18 de agosto de 2026, 16:19:39 UTC** |
 
 </div>
 
@@ -2040,19 +2040,18 @@ Un modelo masculino joven y seguro de sí mismo está sentado frente a la cámar
 
 ---
 
-### No. 31: Publicación en redes sociales - Amigos relajándose en un dormitorio moderno
+### No. 31: Publicación en redes sociales - Paisaje de pradera con lápices de colores
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Descripción
 
-Un prompt para un retrato de estilo de vida de dos amigos compartiendo un momento alegre en un acogedor dormitorio moderno con grandes ventanales.
+Un sereno prompt al estilo de lápices de colores que representa a una pareja caminando por un campo de acianos azules al atardecer.
 
 #### 📝 Prompt
 
 ```
-Crea un retrato de estilo de vida fotorrealista de dos mujeres jóvenes sentadas cómodamente juntas en una cama bien hecha dentro de un dormitorio luminoso y moderno. Son amigas cercanas que comparten un momento relajado y alegre, mirando directamente a la cámara con sonrisas cálidas y naturales.\n\n1. Sujetos, cabello, piel, expresión y pose:\n\nMujer a la izquierda: piel clara y cálida con tez natural y textura facial sutil, cabello {argument name="woman one hair" default="de color caoba rojizo"} recogido en una coleta suelta con algunos mechones suaves alrededor del rostro, cejas bien definidas, maquillaje natural y una sonrisa brillante y amistosa. Está sentada cómodamente con las piernas dobladas hacia un lado, los hombros relajados y una mano descansando de forma natural cerca de su rodilla.\n\nMujer a la derecha: piel clara con textura natural realista, cabello largo y rubio recogido en una coleta alta con mechones suaves cayendo detrás de su hombro, cejas suavemente definidas, maquillaje natural sutil y una sonrisa alegre y abierta. Está sentada junto a su amiga con una postura relajada, inclinándose ligeramente hacia ella mientras mantiene sus brazos en una posición cómoda.\n\nAmbas deben tener rasgos faciales adultos realistas, proporciones naturales, expresiones auténticas y un lenguaje corporal relajado. Su interacción debe sentirse espontánea y amistosa, no posada.\n\n2. Ropa y accesorios:\nLa mujer a la izquierda viste un {argument name="woman one outfit" default="cárdigan de punto texturizado en verde esmeralda intenso"} con botones pequeños y un collar de cadena dorada sencillo con un pequeño colgante rectangular. Añade anillos discretos y uñas bien cuidadas en tonos neutros.\nLa mujer a la derecha viste un {argument name="woman two outfit" default="cárdigan de punto texturizado en azul marino intenso"} con una silueta cómoda y contemporánea, y joyas minimalistas.\nMantén la ropa elegante, casual y totalmente apropiada, con texturas de tela, costuras, pliegues y caídas naturales realistas. Evita logotipos de marcas visibles.\n\n3. Entorno e iluminación:\nSitúa la escena en un dormitorio moderno y acogedor con una cama grande cubierta por una manta texturizada de color gris suave, ropa de cama en tonos neutros y grandes ventanales de piso a techo detrás de los sujetos. A través de las ventanas, muestra un paisaje exterior verde suavemente desenfocado con árboles y naturaleza. Incluye detalles sutiles del dormitorio, como almohadas y un pequeño objeto descansando naturalmente sobre la cama en el fondo.\nUtiliza luz natural suave entrando por las ventanas, creando una iluminación delicada en ambos rostros y sombras naturales sutiles. La atmósfera debe sentirse cálida, pacífica, cómoda y espontánea.\n\n4. Cámara y estilo visual:\nFotografiado con una cámara de fotograma completo y un lente de retrato de 50mm u 85mm, perspectiva a la altura de los ojos, compresión de retrato natural, encuadre medio-ancho, profundidad de campo reducida y enfoque preciso en ambos rostros. Utiliza luz natural suave de ventana, exposición realista, alto rango dinámico, preciso
+Una vibrante ilustración con lápices de colores en orientación vertical. Una pareja joven camina de la mano, alejándose del espectador por un sendero estrecho y sinuoso a través de un vasto campo de vívidos acianos azules (Centaurea cyanus) en primer plano, entre hierba alta de color amarillo dorado, con tallos y capullos intercalados. La mujer viste un vestido blanco vaporoso, el hombre una camisa blanca con las mangas remangadas y pantalones oscuros, con las cabezas inclinadas suavemente el uno hacia el otro. Suaves colinas se extienden hacia el horizonte. Una brisa suave de verano inclina la hierba y las flores mientras la luz del atardecer cae sobre la escena. A lo lejos, la luz del sol se asoma sobre campos de color ámbar cálido. El cielo ocupa el tercio superior y está coloreado desde un azul oscuro profundo en la parte superior hasta tonos cálidos de naranja, oro y amarillo pálido cerca del sol bajo, con nubes suaves y tenues a contraluz. La perspectiva es amplia y ligeramente elevada, mostrando los detallados acianos, la pareja y la extensa pradera iluminada por el sol. El estilo recuerda al arte con lápices de colores, con texturas visibles que crean un ambiente suave y sereno. La atmósfera general es pacífica, romántica y nostálgica, con tonos dorados cálidos que contrastan con el azul eléctrico frío de las flores. Una vibrante ilustración con lápices de colores en orientación vertical. Un vasto campo de vívidos acianos azules (Centaurea cyanus) cubre el primer plano, entre hierba alta de color amarillo dorado, con tallos y capullos intercalados. Un estrecho sendero de tierra serpentea a través de las flores hacia la distancia. Una suave capa de niebla matutina y una ligera bruma flotan suavemente sobre el campo y la orilla lejana, suavizando el horizonte. Más allá del campo, un océano sereno se extiende hasta el horizonte, donde un velero navega suavemente sobre el agua en calma. El agua refleja el cálido resplandor del cielo. El cielo ocupa el tercio superior y está coloreado desde un azul oscuro profundo en la parte superior hasta tonos cálidos de naranja, oro y amarillo pálido cerca del sol bajo, con nubes suaves y tenues a contraluz. La perspectiva es amplia y ligeramente elevada, mostrando los detallados acianos, la pradera brumosa y el extenso paisaje marino en calma con el velero a lo lejos. El estilo recuerda al arte con lápices de colores, con texturas visibles que crean un ambiente suave y sereno. La atmósfera general es pacífica, soñadora y nostálgica, con tonos dorados cálidos que contrastan con el azul eléctrico frío de las flores.
 ```
 
 #### 🖼️ Imágenes generadas
@@ -2060,23 +2059,23 @@ Crea un retrato de estilo de vida fotorrealista de dos mujeres jóvenes sentadas
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1786861132331_7nhdm0_HPv0l5vWAAA9Zfc.jpg" width="600" alt="Publicación en redes sociales - Amigos relajándose en un dormitorio moderno - Image 1">
+<img src="https://cms-assets.youmind.com/media/1786861122193_hdzbyd_HPvngouXMAAzl8D.jpg" width="600" alt="Publicación en redes sociales - Paisaje de pradera con lápices de colores - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1786861132386_emo54d_HPv0oqSXQAAoz3j.jpg" width="600" alt="Publicación en redes sociales - Amigos relajándose en un dormitorio moderno - Image 2">
+<img src="https://cms-assets.youmind.com/media/1786861122162_wa2ul6_HPvnhY9XwAA2tPS.jpg" width="600" alt="Publicación en redes sociales - Paisaje de pradera con lápices de colores - Image 2">
 </div>
 
 #### 📌 Detalles
 
-- **Autor:** [J⭕DIE](https://x.com/Jodie_Noraa)
-- **Fuente:** [Twitter Post](https://x.com/Jodie_Noraa/status/2088531849010135447)
+- **Autor:** [Viki](https://x.com/churvikv)
+- **Fuente:** [Twitter Post](https://x.com/churvikv/status/2088517844535287875)
 - **Publicado:** 15 de agosto de 2026
 - **Idiomas:** en
 
-**[👉 Pruébalo ahora →](https://youmind.com/es-ES/nano-banana-pro-prompts?id=31575)**
+**[👉 Pruébalo ahora →](https://youmind.com/es-ES/nano-banana-pro-prompts?id=31568)**
 
 ---
 
@@ -3541,46 +3540,7 @@ Un prompt de humor seco que presenta a un pequeño gato naranja sentado en una s
 
 ---
 
-### No. 67: Cómic / Guion gráfico - Paisaje de pradera con lápices de colores
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Descripción
-
-Un sereno prompt al estilo de lápices de colores que representa a una pareja caminando por un campo de acianos azules al atardecer.
-
-#### 📝 Prompt
-
-```
-Una vibrante ilustración con lápices de colores en orientación vertical. Una pareja joven camina de la mano, alejándose del espectador por un sendero estrecho y sinuoso a través de un vasto campo de vívidos acianos azules (Centaurea cyanus) en primer plano, entre hierba alta de color amarillo dorado, con tallos y capullos intercalados. La mujer viste un vestido blanco vaporoso, el hombre una camisa blanca con las mangas remangadas y pantalones oscuros, con las cabezas inclinadas suavemente el uno hacia el otro. Suaves colinas se extienden hacia el horizonte. Una brisa suave de verano inclina la hierba y las flores mientras la luz del atardecer cae sobre la escena. A lo lejos, la luz del sol se asoma sobre campos de color ámbar cálido. El cielo ocupa el tercio superior y está coloreado desde un azul oscuro profundo en la parte superior hasta tonos cálidos de naranja, oro y amarillo pálido cerca del sol bajo, con nubes suaves y tenues a contraluz. La perspectiva es amplia y ligeramente elevada, mostrando los detallados acianos, la pareja y la extensa pradera iluminada por el sol. El estilo recuerda al arte con lápices de colores, con texturas visibles que crean un ambiente suave y sereno. La atmósfera general es pacífica, romántica y nostálgica, con tonos dorados cálidos que contrastan con el azul eléctrico frío de las flores. Una vibrante ilustración con lápices de colores en orientación vertical. Un vasto campo de vívidos acianos azules (Centaurea cyanus) cubre el primer plano, entre hierba alta de color amarillo dorado, con tallos y capullos intercalados. Un estrecho sendero de tierra serpentea a través de las flores hacia la distancia. Una suave capa de niebla matutina y una ligera bruma flotan suavemente sobre el campo y la orilla lejana, suavizando el horizonte. Más allá del campo, un océano sereno se extiende hasta el horizonte, donde un velero navega suavemente sobre el agua en calma. El agua refleja el cálido resplandor del cielo. El cielo ocupa el tercio superior y está coloreado desde un azul oscuro profundo en la parte superior hasta tonos cálidos de naranja, oro y amarillo pálido cerca del sol bajo, con nubes suaves y tenues a contraluz. La perspectiva es amplia y ligeramente elevada, mostrando los detallados acianos, la pradera brumosa y el extenso paisaje marino en calma con el velero a lo lejos. El estilo recuerda al arte con lápices de colores, con texturas visibles que crean un ambiente suave y sereno. La atmósfera general es pacífica, soñadora y nostálgica, con tonos dorados cálidos que contrastan con el azul eléctrico frío de las flores.
-```
-
-#### 🖼️ Imágenes generadas
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1786861122193_hdzbyd_HPvngouXMAAzl8D.jpg" width="600" alt="Cómic / Guion gráfico - Paisaje de pradera con lápices de colores - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1786861122162_wa2ul6_HPvnhY9XwAA2tPS.jpg" width="600" alt="Cómic / Guion gráfico - Paisaje de pradera con lápices de colores - Image 2">
-</div>
-
-#### 📌 Detalles
-
-- **Autor:** [Viki](https://x.com/churvikv)
-- **Fuente:** [Twitter Post](https://x.com/churvikv/status/2088517844535287875)
-- **Publicado:** 15 de agosto de 2026
-- **Idiomas:** en
-
-**[👉 Pruébalo ahora →](https://youmind.com/es-ES/nano-banana-pro-prompts?id=31568)**
-
----
-
-### No. 68: Cómic / Guion gráfico - Retrato en el aula con uniforme escolar japonés
+### No. 67: Cómic / Guion gráfico - Retrato en el aula con uniforme escolar japonés
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3632,7 +3592,7 @@ Una joven {argument name="subject" default="mujer de Asia oriental"} con un cort
 
 ---
 
-### No. 69: Cómic / Guion gráfico - Catedral subterránea y ballena mecánica
+### No. 68: Cómic / Guion gráfico - Catedral subterránea y ballena mecánica
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3671,7 +3631,7 @@ Imagen cinematográfica ultra nítida de cuatro mujeres de diferentes culturas o
 
 ---
 
-### No. 70: Cómic / Guion gráfico - Diorama de rana de fieltro en la playa
+### No. 69: Cómic / Guion gráfico - Diorama de rana de fieltro en la playa
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3705,7 +3665,7 @@ Una rana de fieltro que lleva {argument name="clothing" default="bañador azul d
 
 ---
 
-### No. 71: Cómic / Guion gráfico - Viajero en estación de tren cinematográfica
+### No. 70: Cómic / Guion gráfico - Viajero en estación de tren cinematográfica
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3744,7 +3704,7 @@ Una toma cinematográfica realista de gran angular desde detrás de un hombre de
 
 ---
 
-### No. 72: Cómic / Guion gráfico - Pareja china romántica en Europa
+### No. 71: Cómic / Guion gráfico - Pareja china romántica en Europa
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3787,7 +3747,7 @@ Personajes consistentes en los cuatro paneles, la misma pareja china, la misma r
 
 ---
 
-### No. 73: Cómic / Guion gráfico - Ilustración figurativa geométrica fragmentada
+### No. 72: Cómic / Guion gráfico - Ilustración figurativa geométrica fragmentada
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3830,7 +3790,7 @@ Jerarquía de líneas altamente expresiva, microdetalles intrincados, ritmo visu
 
 ---
 
-### No. 74: Cómic / Guion gráfico - Retrato urbano editorial de Ghost-Spider
+### No. 73: Cómic / Guion gráfico - Retrato urbano editorial de Ghost-Spider
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3882,7 +3842,7 @@ La iluminación es una iluminación urbana nocturna diegética con sombras profu
 
 ---
 
-### No. 75: Cómic / Guion gráfico - Guerrero de campo de batalla de fantasía oscura
+### No. 74: Cómic / Guion gráfico - Guerrero de campo de batalla de fantasía oscura
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3927,7 +3887,7 @@ Realismo cinematográfico altamente detallado, texturas fotorrealistas, anatomí
 
 ---
 
-### No. 76: Cómic / Guion gráfico - Retrato Victoriano en Archivo Botánico
+### No. 75: Cómic / Guion gráfico - Retrato Victoriano en Archivo Botánico
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4017,7 +3977,7 @@ Un prompt de retrato hiperrealista y estructurado, ambientado en un denso archiv
 
 ---
 
-### No. 77: Cómic / Guion gráfico - Estilo de diorama de papel artesanal en 3D
+### No. 76: Cómic / Guion gráfico - Estilo de diorama de papel artesanal en 3D
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4084,7 +4044,7 @@ No introduzcas personas nuevas, no elimines sujetos importantes, no cambies la i
 
 ---
 
-### No. 78: Cómic / Guion gráfico - Casa encantada gótica y caprichosa
+### No. 77: Cómic / Guion gráfico - Casa encantada gótica y caprichosa
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4118,7 +4078,7 @@ Una casa encantada caprichosa de {argument name="style" default="estilo gótico"
 
 ---
 
-### No. 79: Cómic / Guion gráfico - Escapada literaria en un jardín sereno
+### No. 78: Cómic / Guion gráfico - Escapada literaria en un jardín sereno
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4152,7 +4112,7 @@ Una serena {argument name="setting" default="escapada literaria entre las ruinas
 
 ---
 
-### No. 80: Cómic / Guion gráfico - Renderizado de escena al estilo de las películas de Doraemon
+### No. 79: Cómic / Guion gráfico - Renderizado de escena al estilo de las películas de Doraemon
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4186,7 +4146,7 @@ Renderiza la imagen de referencia (blockout) como una escena de una película de
 
 ---
 
-### No. 81: Cómic / Guion gráfico - Cuadrícula de expresiones de múltiples paneles
+### No. 80: Cómic / Guion gráfico - Cuadrícula de expresiones de múltiples paneles
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4226,7 +4186,7 @@ Una cuadrícula fotográfica de múltiples paneles que presenta a una {argument 
 
 ---
 
-### No. 82: Cómic / Guion gráfico - Retrato literario en un jardín sereno
+### No. 81: Cómic / Guion gráfico - Retrato literario en un jardín sereno
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4272,7 +4232,7 @@ Un escape literario sereno entre las ruinas de un jardín en flor, donde las pá
 
 ---
 
-### No. 83: Cómic / Guion gráfico - Diseño de storyboard para fragancias de lujo
+### No. 82: Cómic / Guion gráfico - Diseño de storyboard para fragancias de lujo
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4306,7 +4266,7 @@ Crea un storyboard para una presentación de fragancias de alta gama en formato 
 
 ---
 
-### No. 84: Cómic / Guion gráfico - Adición de accesorios para la interacción de personajes
+### No. 83: Cómic / Guion gráfico - Adición de accesorios para la interacción de personajes
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4340,7 +4300,7 @@ Un {argument name="object" default="teacup"} sobre un {argument name="surface" d
 
 ---
 
-### No. 85: Marketing de producto - Retrato de referencia editorial de moda
+### No. 84: Marketing de producto - Retrato de referencia editorial de moda
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4374,7 +4334,7 @@ Crea un retrato editorial de alta costura de {argument name="subject" default="u
 
 ---
 
-### No. 86: Marketing de producto - Editorial de revista de moda urbana
+### No. 85: Marketing de producto - Editorial de revista de moda urbana
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4426,7 +4386,7 @@ Un {argument name="style" default="portada de revista de moda urbana de alta gam
 
 ---
 
-### No. 87: Marketing de producto - Bodegón publicitario de chocolate de lujo
+### No. 86: Marketing de producto - Bodegón publicitario de chocolate de lujo
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4478,7 +4438,7 @@ Un bodegón brillante y estilizado, además de una fotografía conceptual para u
 
 ---
 
-### No. 88: Marketing de producto - Elegante editorial de moda masculina al atardecer
+### No. 87: Marketing de producto - Elegante editorial de moda masculina al atardecer
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4512,7 +4472,7 @@ Un modelo masculino joven y de atractivo convencional posa con confianza en el c
 
 ---
 
-### No. 89: Marketing de producto - Retrato editorial de moda masculina al atardecer
+### No. 88: Marketing de producto - Retrato editorial de moda masculina al atardecer
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4546,7 +4506,7 @@ Un joven, convencionalmente atractivo {argument name="gender" default="modelo ma
 
 ---
 
-### No. 90: Marketing de producto - Producto de belleza surrealista: rulo para el cabello
+### No. 89: Marketing de producto - Producto de belleza surrealista: rulo para el cabello
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4580,7 +4540,7 @@ Foto de estudio de producto tomada desde atrás de una persona con cabello ondul
 
 ---
 
-### No. 91: Marketing de producto - Escultura cerebral floral
+### No. 90: Marketing de producto - Escultura cerebral floral
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4614,7 +4574,7 @@ Una vista en primer plano y de perfil de una escultura de un cerebro humano hech
 
 ---
 
-### No. 92: Marketing de producto - Retrato de moda en interiores minimalistas
+### No. 91: Marketing de producto - Retrato de moda en interiores minimalistas
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4654,7 +4614,7 @@ Capturado con una Sony A7R V, lente de retrato de 85 mm f/1.8, perspectiva a la 
 
 ---
 
-### No. 93: Marketing de producto - Retrato cinematográfico urbano nocturno con valla publicitaria
+### No. 92: Marketing de producto - Retrato cinematográfico urbano nocturno con valla publicitaria
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4723,7 +4683,7 @@ Un retrato cinematográfico urbano nocturno de una mujer en una calle de la ciud
 
 ---
 
-### No. 94: Marketing de producto - Fotografía de producto: Cáscara de frambuesa
+### No. 93: Marketing de producto - Fotografía de producto: Cáscara de frambuesa
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4775,7 +4735,7 @@ Foto de estudio de producto de {argument name="product" default="producto de la 
 
 ---
 
-### No. 95: Marketing de producto - Mujer con traje de baño amarillo neón en la piscina de una villa
+### No. 94: Marketing de producto - Mujer con traje de baño amarillo neón en la piscina de una villa
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4824,6 +4784,40 @@ Una terraza con piscina en una villa privada, rodeada de muros de mampostería r
 - **Idiomas:** en
 
 **[👉 Pruébalo ahora →](https://youmind.com/es-ES/nano-banana-pro-prompts?id=31478)**
+
+---
+
+### No. 95: Marketing de producto - Portada de revista de moda en un palacio
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Descripción
+
+Un prompt editorial de alta costura ambientado en un palacio europeo, con un peinado bob morado y accesorios de lujo.
+
+#### 📝 Prompt
+
+```
+Fotografía editorial de alta costura de una joven elegante con un {argument name="hair style" default="corte de pelo bob morado brillante"} y gafas de sol chic. Lleva puesto un {argument name="clothing" default="mono sin mangas de terciopelo azul intenso"} y sostiene hacia la cámara un {argument name="accessory" default="bolso de cuero verde esmeralda"} grande y lujoso con un broche de metal dorado. Perspectiva de ángulo bajo. Ambientado dentro de un elegante palacio europeo clásico con arcos de piedra, ventanales franceses y una suave luz solar natural. Fotorrealista, resolución 8k, iluminación cinematográfica, enfoque nítido, estilo de portada de revista de moda.
+```
+
+#### 🖼️ Imágenes generadas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1786774867894_9j93j5_HPs3uqja4AA_W3d.jpg" width="600" alt="Marketing de producto - Portada de revista de moda en un palacio - Image 1">
+</div>
+
+#### 📌 Detalles
+
+- **Autor:** [Wareen AI 💟](https://x.com/Wareenaa)
+- **Fuente:** [Twitter Post](https://x.com/Wareenaa/status/2088324136909357375)
+- **Publicado:** 14 de agosto de 2026
+- **Idiomas:** en
+
+**[👉 Pruébalo ahora →](https://youmind.com/es-ES/nano-banana-pro-prompts?id=31470)**
 
 ---
 
@@ -5892,7 +5886,7 @@ Un prompt atmosférico sencillo para una colegiala flotando en un entorno oscuro
 
 <div align="center">
 
-### 🎯 15128 prompts más no mostrados aquí
+### 🎯 15126 prompts más no mostrados aquí
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -5955,6 +5949,6 @@ Licenciado bajo [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Enviar un prompt](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Dar estrella a este repositorio](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-08-18T12:21:24.726Z</sub>
+<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-08-18T16:19:39.481Z</sub>
 
 </div>

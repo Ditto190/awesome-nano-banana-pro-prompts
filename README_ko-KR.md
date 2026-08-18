@@ -143,9 +143,9 @@ Raycast에서 사용하면 인수를 동적으로 교체하여 빠르게 반복�
 
 | 지표 | 수 |
 |--------|-------|
-| 📝 총 프롬프트 수 | **15248** |
+| 📝 총 프롬프트 수 | **15246** |
 | ⭐ 추천 | **9** |
-| 🔄 마지막 업데이트 | **2026년 8월 18일 화요일 PM 12시 21분 8초 UTC** |
+| 🔄 마지막 업데이트 | **2026년 8월 18일 화요일 PM 4시 18분 55초 UTC** |
 
 </div>
 
@@ -2089,39 +2089,18 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 31: 소셜 미디어 게시물 - 현대적인 침실에서 휴식을 취하는 친구들
+### No. 31: 소셜 미디어 게시물 - 색연필로 그린 초원 풍경
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 설명
 
-큰 창문이 있는 아늑하고 현대적인 침실에서 즐거운 순간을 공유하는 두 친구의 라이프스타일 인물 사진 프롬프트입니다.
+해 질 녘 푸른 수레국화가 만발한 들판을 걷는 커플을 묘사한 평온한 색연필 스타일의 프롬프트입니다.
 
 #### 📝 프롬프트
 
 ```
-밝고 현대적인 침실의 깔끔하게 정돈된 침대 위에 편안하게 앉아 있는 두 젊은 여성의 사실적인 라이프스타일 인물 사진을 생성하세요. 두 사람은 가까운 친구 사이로, 편안하고 즐거운 순간을 공유하며 따뜻하고 자연스러운 미소를 지으며 카메라를 정면으로 바라보고 있습니다.
-
-1. 피사체, 머리카락, 피부, 표정 및 포즈:
-
-왼쪽 여성: 자연스러운 안색과 미세한 피부 질감이 살아있는 따뜻한 밝은 피부 톤, {argument name="woman one hair" default="적갈색"} 머리를 느슨한 포니테일로 묶고 얼굴 주변에 부드러운 잔머리를 살짝 내린 모습, 깔끔하게 다듬어진 눈썹, 자연스러운 메이크업, 밝고 다정한 미소. 다리를 한쪽으로 접어 편안하게 앉아 있으며, 어깨는 힘을 빼고 한 손은 무릎 근처에 자연스럽게 두고 있습니다.
-
-오른쪽 여성: 사실적인 자연 질감이 느껴지는 밝은 피부 톤, 긴 금발 머리를 높게 묶어 어깨 뒤로 부드럽게 늘어뜨린 모습, 부드럽게 강조된 눈썹, 은은한 자연 메이크업, 즐겁고 환한 미소. 친구 옆에 편안한 자세로 앉아 있으며, 팔을 자연스럽게 둔 채 친구 쪽으로 살짝 기울여 있습니다.
-
-두 피사체 모두 사실적인 성인 여성의 이목구비, 자연스러운 비율, 진정성 있는 표정, 편안한 바디 랭귀지를 갖추어야 합니다. 연출된 느낌보다는 자연스럽고 다정한 상호작용이 느껴져야 합니다.
-
-2. 의상 및 액세서리:
-왼쪽 여성은 작은 단추가 달린 {argument name="woman one outfit" default="짙은 에메랄드 그린 색상의 질감 있는 니트 가디건"}을 입고 있으며, 작은 직사각형 펜던트가 달린 심플한 금색 체인 목걸이를 착용하고 있습니다. 절제된 반지와 깔끔하게 관리된 뉴트럴 컬러의 네일 아트를 더해주세요.
-오른쪽 여성은 편안하고 현대적인 실루엣의 {argument name="woman two outfit" default="짙은 네이비 블루 색상의 질감 있는 니트 가디건"}을 입고 있으며, 최소한의 주얼리를 착용합니다.
-의상은 세련되고 캐주얼하며 적절한 수준을 유지하고, 사실적인 원단 질감, 박음질, 주름, 자연스러운 드레이핑을 표현하세요. 눈에 띄는 브랜드 로고는 피해주세요.
-
-3. 환경 및 조명:
-부드러운 뮤트 그레이 톤의 질감 있는 담요와 뉴트럴 컬러의 침구가 놓인 아늑하고 현대적인 침실을 배경으로 설정하세요. 피사체 뒤로는 큰 통창이 있어야 합니다. 창밖으로는 나무와 자연 풍경이 부드럽게 흐릿하게 보여야 합니다. 배경의 침대 위에는 베개나 작은 소품 등 침실의 세부적인 요소를 자연스럽게 배치하세요.
-창문을 통해 들어오는 부드러운 자연광을 사용하여 두 사람의 얼굴에 은은한 조명과 자연스러운 그림자가 생기도록 하세요. 분위기는 따뜻하고 평화로우며 편안하고 꾸밈없어야 합니다.
-
-4. 카메라 및 시각적 스타일:
-풀프레임 카메라와 50mm 또는 85mm 인물 촬영용 렌즈로 촬영한 듯한 느낌을 주세요. 눈높이 시점, 자연스러운 인물 사진 압축감, 미디엄 와이드 프레이밍, 얕은 피사계 심도를 적용하여 두 사람의 얼굴에 정확하게 초점을 맞추세요. 부드러운 자연 창문 조명, 사실적인 노출, 높은 다이내믹 레인지, 정확한 색감을 사용하세요.
+세로 방향의 생동감 넘치는 색연필 일러스트입니다. 젊은 커플이 손을 잡고 관찰자로부터 멀어지며, 선명한 푸른색 수레국화(Centaurea cyanus)가 가득한 넓은 들판 속 좁고 구불구불한 길을 따라 걷고 있습니다. 전경에는 키 큰 황금빛 풀과 줄기, 꽃봉오리들이 섞여 있습니다. 여성은 하늘거리는 흰색 드레스를, 남성은 소매를 걷어 올린 흰색 셔츠와 어두운색 바지를 입고 있으며, 서로를 향해 다정하게 머리를 기울이고 있습니다. 완만한 언덕이 지평선을 향해 뻗어 있습니다. 저녁 빛이 장면 전체에 드리워지면서 부드러운 여름 산들바람이 풀과 꽃을 흔듭니다. 멀리서는 따뜻한 호박색 들판 위로 햇살이 비칩니다. 하늘은 화면의 상단 3분의 1을 차지하며, 꼭대기의 짙은 어스름한 푸른색에서 낮은 태양 근처의 따뜻한 오렌지색, 금색, 옅은 노란색으로 이어지는 색조를 띠고 있으며, 부드럽고 가느다란 역광 구름이 떠 있습니다. 시점은 넓고 약간 높은 곳에서 내려다보는 듯하여, 디테일한 수레국화와 커플, 그리고 넓게 펼쳐진 햇살 가득한 초원을 보여줍니다. 스타일은 색연필화 느낌을 연상시키며, 눈에 보이는 질감이 부드럽고 평온한 분위기를 자아냅니다. 전체적인 분위기는 평화롭고 낭만적이며 향수를 불러일으키며, 따뜻한 황금빛 색조가 꽃의 차가운 일렉트릭 블루 색상과 대비를 이룹니다. 세로 방향의 생동감 넘치는 색연필 일러스트입니다. 선명한 푸른색 수레국화(Centaurea cyanus)가 전경을 뒤덮고 있으며, 그 사이로 키 큰 황금빛 풀과 줄기, 꽃봉오리들이 섞여 있습니다. 좁고 구불구불한 흙길이 꽃밭 사이로 멀리까지 이어집니다. 아침 안개와 옅은 박무가 들판과 먼 해안가 위로 부드럽게 감돌며 지평선을 흐릿하게 만듭니다. 들판 너머로는 고요한 바다가 지평선까지 뻗어 있고, 잔잔한 물 위로 범선 한 척이 유유히 떠 있습니다. 바다는 하늘의 따뜻한 빛을 반사합니다. 하늘은 화면의 상단 3분의 1을 차지하며, 꼭대기의 짙은 어스름한 푸른색에서 낮은 태양 근처의 따뜻한 오렌지색, 금색, 옅은 노란색으로 이어지는 색조를 띠고 있으며, 부드럽고 가느다란 역광 구름이 떠 있습니다. 시점은 넓고 약간 높은 곳에서 내려다보는 듯하여, 디테일한 수레국화와 안개 낀 초원, 그리고 멀리 범선이 떠 있는 광활하고 고요한 바다 풍경을 보여줍니다. 스타일은 색연필화 느낌을 연상시키며, 눈에 보이는 질감이 부드럽고 평온한 분위기를 자아냅니다. 전체적인 분위기는 평화롭고 몽환적이며 향수를 불러일으키며, 따뜻한 황금빛 색조가 꽃의 차가운 일렉트릭 블루 색상과 대비를 이룹니다.
 ```
 
 #### 🖼️ 생성된 이미지
@@ -2129,23 +2108,23 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1786861132331_7nhdm0_HPv0l5vWAAA9Zfc.jpg" width="600" alt="소셜 미디어 게시물 - 현대적인 침실에서 휴식을 취하는 친구들 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1786861122193_hdzbyd_HPvngouXMAAzl8D.jpg" width="600" alt="소셜 미디어 게시물 - 색연필로 그린 초원 풍경 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1786861132386_emo54d_HPv0oqSXQAAoz3j.jpg" width="600" alt="소셜 미디어 게시물 - 현대적인 침실에서 휴식을 취하는 친구들 - Image 2">
+<img src="https://cms-assets.youmind.com/media/1786861122162_wa2ul6_HPvnhY9XwAA2tPS.jpg" width="600" alt="소셜 미디어 게시물 - 색연필로 그린 초원 풍경 - Image 2">
 </div>
 
 #### 📌 상세 정보
 
-- **작성자:** [J⭕DIE](https://x.com/Jodie_Noraa)
-- **출처:** [Twitter Post](https://x.com/Jodie_Noraa/status/2088531849010135447)
+- **작성자:** [Viki](https://x.com/churvikv)
+- **출처:** [Twitter Post](https://x.com/churvikv/status/2088517844535287875)
 - **게시일:** 2026년 8월 15일
 - **언어:** en
 
-**[👉 지금 시도하기 →](https://youmind.com/ko-KR/nano-banana-pro-prompts?id=31575)**
+**[👉 지금 시도하기 →](https://youmind.com/ko-KR/nano-banana-pro-prompts?id=31568)**
 
 ---
 
@@ -3610,46 +3589,7 @@ Nano Banana 2를 사용하여 만우절용 가짜 뉴스 이미지를 생성하�
 
 ---
 
-### No. 67: 만화 / 스토리보드 - 색연필로 그린 초원 풍경
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 설명
-
-해 질 녘 푸른 수레국화가 만발한 들판을 걷는 커플을 묘사한 평온한 색연필 스타일의 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-세로 방향의 생동감 넘치는 색연필 일러스트입니다. 젊은 커플이 손을 잡고 관찰자로부터 멀어지며, 선명한 푸른색 수레국화(Centaurea cyanus)가 가득한 넓은 들판 속 좁고 구불구불한 길을 따라 걷고 있습니다. 전경에는 키 큰 황금빛 풀과 줄기, 꽃봉오리들이 섞여 있습니다. 여성은 하늘거리는 흰색 드레스를, 남성은 소매를 걷어 올린 흰색 셔츠와 어두운색 바지를 입고 있으며, 서로를 향해 다정하게 머리를 기울이고 있습니다. 완만한 언덕이 지평선을 향해 뻗어 있습니다. 저녁 빛이 장면 전체에 드리워지면서 부드러운 여름 산들바람이 풀과 꽃을 흔듭니다. 멀리서는 따뜻한 호박색 들판 위로 햇살이 비칩니다. 하늘은 화면의 상단 3분의 1을 차지하며, 꼭대기의 짙은 어스름한 푸른색에서 낮은 태양 근처의 따뜻한 오렌지색, 금색, 옅은 노란색으로 이어지는 색조를 띠고 있으며, 부드럽고 가느다란 역광 구름이 떠 있습니다. 시점은 넓고 약간 높은 곳에서 내려다보는 듯하여, 디테일한 수레국화와 커플, 그리고 넓게 펼쳐진 햇살 가득한 초원을 보여줍니다. 스타일은 색연필화 느낌을 연상시키며, 눈에 보이는 질감이 부드럽고 평온한 분위기를 자아냅니다. 전체적인 분위기는 평화롭고 낭만적이며 향수를 불러일으키며, 따뜻한 황금빛 색조가 꽃의 차가운 일렉트릭 블루 색상과 대비를 이룹니다. 세로 방향의 생동감 넘치는 색연필 일러스트입니다. 선명한 푸른색 수레국화(Centaurea cyanus)가 전경을 뒤덮고 있으며, 그 사이로 키 큰 황금빛 풀과 줄기, 꽃봉오리들이 섞여 있습니다. 좁고 구불구불한 흙길이 꽃밭 사이로 멀리까지 이어집니다. 아침 안개와 옅은 박무가 들판과 먼 해안가 위로 부드럽게 감돌며 지평선을 흐릿하게 만듭니다. 들판 너머로는 고요한 바다가 지평선까지 뻗어 있고, 잔잔한 물 위로 범선 한 척이 유유히 떠 있습니다. 바다는 하늘의 따뜻한 빛을 반사합니다. 하늘은 화면의 상단 3분의 1을 차지하며, 꼭대기의 짙은 어스름한 푸른색에서 낮은 태양 근처의 따뜻한 오렌지색, 금색, 옅은 노란색으로 이어지는 색조를 띠고 있으며, 부드럽고 가느다란 역광 구름이 떠 있습니다. 시점은 넓고 약간 높은 곳에서 내려다보는 듯하여, 디테일한 수레국화와 안개 낀 초원, 그리고 멀리 범선이 떠 있는 광활하고 고요한 바다 풍경을 보여줍니다. 스타일은 색연필화 느낌을 연상시키며, 눈에 보이는 질감이 부드럽고 평온한 분위기를 자아냅니다. 전체적인 분위기는 평화롭고 몽환적이며 향수를 불러일으키며, 따뜻한 황금빛 색조가 꽃의 차가운 일렉트릭 블루 색상과 대비를 이룹니다.
-```
-
-#### 🖼️ 생성된 이미지
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1786861122193_hdzbyd_HPvngouXMAAzl8D.jpg" width="600" alt="만화 / 스토리보드 - 색연필로 그린 초원 풍경 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1786861122162_wa2ul6_HPvnhY9XwAA2tPS.jpg" width="600" alt="만화 / 스토리보드 - 색연필로 그린 초원 풍경 - Image 2">
-</div>
-
-#### 📌 상세 정보
-
-- **작성자:** [Viki](https://x.com/churvikv)
-- **출처:** [Twitter Post](https://x.com/churvikv/status/2088517844535287875)
-- **게시일:** 2026년 8월 15일
-- **언어:** en
-
-**[👉 지금 시도하기 →](https://youmind.com/ko-KR/nano-banana-pro-prompts?id=31568)**
-
----
-
-### No. 68: 만화 / 스토리보드 - 일본 교복을 입은 교실 속 인물 사진
+### No. 67: 만화 / 스토리보드 - 일본 교복을 입은 교실 속 인물 사진
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3701,7 +3641,7 @@ Nano Banana 2를 사용하여 만우절용 가짜 뉴스 이미지를 생성하�
 
 ---
 
-### No. 69: 만화 / 스토리보드 - 지하 대성당과 기계 고래
+### No. 68: 만화 / 스토리보드 - 지하 대성당과 기계 고래
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3740,7 +3680,7 @@ Nano Banana 2를 사용하여 만우절용 가짜 뉴스 이미지를 생성하�
 
 ---
 
-### No. 70: 만화 / 스토리보드 - 펠트 개구리 해변 디오라마
+### No. 69: 만화 / 스토리보드 - 펠트 개구리 해변 디오라마
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3774,7 +3714,7 @@ Nano Banana 2를 사용하여 만우절용 가짜 뉴스 이미지를 생성하�
 
 ---
 
-### No. 71: 만화 / 스토리보드 - 영화 같은 기차역 여행자
+### No. 70: 만화 / 스토리보드 - 영화 같은 기차역 여행자
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3813,7 +3753,7 @@ Nano Banana 2를 사용하여 만우절용 가짜 뉴스 이미지를 생성하�
 
 ---
 
-### No. 72: 만화 / 스토리보드 - 유럽을 여행하는 로맨틱한 중국인 커플
+### No. 71: 만화 / 스토리보드 - 유럽을 여행하는 로맨틱한 중국인 커플
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3856,7 +3796,7 @@ Nano Banana 2를 사용하여 만우절용 가짜 뉴스 이미지를 생성하�
 
 ---
 
-### No. 73: 만화 / 스토리보드 - 파편화된 기하학적 구상 일러스트레이션
+### No. 72: 만화 / 스토리보드 - 파편화된 기하학적 구상 일러스트레이션
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3899,7 +3839,7 @@ Nano Banana 2를 사용하여 만우절용 가짜 뉴스 이미지를 생성하�
 
 ---
 
-### No. 74: 만화 / 스토리보드 - 고스트 스파이더 어반 포트레이트 에디토리얼
+### No. 73: 만화 / 스토리보드 - 고스트 스파이더 어반 포트레이트 에디토리얼
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3951,7 +3891,7 @@ Nano Banana 2를 사용하여 만우절용 가짜 뉴스 이미지를 생성하�
 
 ---
 
-### No. 75: 만화 / 스토리보드 - 다크 판타지 전장의 전사
+### No. 74: 만화 / 스토리보드 - 다크 판타지 전장의 전사
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3996,7 +3936,7 @@ Nano Banana 2를 사용하여 만우절용 가짜 뉴스 이미지를 생성하�
 
 ---
 
-### No. 76: 만화 / 스토리보드 - 식물학 아카이브 빅토리아풍 초상화
+### No. 75: 만화 / 스토리보드 - 식물학 아카이브 빅토리아풍 초상화
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4086,7 +4026,7 @@ Nano Banana 2를 사용하여 만우절용 가짜 뉴스 이미지를 생성하�
 
 ---
 
-### No. 77: 만화 / 스토리보드 - 3D 페이퍼 크래프트 디오라마 스타일
+### No. 76: 만화 / 스토리보드 - 3D 페이퍼 크래프트 디오라마 스타일
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4153,7 +4093,7 @@ Nano Banana 2를 사용하여 만우절용 가짜 뉴스 이미지를 생성하�
 
 ---
 
-### No. 78: 만화 / 스토리보드 - 고딕풍의 기묘한 유령의 집
+### No. 77: 만화 / 스토리보드 - 고딕풍의 기묘한 유령의 집
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4187,7 +4127,7 @@ Nano Banana 2를 사용하여 만우절용 가짜 뉴스 이미지를 생성하�
 
 ---
 
-### No. 79: 만화 / 스토리보드 - 평온한 문학적 정원 탈출
+### No. 78: 만화 / 스토리보드 - 평온한 문학적 정원 탈출
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4221,7 +4161,7 @@ Nano Banana 2를 사용하여 만우절용 가짜 뉴스 이미지를 생성하�
 
 ---
 
-### No. 80: 만화 / 스토리보드 - 도라에몽 영화 스타일 장면 렌더링
+### No. 79: 만화 / 스토리보드 - 도라에몽 영화 스타일 장면 렌더링
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4255,7 +4195,7 @@ Nano Banana 2를 사용하여 만우절용 가짜 뉴스 이미지를 생성하�
 
 ---
 
-### No. 81: 만화 / 스토리보드 - 멀티 패널 표정 그리드
+### No. 80: 만화 / 스토리보드 - 멀티 패널 표정 그리드
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4295,7 +4235,7 @@ Nano Banana 2를 사용하여 만우절용 가짜 뉴스 이미지를 생성하�
 
 ---
 
-### No. 82: 만화 / 스토리보드 - 고요한 정원 속 문학적 초상
+### No. 81: 만화 / 스토리보드 - 고요한 정원 속 문학적 초상
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4341,7 +4281,7 @@ Nano Banana 2를 사용하여 만우절용 가짜 뉴스 이미지를 생성하�
 
 ---
 
-### No. 83: 만화 / 스토리보드 - 럭셔리 향수 스토리보드 레이아웃
+### No. 82: 만화 / 스토리보드 - 럭셔리 향수 스토리보드 레이아웃
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4375,7 +4315,7 @@ Nano Banana 2를 사용하여 만우절용 가짜 뉴스 이미지를 생성하�
 
 ---
 
-### No. 84: 만화 / 스토리보드 - 캐릭터 상호작용 소품 추가
+### No. 83: 만화 / 스토리보드 - 캐릭터 상호작용 소품 추가
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4409,7 +4349,7 @@ Nano Banana 2를 사용하여 만우절용 가짜 뉴스 이미지를 생성하�
 
 ---
 
-### No. 85: 제품 마케팅 - 패션 화보 스타일 인물 사진
+### No. 84: 제품 마케팅 - 패션 화보 스타일 인물 사진
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4443,7 +4383,7 @@ Nano Banana 2를 사용하여 만우절용 가짜 뉴스 이미지를 생성하�
 
 ---
 
-### No. 86: 제품 마케팅 - 어반 스트릿웨어 매거진 에디토리얼
+### No. 85: 제품 마케팅 - 어반 스트릿웨어 매거진 에디토리얼
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4495,7 +4435,7 @@ A {argument name="style" default="하이엔드 어반 스트릿웨어 패션 매
 
 ---
 
-### No. 87: 제품 마케팅 - 럭셔리 초콜릿 광고 정물 사진
+### No. 86: 제품 마케팅 - 럭셔리 초콜릿 광고 정물 사진
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4547,7 +4487,7 @@ A {argument name="style" default="하이엔드 어반 스트릿웨어 패션 매
 
 ---
 
-### No. 88: 제품 마케팅 - 우아한 남성복 트와일라잇 에디토리얼
+### No. 87: 제품 마케팅 - 우아한 남성복 트와일라잇 에디토리얼
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4581,7 +4521,7 @@ A {argument name="style" default="하이엔드 어반 스트릿웨어 패션 매
 
 ---
 
-### No. 89: 제품 마케팅 - 트와일라잇 남성복 에디토리얼 포트레이트
+### No. 88: 제품 마케팅 - 트와일라잇 남성복 에디토리얼 포트레이트
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4615,7 +4555,7 @@ A {argument name="style" default="하이엔드 어반 스트릿웨어 패션 매
 
 ---
 
-### No. 90: 제품 마케팅 - 초현실적인 뷰티 제품 헤어 롤러
+### No. 89: 제품 마케팅 - 초현실적인 뷰티 제품 헤어 롤러
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4649,7 +4589,7 @@ A {argument name="style" default="하이엔드 어반 스트릿웨어 패션 매
 
 ---
 
-### No. 91: 제품 마케팅 - 꽃으로 장식된 뇌 조각상
+### No. 90: 제품 마케팅 - 꽃으로 장식된 뇌 조각상
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4683,7 +4623,7 @@ A {argument name="style" default="하이엔드 어반 스트릿웨어 패션 매
 
 ---
 
-### No. 92: 제품 마케팅 - 미니멀리스트 인테리어 패션 포트레이트
+### No. 91: 제품 마케팅 - 미니멀리스트 인테리어 패션 포트레이트
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4723,7 +4663,7 @@ Sony A7R V, 85mm f/1.8 인물 사진 렌즈로 촬영, 아이 레벨 시점, 얕
 
 ---
 
-### No. 93: 제품 마케팅 - 영화 같은 도시의 밤 빌보드 인물 사진
+### No. 92: 제품 마케팅 - 영화 같은 도시의 밤 빌보드 인물 사진
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4792,7 +4732,7 @@ Sony A7R V, 85mm f/1.8 인물 사진 렌즈로 촬영, 아이 레벨 시점, 얕
 
 ---
 
-### No. 94: 제품 마케팅 - 라즈베리 쉘 제품 사진
+### No. 93: 제품 마케팅 - 라즈베리 쉘 제품 사진
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4844,7 +4784,7 @@ Sony A7R V, 85mm f/1.8 인물 사진 렌즈로 촬영, 아이 레벨 시점, 얕
 
 ---
 
-### No. 95: 제품 마케팅 - 빌라 수영장의 네온 옐로우 수영복을 입은 여성
+### No. 94: 제품 마케팅 - 빌라 수영장의 네온 옐로우 수영복을 입은 여성
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4893,6 +4833,40 @@ Sony A7R V, 85mm f/1.8 인물 사진 렌즈로 촬영, 아이 레벨 시점, 얕
 - **언어:** en
 
 **[👉 지금 시도하기 →](https://youmind.com/ko-KR/nano-banana-pro-prompts?id=31478)**
+
+---
+
+### No. 95: 제품 마케팅 - 궁전 패션 잡지 커버
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 설명
+
+유럽의 궁전을 배경으로 보라색 단발머리와 고급 액세서리를 착용한 하이패션 화보 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+{argument name="hair style" default="밝은 보라색 단발머리"}를 한 세련된 젊은 여성이 멋진 선글라스를 착용한 하이패션 화보 사진입니다. 그녀는 {argument name="clothing" default="짙은 파란색 벨벳 슬리브리스 점프슈트"}를 입고, 금색 메탈 잠금장치가 달린 크고 고급스러운 {argument name="accessory" default="에메랄드 그린 가죽 핸드백"}을 카메라 쪽으로 내밀고 있습니다. 로우 앵글 시점입니다. 돌 아치, 높은 프랑스식 창문, 부드러운 자연광이 어우러진 우아하고 고전적인 유럽 궁전 내부가 배경입니다. 사실적인 사진, 8k 해상도, 영화 같은 조명, 선명한 초점, 패션 잡지 커버 스타일.
+```
+
+#### 🖼️ 생성된 이미지
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1786774867894_9j93j5_HPs3uqja4AA_W3d.jpg" width="600" alt="제품 마케팅 - 궁전 패션 잡지 커버 - Image 1">
+</div>
+
+#### 📌 상세 정보
+
+- **작성자:** [Wareen AI 💟](https://x.com/Wareenaa)
+- **출처:** [Twitter Post](https://x.com/Wareenaa/status/2088324136909357375)
+- **게시일:** 2026년 8월 14일
+- **언어:** en
+
+**[👉 지금 시도하기 →](https://youmind.com/ko-KR/nano-banana-pro-prompts?id=31470)**
 
 ---
 
@@ -5961,7 +5935,7 @@ Grok Imagine 2.0 과 Nano Banana 2 를 비교하기 위해 사용된 간단한 �
 
 <div align="center">
 
-### 🎯 15128 여기에 표시되지 않은 더 많은 프롬프트가 있습니다
+### 🎯 15126 여기에 표시되지 않은 더 많은 프롬프트가 있습니다
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -6024,6 +5998,6 @@ The gallery features:
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-08-18T12:21:08.700Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-08-18T16:18:55.205Z</sub>
 
 </div>
