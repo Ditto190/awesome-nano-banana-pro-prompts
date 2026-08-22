@@ -145,7 +145,7 @@ Quando usado no Raycast, você pode substituir dinamicamente os argumentos para 
 |--------|-------|
 | 📝 Total de prompts | **15311** |
 | ⭐ Destaque | **9** |
-| 🔄 Última atualização | **sábado, 22 de agosto de 2026 às 12:03:36 UTC** |
+| 🔄 Última atualização | **sábado, 22 de agosto de 2026 às 16:03:21 UTC** |
 
 </div>
 
@@ -6240,6 +6240,6 @@ Licenciado sob [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Enviar um prompt](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Dar estrela a este repositório](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-08-22T12:03:36.639Z</sub>
+<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-08-22T16:03:21.941Z</sub>
 
 </div>
