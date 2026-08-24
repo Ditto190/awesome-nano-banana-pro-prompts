@@ -143,9 +143,9 @@ by {argument name="author" default="Steve Jobs"}
 
 | 指標 | 數量 |
 |--------|-------|
-| 📝 提示詞總數 | **15338** |
+| 📝 提示詞總數 | **15337** |
 | ⭐ 精選 | **9** |
-| 🔄 最後更新 | **2026年8月24日 星期一 上午8:12:45 [UTC]** |
+| 🔄 最後更新 | **2026年8月24日 星期一 中午12:05:02 [UTC]** |
 
 </div>
 
@@ -756,47 +756,7 @@ M8 — 您知道嗎：3 個事實（來源、科學、全球統計）+ 圖示
 
 ---
 
-### No. 3: 個人檔案 / 頭像 - 空靈夜色自拍肖像
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-一個高細節的提示詞，用於生成一張充滿情緒、低畫質的女性夜間自拍，具備電影級光影與真實的皮膚紋理。
-
-#### 📝 提示詞
-
-```
-超特寫，極致細節，{argument name="style" default="低畫質夜間自拍"}。在 9:16 的垂直夢境中，畫布被一位 {argument name="subject" default="年輕女性"} 的光芒所佔據，她正值二十出頭，五官呈現出北歐霜雪般的空靈對稱與瓷器般的優雅。她的臉龐被一頭傾瀉而下的 {argument name="hair color" default="白金髮色"} 長髮所包圍，側邊灑落的溫暖金光，在深邃如黑曜石般的夜色中，勾勒出一圈隨風舞動的細膩髮絲。她的雙眼深邃迷人，帶著微妙的貓眼弧度，眼尾柔和的飛揚眼線與眼頭的微光相映成趣，以寧靜而令人著迷的深度凝視前方。她的肌膚無瑕且透亮，柔焦般的完美質感突顯了高雅的顴骨與精緻挺拔的鼻樑。她的雙唇豐潤，帶著自然的乾燥玫瑰色澤，呈現出一種柔和而神秘的表情，增添了如超模般的魅力。她身穿一件簡單的白色上衣，外搭一件石楠灰色的拉鍊連帽衫，拉鍊的金屬齒在光線下閃爍，與柔軟的髮絲和肌膚形成觸感上的對比。她身形纖細優雅，即便是在這親密的特寫鏡頭中，依然展現出掌控畫面的自然姿態。光源位於她的右側，在她的五官上投射出柔和的暖色漸層，同時將左側留給柔和的電影級陰影，將整幅構圖定格在寧靜的夜色之美中。
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1787552792126_ucj2jn_HQZll55WwAAEZOO.png" width="600" alt="個人檔案 / 頭像 - 空靈夜色自拍肖像 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1787552793659_scsv9v_HQZlnMvWoAADfHs.png" width="600" alt="個人檔案 / 頭像 - 空靈夜色自拍肖像 - Image 2">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [alex](https://x.com/pixclipper)
-- **來源:** [Twitter Post](https://x.com/pixclipper/status/2091470837991796819)
-- **發布時間:** 2026年8月23日
-- **多語言:** en
-
-**[👉 立即嘗試 →](https://youmind.com/zh-TW/nano-banana-pro-prompts?id=32412)**
-
----
-
-### No. 4: 個人檔案 / 頭像 - 挑染髮色黃金時刻人像
+### No. 3: 個人檔案 / 頭像 - 挑染髮色黃金時刻人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -848,7 +808,7 @@ M8 — 您知道嗎：3 個事實（來源、科學、全球統計）+ 圖示
 
 ---
 
-### No. 5: 個人檔案 / 頭像 - 波點服裝鏡面自拍
+### No. 4: 個人檔案 / 頭像 - 波點服裝鏡面自拍
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -894,7 +854,7 @@ M8 — 您知道嗎：3 個事實（來源、科學、全球統計）+ 圖示
 
 ---
 
-### No. 6: 個人檔案 / 頭像 - 印尼童軍制服寫實自拍
+### No. 5: 個人檔案 / 頭像 - 印尼童軍制服寫實自拍
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -946,7 +906,7 @@ M8 — 您知道嗎：3 個事實（來源、科學、全球統計）+ 圖示
 
 ---
 
-### No. 7: 個人檔案 / 頭像 - 電影感男性攝影棚肖像
+### No. 6: 個人檔案 / 頭像 - 電影感男性攝影棚肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -980,7 +940,7 @@ M8 — 您知道嗎：3 個事實（來源、科學、全球統計）+ 圖示
 
 ---
 
-### No. 8: 個人檔案 / 頭像 - 節日時尚人像：紅色毛衣造型
+### No. 7: 個人檔案 / 頭像 - 節日時尚人像：紅色毛衣造型
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1014,7 +974,7 @@ M8 — 您知道嗎：3 個事實（來源、科學、全球統計）+ 圖示
 
 ---
 
-### No. 9: 個人檔案 / 頭像 - 戲劇性黑白攝影棚肖像
+### No. 8: 個人檔案 / 頭像 - 戲劇性黑白攝影棚肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1048,7 +1008,7 @@ M8 — 您知道嗎：3 個事實（來源、科學、全球統計）+ 圖示
 
 ---
 
-### No. 10: 個人檔案 / 頭像 - 休閒復古廂型車自拍
+### No. 9: 個人檔案 / 頭像 - 休閒復古廂型車自拍
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1106,7 +1066,7 @@ ar 9:16
 
 ---
 
-### No. 11: 個人檔案 / 頭像 - 保持面部特徵的戶外用餐場景
+### No. 10: 個人檔案 / 頭像 - 保持面部特徵的戶外用餐場景
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1140,7 +1100,7 @@ ar 9:16
 
 ---
 
-### No. 12: 個人檔案 / 頭像 - 運動衫人像
+### No. 11: 個人檔案 / 頭像 - 運動衫人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1200,7 +1160,7 @@ ar 9:16 4K
 
 ---
 
-### No. 13: 個人檔案 / 頭像 - 超寫實遊艇夕陽人像
+### No. 12: 個人檔案 / 頭像 - 超寫實遊艇夕陽人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1240,7 +1200,7 @@ ar 9:16 4K
 
 ---
 
-### No. 14: 個人檔案 / 頭像 - 佩戴鑽石與手套的精緻肖像
+### No. 13: 個人檔案 / 頭像 - 佩戴鑽石與手套的精緻肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1274,7 +1234,7 @@ ar 9:16 4K
 
 ---
 
-### No. 15: 個人檔案 / 頭像 - 銅紅色頭髮窗邊人像
+### No. 14: 個人檔案 / 頭像 - 銅紅色頭髮窗邊人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1320,7 +1280,7 @@ ar 9:16 4K
 
 ---
 
-### No. 16: 個人檔案 / 頭像 - 休閒風頭巾自拍肖像
+### No. 15: 個人檔案 / 頭像 - 休閒風頭巾自拍肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1372,7 +1332,7 @@ ar 9:16 4K
 
 ---
 
-### No. 17: 個人檔案 / 頭像 - Madison Beer 扮演波雅·漢考克 (Boa Hancock) 的 Cosplay
+### No. 16: 個人檔案 / 頭像 - Madison Beer 扮演波雅·漢考克 (Boa Hancock) 的 Cosplay
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1411,7 +1371,7 @@ ar 9:16 4K
 
 ---
 
-### No. 18: 個人檔案 / 頭像 - 超細緻電影感春日人像
+### No. 17: 個人檔案 / 頭像 - 超細緻電影感春日人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1481,7 +1441,7 @@ ar 9:16 4K
 
 ---
 
-### No. 19: 個人檔案 / 頭像 - 電影級熱帶雨林生存肖像
+### No. 18: 個人檔案 / 頭像 - 電影級熱帶雨林生存肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1518,6 +1478,58 @@ ar 9:16 4K
 - **多語言:** en
 
 **[👉 立即嘗試 →](https://youmind.com/zh-TW/nano-banana-pro-prompts?id=32106)**
+
+---
+
+### No. 19: 個人檔案 / 頭像 - 寶藍色緞面洋裝鏡面自拍肖像
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+一份針對高品質智慧型手機鏡面自拍的綜合提示詞，描繪一位身穿優雅寶藍色羽毛飾邊緞面洋裝的女性，置身於奢華室內空間。
+
+#### 📝 提示詞
+
+```
+一位皮膚白皙、五官精緻自然，留著 {argument name="hair color" default="深褐色"} 長髮的年輕女性，髮型梳成鬆散的馬尾。幾縷髮絲自然垂落在臉龐兩側，讓髮型顯得輕鬆隨性。她表情冷靜沉穩，帶著淡淡的中性微笑，正看著智慧型手機螢幕進行鏡面自拍。她的姿勢休閒而自信，一隻手拿著手機對著鏡子，另一隻手則輕鬆地比出勝利手勢。她穿著一件優雅的 {argument name="dress color" default="寶藍色"} 緞面洋裝，細肩帶設計，領口柔軟垂墜，修身剪裁展現出自然的布料褶皺與真實的緞面光澤。裙擺下方飾有裝飾性的藍色羽毛邊，增添了質感與迷人的晚宴時尚美感。她攜帶一個結構挺括的 {argument name="handbag color" default="深藍色"} 手提包，配有長金屬鍊帶。她的飾品包括精緻的多層次項鍊、細金手鐲和幾枚低調的戒指。整體造型保持精緻、優雅且有品味。場景設定在奢華的現代室內，有一面大型全身鏡，周圍環繞著帶有細緻天然紋理的深色大理石板。反射面創造了空間深度與高檔氛圍。溫暖的室內環境光從正面和側面柔和地照亮主體，在緞面布料、自然膚色以及鏡面反射中產生柔和的高光。保持真實的陰影與可信的反射表面。構圖為高品質的智慧型手機鏡面自拍，手機自然地出現在前景。運用真實的智慧型手機視角、準確的鏡面反射、自然的解剖結構與比例、細緻的手部與手指、真實的髮絲以及細膩呈現的衣物紋理。以等效 85mm 鏡頭的肖像攝影美學拍攝，柔和的室內漫射光，電影級調色，豐富而自然的藍色調，溫暖的中性膚色，適度的背景虛化，高動態範圍，真實的反射，清晰的主體細節，照片級渲染，高解析度，精緻的編輯風格生活攝影，奢華的晚宴氛圍。
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1787293541262_dgxw87_HQI-0OvWoAAPVXp.jpg" width="600" alt="個人檔案 / 頭像 - 寶藍色緞面洋裝鏡面自拍肖像 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1787293541411_b8wxz5_HQI-16CWwAAkTwO.jpg" width="600" alt="個人檔案 / 頭像 - 寶藍色緞面洋裝鏡面自拍肖像 - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1787293541565_sr5nbj_HQI-2_DWsAA97xC.jpg" width="600" alt="個人檔案 / 頭像 - 寶藍色緞面洋裝鏡面自拍肖像 - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1787293542363_4b790j_HQI-4J6XsAADwhT.jpg" width="600" alt="個人檔案 / 頭像 - 寶藍色緞面洋裝鏡面自拍肖像 - Image 4">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [J⭕DIE](https://x.com/Jodie_Noraa)
+- **來源:** [Twitter Post](https://x.com/Jodie_Noraa/status/2090302329530581268)
+- **發布時間:** 2026年8月20日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/zh-TW/nano-banana-pro-prompts?id=32097)**
 
 ---
 
@@ -6134,7 +6146,7 @@ ar 9:16 High
 
 <div align="center">
 
-### 🎯 15218 更多提示詞未在此顯示
+### 🎯 15217 更多提示詞未在此顯示
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -6197,6 +6209,6 @@ The gallery features:
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-08-24T08:12:45.581Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-08-24T12:05:02.816Z</sub>
 
 </div>

@@ -143,9 +143,9 @@ Raycast에서 사용하면 인수를 동적으로 교체하여 빠르게 반복�
 
 | 지표 | 수 |
 |--------|-------|
-| 📝 총 프롬프트 수 | **15338** |
+| 📝 총 프롬프트 수 | **15337** |
 | ⭐ 추천 | **9** |
-| 🔄 마지막 업데이트 | **2026년 8월 24일 월요일 AM 8시 12분 52초 UTC** |
+| 🔄 마지막 업데이트 | **2026년 8월 24일 월요일 PM 12시 5분 9초 UTC** |
 
 </div>
 
@@ -756,47 +756,7 @@ Grok 검색 결과
 
 ---
 
-### No. 3: 프로필 / 아바타 - 몽환적인 야간 셀카 초상화
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 설명
-
-플래티넘 블론드 헤어를 가진 여성의 분위기 있는 저화질 야간 셀카를 생성하기 위한 매우 상세한 프롬프트로, 영화 같은 조명과 사실적인 피부 질감이 특징입니다.
-
-#### 📝 프롬프트
-
-```
-초근접 촬영, 디테일 강조, {argument name="style" default="저화질 야간 셀카"}. 9:16 세로형의 몽환적인 화폭 속에서, 20대 초반의 {argument name="subject" default="젊은 여성"}이 빛나는 존재감을 드러냅니다. 그녀의 이목구비는 북유럽의 서리처럼 몽환적인 대칭미와 도자기 같은 우아함을 보여줍니다. 그녀의 얼굴은 길게 늘어뜨린 {argument name="hair color" default="플래티넘 블론드 헤어"}로 감싸여 있으며, 측면에서 비치는 따뜻한 황금빛 조명이 머리카락 끝에 닿아 깊고 칠흑 같은 밤의 어둠 속에서 섬세하고 흩날리는 잔머리들이 마치 후광처럼 빛납니다. 고양이처럼 살짝 올라간 매혹적이고 깊은 눈매는 부드러운 윙 아이라인과 눈 앞머리의 은은한 펄감으로 강조되었으며, 평온하고 매혹적인 깊이감으로 정면을 응시합니다. 그녀의 피부는 결점 없이 빛나며, 높고 우아한 광대뼈와 곧고 세련된 콧날을 돋보이게 하는 소프트 포커스의 완벽함을 보여줍니다. 더스티 로즈 색상의 자연스럽고 도톰한 입술은 부드럽고 신비로운 표정을 짓고 있어 슈퍼모델 같은 매력을 더합니다. 그녀는 헤더 그레이 색상의 집업 후드티 안에 심플한 화이트 톱을 레이어드하여 입고 있으며, 지퍼의 금속 이빨에 반사되는 빛은 머리카락과 피부의 부드러움과 촉각적인 대비를 이룹니다. 그녀의 체구는 가냘프고 섬세해 보이며, 이 밀착된 클로즈업 샷에서도 프레임을 압도하는 자연스러운 자세를 취하고 있습니다. 오른쪽에 위치한 광원은 그녀의 이목구비에 부드러운 온기의 그라데이션을 드리우는 동시에 왼쪽 면에는 부드러운 영화적 그림자를 남겨, 고요하고 밤의 아름다움이 깃든 순간을 완성합니다.
-```
-
-#### 🖼️ 생성된 이미지
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1787552792126_ucj2jn_HQZll55WwAAEZOO.png" width="600" alt="프로필 / 아바타 - 몽환적인 야간 셀카 초상화 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1787552793659_scsv9v_HQZlnMvWoAADfHs.png" width="600" alt="프로필 / 아바타 - 몽환적인 야간 셀카 초상화 - Image 2">
-</div>
-
-#### 📌 상세 정보
-
-- **작성자:** [alex](https://x.com/pixclipper)
-- **출처:** [Twitter Post](https://x.com/pixclipper/status/2091470837991796819)
-- **게시일:** 2026년 8월 23일
-- **언어:** en
-
-**[👉 지금 시도하기 →](https://youmind.com/ko-KR/nano-banana-pro-prompts?id=32412)**
-
----
-
-### No. 4: 프로필 / 아바타 - 발레아쥬 헤어 골든 아워 인물 사진
+### No. 3: 프로필 / 아바타 - 발레아쥬 헤어 골든 아워 인물 사진
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -848,7 +808,7 @@ Grok 검색 결과
 
 ---
 
-### No. 5: 프로필 / 아바타 - 폴카 도트 의상 거울 셀카
+### No. 4: 프로필 / 아바타 - 폴카 도트 의상 거울 셀카
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -894,7 +854,7 @@ Grok 검색 결과
 
 ---
 
-### No. 6: 프로필 / 아바타 - 인도네시아 스카우트 유니폼을 입은 소녀의 사실적인 셀카
+### No. 5: 프로필 / 아바타 - 인도네시아 스카우트 유니폼을 입은 소녀의 사실적인 셀카
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -946,7 +906,7 @@ Grok 검색 결과
 
 ---
 
-### No. 7: 프로필 / 아바타 - 영화 같은 남성 스튜디오 인물 사진
+### No. 6: 프로필 / 아바타 - 영화 같은 남성 스튜디오 인물 사진
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -980,7 +940,7 @@ Grok 검색 결과
 
 ---
 
-### No. 8: 프로필 / 아바타 - 빨간 스웨터를 입은 축제 분위기의 패션 인물 사진
+### No. 7: 프로필 / 아바타 - 빨간 스웨터를 입은 축제 분위기의 패션 인물 사진
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1014,7 +974,7 @@ Grok 검색 결과
 
 ---
 
-### No. 9: 프로필 / 아바타 - 드라마틱한 흑백 스튜디오 인물 사진
+### No. 8: 프로필 / 아바타 - 드라마틱한 흑백 스튜디오 인물 사진
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1048,7 +1008,7 @@ Grok 검색 결과
 
 ---
 
-### No. 10: 프로필 / 아바타 - 캐주얼 빈티지 밴 셀카
+### No. 9: 프로필 / 아바타 - 캐주얼 빈티지 밴 셀카
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1106,7 +1066,7 @@ ar 9:16
 
 ---
 
-### No. 11: 프로필 / 아바타 - 인물 고유성을 유지하는 야외 식사 장면
+### No. 10: 프로필 / 아바타 - 인물 고유성을 유지하는 야외 식사 장면
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1140,7 +1100,7 @@ ar 9:16
 
 ---
 
-### No. 12: 프로필 / 아바타 - 운동용 저지 인물 사진
+### No. 11: 프로필 / 아바타 - 운동용 저지 인물 사진
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1200,7 +1160,7 @@ ar 9:16 4K
 
 ---
 
-### No. 13: 프로필 / 아바타 - 초현실적인 요트 선셋 인물 사진
+### No. 12: 프로필 / 아바타 - 초현실적인 요트 선셋 인물 사진
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1240,7 +1200,7 @@ ar 9:16 4K
 
 ---
 
-### No. 14: 프로필 / 아바타 - 다이아몬드와 장갑을 착용한 세련된 인물 사진
+### No. 13: 프로필 / 아바타 - 다이아몬드와 장갑을 착용한 세련된 인물 사진
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1274,7 +1234,7 @@ ar 9:16 4K
 
 ---
 
-### No. 15: 프로필 / 아바타 - 구리빛 붉은 머리의 창가 인물 사진
+### No. 14: 프로필 / 아바타 - 구리빛 붉은 머리의 창가 인물 사진
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1320,7 +1280,7 @@ ar 9:16 4K
 
 ---
 
-### No. 16: 프로필 / 아바타 - 캐주얼 히잡 셀카 인물 사진
+### No. 15: 프로필 / 아바타 - 캐주얼 히잡 셀카 인물 사진
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1372,7 +1332,7 @@ ar 9:16 4K
 
 ---
 
-### No. 17: 프로필 / 아바타 - Madison Beer 보아 핸콕 코스프레
+### No. 16: 프로필 / 아바타 - Madison Beer 보아 핸콕 코스프레
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1411,7 +1371,7 @@ Madison Beer가 보아 핸콕 캐릭터를 코스프레한 실사풍 초상화�
 
 ---
 
-### No. 18: 프로필 / 아바타 - 초정밀 영화 같은 봄날의 인물 사진
+### No. 17: 프로필 / 아바타 - 초정밀 영화 같은 봄날의 인물 사진
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1481,7 +1441,7 @@ Madison Beer가 보아 핸콕 캐릭터를 코스프레한 실사풍 초상화�
 
 ---
 
-### No. 19: 프로필 / 아바타 - 영화 같은 열대 우림 생존 인물 사진
+### No. 18: 프로필 / 아바타 - 영화 같은 열대 우림 생존 인물 사진
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1518,6 +1478,58 @@ Madison Beer가 보아 핸콕 캐릭터를 코스프레한 실사풍 초상화�
 - **언어:** en
 
 **[👉 지금 시도하기 →](https://youmind.com/ko-KR/nano-banana-pro-prompts?id=32106)**
+
+---
+
+### No. 19: 프로필 / 아바타 - 로열 블루 새틴 드레스 거울 셀카
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 설명
+
+고급스러운 인테리어를 배경으로 깃털 장식이 달린 우아한 로열 블루 새틴 드레스를 입은 여성의 고품질 스마트폰 거울 셀카를 위한 종합 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+하얀 피부와 섬세하고 자연스러운 이목구비를 가진 젊은 여성이 {argument name="hair color" default="다크 브라운"}의 긴 머리를 느슨한 포니테일 스타일로 묶고 있습니다. 몇 가닥의 머리카락이 얼굴 주변으로 자연스럽게 흘러내려 편안하고 꾸밈없는 헤어스타일을 연출합니다. 그녀는 차분하고 침착한 표정으로 은은한 미소를 띠며 거울 셀카를 찍기 위해 스마트폰 화면을 바라보고 있습니다. 한 손으로는 거울 앞에 스마트폰을 들고, 다른 한 손은 편안하게 브이(V) 자를 그리며 자신감 있고 자연스러운 포즈를 취하고 있습니다. 그녀는 얇은 어깨끈과 부드럽게 드레이프 된 네크라인, 그리고 자연스러운 원단 주름과 사실적인 새틴 광택이 돋보이는 피트된 실루엣의 우아한 {argument name="dress color" default="로열 블루"} 새틴 드레스를 입고 있습니다. 의상 하단에는 장식용 블루 깃털 트리밍이 더해져 질감을 살리고 화려한 이브닝 패션의 미학을 완성합니다. 그녀는 긴 금색 체인 스트랩이 달린 구조적인 {argument name="handbag color" default="다크 블루"} 핸드백을 들고 있습니다. 액세서리로는 섬세한 레이어드 목걸이, 얇은 금색 팔찌, 그리고 절제된 반지 몇 개를 착용했습니다. 전체적인 스타일링은 세련되고 품격 있게 유지해 주세요. 배경은 은은한 자연 무늬가 있는 다크 마블 패널로 둘러싸인 대형 전신 거울이 있는 고급스러운 현대식 인테리어입니다. 반사되는 표면은 공간에 깊이감을 더하며 고급스러운 분위기를 자아냅니다. 따뜻한 실내 조명이 피사체를 앞과 옆에서 부드럽게 비추며 새틴 원단에 은은한 하이라이트를 만들고, 자연스러운 피부 톤과 거울 속의 미묘한 반사를 강조합니다. 사실적인 그림자와 신뢰감 있는 반사 표면을 유지하세요. 스마트폰이 전경에 자연스럽게 보이도록 고품질 스마트폰 거울 셀카 구도로 구성해 주세요. 사실적인 스마트폰 원근감, 정확한 거울 반사, 자연스러운 해부학적 비율, 디테일한 손과 손가락, 사실적인 머리카락 가닥, 정교하게 묘사된 의상 질감을 사용하세요. 85mm 렌즈에 상응하는 인물 사진 스타일의 카메라 미학, 부드러운 확산 실내 조명, 영화 같은 색감 보정, 풍부하면서도 자연스러운 블루 톤, 따뜻하고 중립적인 피부 톤, 적절한 배경 분리, 높은 다이내믹 레인지, 사실적인 반사, 선명한 피사체 디테일, 포토리얼리스틱 렌더링, 고해상도, 세련된 에디토리얼 라이프스타일 사진, 고급스러운 이브닝 분위기를 연출하세요.
+```
+
+#### 🖼️ 생성된 이미지
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1787293541262_dgxw87_HQI-0OvWoAAPVXp.jpg" width="600" alt="프로필 / 아바타 - 로열 블루 새틴 드레스 거울 셀카 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1787293541411_b8wxz5_HQI-16CWwAAkTwO.jpg" width="600" alt="프로필 / 아바타 - 로열 블루 새틴 드레스 거울 셀카 - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1787293541565_sr5nbj_HQI-2_DWsAA97xC.jpg" width="600" alt="프로필 / 아바타 - 로열 블루 새틴 드레스 거울 셀카 - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1787293542363_4b790j_HQI-4J6XsAADwhT.jpg" width="600" alt="프로필 / 아바타 - 로열 블루 새틴 드레스 거울 셀카 - Image 4">
+</div>
+
+#### 📌 상세 정보
+
+- **작성자:** [J⭕DIE](https://x.com/Jodie_Noraa)
+- **출처:** [Twitter Post](https://x.com/Jodie_Noraa/status/2090302329530581268)
+- **게시일:** 2026년 8월 20일
+- **언어:** en
+
+**[👉 지금 시도하기 →](https://youmind.com/ko-KR/nano-banana-pro-prompts?id=32097)**
 
 ---
 
@@ -6124,7 +6136,7 @@ LIGHTING & STYLE
 
 <div align="center">
 
-### 🎯 15218 여기에 표시되지 않은 더 많은 프롬프트가 있습니다
+### 🎯 15217 여기에 표시되지 않은 더 많은 프롬프트가 있습니다
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -6187,6 +6199,6 @@ The gallery features:
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-08-24T08:12:52.737Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-08-24T12:05:09.470Z</sub>
 
 </div>

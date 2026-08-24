@@ -143,9 +143,9 @@ by {argument name="author" default="Steve Jobs"}
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **15338** |
+| 📝 提示词总数 | **15337** |
 | ⭐ 精选 | **9** |
-| 🔄 最后更新 | **2026年8月24日星期一 UTC 08:12:41** |
+| 🔄 最后更新 | **2026年8月24日星期一 UTC 12:04:59** |
 
 </div>
 
@@ -752,47 +752,7 @@ Grok 的搜索结果
 
 ---
 
-### No. 3: 个人资料 / 头像 - 空灵夜色自拍人像
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-一个用于生成情绪化、低画质夜间自拍的高细节提示词，主角为一位金发女性，具备电影级光影和逼真的皮肤纹理。
-
-#### 📝 提示词
-
-```
-超近景，极致细节，{argument name="style" default="低画质夜间自拍"}。在 9:16 的竖构图梦境中，画面被一位 {argument name="subject" default="年轻女性"} 的光影存在感所占据。她正值二十出头，五官呈现出北欧冰雪般的空灵对称与瓷器般的优雅。她的脸庞被一头倾泻而下的 {argument name="hair color" default="铂金色长发"} 所环绕，侧面射入的温暖金光在发丝边缘勾勒出一圈精致的轮廓，在深邃如黑曜石般的夜色背景中跳动。她的双眸深邃迷人，带着微妙的猫眼弧度，眼角点缀着柔和的飞扬眼线和一丝闪光，目光平静而深邃。她的皮肤无瑕且焕发光彩，柔焦质感凸显出高挺优雅的颧骨和精致笔直的鼻梁。双唇丰盈，呈现自然的干枯玫瑰色，带着一丝神秘的柔和表情，增添了超模般的魅力。她身穿一件简单的白色上衣，外搭一件灰色拉链连帽衫，拉链的金属齿在光线下闪烁，与柔软的发丝和皮肤形成触感对比。她身形纤细娇柔，姿态自然，即使在如此亲密的特写镜头中也极具张力。光源位于右侧，在她的面部投射出柔和的暖色渐变，而左侧则隐没在柔和的电影级阴影中，将整个画面定格在静谧的夜色之美中。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1787552792126_ucj2jn_HQZll55WwAAEZOO.png" width="600" alt="个人资料 / 头像 - 空灵夜色自拍人像 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1787552793659_scsv9v_HQZlnMvWoAADfHs.png" width="600" alt="个人资料 / 头像 - 空灵夜色自拍人像 - Image 2">
-</div>
-
-#### 📌 详情
-
-- **作者:** [alex](https://x.com/pixclipper)
-- **来源:** [Twitter Post](https://x.com/pixclipper/status/2091470837991796819)
-- **发布时间:** 2026年8月23日
-- **多语言:** en
-
-**[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?id=32412)**
-
----
-
-### No. 4: 个人资料 / 头像 - 挑染发色“黄金时刻”人像
+### No. 3: 个人资料 / 头像 - 挑染发色“黄金时刻”人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -844,7 +804,7 @@ Grok 的搜索结果
 
 ---
 
-### No. 5: 个人资料 / 头像 - 波点套装镜面自拍
+### No. 4: 个人资料 / 头像 - 波点套装镜面自拍
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -890,7 +850,7 @@ Grok 的搜索结果
 
 ---
 
-### No. 6: 个人资料 / 头像 - 印尼童子军制服写实自拍
+### No. 5: 个人资料 / 头像 - 印尼童子军制服写实自拍
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -942,7 +902,7 @@ Grok 的搜索结果
 
 ---
 
-### No. 7: 个人资料 / 头像 - 电影感男性影棚肖像
+### No. 6: 个人资料 / 头像 - 电影感男性影棚肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -976,7 +936,7 @@ Grok 的搜索结果
 
 ---
 
-### No. 8: 个人资料 / 头像 - 身着红色毛衣的节日时尚人像
+### No. 7: 个人资料 / 头像 - 身着红色毛衣的节日时尚人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1010,7 +970,7 @@ Grok 的搜索结果
 
 ---
 
-### No. 9: 个人资料 / 头像 - 极具戏剧感的黑白影棚肖像
+### No. 8: 个人资料 / 头像 - 极具戏剧感的黑白影棚肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1044,7 +1004,7 @@ Grok 的搜索结果
 
 ---
 
-### No. 10: 个人资料 / 头像 - 休闲复古面包车自拍
+### No. 9: 个人资料 / 头像 - 休闲复古面包车自拍
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1102,7 +1062,7 @@ ar 9:16
 
 ---
 
-### No. 11: 个人资料 / 头像 - 保持面部特征的户外用餐场景
+### No. 10: 个人资料 / 头像 - 保持面部特征的户外用餐场景
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1136,7 +1096,7 @@ ar 9:16
 
 ---
 
-### No. 12: 个人资料 / 头像 - 运动衫肖像
+### No. 11: 个人资料 / 头像 - 运动衫肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1196,7 +1156,7 @@ ar 9:16 4K
 
 ---
 
-### No. 13: 个人资料 / 头像 - 超写实游艇日落肖像
+### No. 12: 个人资料 / 头像 - 超写实游艇日落肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1236,7 +1196,7 @@ ar 9:16 4K
 
 ---
 
-### No. 14: 个人资料 / 头像 - 佩戴钻石与手套的精致肖像
+### No. 13: 个人资料 / 头像 - 佩戴钻石与手套的精致肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1270,7 +1230,7 @@ ar 9:16 4K
 
 ---
 
-### No. 15: 个人资料 / 头像 - 铜红色头发窗边肖像
+### No. 14: 个人资料 / 头像 - 铜红色头发窗边肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1316,7 +1276,7 @@ ar 9:16 4K
 
 ---
 
-### No. 16: 个人资料 / 头像 - 休闲风头巾自拍肖像
+### No. 15: 个人资料 / 头像 - 休闲风头巾自拍肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1368,7 +1328,7 @@ ar 9:16 4K
 
 ---
 
-### No. 17: 个人资料 / 头像 - Madison Beer 扮演 Boa Hancock Cosplay
+### No. 16: 个人资料 / 头像 - Madison Beer 扮演 Boa Hancock Cosplay
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1407,7 +1367,7 @@ ar 9:16 4K
 
 ---
 
-### No. 18: 个人资料 / 头像 - 超精细电影感春日肖像
+### No. 17: 个人资料 / 头像 - 超精细电影感春日肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1477,7 +1437,7 @@ ar 9:16 4K
 
 ---
 
-### No. 19: 个人资料 / 头像 - 电影感热带雨林生存肖像
+### No. 18: 个人资料 / 头像 - 电影感热带雨林生存肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1514,6 +1474,58 @@ ar 9:16 4K
 - **多语言:** en
 
 **[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?id=32106)**
+
+---
+
+### No. 19: 个人资料 / 头像 - 皇家蓝缎面礼服镜面自拍人像
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+一份用于生成高质量智能手机镜面自拍人像的综合提示词，展示了一位身着饰有羽毛边饰的优雅皇家蓝缎面礼服的女性，置身于奢华的室内环境中。
+
+#### 📝 提示词
+
+```
+一位皮肤白皙、五官精致自然、留着长 {argument name="hair color" default="深棕色"} 头发的年轻女性，发型梳成随意的马尾辫。几缕发丝自然地垂落在脸颊旁，使发型看起来轻松且不失随性。她表情平静沉稳，带着淡淡的中性微笑，正看向智能手机屏幕进行镜面自拍。她的姿势随意而自信，一只手拿着智能手机对着镜子，另一只手轻松地比出剪刀手。她穿着一件优雅的 {argument name="dress color" default="皇家蓝"} 缎面吊带裙，领口采用柔和的垂坠设计，修身的剪裁勾勒出自然的布料褶皱和逼真的缎面光泽。裙摆处饰有装饰性的蓝色羽毛边，增添了质感和迷人的晚装时尚美感。她挎着一个结构感十足的 {argument name="handbag color" default="深蓝色"} 手提包，配有长金链肩带。她的配饰包括精致的叠戴项链、纤细的金手镯和几枚低调的戒指。整体造型保持精致、高级且有品位。场景设定在一个奢华的现代室内空间，一面巨大的全身镜周围环绕着带有自然纹理的深色大理石板。反射面营造出空间深度和高端氛围。温暖的室内环境光从正面和侧面柔和地照亮主体，在缎面布料、自然肤色和镜面反射中产生柔和的高光。保持逼真的阴影和可信的反射表面。将画面构图为高质量的智能手机镜面自拍，手机自然地出现在前景中。使用真实的智能手机视角、准确的镜面反射、自然的解剖结构和比例、细节丰富的双手和手指、逼真的发丝以及精细渲染的衣物纹理。采用相当于 85mm 镜头的肖像风格摄影美学，柔和的漫射室内光，电影级色彩分级，丰富但自然的蓝色调，温暖的中性肤色，适度的背景虚化，高动态范围，逼真的反射，清晰的主体细节，照片级渲染，高分辨率，精致的编辑生活方式摄影，高级晚宴氛围。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1787293541262_dgxw87_HQI-0OvWoAAPVXp.jpg" width="600" alt="个人资料 / 头像 - 皇家蓝缎面礼服镜面自拍人像 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1787293541411_b8wxz5_HQI-16CWwAAkTwO.jpg" width="600" alt="个人资料 / 头像 - 皇家蓝缎面礼服镜面自拍人像 - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1787293541565_sr5nbj_HQI-2_DWsAA97xC.jpg" width="600" alt="个人资料 / 头像 - 皇家蓝缎面礼服镜面自拍人像 - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1787293542363_4b790j_HQI-4J6XsAADwhT.jpg" width="600" alt="个人资料 / 头像 - 皇家蓝缎面礼服镜面自拍人像 - Image 4">
+</div>
+
+#### 📌 详情
+
+- **作者:** [J⭕DIE](https://x.com/Jodie_Noraa)
+- **来源:** [Twitter Post](https://x.com/Jodie_Noraa/status/2090302329530581268)
+- **发布时间:** 2026年8月20日
+- **多语言:** en
+
+**[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?id=32097)**
 
 ---
 
@@ -6117,7 +6129,7 @@ ar 9:16 High
 
 <div align="center">
 
-### 🎯 15218 更多提示词未在此显示
+### 🎯 15217 更多提示词未在此显示
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -6180,6 +6192,6 @@ The gallery features:
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-08-24T08:12:41.943Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-08-24T12:04:59.421Z</sub>
 
 </div>

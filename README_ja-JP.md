@@ -143,9 +143,9 @@ Raycast で使用すると、引数を動的に置き換えて迅速に反復で
 
 | 指標 | 数 |
 |--------|-------|
-| 📝 プロンプト総数 | **15338** |
+| 📝 プロンプト総数 | **15337** |
 | ⭐ おすすめ | **9** |
-| 🔄 最終更新 | **2026年8月24日月曜日 8:12:49 UTC** |
+| 🔄 最終更新 | **2026年8月24日月曜日 12:05:06 UTC** |
 
 </div>
 
@@ -756,47 +756,7 @@ Grok からの検索結果
 
 ---
 
-### No. 3: プロフィール / アバター - 幻想的な夜の自撮りポートレート
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 説明
-
-プラチナブロンドの髪を持つ女性の、ムードのある低画質な夜の自撮り画像を生成するための詳細なプロンプト。映画のようなライティングとリアルな肌の質感が特徴です。
-
-#### 📝 プロンプト
-
-```
-超クローズアップ、詳細な描写、{argument name="style" default="低画質な夜の自撮り"}。9:16 の縦長のアスペクト比で、画面全体を {argument name="subject" default="20 代前半の若い女性"} の輝く存在感が支配しています。彼女の顔立ちは、北欧の霜を思わせる幻想的な対称性と陶器のような気品に満ちています。彼女の顔は、長く流れるような {argument name="hair color" default="プラチナブロンドの髪"} に縁取られており、横から差し込む温かみのある黄金色の光を捉え、夜の漆黒の闇の中で繊細な後れ毛が光の輪のように揺らめいています。猫のように少し吊り上がった深く魅力的な瞳は、柔らかなウィングラインのアイライナーと目頭のわずかな輝きによって強調され、静かで惹きつけられるような深みを持って真っ直ぐに見つめています。肌は欠点のない輝きを放ち、高くエレガントな頬骨と整った鼻筋を際立たせるソフトフォーカスな完璧さを備えています。ダスティローズの色合いで自然に紅潮したふっくらとした唇は、スーパーモデルのような魅力を引き立てる、柔らかく謎めいた表情を浮かべています。彼女は白いトップスの上にヘザーグレーのジップアップパーカーを重ね着しており、ジッパーの金属的な歯が光を反射し、髪や肌の柔らかさと触覚的なコントラストを生み出しています。彼女の体つきはしなやかで繊細に見え、この親密なクローズアップの中でもフレームを支配する自然な気品を漂わせています。右側に配置された光源が、彼女の顔立ちに穏やかな暖色のグラデーションを落とす一方で、左側を柔らかな映画のような影に包み込み、静寂に包まれた夜の美しさを際立たせています。
-```
-
-#### 🖼️ 生成画像
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1787552792126_ucj2jn_HQZll55WwAAEZOO.png" width="600" alt="プロフィール / アバター - 幻想的な夜の自撮りポートレート - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1787552793659_scsv9v_HQZlnMvWoAADfHs.png" width="600" alt="プロフィール / アバター - 幻想的な夜の自撮りポートレート - Image 2">
-</div>
-
-#### 📌 詳細
-
-- **作者:** [alex](https://x.com/pixclipper)
-- **ソース:** [Twitter Post](https://x.com/pixclipper/status/2091470837991796819)
-- **公開日:** 2026年8月23日
-- **言語:** en
-
-**[👉 今すぐ試す →](https://youmind.com/ja-JP/nano-banana-pro-prompts?id=32412)**
-
----
-
-### No. 4: プロフィール / アバター - バレイヤージュヘアのゴールデンアワーポートレート
+### No. 3: プロフィール / アバター - バレイヤージュヘアのゴールデンアワーポートレート
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -848,7 +808,7 @@ Grok からの検索結果
 
 ---
 
-### No. 5: プロフィール / アバター - 水玉模様の衣装を着たミラーセルフィー
+### No. 4: プロフィール / アバター - 水玉模様の衣装を着たミラーセルフィー
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -900,7 +860,7 @@ Grok からの検索結果
 
 ---
 
-### No. 6: プロフィール / アバター - インドネシアのスカウト制服を着たリアルな自撮り
+### No. 5: プロフィール / アバター - インドネシアのスカウト制服を着たリアルな自撮り
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -952,7 +912,7 @@ Grok からの検索結果
 
 ---
 
-### No. 7: プロフィール / アバター - シネマティックな男性のスタジオポートレート
+### No. 6: プロフィール / アバター - シネマティックな男性のスタジオポートレート
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -986,7 +946,7 @@ Grok からの検索結果
 
 ---
 
-### No. 8: プロフィール / アバター - 赤いセーターを着たフェスティブなファッションポートレート
+### No. 7: プロフィール / アバター - 赤いセーターを着たフェスティブなファッションポートレート
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1020,7 +980,7 @@ Grok からの検索結果
 
 ---
 
-### No. 9: プロフィール / アバター - ドラマチックなモノクロスタジオポートレート
+### No. 8: プロフィール / アバター - ドラマチックなモノクロスタジオポートレート
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1054,7 +1014,7 @@ Grok からの検索結果
 
 ---
 
-### No. 10: プロフィール / アバター - カジュアルなヴィンテージバンの自撮り風画像
+### No. 9: プロフィール / アバター - カジュアルなヴィンテージバンの自撮り風画像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1112,7 +1072,7 @@ ar 9:16
 
 ---
 
-### No. 11: プロフィール / アバター - 人物の同一性を保持した屋外ダイニングシーン
+### No. 10: プロフィール / アバター - 人物の同一性を保持した屋外ダイニングシーン
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1146,7 +1106,7 @@ ar 9:16
 
 ---
 
-### No. 12: プロフィール / アバター - アスレチックジャージのポートレート
+### No. 11: プロフィール / アバター - アスレチックジャージのポートレート
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1206,7 +1166,7 @@ ar 9:16 4K
 
 ---
 
-### No. 13: プロフィール / アバター - 超リアルなヨットでの夕暮れポートレート
+### No. 12: プロフィール / アバター - 超リアルなヨットでの夕暮れポートレート
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1246,7 +1206,7 @@ ar 9:16 4K
 
 ---
 
-### No. 14: プロフィール / アバター - ダイヤモンドとグローブを纏った洗練されたポートレート
+### No. 13: プロフィール / アバター - ダイヤモンドとグローブを纏った洗練されたポートレート
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1280,7 +1240,7 @@ ar 9:16 4K
 
 ---
 
-### No. 15: プロフィール / アバター - カッパーレッドヘアの窓辺ポートレート
+### No. 14: プロフィール / アバター - カッパーレッドヘアの窓辺ポートレート
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1326,7 +1286,7 @@ ar 9:16 4K
 
 ---
 
-### No. 16: プロフィール / アバター - カジュアルなヒジャブの自撮りポートレート
+### No. 15: プロフィール / アバター - カジュアルなヒジャブの自撮りポートレート
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1378,7 +1338,7 @@ ar 9:16 4K
 
 ---
 
-### No. 17: プロフィール / アバター - Madison Beer による Boa Hancock コスプレ
+### No. 16: プロフィール / アバター - Madison Beer による Boa Hancock コスプレ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1417,7 +1377,7 @@ Madison Beer がキャラクターの Boa Hancock に扮したフォトリアル
 
 ---
 
-### No. 18: プロフィール / アバター - 超高精細なシネマティック・スプリングポートレート
+### No. 17: プロフィール / アバター - 超高精細なシネマティック・スプリングポートレート
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1487,7 +1447,7 @@ Madison Beer がキャラクターの Boa Hancock に扮したフォトリアル
 
 ---
 
-### No. 19: プロフィール / アバター - 熱帯雨林でのサバイバルをテーマにしたシネマティックなポートレート
+### No. 18: プロフィール / アバター - 熱帯雨林でのサバイバルをテーマにしたシネマティックなポートレート
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1524,6 +1484,58 @@ Madison Beer がキャラクターの Boa Hancock に扮したフォトリアル
 - **言語:** en
 
 **[👉 今すぐ試す →](https://youmind.com/ja-JP/nano-banana-pro-prompts?id=32106)**
+
+---
+
+### No. 19: プロフィール / アバター - ロイヤルブルーのサテンドレスを着たミラーセルフィー
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 説明
+
+高級感のあるインテリアの中で、ロイヤルブルーのフェザートリム付きサテンドレスを纏った女性を写した、高品質なスマートフォンによるミラーセルフィー用プロンプト。
+
+#### 📝 プロンプト
+
+```
+色白で繊細な自然な顔立ちの若い女性。{argument name="hair color" default="ダークブラウン"}の長い髪をルーズなポニーテールにまとめている。顔周りに数本の柔らかい毛束が自然に落ちており、リラックスしたエフォートレスなヘアスタイルを演出。穏やかで落ち着いた表情で、かすかに微笑みながら、鏡越しにスマートフォンの画面を見つめて自撮りをしている。ポーズはカジュアルかつ自信に満ちており、片手で鏡の前にスマートフォンを持ち、もう片方の手はリラックスしたピースサインをしている。着用しているのは、細いショルダーストラップと柔らかいドレープのネックラインが特徴的な、エレガントな{argument name="dress color" default="ロイヤルブルー"}のサテンドレス。体にフィットしたシルエットで、自然な布の折り目やリアルなサテンの光沢が表現されている。裾には装飾的な青いフェザー（羽毛）のトリムがあしらわれ、質感と華やかなイブニングファッションの美学を添えている。長いゴールドチェーンのストラップが付いた、構築的な{argument name="handbag color" default="ダークブルー"}のハンドバッグを携えている。アクセサリーは、繊細なレイヤードネックレス、細身のゴールドブレスレット、控えめな指輪をいくつか着用。全体的に洗練された上品でセンスの良いスタイリングを維持すること。舞台は、繊細な天然の石目模様が入ったダークマーブルのパネルに囲まれた、大型の姿見があるモダンで豪華なインテリア。反射面が奥行きと高級感を演出している。温かみのあるアンビエントな室内照明が被写体を正面と側面から柔らかく照らし、サテン生地に優しいハイライトを当て、自然な肌の色合いと鏡への繊細な映り込みを生み出している。リアルな影と説得力のある反射面を維持すること。スマートフォンが自然に前景に見える、高品質なミラーセルフィーとして構図を構成すること。リアルなスマートフォンのパースペクティブ、正確な鏡の反射、自然な解剖学的構造とプロポーション、詳細な手と指、リアルな髪の毛、精巧に描かれた衣服の質感を使用すること。85mm レンズ相当のポートレートスタイルカメラの美学、柔らかく拡散された室内照明、シネマティックなカラーグレーディング、リッチでありながら自然なブルーの色調、温かみのあるニュートラルな肌の色、適度な背景の分離、高ダイナミックレンジ、リアルな反射、鮮明な被写体のディテール、フォトリアルなレンダリング、高解像度、洗練されたエディトリアル・ライフスタイル写真、上品なイブニングの雰囲気を表現すること。
+```
+
+#### 🖼️ 生成画像
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1787293541262_dgxw87_HQI-0OvWoAAPVXp.jpg" width="600" alt="プロフィール / アバター - ロイヤルブルーのサテンドレスを着たミラーセルフィー - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1787293541411_b8wxz5_HQI-16CWwAAkTwO.jpg" width="600" alt="プロフィール / アバター - ロイヤルブルーのサテンドレスを着たミラーセルフィー - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1787293541565_sr5nbj_HQI-2_DWsAA97xC.jpg" width="600" alt="プロフィール / アバター - ロイヤルブルーのサテンドレスを着たミラーセルフィー - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1787293542363_4b790j_HQI-4J6XsAADwhT.jpg" width="600" alt="プロフィール / アバター - ロイヤルブルーのサテンドレスを着たミラーセルフィー - Image 4">
+</div>
+
+#### 📌 詳細
+
+- **作者:** [J⭕DIE](https://x.com/Jodie_Noraa)
+- **ソース:** [Twitter Post](https://x.com/Jodie_Noraa/status/2090302329530581268)
+- **公開日:** 2026年8月20日
+- **言語:** en
+
+**[👉 今すぐ試す →](https://youmind.com/ja-JP/nano-banana-pro-prompts?id=32097)**
 
 ---
 
@@ -6149,7 +6161,7 @@ Sydney Sweeney がパープルにライトアップされた人間工学に基�
 
 <div align="center">
 
-### 🎯 15218 さらに多くのプロンプトがあります
+### 🎯 15217 さらに多くのプロンプトがあります
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -6212,6 +6224,6 @@ The gallery features:
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 この README は自動生成されています。最終更新： 2026-08-24T08:12:49.201Z</sub>
+<sub>🤖 この README は自動生成されています。最終更新： 2026-08-24T12:05:06.222Z</sub>
 
 </div>

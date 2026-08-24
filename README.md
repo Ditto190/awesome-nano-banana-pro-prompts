@@ -143,9 +143,9 @@ When used in Raycast, you can dynamically replace the arguments for quick iterat
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **15338** |
+| 📝 Total Prompts | **15337** |
 | ⭐ Featured | **9** |
-| 🔄 Last Updated | **Monday, August 24, 2026 at 8:12:38 AM UTC** |
+| 🔄 Last Updated | **Monday, August 24, 2026 at 12:04:55 PM UTC** |
 
 </div>
 
@@ -752,47 +752,7 @@ A photorealistic vertical portrait of {argument name="subject" default="a young 
 
 ---
 
-### No. 3: Profile / Avatar - Ethereal Night Selfie Portrait
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Description
-
-A highly detailed prompt for generating a moody, low-quality night selfie of a woman with platinum blonde hair, featuring cinematic lighting and realistic skin textures.
-
-#### 📝 Prompt
-
-```
-Super close up, extra details, {argument name="style" default="low quality night selfie"}. In a vertical 9:16 reverie, the canvas is dominated by the luminous presence of a {argument name="subject" default="young woman"} in her early twenties, her features a study in ethereal symmetry and porcelain grace characteristic of Northern European frost. Her face is framed by a cascading veil of long, {argument name="hair color" default="platinum blonde hair"} that catches a warm, golden light from the side, creating a halo of delicate, stray wisps that dance against the deep, obsidian void of the night. Her eyes, deep and captivating with a subtle feline tilt, are accentuated by soft, winged eyeliner and a hint of shimmer at the inner corners, gazing forward with a tranquil, mesmerizing depth. The skin of her face is flawless and radiant, possessing a soft-focus perfection that highlights high, elegant cheekbones and a straight, refined nose. Her lips, full and naturally flushed with a dusty rose hue, are set in a soft, enigmatic expression that enhances her supermodel-like allure. She is dressed in a simple white top layered under a heather gray zip-up hoodie, the metallic teeth of the zipper catching the light and adding a tactile contrast to the softness of her hair and skin. Her build appears lithe and delicate, posed with a natural poise that commands the frame even in this intimate close-up. The light source, positioned to her right, casts a gentle gradient of warmth across her features while leaving the left side in a soft, cinematic shadow, rooting the composition in a moment of quiet, nocturnal beauty.
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1787552792126_ucj2jn_HQZll55WwAAEZOO.png" width="600" alt="Profile / Avatar - Ethereal Night Selfie Portrait - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1787552793659_scsv9v_HQZlnMvWoAADfHs.png" width="600" alt="Profile / Avatar - Ethereal Night Selfie Portrait - Image 2">
-</div>
-
-#### 📌 Details
-
-- **Author:** [alex](https://x.com/pixclipper)
-- **Source:** [Twitter Post](https://x.com/pixclipper/status/2091470837991796819)
-- **Published:** August 23, 2026
-- **Languages:** en
-
-**[👉 Try it now →](https://youmind.com/en-US/nano-banana-pro-prompts?id=32412)**
-
----
-
-### No. 4: Profile / Avatar - Balayage Hair Golden Hour Portrait
+### No. 3: Profile / Avatar - Balayage Hair Golden Hour Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -844,7 +804,7 @@ Close-up portrait of {argument name="subject" default="a beautiful young Southea
 
 ---
 
-### No. 5: Profile / Avatar - Polka Dot Outfit Mirror Selfie
+### No. 4: Profile / Avatar - Polka Dot Outfit Mirror Selfie
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -890,7 +850,7 @@ Create a photorealistic lifestyle mirror portrait of {argument name="subject" de
 
 ---
 
-### No. 6: Profile / Avatar - Indonesian Scout Uniform Realistic Selfie
+### No. 5: Profile / Avatar - Indonesian Scout Uniform Realistic Selfie
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -942,7 +902,7 @@ A realistic selfie of a {argument name="subject ethnicity" default="young Southe
 
 ---
 
-### No. 7: Profile / Avatar - Cinematic Male Studio Portrait
+### No. 6: Profile / Avatar - Cinematic Male Studio Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -976,7 +936,7 @@ A dramatic black-and-white studio portrait of a {argument name="subject descript
 
 ---
 
-### No. 8: Profile / Avatar - Woman in Festive Red Sweater Portrait
+### No. 7: Profile / Avatar - Woman in Festive Red Sweater Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1010,7 +970,7 @@ Stylish young woman with elegant makeup standing confidently in front of a {argu
 
 ---
 
-### No. 9: Profile / Avatar - Dramatic Monochrome Studio Portrait
+### No. 8: Profile / Avatar - Dramatic Monochrome Studio Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1044,7 +1004,7 @@ A dramatic black-and-white studio portrait of a {argument name="subject" default
 
 ---
 
-### No. 10: Profile / Avatar - East Asian Woman Realistic Selfie
+### No. 9: Profile / Avatar - East Asian Woman Realistic Selfie
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1096,7 +1056,7 @@ A realistic close-up selfie of a {argument name="subject" default="young East As
 
 ---
 
-### No. 11: Profile / Avatar - Outdoor Night Dining Identity Preservation
+### No. 10: Profile / Avatar - Outdoor Night Dining Identity Preservation
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1130,7 +1090,7 @@ Use the uploaded image as the only facial reference and preserve 100% facial ide
 
 ---
 
-### No. 12: Profile / Avatar - Athletic Jersey Portrait
+### No. 11: Profile / Avatar - Athletic Jersey Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1190,7 +1150,7 @@ The background is an indoor room: on the left, a floral curtain with pink roses 
 
 ---
 
-### No. 13: Profile / Avatar - Ultra-Realistic Yacht Sunset Portrait
+### No. 12: Profile / Avatar - Ultra-Realistic Yacht Sunset Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1230,7 +1190,7 @@ Ultra-realistic cinematic portrait of a me(use my image for refrence with accura
 
 ---
 
-### No. 14: Profile / Avatar - Sophisticated Portrait with Diamonds and Gloves
+### No. 13: Profile / Avatar - Sophisticated Portrait with Diamonds and Gloves
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1264,7 +1224,7 @@ A striking photorealistic portrait features a {argument name="subject" default="
 
 ---
 
-### No. 15: Profile / Avatar - Copper-Red Hair Window Portrait
+### No. 14: Profile / Avatar - Copper-Red Hair Window Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1310,7 +1270,7 @@ Create a photorealistic portrait of a young woman with fair skin and a warm natu
 
 ---
 
-### No. 16: Profile / Avatar - Casual Hijab Selfie Portrait
+### No. 15: Profile / Avatar - Casual Hijab Selfie Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1362,7 +1322,7 @@ A close-up selfie of a young {argument name="ethnicity" default="Southeast Asian
 
 ---
 
-### No. 17: Profile / Avatar - Madison Beer Boa Hancock Cosplay
+### No. 16: Profile / Avatar - Madison Beer Boa Hancock Cosplay
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1401,7 +1361,7 @@ A detailed prompt for generating a photorealistic cosplay portrait of Madison Be
 
 ---
 
-### No. 18: Profile / Avatar - Ultra-Detailed Cinematic Spring Portrait
+### No. 17: Profile / Avatar - Ultra-Detailed Cinematic Spring Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1471,7 +1431,7 @@ Warm natural sunlight from behind and slightly above, creating soft rim light on
 
 ---
 
-### No. 19: Profile / Avatar - Cinematic Tropical Forest Survival Portrait
+### No. 18: Profile / Avatar - Cinematic Tropical Forest Survival Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1508,6 +1468,58 @@ Photorealistic cinematic photography, realistic skin and clothing textures, natu
 - **Languages:** en
 
 **[👉 Try it now →](https://youmind.com/en-US/nano-banana-pro-prompts?id=32106)**
+
+---
+
+### No. 19: Profile / Avatar - Royal Blue Satin Dress Mirror Portrait
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Description
+
+A comprehensive prompt for a high-quality smartphone mirror portrait featuring a woman in an elegant royal-blue satin dress with feather trim within a luxury interior.
+
+#### 📝 Prompt
+
+```
+A young woman with fair skin, delicate natural facial features, and long {argument name="hair color" default="dark brown"} hair styled in a loose ponytail. Several soft strands fall naturally around her face, giving her hairstyle a relaxed, effortless appearance. She has a calm, composed expression with a subtle neutral smile and is looking toward the smartphone screen while taking a mirror photograph. Her pose is casual and confident, with one hand holding a smartphone in front of the mirror and the other hand raised in a relaxed peace-sign gesture. She is wearing an elegant {argument name="dress color" default="royal-blue"} satin dress with thin shoulder straps, a softly draped neckline, and a fitted silhouette with natural fabric folds and realistic satin reflections. The lower portion of the outfit features decorative blue feather-like trim, adding texture and a glamorous evening-fashion aesthetic. She carries a structured {argument name="handbag color" default="dark-blue"} handbag with a long gold chain strap. Her accessories include delicate layered necklaces, slim gold bracelets, and a few understated rings. Keep the overall styling polished, sophisticated, and tasteful. The scene takes place in a luxurious modern interior with a large full-length mirror surrounded by dark marble panels featuring subtle natural veining. The reflective surfaces create depth and an upscale atmosphere. Warm ambient interior lighting illuminates the subject softly from the front and sides, producing gentle highlights on the satin fabric, natural skin tones, and subtle reflections in the mirror. Maintain realistic shadows and believable reflective surfaces. Compose the image as a high-quality smartphone mirror portrait with the phone naturally visible in the foreground. Use realistic smartphone perspective, accurate mirror reflection, natural anatomy and proportions, detailed hands and fingers, realistic hair strands, and finely rendered clothing textures. Shot with a portrait-style camera aesthetic equivalent to an 85mm lens, soft diffused indoor lighting, cinematic color grading, rich but natural blue tones, warm neutral skin tones, moderate background separation, high dynamic range, realistic reflections, crisp subject detail, photorealistic rendering, high resolution, polished editorial lifestyle photography, sophisticated evening atmosphere.
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1787293541262_dgxw87_HQI-0OvWoAAPVXp.jpg" width="600" alt="Profile / Avatar - Royal Blue Satin Dress Mirror Portrait - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1787293541411_b8wxz5_HQI-16CWwAAkTwO.jpg" width="600" alt="Profile / Avatar - Royal Blue Satin Dress Mirror Portrait - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1787293541565_sr5nbj_HQI-2_DWsAA97xC.jpg" width="600" alt="Profile / Avatar - Royal Blue Satin Dress Mirror Portrait - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1787293542363_4b790j_HQI-4J6XsAADwhT.jpg" width="600" alt="Profile / Avatar - Royal Blue Satin Dress Mirror Portrait - Image 4">
+</div>
+
+#### 📌 Details
+
+- **Author:** [J⭕DIE](https://x.com/Jodie_Noraa)
+- **Source:** [Twitter Post](https://x.com/Jodie_Noraa/status/2090302329530581268)
+- **Published:** August 20, 2026
+- **Languages:** en
+
+**[👉 Try it now →](https://youmind.com/en-US/nano-banana-pro-prompts?id=32097)**
 
 ---
 
@@ -6022,7 +6034,7 @@ A sleek high-performance frosted glass turbine workhorse engine with anodized al
 
 <div align="center">
 
-### 🎯 15218 more prompts not shown here
+### 🎯 15217 more prompts not shown here
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -6085,6 +6097,6 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-08-24T08:12:38.498Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-08-24T12:04:55.893Z</sub>
 
 </div>

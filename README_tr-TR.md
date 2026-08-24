@@ -143,9 +143,9 @@ Raycast'te kullanıldığında, hızlı yinelemeler için argümanları dinamik 
 
 | Metrik | Sayı |
 |--------|-------|
-| 📝 Toplam İstem | **15338** |
+| 📝 Toplam İstem | **15337** |
 | ⭐ Öne Çıkan | **9** |
-| 🔄 Son Güncelleme | **24 Ağustos 2026 Pazartesi 08:13:38 UTC** |
+| 🔄 Son Güncelleme | **24 Ağustos 2026 Pazartesi 12:05:59 UTC** |
 
 </div>
 
@@ -752,47 +752,7 @@ Bej rengi bir başörtüsü ve siyah bir üst giymiş, mat gri bir duvarın ön�
 
 ---
 
-### No. 3: Profil / Avatar - Ethereal Gece Selfie Portresi
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Açıklama
-
-Platin sarısı saçlı bir kadının, sinematik aydınlatma ve gerçekçi cilt dokularına sahip, karamsar, düşük kaliteli gece selfie'sini oluşturmak için oldukça detaylı bir komut.
-
-#### 📝 İstem
-
-```
-Süper yakın çekim, ekstra detaylar, {argument name="style" default="düşük kaliteli gece selfie'si"}. 9:16 dikey bir hayal dünyasında, tuval, yirmili yaşlarının başındaki bir {argument name="subject" default="genç kadın"}ın aydınlık varlığıyla domine ediliyor; yüz hatları, Kuzey Avrupa ayazının karakteristik özelliği olan ruhani bir simetri ve porselen zarafetiyle bir çalışma sunuyor. Yüzü, yan taraftan gelen sıcak, altın rengi ışığı yakalayan uzun, {argument name="hair color" default="platin sarısı saç"} şelalesiyle çevrelenmiş; bu ışık, gecenin derin, obsidyen boşluğuna karşı dans eden narin, dağınık saç tellerinden bir hale yaratıyor. Hafif çekik, kedi gözü tarzıyla derin ve büyüleyici gözleri, yumuşak, kuyruklu eyeliner ve iç köşelerdeki hafif ışıltıyla vurgulanmış; sakin, hipnotize edici bir derinlikle ileriye bakıyor. Yüzünün cildi kusursuz ve parlak; yüksek, zarif elmacık kemiklerini ve düz, rafine burnunu öne çıkaran yumuşak odaklı bir mükemmelliğe sahip. Dolgun ve doğal olarak toz pembe tonunda hafif kızarık dudakları, süper model benzeri cazibesini artıran yumuşak, gizemli bir ifadeyle duruyor. Üzerinde, kırçıllı gri fermuarlı bir kapüşonlunun altına giyilmiş basit beyaz bir üst var; fermuarın metal dişleri ışığı yakalıyor ve saçının ve cildinin yumuşaklığıyla dokunsal bir kontrast oluşturuyor. Yapısı ince ve narin görünüyor; bu yakın çekimde bile kadrajı yöneten doğal bir duruşla poz veriyor. Sağ tarafına yerleştirilen ışık kaynağı, yüz hatlarına hafif bir sıcaklık geçişi yayarken sol tarafı yumuşak, sinematik bir gölgede bırakıyor ve kompozisyonu sessiz, geceye özgü bir güzellik anına sabitliyor.
-```
-
-#### 🖼️ Oluşturulan Görseller
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1787552792126_ucj2jn_HQZll55WwAAEZOO.png" width="600" alt="Profil / Avatar - Ethereal Gece Selfie Portresi - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1787552793659_scsv9v_HQZlnMvWoAADfHs.png" width="600" alt="Profil / Avatar - Ethereal Gece Selfie Portresi - Image 2">
-</div>
-
-#### 📌 Detaylar
-
-- **Yazar:** [alex](https://x.com/pixclipper)
-- **Kaynak:** [Twitter Post](https://x.com/pixclipper/status/2091470837991796819)
-- **Yayınlandı:** 23 Ağustos 2026
-- **Diller:** en
-
-**[👉 Şimdi dene →](https://youmind.com/tr-TR/nano-banana-pro-prompts?id=32412)**
-
----
-
-### No. 4: Profil / Avatar - Balayage Saçlı Altın Saat Portresi
+### No. 3: Profil / Avatar - Balayage Saçlı Altın Saat Portresi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -844,7 +804,7 @@ Yakın plan portre: {argument name="subject" default="güzel genç bir Güneydo�
 
 ---
 
-### No. 5: Profil / Avatar - Puantiyeli Kıyafetle Ayna Selfiesi
+### No. 4: Profil / Avatar - Puantiyeli Kıyafetle Ayna Selfiesi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -890,7 +850,7 @@ Modern bir ev stüdyosu ortamında, mavi ve siyah puantiyeli bir kıyafet giyen 
 
 ---
 
-### No. 6: Profil / Avatar - Endonezya İzci Üniforması Gerçekçi Selfie
+### No. 5: Profil / Avatar - Endonezya İzci Üniforması Gerçekçi Selfie
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -942,7 +902,7 @@ Açık tenli, yumuşak yüz hatlarına sahip ve sakin, hafif büzülmüş dudakl
 
 ---
 
-### No. 7: Profil / Avatar - Sinematik Erkek Stüdyo Portresi
+### No. 6: Profil / Avatar - Sinematik Erkek Stüdyo Portresi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -976,7 +936,7 @@ Genç bir erkek için yüksek kontrastlı aydınlatmaya ve profesyonel fotoğraf
 
 ---
 
-### No. 8: Profil / Avatar - Kırmızı Kazaklı Bayram Modası Portresi
+### No. 7: Profil / Avatar - Kırmızı Kazaklı Bayram Modası Portresi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1010,7 +970,7 @@ Zarif makyajlı, şık genç kadın, dekoratif cam panelli koyu renkli ahşap bi
 
 ---
 
-### No. 9: Profil / Avatar - Dramatik Monokrom Stüdyo Portresi
+### No. 8: Profil / Avatar - Dramatik Monokrom Stüdyo Portresi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1044,7 +1004,7 @@ Dramatik bir siyah-beyaz stüdyo portresi; {argument name="subject" default="gen
 
 ---
 
-### No. 10: Profil / Avatar - Gündelik Vintage Minibüs Selfie'si
+### No. 9: Profil / Avatar - Gündelik Vintage Minibüs Selfie'si
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1102,7 +1062,7 @@ Arka planda, yan tarafında kısmen turuncu-mavi bir logo/çıkartma bulunan {ar
 
 ---
 
-### No. 11: Profil / Avatar - Kimliği Koruyan Dış Mekan Yemek Sahnesi
+### No. 10: Profil / Avatar - Kimliği Koruyan Dış Mekan Yemek Sahnesi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1136,7 +1096,7 @@ Yüklenen görseli tek yüz referansı olarak kullanın ve yüz kimliğini, saç
 
 ---
 
-### No. 12: Profil / Avatar - Atletik Forma Portresi
+### No. 11: Profil / Avatar - Atletik Forma Portresi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1196,7 +1156,7 @@ Arka plan bir iç mekan: solda, açık bej kumaş üzerine pembe güller ve yeş
 
 ---
 
-### No. 13: Profil / Avatar - Ultra Gerçekçi Yat Gün Batımı Portresi
+### No. 12: Profil / Avatar - Ultra Gerçekçi Yat Gün Batımı Portresi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1236,7 +1196,7 @@ Benim ultra gerçekçi sinematik portrem (yüz doğruluğu için referans olarak
 
 ---
 
-### No. 14: Profil / Avatar - Elmaslar ve Eldivenlerle Sofistike Portre
+### No. 13: Profil / Avatar - Elmaslar ve Eldivenlerle Sofistike Portre
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1270,7 +1230,7 @@ Sofistike bir hava yayan; {argument name="hair style" default="uzun, dalgalı, k
 
 ---
 
-### No. 15: Profil / Avatar - Bakır Kızılı Saçlı Pencere Önü Portresi
+### No. 14: Profil / Avatar - Bakır Kızılı Saçlı Pencere Önü Portresi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1316,7 +1276,7 @@ Açık tenli, sıcak ve doğal bir cilt tonuna, hafif çillere, açık renkli g�
 
 ---
 
-### No. 16: Profil / Avatar - Günlük Başörtülü Selfie Portresi
+### No. 15: Profil / Avatar - Günlük Başörtülü Selfie Portresi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1368,7 +1328,7 @@ Açık tenli, iri koyu kahverengi gözlü ve yumuşak yüz hatlarına sahip, sa�
 
 ---
 
-### No. 17: Profil / Avatar - Madison Beer Boa Hancock Cosplay
+### No. 16: Profil / Avatar - Madison Beer Boa Hancock Cosplay
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1407,7 +1367,7 @@ Madison Beer'in Boa Hancock karakteri olarak fotogerçekçi bir cosplay portresi
 
 ---
 
-### No. 18: Profil / Avatar - Ultra Detaylı Sinematik Bahar Portresi
+### No. 17: Profil / Avatar - Ultra Detaylı Sinematik Bahar Portresi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1477,7 +1437,7 @@ Arkadan ve hafif yukarıdan gelen sıcak doğal güneş ışığı; sarı saçla
 
 ---
 
-### No. 19: Profil / Avatar - Sinematik Tropikal Orman Hayatta Kalma Portresi
+### No. 18: Profil / Avatar - Sinematik Tropikal Orman Hayatta Kalma Portresi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1514,6 +1474,58 @@ Fotogerçekçi sinematik fotoğrafçılık, gerçekçi cilt ve kıyafet dokular�
 - **Diller:** en
 
 **[👉 Şimdi dene →](https://youmind.com/tr-TR/nano-banana-pro-prompts?id=32106)**
+
+---
+
+### No. 19: Profil / Avatar - Kraliyet Mavisi Saten Elbise Ayna Portresi
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Açıklama
+
+Lüks bir iç mekanda, tüy detaylı zarif kraliyet mavisi saten elbise giymiş bir kadının yer aldığı yüksek kaliteli akıllı telefon ayna portresi için kapsamlı bir komut.
+
+#### 📝 İstem
+
+```
+Açık tenli, zarif ve doğal yüz hatlarına sahip, {argument name="hair color" default="koyu kahverengi"} saçları gevşek bir at kuyruğu şeklinde toplanmış genç bir kadın. Saçından dökülen birkaç yumuşak tutam, yüzünün çevresinde doğal ve zahmetsiz bir görünüm oluşturuyor. Sakin ve kendinden emin bir ifadesi, hafif bir gülümsemesi var; ayna karşısında fotoğraf çekerken akıllı telefon ekranına bakıyor. Pozu rahat ve özgüvenli; bir eliyle aynanın önünde telefonu tutarken diğer eliyle rahat bir zafer işareti yapıyor. Üzerinde ince askılı, yumuşak dökümlü yakalı, vücuda oturan, doğal kumaş kıvrımlarına ve gerçekçi saten yansımalara sahip zarif bir {argument name="dress color" default="kraliyet mavisi"} saten elbise var. Kıyafetin alt kısmında, doku ve göz alıcı bir gece modası estetiği katan dekoratif mavi tüy benzeri süslemeler bulunuyor. Uzun altın zincir askılı, yapılı bir {argument name="handbag color" default="koyu mavi"} el çantası taşıyor. Aksesuarları arasında zarif katmanlı kolyeler, ince altın bilezikler ve birkaç sade yüzük yer alıyor. Genel tarzı şık, sofistike ve zevkli tutun. Sahne, ince doğal damarlara sahip koyu mermer panellerle çevrili, boydan boya büyük bir aynanın bulunduğu lüks ve modern bir iç mekanda geçiyor. Yansıtıcı yüzeyler derinlik ve üst düzey bir atmosfer yaratıyor. Sıcak ortam aydınlatması, özneyi önden ve yanlardan yumuşak bir şekilde aydınlatarak saten kumaş üzerinde nazik parlamalar, doğal cilt tonları ve aynada ince yansımalar oluşturuyor. Gerçekçi gölgeleri ve inandırıcı yansıtıcı yüzeyleri koruyun. Görseli, telefonun ön planda doğal bir şekilde göründüğü, yüksek kaliteli bir akıllı telefon ayna portresi olarak oluşturun. Gerçekçi akıllı telefon perspektifi, doğru ayna yansıması, doğal anatomi ve oranlar, detaylı eller ve parmaklar, gerçekçi saç telleri ve ince bir şekilde işlenmiş kıyafet dokuları kullanın. 85mm lense eşdeğer portre tarzı kamera estetiği, yumuşak dağıtılmış iç mekan aydınlatması, sinematik renk derecelendirmesi, zengin ama doğal mavi tonları, sıcak nötr cilt tonları, orta düzey arka plan ayrımı, yüksek dinamik aralık, gerçekçi yansımalar, net özne detayı, fotogerçekçi işleme, yüksek çözünürlük, şık editoryal yaşam tarzı fotoğrafçılığı ve sofistike bir gece atmosferi ile çekilmiştir.
+```
+
+#### 🖼️ Oluşturulan Görseller
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1787293541262_dgxw87_HQI-0OvWoAAPVXp.jpg" width="600" alt="Profil / Avatar - Kraliyet Mavisi Saten Elbise Ayna Portresi - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1787293541411_b8wxz5_HQI-16CWwAAkTwO.jpg" width="600" alt="Profil / Avatar - Kraliyet Mavisi Saten Elbise Ayna Portresi - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1787293541565_sr5nbj_HQI-2_DWsAA97xC.jpg" width="600" alt="Profil / Avatar - Kraliyet Mavisi Saten Elbise Ayna Portresi - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1787293542363_4b790j_HQI-4J6XsAADwhT.jpg" width="600" alt="Profil / Avatar - Kraliyet Mavisi Saten Elbise Ayna Portresi - Image 4">
+</div>
+
+#### 📌 Detaylar
+
+- **Yazar:** [J⭕DIE](https://x.com/Jodie_Noraa)
+- **Kaynak:** [Twitter Post](https://x.com/Jodie_Noraa/status/2090302329530581268)
+- **Yayınlandı:** 20 Ağustos 2026
+- **Diller:** en
+
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/nano-banana-pro-prompts?id=32097)**
 
 ---
 
@@ -6055,7 +6067,7 @@ Eloksallı alüminyum gövdeye ve katmanlı kırılmalı cam prizmalara sahip, �
 
 <div align="center">
 
-### 🎯 15218 burada gösterilmeyen daha fazla istem
+### 🎯 15217 burada gösterilmeyen daha fazla istem
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -6118,6 +6130,6 @@ Detaylı yönergeler için [CONTRIBUTING.md](docs/CONTRIBUTING.md) dosyasına ba
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-08-24T08:13:38.775Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-08-24T12:06:00.004Z</sub>
 
 </div>

@@ -143,9 +143,9 @@ by {argument name="author" default="Steve Jobs"}
 
 | Métrica | Cantidad |
 |--------|-------|
-| 📝 Total de prompts | **15338** |
+| 📝 Total de prompts | **15337** |
 | ⭐ Destacado | **9** |
-| 🔄 Última actualización | **lunes, 24 de agosto de 2026, 8:13:14 a.m. UTC** |
+| 🔄 Última actualización | **lunes, 24 de agosto de 2026, 12:05:35 p.m. UTC** |
 
 </div>
 
@@ -752,47 +752,7 @@ Un retrato vertical fotorrealista de {argument name="subject" default="una joven
 
 ---
 
-### No. 3: Perfil / Avatar - Retrato de selfie nocturna etérea
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Descripción
-
-Un prompt altamente detallado para generar una selfie nocturna de baja calidad y estilo melancólico de una mujer con cabello rubio platino, con iluminación cinematográfica y texturas de piel realistas.
-
-#### 📝 Prompt
-
-```
-Primer plano extremo, detalles adicionales, {argument name="style" default="selfie nocturna de baja calidad"}. En una ensoñación vertical de 9:16, el lienzo está dominado por la presencia luminosa de una {argument name="subject" default="mujer joven"} de poco más de veinte años, cuyos rasgos son un estudio de simetría etérea y gracia de porcelana característica de la escarcha del norte de Europa. Su rostro está enmarcado por una cascada de {argument name="hair color" default="cabello rubio platino"} largo que captura una luz cálida y dorada desde un costado, creando un halo de mechones delicados y sueltos que danzan contra el vacío profundo y obsidiana de la noche. Sus ojos, profundos y cautivadores con una sutil inclinación felina, están acentuados por un delineador suave con efecto alado y un toque de brillo en las esquinas internas, mirando hacia adelante con una profundidad tranquila y fascinante. La piel de su rostro es impecable y radiante, poseyendo una perfección de enfoque suave que resalta sus pómulos altos y elegantes y una nariz recta y refinada. Sus labios, carnosos y naturalmente sonrojados con un tono rosa polvoriento, se mantienen en una expresión suave y enigmática que realza su atractivo de supermodelo. Viste una blusa blanca sencilla debajo de una sudadera con capucha gris jaspeado; los dientes metálicos de la cremallera captan la luz y añaden un contraste táctil a la suavidad de su cabello y piel. Su complexión parece esbelta y delicada, posando con un porte natural que domina el encuadre incluso en este primer plano íntimo. La fuente de luz, posicionada a su derecha, proyecta un suave degradado de calidez sobre sus rasgos mientras deja el lado izquierdo en una sombra suave y cinematográfica, arraigando la composición en un momento de belleza nocturna y tranquila.
-```
-
-#### 🖼️ Imágenes generadas
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1787552792126_ucj2jn_HQZll55WwAAEZOO.png" width="600" alt="Perfil / Avatar - Retrato de selfie nocturna etérea - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1787552793659_scsv9v_HQZlnMvWoAADfHs.png" width="600" alt="Perfil / Avatar - Retrato de selfie nocturna etérea - Image 2">
-</div>
-
-#### 📌 Detalles
-
-- **Autor:** [alex](https://x.com/pixclipper)
-- **Fuente:** [Twitter Post](https://x.com/pixclipper/status/2091470837991796819)
-- **Publicado:** 23 de agosto de 2026
-- **Idiomas:** en
-
-**[👉 Pruébalo ahora →](https://youmind.com/es-419/nano-banana-pro-prompts?id=32412)**
-
----
-
-### No. 4: Perfil / Avatar - Retrato de cabello balayage en la hora dorada
+### No. 3: Perfil / Avatar - Retrato de cabello balayage en la hora dorada
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -844,7 +804,7 @@ Retrato en primer plano de {argument name="subject" default="una hermosa mujer j
 
 ---
 
-### No. 5: Perfil / Avatar - Selfie frente al espejo con atuendo de lunares
+### No. 4: Perfil / Avatar - Selfie frente al espejo con atuendo de lunares
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -890,7 +850,7 @@ Crea un retrato fotorrealista estilo de vida frente al espejo de {argument name=
 
 ---
 
-### No. 6: Perfil / Avatar - Selfie realista con uniforme de scout indonesio
+### No. 5: Perfil / Avatar - Selfie realista con uniforme de scout indonesio
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -942,7 +902,7 @@ Una selfie realista de una {argument name="subject ethnicity" default="joven del
 
 ---
 
-### No. 7: Perfil / Avatar - Retrato de estudio cinematográfico masculino
+### No. 6: Perfil / Avatar - Retrato de estudio cinematográfico masculino
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -976,7 +936,7 @@ Un retrato de estudio dramático en blanco y negro de un {argument name="subject
 
 ---
 
-### No. 8: Perfil / Avatar - Retrato de moda festiva con suéter rojo
+### No. 7: Perfil / Avatar - Retrato de moda festiva con suéter rojo
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1010,7 +970,7 @@ Mujer joven y elegante con maquillaje refinado, de pie con confianza frente a un
 
 ---
 
-### No. 9: Perfil / Avatar - Retrato de estudio dramático en monocromo
+### No. 8: Perfil / Avatar - Retrato de estudio dramático en monocromo
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1044,7 +1004,7 @@ Un retrato de estudio dramático en blanco y negro de un {argument name="subject
 
 ---
 
-### No. 10: Perfil / Avatar - Selfie casual con camioneta vintage
+### No. 9: Perfil / Avatar - Selfie casual con camioneta vintage
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1102,7 +1062,7 @@ El fondo muestra una {argument name="vehicle" default="camioneta o minibús de e
 
 ---
 
-### No. 11: Perfil / Avatar - Escena de cena al aire libre con preservación de identidad
+### No. 10: Perfil / Avatar - Escena de cena al aire libre con preservación de identidad
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1136,7 +1096,7 @@ Utiliza la imagen cargada como única referencia facial y preserva al 100% la id
 
 ---
 
-### No. 12: Perfil / Avatar - Retrato con camiseta deportiva
+### No. 11: Perfil / Avatar - Retrato con camiseta deportiva
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1196,7 +1156,7 @@ El fondo es una habitación interior: a la izquierda, una cortina floral con ros
 
 ---
 
-### No. 13: Perfil / Avatar - Retrato ultra realista en yate al atardecer
+### No. 12: Perfil / Avatar - Retrato ultra realista en yate al atardecer
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1236,7 +1196,7 @@ Retrato cinematográfico ultra realista de mí (usa mi imagen como referencia co
 
 ---
 
-### No. 14: Perfil / Avatar - Retrato sofisticado con diamantes y guantes
+### No. 13: Perfil / Avatar - Retrato sofisticado con diamantes y guantes
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1270,7 +1230,7 @@ Un impactante retrato fotorrealista presenta a una {argument name="subject" defa
 
 ---
 
-### No. 15: Perfil / Avatar - Retrato de mujer con cabello cobrizo junto a la ventana
+### No. 14: Perfil / Avatar - Retrato de mujer con cabello cobrizo junto a la ventana
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1316,7 +1276,7 @@ Crea un retrato fotorrealista de una mujer joven de piel clara y tez cálida y n
 
 ---
 
-### No. 16: Perfil / Avatar - Retrato selfie casual con hiyab
+### No. 15: Perfil / Avatar - Retrato selfie casual con hiyab
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1368,7 +1328,7 @@ Una selfie en primer plano de una mujer joven {argument name="ethnicity" default
 
 ---
 
-### No. 17: Perfil / Avatar - Cosplay de Boa Hancock por Madison Beer
+### No. 16: Perfil / Avatar - Cosplay de Boa Hancock por Madison Beer
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1407,7 +1367,7 @@ Un prompt detallado para generar un retrato de cosplay fotorrealista de Madison 
 
 ---
 
-### No. 18: Perfil / Avatar - Retrato cinematográfico de primavera ultra detallado
+### No. 17: Perfil / Avatar - Retrato cinematográfico de primavera ultra detallado
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1477,7 +1437,7 @@ Luz solar natural cálida desde atrás y ligeramente arriba, creando una suave l
 
 ---
 
-### No. 19: Perfil / Avatar - Retrato cinematográfico de supervivencia en bosque tropical
+### No. 18: Perfil / Avatar - Retrato cinematográfico de supervivencia en bosque tropical
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1514,6 +1474,58 @@ Fotografía cinematográfica fotorrealista, texturas realistas de piel y ropa, p
 - **Idiomas:** en
 
 **[👉 Pruébalo ahora →](https://youmind.com/es-419/nano-banana-pro-prompts?id=32106)**
+
+---
+
+### No. 19: Perfil / Avatar - Retrato en espejo con vestido de satén azul real
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Descripción
+
+Un prompt integral para un retrato en espejo de alta calidad tomado con smartphone, que muestra a una mujer con un elegante vestido de satén azul real con detalles de plumas en un interior de lujo.
+
+#### 📝 Prompt
+
+```
+Una mujer joven de piel clara, rasgos faciales naturales y delicados, y cabello {argument name="hair color" default="castaño oscuro"} largo peinado en una coleta suelta. Varios mechones suaves caen de forma natural alrededor de su rostro, dándole a su peinado un aspecto relajado y natural. Tiene una expresión tranquila y serena con una sutil sonrisa neutral, mirando hacia la pantalla del smartphone mientras se toma una fotografía en el espejo. Su pose es casual y segura, con una mano sosteniendo el smartphone frente al espejo y la otra levantada en un gesto relajado de signo de paz. Viste un elegante vestido de satén {argument name="dress color" default="azul real"} con tirantes finos, un escote suavemente drapeado y una silueta entallada con pliegues naturales en la tela y reflejos de satén realistas. La parte inferior del atuendo presenta un adorno decorativo similar a plumas azules, lo que añade textura y una estética glamurosa de moda nocturna. Lleva un bolso estructurado de color {argument name="handbag color" default="azul oscuro"} con una correa de cadena larga dorada. Sus accesorios incluyen collares delicados en capas, pulseras doradas delgadas y algunos anillos discretos. Mantén el estilo general pulido, sofisticado y elegante. La escena se desarrolla en un interior moderno y lujoso con un gran espejo de cuerpo entero rodeado de paneles de mármol oscuro con vetas naturales sutiles. Las superficies reflectantes crean profundidad y una atmósfera exclusiva. La iluminación ambiental cálida del interior ilumina al sujeto suavemente desde el frente y los costados, produciendo reflejos suaves en la tela de satén, tonos de piel naturales y reflejos sutiles en el espejo. Mantén sombras realistas y superficies reflectantes creíbles. Compón la imagen como un retrato en espejo de alta calidad tomado con smartphone, con el teléfono visible de forma natural en primer plano. Utiliza una perspectiva realista de smartphone, un reflejo preciso en el espejo, anatomía y proporciones naturales, manos y dedos detallados, mechones de cabello realistas y texturas de ropa finamente renderizadas. Capturado con una estética de cámara estilo retrato equivalente a un lente de 85 mm, iluminación interior suave y difusa, gradación de color cinematográfica, tonos azules ricos pero naturales, tonos de piel neutros y cálidos, separación moderada del fondo, alto rango dinámico, reflejos realistas, detalles nítidos del sujeto, renderizado fotorrealista, alta resolución, fotografía de estilo de vida editorial pulida, atmósfera nocturna sofisticada.
+```
+
+#### 🖼️ Imágenes generadas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1787293541262_dgxw87_HQI-0OvWoAAPVXp.jpg" width="600" alt="Perfil / Avatar - Retrato en espejo con vestido de satén azul real - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1787293541411_b8wxz5_HQI-16CWwAAkTwO.jpg" width="600" alt="Perfil / Avatar - Retrato en espejo con vestido de satén azul real - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1787293541565_sr5nbj_HQI-2_DWsAA97xC.jpg" width="600" alt="Perfil / Avatar - Retrato en espejo con vestido de satén azul real - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1787293542363_4b790j_HQI-4J6XsAADwhT.jpg" width="600" alt="Perfil / Avatar - Retrato en espejo con vestido de satén azul real - Image 4">
+</div>
+
+#### 📌 Detalles
+
+- **Autor:** [J⭕DIE](https://x.com/Jodie_Noraa)
+- **Fuente:** [Twitter Post](https://x.com/Jodie_Noraa/status/2090302329530581268)
+- **Publicado:** 20 de agosto de 2026
+- **Idiomas:** en
+
+**[👉 Pruébalo ahora →](https://youmind.com/es-419/nano-banana-pro-prompts?id=32097)**
 
 ---
 
@@ -6107,7 +6119,7 @@ Un elegante motor de turbina de vidrio esmerilado de alto rendimiento con carcas
 
 <div align="center">
 
-### 🎯 15218 prompts más no mostrados aquí
+### 🎯 15217 prompts más no mostrados aquí
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -6170,6 +6182,6 @@ Licenciado bajo [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Enviar un prompt](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Dar estrella a este repositorio](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-08-24T08:13:14.908Z</sub>
+<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-08-24T12:05:35.289Z</sub>
 
 </div>
