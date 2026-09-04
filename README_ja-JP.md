@@ -143,9 +143,9 @@ Raycast で使用すると、引数を動的に置き換えて迅速に反復で
 
 | 指標 | 数 |
 |--------|-------|
-| 📝 プロンプト総数 | **15509** |
+| 📝 プロンプト総数 | **15508** |
 | ⭐ おすすめ | **9** |
-| 🔄 最終更新 | **2026年9月4日金曜日 8:03:39 UTC** |
+| 🔄 最終更新 | **2026年9月4日金曜日 12:04:03 UTC** |
 
 </div>
 
@@ -722,41 +722,7 @@ Grok からの検索結果
 
 ---
 
-### No. 3: プロフィール / アバター - リファレンス画像を活用したシネマティックな男性ポートレート
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 説明
-
-リファレンス画像の顔の個性を維持しつつ、ドラマチックな照明でスーツを着た男性の超リアルなシネマティック・ポートレートを生成するためのプロンプトです。
-
-#### 📝 プロンプト
-
-```
-リファレンス画像を人物のアイデンティティとして使用し、顔の造作、輪郭、髪型、髭、肌の色、プロポーション、全体的な特徴を正確に保持しながら、同じ芸術的構成、イラストスタイル、視覚的エネルギーを再現してください。スタイリッシュな {argument name="subject" default="黒いスーツを着た男性"} の超リアルなシネマティック・ポートレート。背後から捉え、肩越しに振り返り、カメラを鋭く見つめる表情。繊細なハイライトが入ったショートのテクスチャヘア、手入れの行き届いた髭。上部からのドラマチックなスポットライトが、髪と顔に温かみのあるゴールデンハロー効果を生み出し、背景は暗闇へと溶け込んでいます。深い影と柔らかなハイライトによる力強いキアロスクーロ（明暗法）照明。アスペクト比 4:3。透かしを追加してください。
-```
-
-#### 🖼️ 生成画像
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788504568406_q9qtvd_HRS5YRmb0AA3OC_.jpg" width="600" alt="プロフィール / アバター - リファレンス画像を活用したシネマティックな男性ポートレート - Image 1">
-</div>
-
-#### 📌 詳細
-
-- **作者:** [Muhammad Jamil](https://x.com/JamilAI55)
-- **ソース:** [Twitter Post](https://x.com/JamilAI55/status/2095503707412517109)
-- **公開日:** 2026年9月3日
-- **言語:** en
-
-**[👉 今すぐ試す →](https://youmind.com/ja-JP/nano-banana-pro-prompts?id=33383)**
-
----
-
-### No. 4: プロフィール / アバター - リアルなスラブ系女性のスタジオポートレート
+### No. 3: プロフィール / アバター - リアルなスラブ系女性のスタジオポートレート
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -808,7 +774,7 @@ Grok からの検索結果
 
 ---
 
-### No. 5: プロフィール / アバター - レトロモダンなネオンアニメ風ペインティング
+### No. 4: プロフィール / アバター - レトロモダンなネオンアニメ風ペインティング
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -842,7 +808,7 @@ Grok からの検索結果
 
 ---
 
-### No. 6: プロフィール / アバター - 禪院真希の精細なアニメ風ポートレート
+### No. 5: プロフィール / アバター - 禪院真希の精細なアニメ風ポートレート
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -875,7 +841,7 @@ masterpiece, best quality, ultra-detailed anime portrait of Maki Zenin from Juju
 
 ---
 
-### No. 7: プロフィール / アバター - アニメ調ファインアート：月夜の山々
+### No. 6: プロフィール / アバター - アニメ調ファインアート：月夜の山々
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -909,7 +875,7 @@ masterpiece, best quality, ultra-detailed anime portrait of Maki Zenin from Juju
 
 ---
 
-### No. 8: プロフィール / アバター - 書斎の夕暮れポートレート
+### No. 7: プロフィール / アバター - 書斎の夕暮れポートレート
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -943,7 +909,7 @@ masterpiece, best quality, ultra-detailed anime portrait of Maki Zenin from Juju
 
 ---
 
-### No. 9: プロフィール / アバター - アニメ風格闘少女のイラスト
+### No. 8: プロフィール / アバター - アニメ風格闘少女のイラスト
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -977,7 +943,7 @@ masterpiece, best quality, ultra-detailed anime portrait of Maki Zenin from Juju
 
 ---
 
-### No. 10: プロフィール / アバター - 高精細ポートレート変換
+### No. 9: プロフィール / アバター - 高精細ポートレート変換
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1011,7 +977,7 @@ masterpiece, best quality, ultra-detailed anime portrait of Maki Zenin from Juju
 
 ---
 
-### No. 11: プロフィール / アバター - ジムでの自然な鏡越しセルフィー
+### No. 10: プロフィール / アバター - ジムでの自然な鏡越しセルフィー
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1044,7 +1010,7 @@ masterpiece, best quality, ultra-detailed anime portrait of Maki Zenin from Juju
 
 ---
 
-### No. 12: プロフィール / アバター - シネマティックな都会の夕暮れポートレート
+### No. 11: プロフィール / アバター - シネマティックな都会の夕暮れポートレート
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1100,7 +1066,7 @@ ar 9:16 4K
 
 ---
 
-### No. 13: プロフィール / アバター - Netflix スタイルのシネマティックポートレート
+### No. 12: プロフィール / アバター - Netflix スタイルのシネマティックポートレート
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1134,7 +1100,7 @@ ar 9:16 4K
 
 ---
 
-### No. 14: プロフィール / アバター - ティールスタジオのオーバーオールポートレート
+### No. 13: プロフィール / アバター - ティールスタジオのオーバーオールポートレート
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1168,7 +1134,7 @@ ar 9:16 4K
 
 ---
 
-### No. 15: プロフィール / アバター - ティールカラーの髪の穏やかな女性のポートレートイラスト
+### No. 14: プロフィール / アバター - ティールカラーの髪の穏やかな女性のポートレートイラスト
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1202,7 +1168,7 @@ ar 9:16 4K
 
 ---
 
-### No. 16: プロフィール / アバター - カジュアルなアップヘアのブルネット女性のポートレート
+### No. 15: プロフィール / アバター - カジュアルなアップヘアのブルネット女性のポートレート
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1236,7 +1202,7 @@ ar 9:16 4K
 
 ---
 
-### No. 17: プロフィール / アバター - リアルなシネマティック・ヘッドショット
+### No. 16: プロフィール / アバター - リアルなシネマティック・ヘッドショット
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1270,7 +1236,7 @@ ar 9:16 4K
 
 ---
 
-### No. 18: プロフィール / アバター - インパスト技法による魂を揺さぶる油彩肖像画
+### No. 17: プロフィール / アバター - インパスト技法による魂を揺さぶる油彩肖像画
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1310,7 +1276,7 @@ ar 9:16 4K
 
 ---
 
-### No. 19: プロフィール / アバター - 赤いメガネをかけたリアルな自撮りポートレート
+### No. 18: プロフィール / アバター - 赤いメガネをかけたリアルな自撮りポートレート
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1359,6 +1325,52 @@ Close-up realistic selfie portrait of a {argument name="subject" default="東ア
 - **言語:** en
 
 **[👉 今すぐ試す →](https://youmind.com/ja-JP/nano-banana-pro-prompts?id=33099)**
+
+---
+
+### No. 19: プロフィール / アバター - ヒジャブを纏った親密なポートレート
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 説明
+
+ダスティピンクのヒジャブを纏った女性の、温かみのある照明と繊細な質感を強調した、親密で柔らかなクローズアップ・ポートレートのプロンプト。
+
+#### 📝 プロンプト
+
+```
+色白で滑らかな肌を持ち、カメラの方へ優しく少し横を向いた、東アジア系の若い女性の柔らかなクローズアップ・ポートレート。大きな黒い瞳に長いまつ毛、柔らかなウィングラインのアイライナー、整ったアーチ型の眉、頬には淡いピンクのチーク、そして艶やかなソフトピンクの唇が特徴。彼女は、柔らかくわずかにシワ感のある生地で作られた {argument name="hijab color" default="ライトダスティピンク（モーヴローズ）"} のヒジャブを頭と首元にゆったりと纏っており、その柔らかなドレープが顔を縁取っている。彼女は、袖口に繊細なフリルがあしらわれた {argument name="top style" default="フィット感のある白いリブ編みの長袖トップス"} を着用している。片手を胸元に軽く上げ、指先でヒジャブに優しく触れている。柔らかく温かみのある室内照明が、顔の右側に穏やかな影を落とし、肌に柔らかな輝きを与えている。背景はわずかにぼかされており、{argument name="background details" default="落ち着いた緑がかった茶色のカーテンと、壁に留められたいくつかの小さな写真"} が見える。親密でナチュラル、柔らかな美学、高精細、リアルな肌の質感、映画のようなソフトライティング、浅い被写界深度。
+```
+
+#### 🖼️ 生成画像
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1788245875372_zfo7q9_HQx3lCHbQAAsxgF.jpg" width="600" alt="プロフィール / アバター - ヒジャブを纏った親密なポートレート - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1788245875355_ht73di_HQx3lCKagAA7wua.jpg" width="600" alt="プロフィール / アバター - ヒジャブを纏った親密なポートレート - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1788245875358_3imeom_HQx3lB8aIAAWj98.jpg" width="600" alt="プロフィール / アバター - ヒジャブを纏った親密なポートレート - Image 3">
+</div>
+
+#### 📌 詳細
+
+- **作者:** [Feyber](https://x.com/woleswoosh)
+- **ソース:** [Twitter Post](https://x.com/woleswoosh/status/2094334380466725117)
+- **公開日:** 2026年8月31日
+- **言語:** en
+
+**[👉 今すぐ試す →](https://youmind.com/ja-JP/nano-banana-pro-prompts?id=33095)**
 
 ---
 
@@ -5646,7 +5658,7 @@ L 字型のディスプレイに、カスタム 3D 効果音とコミックパ�
 
 <div align="center">
 
-### 🎯 15389 さらに多くのプロンプトがあります
+### 🎯 15388 さらに多くのプロンプトがあります
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -5709,6 +5721,6 @@ The gallery features:
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 この README は自動生成されています。最終更新： 2026-09-04T08:03:39.873Z</sub>
+<sub>🤖 この README は自動生成されています。最終更新： 2026-09-04T12:04:03.775Z</sub>
 
 </div>

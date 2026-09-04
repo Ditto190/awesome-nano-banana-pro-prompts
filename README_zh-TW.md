@@ -143,9 +143,9 @@ by {argument name="author" default="Steve Jobs"}
 
 | 指標 | 數量 |
 |--------|-------|
-| 📝 提示詞總數 | **15509** |
+| 📝 提示詞總數 | **15508** |
 | ⭐ 精選 | **9** |
-| 🔄 最後更新 | **2026年9月4日 星期五 上午8:03:32 [UTC]** |
+| 🔄 最後更新 | **2026年9月4日 星期五 中午12:03:54 [UTC]** |
 
 </div>
 
@@ -722,41 +722,7 @@ M8 — 您知道嗎：3 個事實（來源、科學、全球統計）+ 圖示
 
 ---
 
-### No. 3: 個人檔案 / 頭像 - 具備參考身分的電影感男性肖像
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-此提示詞旨在從參考圖像中保留臉部特徵，同時創作出一位穿著西裝、帶有戲劇性光影的超寫實電影感男性肖像。
-
-#### 📝 提示詞
-
-```
-使用參考圖像作為人物的身分基準，保留精確的臉部特徵、臉型、髮型、鬍鬚、膚色、比例以及整體身分，同時重現相同的藝術構圖、插畫風格與視覺張力。超寫實電影感肖像，主角為 {argument name="subject" default="穿著黑色西裝的男子"}，從背後拍攝，頭部轉向肩膀方向，眼神銳利且強烈地注視著鏡頭。短髮具備紋理感並帶有細微挑染，鬍鬚修剪整齊。上方投射的戲劇性聚光燈在頭髮與臉部形成溫暖的金色光暈，並逐漸融入深色背景中。強烈的明暗對照法（chiaroscuro）光影，具備深邃陰影與柔和高光。長寬比 4:3。添加浮水印
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788504568406_q9qtvd_HRS5YRmb0AA3OC_.jpg" width="600" alt="個人檔案 / 頭像 - 具備參考身分的電影感男性肖像 - Image 1">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [Muhammad Jamil](https://x.com/JamilAI55)
-- **來源:** [Twitter Post](https://x.com/JamilAI55/status/2095503707412517109)
-- **發布時間:** 2026年9月3日
-- **多語言:** en
-
-**[👉 立即嘗試 →](https://youmind.com/zh-TW/nano-banana-pro-prompts?id=33383)**
-
----
-
-### No. 4: 個人檔案 / 頭像 - 寫實斯拉夫女性攝影棚肖像
+### No. 3: 個人檔案 / 頭像 - 寫實斯拉夫女性攝影棚肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -808,7 +774,7 @@ M8 — 您知道嗎：3 個事實（來源、科學、全球統計）+ 圖示
 
 ---
 
-### No. 5: 個人檔案 / 頭像 - 復古現代霓虹動漫繪畫
+### No. 4: 個人檔案 / 頭像 - 復古現代霓虹動漫繪畫
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -842,7 +808,7 @@ M8 — 您知道嗎：3 個事實（來源、科學、全球統計）+ 圖示
 
 ---
 
-### No. 6: 個人檔案 / 頭像 - 禪院真希精細動漫肖像
+### No. 5: 個人檔案 / 頭像 - 禪院真希精細動漫肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -875,7 +841,7 @@ masterpiece, best quality, ultra-detailed anime portrait of Maki Zenin from Juju
 
 ---
 
-### No. 7: 個人檔案 / 頭像 - 動漫精緻藝術：月光下的山巒
+### No. 6: 個人檔案 / 頭像 - 動漫精緻藝術：月光下的山巒
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -909,7 +875,7 @@ masterpiece, best quality, ultra-detailed anime portrait of Maki Zenin from Juju
 
 ---
 
-### No. 8: 個人檔案 / 頭像 - 書房夕陽肖像
+### No. 7: 個人檔案 / 頭像 - 書房夕陽肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -943,7 +909,7 @@ masterpiece, best quality, ultra-detailed anime portrait of Maki Zenin from Juju
 
 ---
 
-### No. 9: 個人檔案 / 頭像 - 動漫武術少女插畫
+### No. 8: 個人檔案 / 頭像 - 動漫武術少女插畫
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -977,7 +943,7 @@ masterpiece, best quality, ultra-detailed anime portrait of Maki Zenin from Juju
 
 ---
 
-### No. 10: 個人檔案 / 頭像 - 高畫質人像轉換
+### No. 9: 個人檔案 / 頭像 - 高畫質人像轉換
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1011,7 +977,7 @@ masterpiece, best quality, ultra-detailed anime portrait of Maki Zenin from Juju
 
 ---
 
-### No. 11: 個人檔案 / 頭像 - 健身房鏡面隨拍
+### No. 10: 個人檔案 / 頭像 - 健身房鏡面隨拍
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1044,7 +1010,7 @@ masterpiece, best quality, ultra-detailed anime portrait of Maki Zenin from Juju
 
 ---
 
-### No. 12: 個人檔案 / 頭像 - 電影感城市黃昏人像
+### No. 11: 個人檔案 / 頭像 - 電影感城市黃昏人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1100,7 +1066,7 @@ ar 9:16 4K
 
 ---
 
-### No. 13: 個人檔案 / 頭像 - Netflix 風格電影感人像
+### No. 12: 個人檔案 / 頭像 - Netflix 風格電影感人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1134,7 +1100,7 @@ ar 9:16 4K
 
 ---
 
-### No. 14: 個人檔案 / 頭像 - 青色系工作室吊帶褲人像
+### No. 13: 個人檔案 / 頭像 - 青色系工作室吊帶褲人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1168,7 +1134,7 @@ ar 9:16 4K
 
 ---
 
-### No. 15: 個人檔案 / 頭像 - 青色頭髮寧靜肖像插畫
+### No. 14: 個人檔案 / 頭像 - 青色頭髮寧靜肖像插畫
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1202,7 +1168,7 @@ ar 9:16 4K
 
 ---
 
-### No. 16: 個人檔案 / 頭像 - 深褐色頭髮與隨性盤髮的肖像
+### No. 15: 個人檔案 / 頭像 - 深褐色頭髮與隨性盤髮的肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1236,7 +1202,7 @@ ar 9:16 4K
 
 ---
 
-### No. 17: 個人檔案 / 頭像 - 寫實電影感人像照
+### No. 16: 個人檔案 / 頭像 - 寫實電影感人像照
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1270,7 +1236,7 @@ ar 9:16 4K
 
 ---
 
-### No. 18: 個人檔案 / 頭像 - 厚塗油畫風格靈魂肖像
+### No. 17: 個人檔案 / 頭像 - 厚塗油畫風格靈魂肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1310,7 +1276,7 @@ ar 9:16 4K
 
 ---
 
-### No. 19: 個人檔案 / 頭像 - 佩戴紅色眼鏡的寫實自拍肖像
+### No. 18: 個人檔案 / 頭像 - 佩戴紅色眼鏡的寫實自拍肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1359,6 +1325,52 @@ ar 9:16 4K
 - **多語言:** en
 
 **[👉 立即嘗試 →](https://youmind.com/zh-TW/nano-banana-pro-prompts?id=33099)**
+
+---
+
+### No. 19: 個人檔案 / 頭像 - 親密頭巾肖像
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+這是一個關於佩戴乾燥玫瑰色頭巾女性的柔和、親密特寫肖像提示詞，著重於溫暖的光影與細膩的質感。
+
+#### 📝 提示詞
+
+```
+一位年輕東亞女性的柔和特寫肖像，擁有白皙光滑的肌膚，眼神溫柔地微微側向鏡頭。她有著深邃的大眼睛、纖長捲翹的睫毛、柔和的貓眼眼線、輪廓分明的拱形眉毛、臉頰上淡淡的粉色腮紅，以及光澤感的柔粉色嘴唇。她佩戴著 {argument name="hijab color" default="淺乾燥玫瑰色 (藕粉色)"} 的頭巾，頭巾由柔軟且帶有細微褶皺的布料製成，鬆散地披掛在頭部與頸部，柔和的褶皺襯托著她的臉龐。她穿著一件 {argument name="top style" default="合身白色羅紋長袖上衣"}，袖口有精緻的荷葉邊設計。一隻手輕輕抬起靠近胸前，手指輕觸頭巾。柔和的室內暖光在她的臉部右側投下淡淡陰影，並在肌膚上形成柔和的光澤。背景略微模糊，呈現 {argument name="background details" default="柔和的綠褐色窗簾以及牆上懸掛的幾張小照片"}。親密、自然、柔和的美學風格，高細節，真實的肌膚質感，電影般的柔光效果，淺景深。
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1788245875372_zfo7q9_HQx3lCHbQAAsxgF.jpg" width="600" alt="個人檔案 / 頭像 - 親密頭巾肖像 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1788245875355_ht73di_HQx3lCKagAA7wua.jpg" width="600" alt="個人檔案 / 頭像 - 親密頭巾肖像 - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1788245875358_3imeom_HQx3lB8aIAAWj98.jpg" width="600" alt="個人檔案 / 頭像 - 親密頭巾肖像 - Image 3">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [Feyber](https://x.com/woleswoosh)
+- **來源:** [Twitter Post](https://x.com/woleswoosh/status/2094334380466725117)
+- **發布時間:** 2026年8月31日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/zh-TW/nano-banana-pro-prompts?id=33095)**
 
 ---
 
@@ -5646,7 +5658,7 @@ Mini Cooper 內裝呈現照片級細節（儀表板、方向盤、座椅、倒�
 
 <div align="center">
 
-### 🎯 15389 更多提示詞未在此顯示
+### 🎯 15388 更多提示詞未在此顯示
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -5709,6 +5721,6 @@ The gallery features:
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-09-04T08:03:32.210Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-09-04T12:03:54.737Z</sub>
 
 </div>

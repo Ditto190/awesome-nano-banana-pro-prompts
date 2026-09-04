@@ -143,9 +143,9 @@ by {argument name="author" default="Steve Jobs"}
 
 | Métrica | Cantidad |
 |--------|-------|
-| 📝 Total de prompts | **15509** |
+| 📝 Total de prompts | **15508** |
 | ⭐ Destacado | **9** |
-| 🔄 Última actualización | **viernes, 4 de septiembre de 2026, 8:04:12 UTC** |
+| 🔄 Última actualización | **viernes, 4 de septiembre de 2026, 12:04:38 UTC** |
 
 </div>
 
@@ -722,41 +722,7 @@ Una ilustración digital estilo anime de una joven vibrante con un look audaz in
 
 ---
 
-### No. 3: Perfil / Avatar - Retrato cinematográfico de hombre con identidad de referencia
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Descripción
-
-Un prompt diseñado para preservar la identidad facial de una imagen de referencia mientras se crea un retrato cinematográfico ultrarrealista de un hombre con traje e iluminación dramática.
-
-#### 📝 Prompt
-
-```
-Utiliza la imagen de referencia como la identidad de la persona, preservando los rasgos faciales exactos, la forma de la cara, el peinado, la barba, el tono de piel, las proporciones y la identidad general, mientras recreas la misma composición artística, estilo de ilustración y energía visual. Retrato cinematográfico ultrarrealista de un elegante {argument name="subject" default="hombre con traje negro"}, capturado desde atrás con la cabeza girada sobre el hombro, lanzando una mirada intensa y definida hacia la cámara. Cabello corto texturizado con reflejos sutiles, barba bien cuidada. Foco dramático desde arriba que crea un efecto de halo dorado cálido sobre su cabello y rostro, desvaneciéndose hacia un fondo oscuro. Iluminación de claroscuro fuerte con sombras profundas y luces suaves. Relación de aspecto 4:3. Añadir la marca de agua
-```
-
-#### 🖼️ Imágenes generadas
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788504568406_q9qtvd_HRS5YRmb0AA3OC_.jpg" width="600" alt="Perfil / Avatar - Retrato cinematográfico de hombre con identidad de referencia - Image 1">
-</div>
-
-#### 📌 Detalles
-
-- **Autor:** [Muhammad Jamil](https://x.com/JamilAI55)
-- **Fuente:** [Twitter Post](https://x.com/JamilAI55/status/2095503707412517109)
-- **Publicado:** 3 de septiembre de 2026
-- **Idiomas:** en
-
-**[👉 Pruébalo ahora →](https://youmind.com/es-ES/nano-banana-pro-prompts?id=33383)**
-
----
-
-### No. 4: Perfil / Avatar - Retrato de estudio realista de una mujer eslava
+### No. 3: Perfil / Avatar - Retrato de estudio realista de una mujer eslava
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -808,7 +774,7 @@ Un retrato de una hermosa mujer {argument name="ethnicity" default="eslava/rusa"
 
 ---
 
-### No. 5: Perfil / Avatar - Pintura de anime retro-moderna de neón
+### No. 4: Perfil / Avatar - Pintura de anime retro-moderna de neón
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -842,7 +808,7 @@ Una pintura digital de anime retro-moderna de una joven elegante en una perspect
 
 ---
 
-### No. 6: Perfil / Avatar - Retrato detallado de anime de Maki Zenin
+### No. 5: Perfil / Avatar - Retrato detallado de anime de Maki Zenin
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -875,7 +841,7 @@ obra maestra, mejor calidad, retrato de anime ultra detallado de Maki Zenin de J
 
 ---
 
-### No. 7: Perfil / Avatar - Arte fino de anime: Montañas a la luz de la luna
+### No. 6: Perfil / Avatar - Arte fino de anime: Montañas a la luz de la luna
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -909,7 +875,7 @@ Pintura digital de una impresionante joven {argument name="subject" default="muj
 
 ---
 
-### No. 8: Perfil / Avatar - Retrato al atardecer en el estudio
+### No. 7: Perfil / Avatar - Retrato al atardecer en el estudio
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -943,7 +909,7 @@ Perlas bajo la luz. Con la mente en otro lugar [Un retrato cinematográfico en p
 
 ---
 
-### No. 9: Perfil / Avatar - Ilustración de chica de anime practicante de artes marciales
+### No. 8: Perfil / Avatar - Ilustración de chica de anime practicante de artes marciales
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -977,7 +943,7 @@ Una ilustración digital estilizada de anime de una joven {argument name="ethnic
 
 ---
 
-### No. 10: Perfil / Avatar - Transformación de retratos en alta definición
+### No. 9: Perfil / Avatar - Transformación de retratos en alta definición
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1011,7 +977,7 @@ Convierte esta imagen en: un retrato en primer plano ultra realista de un {argum
 
 ---
 
-### No. 11: Perfil / Avatar - Selfie espontánea en el espejo del gimnasio
+### No. 10: Perfil / Avatar - Selfie espontánea en el espejo del gimnasio
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1044,7 +1010,7 @@ Selfie fotorrealista y espontánea en el espejo de dos mujeres adultas en un gim
 
 ---
 
-### No. 12: Perfil / Avatar - Retrato cinematográfico urbano al crepúsculo
+### No. 11: Perfil / Avatar - Retrato cinematográfico urbano al crepúsculo
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1100,7 +1066,7 @@ El fondo es un {argument name="background" default="paisaje urbano al crepúscul
 
 ---
 
-### No. 13: Perfil / Avatar - Retrato cinematográfico al estilo Netflix
+### No. 12: Perfil / Avatar - Retrato cinematográfico al estilo Netflix
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1134,7 +1100,7 @@ Retrato cinematográfico hiperrealista al estilo Netflix, nivel IMAX, formato ve
 
 ---
 
-### No. 14: Perfil / Avatar - Retrato con overoles en estudio color verde azulado
+### No. 13: Perfil / Avatar - Retrato con overoles en estudio color verde azulado
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1168,7 +1134,7 @@ Un retrato de estudio de una {argument name="subject" default="joven mujer de As
 
 ---
 
-### No. 15: Perfil / Avatar - Ilustración de retrato sereno con cabello color verde azulado
+### No. 14: Perfil / Avatar - Ilustración de retrato sereno con cabello color verde azulado
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1202,7 +1168,7 @@ Un retrato en primer plano de una joven serena con los ojos cerrados y una expre
 
 ---
 
-### No. 16: Perfil / Avatar - Retrato de morena con peinado casual recogido
+### No. 15: Perfil / Avatar - Retrato de morena con peinado casual recogido
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1236,7 +1202,7 @@ Mujer joven increíblemente hermosa con cabello {argument name="hair type" defau
 
 ---
 
-### No. 17: Perfil / Avatar - Retrato cinematográfico realista
+### No. 16: Perfil / Avatar - Retrato cinematográfico realista
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1270,7 +1236,7 @@ Usa mi foto subida como referencia facial exacta. Preserva mis rasgos faciales, 
 
 ---
 
-### No. 18: Perfil / Avatar - Retrato emotivo al óleo con técnica de impasto
+### No. 17: Perfil / Avatar - Retrato emotivo al óleo con técnica de impasto
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1310,7 +1276,7 @@ Un retrato al óleo de alta calidad en primer plano de una {argument name="subje
 
 ---
 
-### No. 19: Perfil / Avatar - Retrato selfie realista con gafas rojas
+### No. 18: Perfil / Avatar - Retrato selfie realista con gafas rojas
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1359,6 +1325,52 @@ Primer plano de un retrato selfie realista de una {argument name="subject" defau
 - **Idiomas:** en
 
 **[👉 Pruébalo ahora →](https://youmind.com/es-ES/nano-banana-pro-prompts?id=33099)**
+
+---
+
+### No. 19: Perfil / Avatar - Retrato íntimo con hiyab
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Descripción
+
+Un prompt para un retrato en primer plano, suave e íntimo, de una mujer con un hiyab de color rosa empolvado, centrado en una iluminación cálida y texturas delicadas.
+
+#### 📝 Prompt
+
+```
+Un retrato suave en primer plano de una joven de Asia Oriental con piel clara y tersa, y una mirada dulce, ligeramente ladeada hacia la cámara. Tiene ojos grandes y oscuros con pestañas largas y pobladas, un delineado suave, cejas arqueadas y definidas, rubor rosa claro en las mejillas y labios brillantes en un tono rosa suave. Lleva un {argument name="hijab color" default="hiyab de color rosa empolvado claro (malva rosado)"} hecho de una tela suave y ligeramente arrugada, colocada con holgura alrededor de la cabeza y el cuello, con pliegues delicados que enmarcan su rostro. Viste una {argument name="top style" default="camiseta ajustada de manga larga acanalada en color blanco"} con delicados puños con volantes. Tiene una mano ligeramente levantada cerca del pecho, con los dedos rozando suavemente el hiyab. La iluminación interior, suave y cálida, crea sombras tenues en el lado derecho de su rostro y un brillo suave en su piel. El fondo está ligeramente desenfocado con {argument name="background details" default="cortinas en tonos verde parduzco apagado y algunas fotos pequeñas fijadas en la pared"}. Estética íntima, natural y suave, alto nivel de detalle, textura de piel realista, iluminación cinematográfica suave, profundidad de campo reducida.
+```
+
+#### 🖼️ Imágenes generadas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1788245875372_zfo7q9_HQx3lCHbQAAsxgF.jpg" width="600" alt="Perfil / Avatar - Retrato íntimo con hiyab - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1788245875355_ht73di_HQx3lCKagAA7wua.jpg" width="600" alt="Perfil / Avatar - Retrato íntimo con hiyab - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1788245875358_3imeom_HQx3lB8aIAAWj98.jpg" width="600" alt="Perfil / Avatar - Retrato íntimo con hiyab - Image 3">
+</div>
+
+#### 📌 Detalles
+
+- **Autor:** [Feyber](https://x.com/woleswoosh)
+- **Fuente:** [Twitter Post](https://x.com/woleswoosh/status/2094334380466725117)
+- **Publicado:** 31 de agosto de 2026
+- **Idiomas:** en
+
+**[👉 Pruébalo ahora →](https://youmind.com/es-ES/nano-banana-pro-prompts?id=33095)**
 
 ---
 
@@ -5642,7 +5654,7 @@ Un prompt complejo y estructurado para generar figuras de personajes de manga es
 
 <div align="center">
 
-### 🎯 15389 prompts más no mostrados aquí
+### 🎯 15388 prompts más no mostrados aquí
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -5705,6 +5717,6 @@ Licenciado bajo [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Enviar un prompt](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Dar estrella a este repositorio](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-09-04T08:04:12.822Z</sub>
+<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-09-04T12:04:38.694Z</sub>
 
 </div>

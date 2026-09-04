@@ -143,9 +143,9 @@ Raycast에서 사용하면 인수를 동적으로 교체하여 빠르게 반복�
 
 | 지표 | 수 |
 |--------|-------|
-| 📝 총 프롬프트 수 | **15509** |
+| 📝 총 프롬프트 수 | **15508** |
 | ⭐ 추천 | **9** |
-| 🔄 마지막 업데이트 | **2026년 9월 4일 금요일 AM 8시 3분 46초 UTC** |
+| 🔄 마지막 업데이트 | **2026년 9월 4일 금요일 PM 12시 4분 10초 UTC** |
 
 </div>
 
@@ -722,41 +722,7 @@ Grok 검색 결과
 
 ---
 
-### No. 3: 프로필 / 아바타 - 참조 이미지를 활용한 영화 같은 남성 인물 사진
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 설명
-
-참조 이미지의 얼굴 특징을 유지하면서, 드라마틱한 조명을 활용해 정장을 입은 남성의 초현실적인 영화풍 인물 사진을 생성하도록 설계된 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-참조 이미지를 인물의 정체성으로 사용하여 얼굴 특징, 얼굴형, 헤어스타일, 수염, 피부톤, 비율 및 전반적인 인상을 정확하게 유지하면서 동일한 예술적 구도, 일러스트레이션 스타일 및 시각적 에너지를 재현하세요. 세련된 {argument name="subject" default="검은 정장을 입은 남성"}의 초현실적인 영화풍 인물 사진으로, 뒤에서 촬영하여 고개를 돌려 카메라를 강렬하고 날카롭게 응시하는 모습입니다. 미세한 하이라이트가 들어간 짧은 질감의 머리카락과 잘 정돈된 수염이 특징입니다. 위에서 내려오는 드라마틱한 스포트라이트가 머리카락과 얼굴에 따뜻한 황금빛 후광 효과를 만들며 어두운 배경으로 자연스럽게 사라집니다. 깊은 그림자와 부드러운 하이라이트가 대비되는 강렬한 키아로스쿠로(chiaroscuro) 조명 효과를 적용하세요. 화면 비율은 4:3입니다. 워터마크를 추가하세요.
-```
-
-#### 🖼️ 생성된 이미지
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788504568406_q9qtvd_HRS5YRmb0AA3OC_.jpg" width="600" alt="프로필 / 아바타 - 참조 이미지를 활용한 영화 같은 남성 인물 사진 - Image 1">
-</div>
-
-#### 📌 상세 정보
-
-- **작성자:** [Muhammad Jamil](https://x.com/JamilAI55)
-- **출처:** [Twitter Post](https://x.com/JamilAI55/status/2095503707412517109)
-- **게시일:** 2026년 9월 3일
-- **언어:** en
-
-**[👉 지금 시도하기 →](https://youmind.com/ko-KR/nano-banana-pro-prompts?id=33383)**
-
----
-
-### No. 4: 프로필 / 아바타 - 사실적인 슬라브 여성 스튜디오 인물 사진
+### No. 3: 프로필 / 아바타 - 사실적인 슬라브 여성 스튜디오 인물 사진
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -808,7 +774,7 @@ Grok 검색 결과
 
 ---
 
-### No. 5: 프로필 / 아바타 - 레트로 모던 네온 애니메이션 페인팅
+### No. 4: 프로필 / 아바타 - 레트로 모던 네온 애니메이션 페인팅
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -842,7 +808,7 @@ Grok 검색 결과
 
 ---
 
-### No. 6: 프로필 / 아바타 - 상세한 젠인 마키 애니메이션 초상화
+### No. 5: 프로필 / 아바타 - 상세한 젠인 마키 애니메이션 초상화
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -875,7 +841,7 @@ masterpiece, best quality, 주술회전 젠인 마키의 초고해상도 애니�
 
 ---
 
-### No. 7: 프로필 / 아바타 - 애니메이션 파인 아트 달빛 산맥
+### No. 6: 프로필 / 아바타 - 애니메이션 파인 아트 달빛 산맥
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -909,7 +875,7 @@ masterpiece, best quality, 주술회전 젠인 마키의 초고해상도 애니�
 
 ---
 
-### No. 8: 프로필 / 아바타 - 공부방 노을 인물 사진
+### No. 7: 프로필 / 아바타 - 공부방 노을 인물 사진
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -943,7 +909,7 @@ masterpiece, best quality, 주술회전 젠인 마키의 초고해상도 애니�
 
 ---
 
-### No. 9: 프로필 / 아바타 - 애니메이션 무술 소녀 일러스트
+### No. 8: 프로필 / 아바타 - 애니메이션 무술 소녀 일러스트
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -977,7 +943,7 @@ masterpiece, best quality, 주술회전 젠인 마키의 초고해상도 애니�
 
 ---
 
-### No. 10: 프로필 / 아바타 - 고해상도 인물 사진 변환
+### No. 9: 프로필 / 아바타 - 고해상도 인물 사진 변환
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1011,7 +977,7 @@ masterpiece, best quality, 주술회전 젠인 마키의 초고해상도 애니�
 
 ---
 
-### No. 11: 프로필 / 아바타 - 자연스러운 헬스장 거울 셀카
+### No. 10: 프로필 / 아바타 - 자연스러운 헬스장 거울 셀카
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1044,7 +1010,7 @@ masterpiece, best quality, 주술회전 젠인 마키의 초고해상도 애니�
 
 ---
 
-### No. 12: 프로필 / 아바타 - 영화 같은 도시 황혼 인물 사진
+### No. 11: 프로필 / 아바타 - 영화 같은 도시 황혼 인물 사진
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1100,7 +1066,7 @@ ar 9:16 4K
 
 ---
 
-### No. 13: 프로필 / 아바타 - 넷플릭스 스타일 시네마틱 인물 사진
+### No. 12: 프로필 / 아바타 - 넷플릭스 스타일 시네마틱 인물 사진
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1134,7 +1100,7 @@ ar 9:16 4K
 
 ---
 
-### No. 14: 프로필 / 아바타 - 틸 스튜디오 오버롤 인물 사진
+### No. 13: 프로필 / 아바타 - 틸 스튜디오 오버롤 인물 사진
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1168,7 +1134,7 @@ ar 9:16 4K
 
 ---
 
-### No. 15: 프로필 / 아바타 - 청록색 머리의 차분한 인물 일러스트
+### No. 14: 프로필 / 아바타 - 청록색 머리의 차분한 인물 일러스트
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1202,7 +1168,7 @@ ar 9:16 4K
 
 ---
 
-### No. 16: 프로필 / 아바타 - 캐주얼한 올림머리를 한 갈색 머리 여성의 초상화
+### No. 15: 프로필 / 아바타 - 캐주얼한 올림머리를 한 갈색 머리 여성의 초상화
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1236,7 +1202,7 @@ ar 9:16 4K
 
 ---
 
-### No. 17: 프로필 / 아바타 - 실사 영화풍 인물 사진
+### No. 16: 프로필 / 아바타 - 실사 영화풍 인물 사진
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1270,7 +1236,7 @@ ar 9:16 4K
 
 ---
 
-### No. 18: 프로필 / 아바타 - 임파스토 유화 스타일의 감성적인 초상화
+### No. 17: 프로필 / 아바타 - 임파스토 유화 스타일의 감성적인 초상화
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1310,7 +1276,7 @@ ar 9:16 4K
 
 ---
 
-### No. 19: 프로필 / 아바타 - 빨간 안경을 쓴 사실적인 셀카 인물 사진
+### No. 18: 프로필 / 아바타 - 빨간 안경을 쓴 사실적인 셀카 인물 사진
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1359,6 +1325,52 @@ ar 9:16 4K
 - **언어:** en
 
 **[👉 지금 시도하기 →](https://youmind.com/ko-KR/nano-banana-pro-prompts?id=33099)**
+
+---
+
+### No. 19: 프로필 / 아바타 - 히잡을 쓴 친근한 인물 사진
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 설명
+
+더스티 핑크 색상의 히잡을 쓴 여성의 부드럽고 친근한 클로즈업 인물 사진 프롬프트로, 따뜻한 조명과 섬세한 질감에 초점을 맞췄습니다.
+
+#### 📝 프롬프트
+
+```
+맑고 매끄러운 피부를 가진 젊은 동아시아 여성의 부드러운 클로즈업 인물 사진으로, 카메라를 향해 살짝 옆을 바라보는 온화한 시선이 특징입니다. 크고 짙은 눈동자에 길고 풍성한 속눈썹, 부드러운 윙 아이라인, 선명하게 정리된 아치형 눈썹, 볼에 얹은 연한 핑크빛 블러셔, 그리고 윤기 나는 연한 핑크색 입술을 하고 있습니다. 그녀는 {argument name="hijab color" default="연한 더스티 핑크 (모브 로즈)"} 색상의 히잡을 쓰고 있으며, 부드럽고 약간의 주름이 있는 원단이 머리와 목을 느슨하게 감싸 얼굴을 부드럽게 감싸고 있습니다. 그녀는 {argument name="top style" default="몸에 딱 맞는 흰색 골지 긴팔 상의"}를 입고 있으며 소매 끝에는 섬세한 러플 장식이 있습니다. 한 손은 가슴 근처로 가볍게 올린 채 손가락으로 히잡을 부드럽게 만지고 있습니다. 부드럽고 따뜻한 실내 조명이 얼굴 오른쪽에 은은한 그림자를 드리우고 피부에 부드러운 광채를 더합니다. 배경은 {argument name="background details" default="차분한 녹갈색 커튼과 벽에 붙은 몇 장의 작은 사진들"}로 약간 흐릿하게 처리되었습니다. 친근하고 자연스러우며 부드러운 미학, 높은 디테일, 사실적인 피부 질감, 영화 같은 부드러운 조명, 얕은 피사계 심도.
+```
+
+#### 🖼️ 생성된 이미지
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1788245875372_zfo7q9_HQx3lCHbQAAsxgF.jpg" width="600" alt="프로필 / 아바타 - 히잡을 쓴 친근한 인물 사진 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1788245875355_ht73di_HQx3lCKagAA7wua.jpg" width="600" alt="프로필 / 아바타 - 히잡을 쓴 친근한 인물 사진 - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1788245875358_3imeom_HQx3lB8aIAAWj98.jpg" width="600" alt="프로필 / 아바타 - 히잡을 쓴 친근한 인물 사진 - Image 3">
+</div>
+
+#### 📌 상세 정보
+
+- **작성자:** [Feyber](https://x.com/woleswoosh)
+- **출처:** [Twitter Post](https://x.com/woleswoosh/status/2094334380466725117)
+- **게시일:** 2026년 8월 31일
+- **언어:** en
+
+**[👉 지금 시도하기 →](https://youmind.com/ko-KR/nano-banana-pro-prompts?id=33095)**
 
 ---
 
@@ -5646,7 +5658,7 @@ L자형 디스플레이, 커스텀 3D 음향 효과 및 만화 패널 배경을 
 
 <div align="center">
 
-### 🎯 15389 여기에 표시되지 않은 더 많은 프롬프트가 있습니다
+### 🎯 15388 여기에 표시되지 않은 더 많은 프롬프트가 있습니다
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -5709,6 +5721,6 @@ The gallery features:
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-09-04T08:03:46.756Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-09-04T12:04:10.628Z</sub>
 
 </div>

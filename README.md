@@ -143,9 +143,9 @@ When used in Raycast, you can dynamically replace the arguments for quick iterat
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **15509** |
+| 📝 Total Prompts | **15508** |
 | ⭐ Featured | **9** |
-| 🔄 Last Updated | **Friday, September 4, 2026 at 8:03:19 AM UTC** |
+| 🔄 Last Updated | **Friday, September 4, 2026 at 12:03:43 PM UTC** |
 
 </div>
 
@@ -722,41 +722,7 @@ An anime-style digital illustration of a vibrant young woman with a bold, punk-i
 
 ---
 
-### No. 3: Profile / Avatar - Cinematic Man Portrait with Reference Identity
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Description
-
-A prompt designed to preserve facial identity from a reference image while creating an ultra-realistic cinematic portrait of a man in a suit with dramatic lighting.
-
-#### 📝 Prompt
-
-```
-Use the reference image as the identity of the person, preserving the exact facial features, face shape, hairstyle, beard, skin tone, proportions, and overall identity while recreating the same artistic composition, illustration style, and visual energy. Ultra-realistic cinematic portrait of a stylish {argument name="subject" default="man in a black suit"}, captured from behind with his head turned over his shoulder, giving a sharp, intense look toward the camera. Short textured hair with subtle highlights, well-groomed beard. Dramatic spotlight from above creating a warm golden halo effect on his hair and face, fading into a dark background. Strong chiaroscuro lighting with deep shadows and soft highlights. Aspect ratio 4:3. Add the watermark
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788504568406_q9qtvd_HRS5YRmb0AA3OC_.jpg" width="600" alt="Profile / Avatar - Cinematic Man Portrait with Reference Identity - Image 1">
-</div>
-
-#### 📌 Details
-
-- **Author:** [Muhammad Jamil](https://x.com/JamilAI55)
-- **Source:** [Twitter Post](https://x.com/JamilAI55/status/2095503707412517109)
-- **Published:** September 3, 2026
-- **Languages:** en
-
-**[👉 Try it now →](https://youmind.com/en-US/nano-banana-pro-prompts?id=33383)**
-
----
-
-### No. 4: Profile / Avatar - Realistic Slavic Woman Studio Portrait
+### No. 3: Profile / Avatar - Realistic Slavic Woman Studio Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -808,7 +774,7 @@ A portrait of a beautiful {argument name="ethnicity" default="Slavic/russian"} w
 
 ---
 
-### No. 5: Profile / Avatar - Retro-Modern Neon Anime Painting
+### No. 4: Profile / Avatar - Retro-Modern Neon Anime Painting
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -842,7 +808,7 @@ A retro-modern anime digital painting of a chic young woman in a dramatic low-an
 
 ---
 
-### No. 6: Profile / Avatar - Detailed Maki Zenin Anime Portrait
+### No. 5: Profile / Avatar - Detailed Maki Zenin Anime Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -875,7 +841,7 @@ masterpiece, best quality, ultra-detailed anime portrait of Maki Zenin from Juju
 
 ---
 
-### No. 7: Profile / Avatar - Anime Fine Art Moonlight Mountains
+### No. 6: Profile / Avatar - Anime Fine Art Moonlight Mountains
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -909,7 +875,7 @@ Digital painting of a stunning young {argument name="subject" default="East Asia
 
 ---
 
-### No. 8: Profile / Avatar - Cinematic Thoughtful Man Portrait
+### No. 7: Profile / Avatar - Cinematic Thoughtful Man Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -944,7 +910,7 @@ Pearls in the light. Mind somewhere else
 
 ---
 
-### No. 9: Profile / Avatar - Anime Martial Arts Girl Illustration
+### No. 8: Profile / Avatar - Anime Martial Arts Girl Illustration
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -978,7 +944,7 @@ A stylized digital anime illustration of a young {argument name="ethnicity" defa
 
 ---
 
-### No. 10: Profile / Avatar - High Definition Portrait Transformation
+### No. 9: Profile / Avatar - High Definition Portrait Transformation
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1012,7 +978,7 @@ Turn this image into a: Ultra-realistic close-up portrait of a {argument name="s
 
 ---
 
-### No. 11: Profile / Avatar - Candid Gym Mirror Selfie
+### No. 10: Profile / Avatar - Candid Gym Mirror Selfie
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1045,7 +1011,7 @@ Photorealistic candid mirror selfie of two adult women in a modern commercial gy
 
 ---
 
-### No. 12: Profile / Avatar - Cinematic Urban Twilight Portrait
+### No. 11: Profile / Avatar - Cinematic Urban Twilight Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1101,7 +1067,7 @@ Background is a softly blurred {argument name="background" default="urban citysc
 
 ---
 
-### No. 13: Profile / Avatar - Netflix Style Cinematic Portrait
+### No. 12: Profile / Avatar - Netflix Style Cinematic Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1135,7 +1101,7 @@ Hyper realistic IMAX level Netflix style cinematic portrait, 9:16 vertical frame
 
 ---
 
-### No. 14: Profile / Avatar - Teal Studio Overalls Portrait
+### No. 13: Profile / Avatar - Teal Studio Overalls Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1169,7 +1135,7 @@ A studio portrait of a {argument name="subject" default="young East Asian woman 
 
 ---
 
-### No. 15: Profile / Avatar - Painterly Portrait with Teal Hair and Mustard Beanie
+### No. 14: Profile / Avatar - Painterly Portrait with Teal Hair and Mustard Beanie
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1203,7 +1169,7 @@ A close-up portrait of a serene young woman with closed eyes and a peaceful expr
 
 ---
 
-### No. 16: Profile / Avatar - Brunette Portrait with Casual Updo
+### No. 15: Profile / Avatar - Brunette Portrait with Casual Updo
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1237,7 +1203,7 @@ Breathtakingly beautiful young woman with {argument name="hair type" default="da
 
 ---
 
-### No. 17: Profile / Avatar - Cinematic Rembrandt Studio Headshot
+### No. 16: Profile / Avatar - Cinematic Rembrandt Studio Headshot
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1271,7 +1237,7 @@ Use my uploaded photo as the exact face reference. Preserve my facial features, 
 
 ---
 
-### No. 18: Profile / Avatar - Impasto Oil Painting Soulful Portrait
+### No. 17: Profile / Avatar - Impasto Oil Painting Soulful Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1311,7 +1277,7 @@ A high-quality, close-up oil painting portrait of a {argument name="subject" def
 
 ---
 
-### No. 19: Profile / Avatar - Realistic Selfie Portrait with Red Glasses
+### No. 18: Profile / Avatar - Realistic Selfie Portrait with Red Glasses
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1360,6 +1326,52 @@ Close-up realistic selfie portrait of a {argument name="subject" default="young 
 - **Languages:** en
 
 **[👉 Try it now →](https://youmind.com/en-US/nano-banana-pro-prompts?id=33099)**
+
+---
+
+### No. 19: Profile / Avatar - Intimate Hijab Portrait
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Description
+
+A soft, intimate close-up portrait prompt of a woman in a dusty-pink hijab, focusing on warm lighting and delicate textures.
+
+#### 📝 Prompt
+
+```
+A soft close-up portrait of a young East Asian woman with fair, smooth skin and a gentle, slightly sideways gaze looking toward the camera. She has large dark eyes with long, fluttery eyelashes, soft winged eyeliner, defined arched eyebrows, light pink blush on her cheeks, and glossy soft-pink lips. She is wearing a {argument name="hijab color" default="light dusty-pink (mauve-rose)"} hijab made of soft, slightly wrinkled fabric that is loosely draped around her head and neck, with gentle folds framing her face. She wears a {argument name="top style" default="fitted white ribbed long-sleeve top"} with delicate ruffled cuffs. One hand is lightly raised near her chest, fingers gently touching the hijab. Soft, warm indoor lighting creates gentle shadows on the right side of her face and a soft glow on her skin. The background is slightly blurred with {argument name="background details" default="muted greenish-brown curtains and a few small photos pinned on the wall"}. Intimate, natural, soft aesthetic, high detail, realistic skin texture, cinematic soft lighting, shallow depth of field.
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1788245875372_zfo7q9_HQx3lCHbQAAsxgF.jpg" width="600" alt="Profile / Avatar - Intimate Hijab Portrait - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1788245875355_ht73di_HQx3lCKagAA7wua.jpg" width="600" alt="Profile / Avatar - Intimate Hijab Portrait - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1788245875358_3imeom_HQx3lB8aIAAWj98.jpg" width="600" alt="Profile / Avatar - Intimate Hijab Portrait - Image 3">
+</div>
+
+#### 📌 Details
+
+- **Author:** [Feyber](https://x.com/woleswoosh)
+- **Source:** [Twitter Post](https://x.com/woleswoosh/status/2094334380466725117)
+- **Published:** August 31, 2026
+- **Languages:** en
+
+**[👉 Try it now →](https://youmind.com/en-US/nano-banana-pro-prompts?id=33095)**
 
 ---
 
@@ -5683,7 +5695,7 @@ Goal: "Nendoroid" Style Diorama Photography.
 
 <div align="center">
 
-### 🎯 15389 more prompts not shown here
+### 🎯 15388 more prompts not shown here
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -5746,6 +5758,6 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-09-04T08:03:19.801Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-09-04T12:03:43.812Z</sub>
 
 </div>

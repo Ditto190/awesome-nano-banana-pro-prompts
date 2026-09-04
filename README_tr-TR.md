@@ -143,9 +143,9 @@ Raycast'te kullanıldığında, hızlı yinelemeler için argümanları dinamik 
 
 | Metrik | Sayı |
 |--------|-------|
-| 📝 Toplam İstem | **15509** |
+| 📝 Toplam İstem | **15508** |
 | ⭐ Öne Çıkan | **9** |
-| 🔄 Son Güncelleme | **4 Eylül 2026 Cuma 08:04:56 UTC** |
+| 🔄 Son Güncelleme | **4 Eylül 2026 Cuma 12:05:29 UTC** |
 
 </div>
 
@@ -722,41 +722,7 @@ Cesur bir punk estetiğine sahip bir kadının anime tarzı dijital illüstrasyo
 
 ---
 
-### No. 3: Profil / Avatar - Referans Kimlik ile Sinematik Erkek Portresi
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Açıklama
-
-Dramatik ışıklandırmaya sahip, takım elbiseli bir erkeğin ultra gerçekçi sinematik portresini oluştururken referans görseldeki yüz kimliğini korumak için tasarlanmış bir komut.
-
-#### 📝 İstem
-
-```
-Referans görseli kişinin kimliği olarak kullanın; yüz hatlarını, yüz şeklini, saç stilini, sakalını, cilt tonunu, oranlarını ve genel kimliğini tam olarak korurken aynı sanatsal kompozisyonu, illüstrasyon stilini ve görsel enerjiyi yeniden yaratın. {argument name="subject" default="siyah takım elbiseli bir erkek"} öğesinin arkadan çekilmiş, başını omzunun üzerinden çevirerek kameraya keskin ve yoğun bir bakış attığı, ultra gerçekçi sinematik portresi. Hafif vurgulara sahip kısa dokulu saçlar, bakımlı sakal. Yukarıdan gelen dramatik spot ışığı, saçında ve yüzünde sıcak bir altın hale etkisi yaratarak karanlık bir arka plana doğru sönümleniyor. Derin gölgeler ve yumuşak vurgularla güçlü chiaroscuro ışıklandırma. En boy oranı 4:3. Filigranı ekle
-```
-
-#### 🖼️ Oluşturulan Görseller
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788504568406_q9qtvd_HRS5YRmb0AA3OC_.jpg" width="600" alt="Profil / Avatar - Referans Kimlik ile Sinematik Erkek Portresi - Image 1">
-</div>
-
-#### 📌 Detaylar
-
-- **Yazar:** [Muhammad Jamil](https://x.com/JamilAI55)
-- **Kaynak:** [Twitter Post](https://x.com/JamilAI55/status/2095503707412517109)
-- **Yayınlandı:** 3 Eylül 2026
-- **Diller:** en
-
-**[👉 Şimdi dene →](https://youmind.com/tr-TR/nano-banana-pro-prompts?id=33383)**
-
----
-
-### No. 4: Profil / Avatar - Gerçekçi Slav Kadın Stüdyo Portresi
+### No. 3: Profil / Avatar - Gerçekçi Slav Kadın Stüdyo Portresi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -808,7 +774,7 @@ Kafkas tenli, doğal olarak parlak, hafif ışıltılı, gözenekleri belirgin, 
 
 ---
 
-### No. 5: Profil / Avatar - Retro-Modern Neon Anime Tablosu
+### No. 4: Profil / Avatar - Retro-Modern Neon Anime Tablosu
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -842,7 +808,7 @@ Dramatik bir düşük açılı perspektifte, şık genç bir kadını konu alan 
 
 ---
 
-### No. 6: Profil / Avatar - Detaylı Maki Zenin Anime Portresi
+### No. 5: Profil / Avatar - Detaylı Maki Zenin Anime Portresi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -875,7 +841,7 @@ başyapıt, en iyi kalite, Jujutsu Kaisen'den Maki Zenin'in ultra detaylı anime
 
 ---
 
-### No. 7: Profil / Avatar - Anime Tarzı Sanatsal Ay Işığı Dağları
+### No. 6: Profil / Avatar - Anime Tarzı Sanatsal Ay Işığı Dağları
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -909,7 +875,7 @@ Yüzünün etrafında rüzgarda savrulan hacimli, dalgalı siyah saçlara sahip,
 
 ---
 
-### No. 8: Profil / Avatar - Çalışma Odasında Gün Batımı Portresi
+### No. 7: Profil / Avatar - Çalışma Odasında Gün Batımı Portresi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -943,7 +909,7 @@ Işıktaki inciler. Aklı başka yerde [Parlak bir pencerenin yanında oturan bi
 
 ---
 
-### No. 9: Profil / Avatar - Anime Dövüş Sanatçısı Kız İllüstrasyonu
+### No. 8: Profil / Avatar - Anime Dövüş Sanatçısı Kız İllüstrasyonu
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -977,7 +943,7 @@ Kolları göğsünde çapraz bir şekilde duran, ciddi ve kararlı bir ifadeye s
 
 ---
 
-### No. 10: Profil / Avatar - Yüksek Çözünürlüklü Portre Dönüşümü
+### No. 9: Profil / Avatar - Yüksek Çözünürlüklü Portre Dönüşümü
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1011,7 +977,7 @@ Bu görseli şuna dönüştür: {argument name="subject" default="kendinden emin
 
 ---
 
-### No. 11: Profil / Avatar - Doğal Spor Salonu Ayna Özçekimi
+### No. 10: Profil / Avatar - Doğal Spor Salonu Ayna Özçekimi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1044,7 +1010,7 @@ Modern bir ticari spor salonunda, yoğun bir antrenman sonrası iki yetişkin ka
 
 ---
 
-### No. 12: Profil / Avatar - Sinematik Şehir Alacakaranlığı Portresi
+### No. 11: Profil / Avatar - Sinematik Şehir Alacakaranlığı Portresi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1100,7 +1066,7 @@ Arka plan, yumuşak bir şekilde bulanıklaştırılmış {argument name="backgr
 
 ---
 
-### No. 13: Profil / Avatar - Netflix Tarzı Sinematik Portre
+### No. 12: Profil / Avatar - Netflix Tarzı Sinematik Portre
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1134,7 +1100,7 @@ Hiper gerçekçi IMAX seviyesinde Netflix tarzı sinematik portre, 9:16 dikey ç
 
 ---
 
-### No. 14: Profil / Avatar - Teal Studio Tulum Portresi
+### No. 13: Profil / Avatar - Teal Studio Tulum Portresi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1168,7 +1134,7 @@ Yüzünü çerçeveleyen ince, dağınık saç telleriyle doğal bir şekilde ş
 
 ---
 
-### No. 15: Profil / Avatar - Turkuaz Saçlı Huzurlu Portre İllüstrasyonu
+### No. 14: Profil / Avatar - Turkuaz Saçlı Huzurlu Portre İllüstrasyonu
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1202,7 +1168,7 @@ Gözleri kapalı ve huzurlu bir ifadeye sahip, genç ve dingin bir kadının yak
 
 ---
 
-### No. 16: Profil / Avatar - Dağınık Topuzlu Esmer Portresi
+### No. 15: Profil / Avatar - Dağınık Topuzlu Esmer Portresi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1236,7 +1202,7 @@ Alnına nazikçe dökülen {argument name="bangs style" default="seyrek perde pe
 
 ---
 
-### No. 17: Profil / Avatar - Gerçekçi Sinematik Portre
+### No. 16: Profil / Avatar - Gerçekçi Sinematik Portre
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1270,7 +1236,7 @@ Yüklediğim fotoğrafı tam yüz referansı olarak kullan. Yüz hatlarımı, sa
 
 ---
 
-### No. 18: Profil / Avatar - Impasto Yağlı Boya Etkileyici Portre
+### No. 17: Profil / Avatar - Impasto Yağlı Boya Etkileyici Portre
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1310,7 +1276,7 @@ Yüksek kaliteli, yakın çekim bir {argument name="subject" default="genç Doğ
 
 ---
 
-### No. 19: Profil / Avatar - Kırmızı Gözlüklü Gerçekçi Selfie Portresi
+### No. 18: Profil / Avatar - Kırmızı Gözlüklü Gerçekçi Selfie Portresi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1359,6 +1325,52 @@ Kameraya doğrudan bakan, sakin ve hafif büzülmüş dudaklı bir ifadeye sahip
 - **Diller:** en
 
 **[👉 Şimdi dene →](https://youmind.com/tr-TR/nano-banana-pro-prompts?id=33099)**
+
+---
+
+### No. 19: Profil / Avatar - Samimi Başörtülü Portre
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Açıklama
+
+Toz pembe bir başörtüsü takan bir kadının, sıcak ışıklandırmaya ve narin dokulara odaklanan yumuşak ve samimi bir yakın plan portre istemi.
+
+#### 📝 İstem
+
+```
+Açık, pürüzsüz bir cilde ve kameraya doğru bakan hafif yan bir bakışa sahip genç bir Doğu Asyalı kadının yumuşak yakın plan portresi. Uzun, kıvrık kirpikli iri koyu renk gözleri, hafif kuyruklu eyeliner'ı, belirgin kavisli kaşları, yanaklarında hafif pembe bir allık ve parlak, yumuşak pembe dudakları var. Başının ve boynunun etrafına gevşek bir şekilde sarılmış, yüzünü nazik kıvrımlarla çevreleyen, yumuşak ve hafif kırışık kumaştan yapılmış {argument name="hijab color" default="açık toz pembe (gül kurusu)"} bir başörtüsü takıyor. Zarif fırfırlı manşetleri olan {argument name="top style" default="vücuda oturan beyaz fitilli uzun kollu bir üst"} giyiyor. Bir eli hafifçe göğsüne doğru kalkmış, parmakları nazikçe başörtüsüne dokunuyor. Yumuşak, sıcak iç mekan ışıklandırması, yüzünün sağ tarafında hafif gölgeler ve cildinde yumuşak bir parıltı yaratıyor. Arka plan, {argument name="background details" default="soluk yeşilimsi kahverengi perdeler ve duvara asılı birkaç küçük fotoğraf"} ile hafifçe bulanıklaştırılmış. Samimi, doğal, yumuşak estetik, yüksek detay, gerçekçi cilt dokusu, sinematik yumuşak ışıklandırma, sığ alan derinliği.
+```
+
+#### 🖼️ Oluşturulan Görseller
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1788245875372_zfo7q9_HQx3lCHbQAAsxgF.jpg" width="600" alt="Profil / Avatar - Samimi Başörtülü Portre - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1788245875355_ht73di_HQx3lCKagAA7wua.jpg" width="600" alt="Profil / Avatar - Samimi Başörtülü Portre - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1788245875358_3imeom_HQx3lB8aIAAWj98.jpg" width="600" alt="Profil / Avatar - Samimi Başörtülü Portre - Image 3">
+</div>
+
+#### 📌 Detaylar
+
+- **Yazar:** [Feyber](https://x.com/woleswoosh)
+- **Kaynak:** [Twitter Post](https://x.com/woleswoosh/status/2094334380466725117)
+- **Yayınlandı:** 31 Ağustos 2026
+- **Diller:** en
+
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/nano-banana-pro-prompts?id=33095)**
 
 ---
 
@@ -5642,7 +5654,7 @@ Açık bir kitaptan fiziksel olarak yükselen fotogerçekçi ve sinematik bir di
 
 <div align="center">
 
-### 🎯 15389 burada gösterilmeyen daha fazla istem
+### 🎯 15388 burada gösterilmeyen daha fazla istem
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -5705,6 +5717,6 @@ Detaylı yönergeler için [CONTRIBUTING.md](docs/CONTRIBUTING.md) dosyasına ba
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-09-04T08:04:56.889Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-09-04T12:05:29.863Z</sub>
 
 </div>

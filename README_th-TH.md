@@ -143,9 +143,9 @@ by {argument name="author" default="Steve Jobs"}
 
 | เมตริก | จำนวน |
 |--------|-------|
-| 📝 คำสั่งทั้งหมด | **15509** |
+| 📝 คำสั่งทั้งหมด | **15508** |
 | ⭐ แนะนำ | **9** |
-| 🔄 อัปเดตล่าสุด | **วันศุกร์ที่ 4 กันยายน พ.ศ. 2569 เวลา 8 นาฬิกา 03 นาที 53 วินาที UTC** |
+| 🔄 อัปเดตล่าสุด | **วันศุกร์ที่ 4 กันยายน พ.ศ. 2569 เวลา 12 นาฬิกา 04 นาที 17 วินาที UTC** |
 
 </div>
 
@@ -722,41 +722,7 @@ M8 — คุณรู้หรือไม่: 3 ข้อเท็จจริ
 
 ---
 
-### No. 3: โปรไฟล์ / รูปประจำตัว - ภาพพอร์ตเทรตชายสไตล์ภาพยนตร์พร้อมรักษาเอกลักษณ์บุคคล
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 คำอธิบาย
-
-คำสั่ง (Prompt) ที่ออกแบบมาเพื่อรักษาเอกลักษณ์ใบหน้าจากภาพอ้างอิง พร้อมสร้างภาพพอร์ตเทรตชายสวมสูทสไตล์ภาพยนตร์ที่สมจริงเป็นพิเศษด้วยการจัดแสงแบบดราม่า
-
-#### 📝 คำสั่ง
-
-```
-ใช้ภาพอ้างอิงเป็นต้นแบบของบุคคล โดยรักษาลักษณะใบหน้า รูปหน้า ทรงผม หนวดเครา สีผิว สัดส่วน และเอกลักษณ์โดยรวมไว้อย่างครบถ้วน พร้อมสร้างองค์ประกอบทางศิลปะ สไตล์ภาพประกอบ และพลังงานของภาพให้เหมือนกับต้นฉบับ ภาพพอร์ตเทรตชายสไตล์ภาพยนตร์ที่สมจริงเป็นพิเศษในชุด {argument name="subject" default="ชายสวมสูทสีดำ"} ถ่ายจากด้านหลังโดยหันหน้าข้ามไหล่มายังกล้องด้วยสายตาที่คมชัดและดุดัน ผมสั้นมีเท็กซ์เจอร์พร้อมไฮไลท์จางๆ และหนวดเคราที่ได้รับการดูแลอย่างดี แสงสปอตไลท์จากด้านบนสร้างเอฟเฟกต์รัศมีสีทองอบอุ่นบนเส้นผมและใบหน้า ตัดกับพื้นหลังที่มืดมิด การจัดแสงแบบ Chiaroscuro ที่เข้มข้นด้วยเงาที่ลึกและไฮไลท์ที่นุ่มนวล อัตราส่วนภาพ 4:3 เพิ่มลายน้ำ
-```
-
-#### 🖼️ รูปภาพที่สร้าง
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788504568406_q9qtvd_HRS5YRmb0AA3OC_.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - ภาพพอร์ตเทรตชายสไตล์ภาพยนตร์พร้อมรักษาเอกลักษณ์บุคคล - Image 1">
-</div>
-
-#### 📌 รายละเอียด
-
-- **ผู้เขียน:** [Muhammad Jamil](https://x.com/JamilAI55)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/JamilAI55/status/2095503707412517109)
-- **เผยแพร่เมื่อ:** 3 กันยายน 2569
-- **ภาษา:** en
-
-**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=33383)**
-
----
-
-### No. 4: โปรไฟล์ / รูปประจำตัว - ภาพถ่ายพอร์ตเทรตสตูดิโอหญิงสาวชาวสลาฟที่สมจริง
+### No. 3: โปรไฟล์ / รูปประจำตัว - ภาพถ่ายพอร์ตเทรตสตูดิโอหญิงสาวชาวสลาฟที่สมจริง
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -808,7 +774,7 @@ M8 — คุณรู้หรือไม่: 3 ข้อเท็จจริ
 
 ---
 
-### No. 5: โปรไฟล์ / รูปประจำตัว - ภาพวาดอนิเมะสไตล์นีออนย้อนยุคสมัยใหม่
+### No. 4: โปรไฟล์ / รูปประจำตัว - ภาพวาดอนิเมะสไตล์นีออนย้อนยุคสมัยใหม่
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -842,7 +808,7 @@ M8 — คุณรู้หรือไม่: 3 ข้อเท็จจริ
 
 ---
 
-### No. 6: โปรไฟล์ / รูปประจำตัว - ภาพพอร์ตเทรตสไตล์อนิเมะสุดละเอียดของ Maki Zenin
+### No. 5: โปรไฟล์ / รูปประจำตัว - ภาพพอร์ตเทรตสไตล์อนิเมะสุดละเอียดของ Maki Zenin
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -875,7 +841,7 @@ masterpiece, best quality, ultra-detailed anime portrait of Maki Zenin from Juju
 
 ---
 
-### No. 7: โปรไฟล์ / รูปประจำตัว - ภาพวาดสไตล์อนิเมะวิจิตรศิลป์ ภูเขาใต้แสงจันทร์
+### No. 6: โปรไฟล์ / รูปประจำตัว - ภาพวาดสไตล์อนิเมะวิจิตรศิลป์ ภูเขาใต้แสงจันทร์
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -909,7 +875,7 @@ masterpiece, best quality, ultra-detailed anime portrait of Maki Zenin from Juju
 
 ---
 
-### No. 8: โปรไฟล์ / รูปประจำตัว - ภาพพอร์ตเทรตยามเย็นในห้องอ่านหนังสือ
+### No. 7: โปรไฟล์ / รูปประจำตัว - ภาพพอร์ตเทรตยามเย็นในห้องอ่านหนังสือ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -943,7 +909,7 @@ masterpiece, best quality, ultra-detailed anime portrait of Maki Zenin from Juju
 
 ---
 
-### No. 9: โปรไฟล์ / รูปประจำตัว - ภาพประกอบสาวน้อยนักสู้สไตล์อนิเมะ
+### No. 8: โปรไฟล์ / รูปประจำตัว - ภาพประกอบสาวน้อยนักสู้สไตล์อนิเมะ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -977,7 +943,7 @@ masterpiece, best quality, ultra-detailed anime portrait of Maki Zenin from Juju
 
 ---
 
-### No. 10: โปรไฟล์ / รูปประจำตัว - การเปลี่ยนภาพถ่ายบุคคลให้เป็นความละเอียดสูง
+### No. 9: โปรไฟล์ / รูปประจำตัว - การเปลี่ยนภาพถ่ายบุคคลให้เป็นความละเอียดสูง
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1011,7 +977,7 @@ masterpiece, best quality, ultra-detailed anime portrait of Maki Zenin from Juju
 
 ---
 
-### No. 11: โปรไฟล์ / รูปประจำตัว - ภาพเซลฟี่หน้ากระจกในยิมแบบแคนดิด
+### No. 10: โปรไฟล์ / รูปประจำตัว - ภาพเซลฟี่หน้ากระจกในยิมแบบแคนดิด
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1044,7 +1010,7 @@ masterpiece, best quality, ultra-detailed anime portrait of Maki Zenin from Juju
 
 ---
 
-### No. 12: โปรไฟล์ / รูปประจำตัว - ภาพพอร์ตเทรตแนวภาพยนตร์ท่ามกลางแสงทไวไลท์ในเมือง
+### No. 11: โปรไฟล์ / รูปประจำตัว - ภาพพอร์ตเทรตแนวภาพยนตร์ท่ามกลางแสงทไวไลท์ในเมือง
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1100,7 +1066,7 @@ ar 9:16 4K
 
 ---
 
-### No. 13: โปรไฟล์ / รูปประจำตัว - ภาพพอร์ตเทรตสไตล์ภาพยนตร์ Netflix
+### No. 12: โปรไฟล์ / รูปประจำตัว - ภาพพอร์ตเทรตสไตล์ภาพยนตร์ Netflix
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1134,7 +1100,7 @@ ar 9:16 4K
 
 ---
 
-### No. 14: โปรไฟล์ / รูปประจำตัว - ภาพถ่ายพอร์ตเทรตในสตูดิโอด้วยชุดเอี๊ยมโทนสีนกเป็ดน้ำ
+### No. 13: โปรไฟล์ / รูปประจำตัว - ภาพถ่ายพอร์ตเทรตในสตูดิโอด้วยชุดเอี๊ยมโทนสีนกเป็ดน้ำ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1168,7 +1134,7 @@ ar 9:16 4K
 
 ---
 
-### No. 15: โปรไฟล์ / รูปประจำตัว - ภาพประกอบพอร์ตเทรตหญิงสาวผมสีเขียวอมฟ้าในบรรยากาศสงบ
+### No. 14: โปรไฟล์ / รูปประจำตัว - ภาพประกอบพอร์ตเทรตหญิงสาวผมสีเขียวอมฟ้าในบรรยากาศสงบ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1202,7 +1168,7 @@ ar 9:16 4K
 
 ---
 
-### No. 16: โปรไฟล์ / รูปประจำตัว - ภาพพอร์ตเทรตสาวผมสีน้ำตาลในทรงผมเกล้ามวยแบบสบายๆ
+### No. 15: โปรไฟล์ / รูปประจำตัว - ภาพพอร์ตเทรตสาวผมสีน้ำตาลในทรงผมเกล้ามวยแบบสบายๆ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1236,7 +1202,7 @@ ar 9:16 4K
 
 ---
 
-### No. 17: โปรไฟล์ / รูปประจำตัว - ภาพถ่ายพอร์ตเทรตสไตล์ภาพยนตร์ที่สมจริง
+### No. 16: โปรไฟล์ / รูปประจำตัว - ภาพถ่ายพอร์ตเทรตสไตล์ภาพยนตร์ที่สมจริง
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1270,7 +1236,7 @@ ar 9:16 4K
 
 ---
 
-### No. 18: โปรไฟล์ / รูปประจำตัว - ภาพวาดสีน้ำมันสไตล์ Impasto พอร์ตเทรตที่เปี่ยมไปด้วยจิตวิญญาณ
+### No. 17: โปรไฟล์ / รูปประจำตัว - ภาพวาดสีน้ำมันสไตล์ Impasto พอร์ตเทรตที่เปี่ยมไปด้วยจิตวิญญาณ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1310,7 +1276,7 @@ ar 9:16 4K
 
 ---
 
-### No. 19: โปรไฟล์ / รูปประจำตัว - ภาพถ่ายเซลฟี่พอร์ตเทรตสมจริงพร้อมแว่นตาสีแดง
+### No. 18: โปรไฟล์ / รูปประจำตัว - ภาพถ่ายเซลฟี่พอร์ตเทรตสมจริงพร้อมแว่นตาสีแดง
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1359,6 +1325,52 @@ ar 9:16 4K
 - **ภาษา:** en
 
 **[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=33099)**
+
+---
+
+### No. 19: โปรไฟล์ / รูปประจำตัว - ภาพพอร์ตเทรตสาวมุสลิมในบรรยากาศอบอุ่น
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 คำอธิบาย
+
+พรอมต์สำหรับสร้างภาพพอร์ตเทรตระยะใกล้ที่ดูนุ่มนวลและเป็นกันเองของหญิงสาวในชุดฮิญาบสีชมพูหม่น เน้นแสงที่อบอุ่นและรายละเอียดพื้นผิวที่ละเอียดอ่อน
+
+#### 📝 คำสั่ง
+
+```
+ภาพพอร์ตเทรตระยะใกล้ที่ดูนุ่มนวลของหญิงสาวชาวเอเชียตะวันออกที่มีผิวขาวเนียนละเอียด กำลังมองมาทางกล้องด้วยสายตาที่อ่อนโยนและเอียงเล็กน้อย เธอมีดวงตาสีเข้มขนาดใหญ่พร้อมขนตายาวงอนสวย กรีดอายไลเนอร์แบบวิงค์เบาๆ คิ้วโก่งได้รูป ปัดแก้มด้วยโทนสีชมพูอ่อน และริมฝีปากสีชมพูระเรื่อแวววาว เธอสวมฮิญาบ {argument name="hijab color" default="สีชมพูหม่น (สีกลีบกุหลาบ)"} ที่ทำจากผ้าเนื้อนุ่มและยับเล็กน้อย พันรอบศีรษะและลำคออย่างหลวมๆ โดยมีรอยพับที่ดูนุ่มนวลช่วยขับเน้นใบหน้า เธอสวม {argument name="top style" default="เสื้อแขนยาวผ้าถักร่องสีขาวพอดีตัว"} ที่มีรายละเอียดระบายที่ปลายแขน มือข้างหนึ่งยกขึ้นใกล้หน้าอก นิ้วมือสัมผัสฮิญาบอย่างแผ่วเบา แสงไฟภายในอาคารที่นุ่มนวลและอบอุ่นสร้างเงาจางๆ ทางด้านขวาของใบหน้าและทำให้ผิวดูเปล่งประกาย ฉากหลังเบลอเล็กน้อยด้วย {argument name="background details" default="ผ้าม่านสีเขียวอมน้ำตาลหม่นและรูปถ่ายใบเล็กๆ สองสามใบที่ติดอยู่บนผนัง"} ให้ความรู้สึกใกล้ชิด เป็นธรรมชาติ ดูนุ่มนวล รายละเอียดสูง ผิวสัมผัสสมจริง แสงแบบภาพยนตร์ และระยะชัดลึกที่ตื้น
+```
+
+#### 🖼️ รูปภาพที่สร้าง
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1788245875372_zfo7q9_HQx3lCHbQAAsxgF.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - ภาพพอร์ตเทรตสาวมุสลิมในบรรยากาศอบอุ่น - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1788245875355_ht73di_HQx3lCKagAA7wua.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - ภาพพอร์ตเทรตสาวมุสลิมในบรรยากาศอบอุ่น - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1788245875358_3imeom_HQx3lB8aIAAWj98.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - ภาพพอร์ตเทรตสาวมุสลิมในบรรยากาศอบอุ่น - Image 3">
+</div>
+
+#### 📌 รายละเอียด
+
+- **ผู้เขียน:** [Feyber](https://x.com/woleswoosh)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/woleswoosh/status/2094334380466725117)
+- **เผยแพร่เมื่อ:** 31 สิงหาคม 2569
+- **ภาษา:** en
+
+**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=33095)**
 
 ---
 
@@ -5646,7 +5658,7 @@ A {argument name="subject" default="ชายวัยผู้ใหญ่ผ�
 
 <div align="center">
 
-### 🎯 15389 คำสั่งเพิ่มเติมที่ไม่ได้แสดงที่นี่
+### 🎯 15388 คำสั่งเพิ่มเติมที่ไม่ได้แสดงที่นี่
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -5709,6 +5721,6 @@ The gallery features:
 **[📝 ส่งคำสั่ง](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ ให้ดาวกับที่เก็บนี้](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 README นี้ถูกสร้างขึ้นโดยอัตโนมัติ อัปเดตล่าสุด: 2026-09-04T08:03:53.454Z</sub>
+<sub>🤖 README นี้ถูกสร้างขึ้นโดยอัตโนมัติ อัปเดตล่าสุด: 2026-09-04T12:04:17.743Z</sub>
 
 </div>

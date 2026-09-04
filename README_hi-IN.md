@@ -143,9 +143,9 @@ Raycast में उपयोग करते समय, आप त्वरि
 
 | मीट्रिक | गिनती |
 |--------|-------|
-| 📝 कुल प्रॉम्पट्स | **15509** |
+| 📝 कुल प्रॉम्पट्स | **15508** |
 | ⭐ विशेष | **9** |
-| 🔄 अंतिम अपडेट | **शुक्रवार, 4 सितंबर 2026 को 8:04:06 am UTC बजे** |
+| 🔄 अंतिम अपडेट | **शुक्रवार, 4 सितंबर 2026 को 12:04:31 pm UTC बजे** |
 
 </div>
 
@@ -722,41 +722,7 @@ AI समाचार सामग्री को हाथ से बने, �
 
 ---
 
-### No. 3: प्रोफ़ाइल / अवतार - रेफरेंस आइडेंटिटी के साथ सिनेमैटिक पुरुष पोर्ट्रेट
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 विवरण
-
-एक प्रॉम्प्ट जिसे रेफरेंस इमेज से चेहरे की पहचान को सुरक्षित रखते हुए, नाटकीय लाइटिंग के साथ सूट पहने एक पुरुष का अल्ट्रा-रियलिस्टिक सिनेमैटिक पोर्ट्रेट बनाने के लिए डिज़ाइन किया गया है।
-
-#### 📝 प्रॉम्पट
-
-```
-व्यक्ति की पहचान के लिए रेफरेंस इमेज का उपयोग करें, जो सटीक चेहरे की विशेषताओं, चेहरे के आकार, हेयरस्टाइल, दाढ़ी, त्वचा के रंग, अनुपात और समग्र पहचान को सुरक्षित रखे, साथ ही उसी कलात्मक संरचना, चित्रण शैली और दृश्य ऊर्जा को फिर से बनाए। एक स्टाइलिश {argument name="subject" default="काले सूट में आदमी"} का अल्ट्रा-रियलिस्टिक सिनेमैटिक पोर्ट्रेट, जिसे पीछे से कैप्चर किया गया है और उसका सिर कंधे के ऊपर मुड़ा हुआ है, जो कैमरे की ओर एक तीखी, तीव्र नज़र डाल रहा है। छोटे टेक्सचर्ड बाल जिनमें हल्के हाइलाइट्स हैं, अच्छी तरह से संवारी हुई दाढ़ी। ऊपर से नाटकीय स्पॉटलाइट जो उसके बालों और चेहरे पर एक गर्म सुनहरे हेलो प्रभाव को पैदा करती है, जो गहरे बैकग्राउंड में विलीन हो जाती है। गहरे छाया और नरम हाइलाइट्स के साथ मजबूत कियारोस्क्यूरो (chiaroscuro) लाइटिंग। आस्पेक्ट रेशियो 4:3। वॉटरमार्क जोड़ें
-```
-
-#### 🖼️ उत्पन्न चित्र
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788504568406_q9qtvd_HRS5YRmb0AA3OC_.jpg" width="600" alt="प्रोफ़ाइल / अवतार - रेफरेंस आइडेंटिटी के साथ सिनेमैटिक पुरुष पोर्ट्रेट - Image 1">
-</div>
-
-#### 📌 विवरण
-
-- **लेखक:** [Muhammad Jamil](https://x.com/JamilAI55)
-- **स्रोत:** [Twitter Post](https://x.com/JamilAI55/status/2095503707412517109)
-- **प्रकाशित:** 3 सितंबर 2026
-- **भाषाएं:** en
-
-**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/nano-banana-pro-prompts?id=33383)**
-
----
-
-### No. 4: प्रोफ़ाइल / अवतार - यथार्थवादी स्लाव महिला का स्टूडियो पोर्ट्रेट
+### No. 3: प्रोफ़ाइल / अवतार - यथार्थवादी स्लाव महिला का स्टूडियो पोर्ट्रेट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -808,7 +774,7 @@ AI समाचार सामग्री को हाथ से बने, �
 
 ---
 
-### No. 5: प्रोफ़ाइल / अवतार - रेट्रो-मॉडर्न नियॉन एनीमे पेंटिंग
+### No. 4: प्रोफ़ाइल / अवतार - रेट्रो-मॉडर्न नियॉन एनीमे पेंटिंग
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -842,7 +808,7 @@ AI समाचार सामग्री को हाथ से बने, �
 
 ---
 
-### No. 6: प्रोफ़ाइल / अवतार - Maki Zenin का विस्तृत एनीमे पोर्ट्रेट
+### No. 5: प्रोफ़ाइल / अवतार - Maki Zenin का विस्तृत एनीमे पोर्ट्रेट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -875,7 +841,7 @@ masterpiece, best quality, Jujutsu Kaisen की Maki Zenin का अल्ट�
 
 ---
 
-### No. 7: प्रोफ़ाइल / अवतार - एनीमे फाइन आर्ट मूनलाइट माउंटेंस
+### No. 6: प्रोफ़ाइल / अवतार - एनीमे फाइन आर्ट मूनलाइट माउंटेंस
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -909,7 +875,7 @@ masterpiece, best quality, Jujutsu Kaisen की Maki Zenin का अल्ट�
 
 ---
 
-### No. 8: प्रोफ़ाइल / अवतार - स्टडी रूम सनसेट पोर्ट्रेट
+### No. 7: प्रोफ़ाइल / अवतार - स्टडी रूम सनसेट पोर्ट्रेट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -943,7 +909,7 @@ masterpiece, best quality, Jujutsu Kaisen की Maki Zenin का अल्ट�
 
 ---
 
-### No. 9: प्रोफ़ाइल / अवतार - एनीमे मार्शल आर्ट्स गर्ल इलस्ट्रेशन
+### No. 8: प्रोफ़ाइल / अवतार - एनीमे मार्शल आर्ट्स गर्ल इलस्ट्रेशन
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -977,7 +943,7 @@ masterpiece, best quality, Jujutsu Kaisen की Maki Zenin का अल्ट�
 
 ---
 
-### No. 10: प्रोफ़ाइल / अवतार - हाई डेफिनिशन पोर्ट्रेट ट्रांसफॉर्मेशन
+### No. 9: प्रोफ़ाइल / अवतार - हाई डेफिनिशन पोर्ट्रेट ट्रांसफॉर्मेशन
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1011,7 +977,7 @@ masterpiece, best quality, Jujutsu Kaisen की Maki Zenin का अल्ट�
 
 ---
 
-### No. 11: प्रोफ़ाइल / अवतार - जिम में ली गई कैंडिड मिरर सेल्फी
+### No. 10: प्रोफ़ाइल / अवतार - जिम में ली गई कैंडिड मिरर सेल्फी
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1044,7 +1010,7 @@ masterpiece, best quality, Jujutsu Kaisen की Maki Zenin का अल्ट�
 
 ---
 
-### No. 12: प्रोफ़ाइल / अवतार - सिनेमैटिक अर्बन ट्वाइलाइट पोर्ट्रेट
+### No. 11: प्रोफ़ाइल / अवतार - सिनेमैटिक अर्बन ट्वाइलाइट पोर्ट्रेट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1100,7 +1066,7 @@ ar 9:16 4K
 
 ---
 
-### No. 13: प्रोफ़ाइल / अवतार - Netflix स्टाइल सिनेमैटिक पोर्ट्रेट
+### No. 12: प्रोफ़ाइल / अवतार - Netflix स्टाइल सिनेमैटिक पोर्ट्रेट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1134,7 +1100,7 @@ ar 9:16 4K
 
 ---
 
-### No. 14: प्रोफ़ाइल / अवतार - टील स्टूडियो ओवरऑल्स पोर्ट्रेट
+### No. 13: प्रोफ़ाइल / अवतार - टील स्टूडियो ओवरऑल्स पोर्ट्रेट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1168,7 +1134,7 @@ ar 9:16 4K
 
 ---
 
-### No. 15: प्रोफ़ाइल / अवतार - नीले बालों वाली शांत पोर्ट्रेट इलस्ट्रेशन
+### No. 14: प्रोफ़ाइल / अवतार - नीले बालों वाली शांत पोर्ट्रेट इलस्ट्रेशन
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1202,7 +1168,7 @@ ar 9:16 4K
 
 ---
 
-### No. 16: प्रोफ़ाइल / अवतार - कैजुअल अपडू हेयरस्टाइल के साथ ब्रुनेट पोर्ट्रेट
+### No. 15: प्रोफ़ाइल / अवतार - कैजुअल अपडू हेयरस्टाइल के साथ ब्रुनेट पोर्ट्रेट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1236,7 +1202,7 @@ ar 9:16 4K
 
 ---
 
-### No. 17: प्रोफ़ाइल / अवतार - यथार्थवादी सिनेमैटिक हेडशॉट
+### No. 16: प्रोफ़ाइल / अवतार - यथार्थवादी सिनेमैटिक हेडशॉट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1270,7 +1236,7 @@ ar 9:16 4K
 
 ---
 
-### No. 18: प्रोफ़ाइल / अवतार - इम्पास्टो ऑयल पेंटिंग सोलफुल पोर्ट्रेट
+### No. 17: प्रोफ़ाइल / अवतार - इम्पास्टो ऑयल पेंटिंग सोलफुल पोर्ट्रेट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1310,7 +1276,7 @@ ar 9:16 4K
 
 ---
 
-### No. 19: प्रोफ़ाइल / अवतार - लाल चश्मे के साथ यथार्थवादी सेल्फी पोर्ट्रेट
+### No. 18: प्रोफ़ाइल / अवतार - लाल चश्मे के साथ यथार्थवादी सेल्फी पोर्ट्रेट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1359,6 +1325,52 @@ ar 9:16 4K
 - **भाषाएं:** en
 
 **[👉 अभी आज़माएं →](https://youmind.com/hi-IN/nano-banana-pro-prompts?id=33099)**
+
+---
+
+### No. 19: प्रोफ़ाइल / अवतार - हिजाब में अंतरंग पोर्ट्रेट
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 विवरण
+
+डस्टी-पिंक हिजाब पहने एक महिला का सॉफ्ट और अंतरंग क्लोज-अप पोर्ट्रेट प्रॉम्प्ट, जिसमें गर्म रोशनी और नाजुक बनावट पर ध्यान केंद्रित किया गया है।
+
+#### 📝 प्रॉम्पट
+
+```
+साफ और मुलायम त्वचा वाली एक युवा पूर्वी एशियाई महिला का सॉफ्ट क्लोज-अप पोर्ट्रेट, जिसकी नजरें कैमरे की ओर थोड़ी तिरछी और सौम्य हैं। उसकी बड़ी काली आँखें, लंबी पलकें, सॉफ्ट विंग्ड आईलाइनर, सुडौल धनुषाकार भौहें, गालों पर हल्का गुलाबी ब्लश और चमकदार सॉफ्ट-पिंक होंठ हैं। उसने {argument name="hijab color" default="हल्के डस्टी-पिंक (मॉव-रोज़)"} रंग का हिजाब पहना है, जो मुलायम और हल्की झुर्रियों वाले कपड़े से बना है। यह उसके सिर और गर्दन के चारों ओर ढीले ढंग से लिपटा हुआ है, जिसमें कोमल सिलवटें उसके चेहरे को फ्रेम कर रही हैं। उसने {argument name="top style" default="फिटेड सफेद रिब्ड लॉन्ग-स्लीव टॉप"} पहना है, जिसके कफ पर नाजुक झालरें हैं। एक हाथ छाती के पास हल्का सा उठा हुआ है, जिसकी उंगलियां धीरे से हिजाब को छू रही हैं। सॉफ्ट, गर्म इनडोर लाइटिंग उसके चेहरे के दाईं ओर हल्की छाया और त्वचा पर एक सौम्य चमक पैदा कर रही है। बैकग्राउंड थोड़ा धुंधला है, जिसमें {argument name="background details" default="म्यूट हरे-भूरे रंग के पर्दे और दीवार पर लगी कुछ छोटी तस्वीरें"} दिखाई दे रही हैं। अंतरंग, प्राकृतिक, सॉफ्ट एस्थेटिक, उच्च विवरण, यथार्थवादी त्वचा बनावट, सिनेमाई सॉफ्ट लाइटिंग, शैलो डेप्थ ऑफ फील्ड।
+```
+
+#### 🖼️ उत्पन्न चित्र
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1788245875372_zfo7q9_HQx3lCHbQAAsxgF.jpg" width="600" alt="प्रोफ़ाइल / अवतार - हिजाब में अंतरंग पोर्ट्रेट - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1788245875355_ht73di_HQx3lCKagAA7wua.jpg" width="600" alt="प्रोफ़ाइल / अवतार - हिजाब में अंतरंग पोर्ट्रेट - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1788245875358_3imeom_HQx3lB8aIAAWj98.jpg" width="600" alt="प्रोफ़ाइल / अवतार - हिजाब में अंतरंग पोर्ट्रेट - Image 3">
+</div>
+
+#### 📌 विवरण
+
+- **लेखक:** [Feyber](https://x.com/woleswoosh)
+- **स्रोत:** [Twitter Post](https://x.com/woleswoosh/status/2094334380466725117)
+- **प्रकाशित:** 31 अगस्त 2026
+- **भाषाएं:** en
+
+**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/nano-banana-pro-prompts?id=33095)**
 
 ---
 
@@ -5646,7 +5658,7 @@ Nano Banana Pro का उपयोग करके भविष्य के �
 
 <div align="center">
 
-### 🎯 15389 और प्रॉम्पट्स यहां नहीं दिखाए गए हैं
+### 🎯 15388 और प्रॉम्पट्स यहां नहीं दिखाए गए हैं
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -5709,6 +5721,6 @@ The gallery features:
 **[📝 एक प्रॉम्पट जमा करें](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ इस रिपॉजिटरी को स्टार करें](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 यह README स्वचालित रूप से जेनरेट किया गया है। अंतिम अपडेट: 2026-09-04T08:04:06.044Z</sub>
+<sub>🤖 यह README स्वचालित रूप से जेनरेट किया गया है। अंतिम अपडेट: 2026-09-04T12:04:31.796Z</sub>
 
 </div>

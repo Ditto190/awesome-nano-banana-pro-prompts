@@ -143,9 +143,9 @@ Khi sử dụng trong Raycast, bạn có thể thay thế động các đối s�
 
 | Chỉ số | Số lượng |
 |--------|-------|
-| 📝 Tổng số câu lệnh | **15509** |
+| 📝 Tổng số câu lệnh | **15508** |
 | ⭐ Nổi bật | **9** |
-| 🔄 Cập nhật lần cuối | **lúc 08:03:59 UTC Thứ Sáu, 4 tháng 9, 2026** |
+| 🔄 Cập nhật lần cuối | **lúc 12:04:24 UTC Thứ Sáu, 4 tháng 9, 2026** |
 
 </div>
 
@@ -722,41 +722,7 @@ Một bức tranh minh họa kỹ thuật số theo phong cách anime về một
 
 ---
 
-### No. 3: Hồ sơ / Ảnh đại diện - Chân dung điện ảnh với nhận diện từ ảnh tham chiếu
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Mô tả
-
-Một câu lệnh (prompt) được thiết kế để giữ nguyên nhận diện khuôn mặt từ ảnh tham chiếu, đồng thời tạo ra bức chân dung điện ảnh siêu thực của một người đàn ông mặc vest với ánh sáng đầy kịch tính.
-
-#### 📝 Câu lệnh
-
-```
-Sử dụng ảnh tham chiếu làm nhận diện cho nhân vật, giữ nguyên các đặc điểm khuôn mặt, hình dáng khuôn mặt, kiểu tóc, râu, tông da, tỷ lệ và nhận diện tổng thể, đồng thời tái tạo bố cục nghệ thuật, phong cách minh họa và năng lượng thị giác tương tự. Chân dung điện ảnh siêu thực của một {argument name="subject" default="người đàn ông mặc vest đen"} đầy phong cách, được chụp từ phía sau với đầu quay qua vai, tạo ra ánh nhìn sắc sảo, mãnh liệt về phía máy ảnh. Tóc ngắn có kết cấu với những điểm nhấn tinh tế, bộ râu được cắt tỉa gọn gàng. Ánh đèn sân khấu kịch tính từ trên cao tạo hiệu ứng hào quang vàng ấm áp trên tóc và khuôn mặt, mờ dần vào nền tối. Kỹ thuật chiếu sáng chiaroscuro mạnh mẽ với những mảng tối sâu và điểm sáng mềm mại. Tỷ lệ khung hình 4:3. Thêm hình mờ
-```
-
-#### 🖼️ Hình ảnh được tạo
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788504568406_q9qtvd_HRS5YRmb0AA3OC_.jpg" width="600" alt="Hồ sơ / Ảnh đại diện - Chân dung điện ảnh với nhận diện từ ảnh tham chiếu - Image 1">
-</div>
-
-#### 📌 Chi tiết
-
-- **Tác giả:** [Muhammad Jamil](https://x.com/JamilAI55)
-- **Nguồn:** [Twitter Post](https://x.com/JamilAI55/status/2095503707412517109)
-- **Đã xuất bản:** 3 tháng 9, 2026
-- **Ngôn ngữ:** en
-
-**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=33383)**
-
----
-
-### No. 4: Hồ sơ / Ảnh đại diện - Chân dung studio chân thực về người phụ nữ Slavic
+### No. 3: Hồ sơ / Ảnh đại diện - Chân dung studio chân thực về người phụ nữ Slavic
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -808,7 +774,7 @@ Chân dung một người phụ nữ {argument name="ethnicity" default="Slavic/
 
 ---
 
-### No. 5: Hồ sơ / Ảnh đại diện - Tranh Anime Neon Phong cách Retro-Modern
+### No. 4: Hồ sơ / Ảnh đại diện - Tranh Anime Neon Phong cách Retro-Modern
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -842,7 +808,7 @@ Một bức tranh kỹ thuật số anime phong cách retro-modern vẽ một c�
 
 ---
 
-### No. 6: Hồ sơ / Ảnh đại diện - Chân dung anime chi tiết về Maki Zenin
+### No. 5: Hồ sơ / Ảnh đại diện - Chân dung anime chi tiết về Maki Zenin
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -875,7 +841,7 @@ kiệt tác, chất lượng tốt nhất, chân dung anime siêu chi tiết v�
 
 ---
 
-### No. 7: Hồ sơ / Ảnh đại diện - Tranh nghệ thuật Anime: Núi non dưới ánh trăng
+### No. 6: Hồ sơ / Ảnh đại diện - Tranh nghệ thuật Anime: Núi non dưới ánh trăng
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -909,7 +875,7 @@ Tranh kỹ thuật số vẽ một {argument name="subject" default="người ph
 
 ---
 
-### No. 8: Hồ sơ / Ảnh đại diện - Chân dung hoàng hôn trong phòng học
+### No. 7: Hồ sơ / Ảnh đại diện - Chân dung hoàng hôn trong phòng học
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -943,7 +909,7 @@ Những viên ngọc trong ánh sáng. Tâm trí ở một nơi xa xăm [Một b
 
 ---
 
-### No. 9: Hồ sơ / Ảnh đại diện - Minh họa cô gái võ thuật phong cách anime
+### No. 8: Hồ sơ / Ảnh đại diện - Minh họa cô gái võ thuật phong cách anime
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -977,7 +943,7 @@ Một bức minh họa kỹ thuật số phong cách anime về một cô gái {
 
 ---
 
-### No. 10: Hồ sơ / Ảnh đại diện - Chuyển đổi chân dung độ phân giải cao
+### No. 9: Hồ sơ / Ảnh đại diện - Chuyển đổi chân dung độ phân giải cao
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1011,7 +977,7 @@ Chuyển đổi hình ảnh này thành: Ảnh chân dung cận cảnh siêu th�
 
 ---
 
-### No. 11: Hồ sơ / Ảnh đại diện - Ảnh selfie chân thực trước gương tại phòng gym
+### No. 10: Hồ sơ / Ảnh đại diện - Ảnh selfie chân thực trước gương tại phòng gym
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1044,7 +1010,7 @@ Một câu lệnh tạo ảnh siêu thực về khoảnh khắc selfie tự nhi�
 
 ---
 
-### No. 12: Hồ sơ / Ảnh đại diện - Chân dung điện ảnh trong ánh hoàng hôn đô thị
+### No. 11: Hồ sơ / Ảnh đại diện - Chân dung điện ảnh trong ánh hoàng hôn đô thị
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1100,7 +1066,7 @@ Hậu cảnh là một {argument name="background" default="khung cảnh đô th
 
 ---
 
-### No. 13: Hồ sơ / Ảnh đại diện - Chân dung điện ảnh phong cách Netflix
+### No. 12: Hồ sơ / Ảnh đại diện - Chân dung điện ảnh phong cách Netflix
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1134,7 +1100,7 @@ Chân dung điện ảnh phong cách Netflix siêu thực chuẩn IMAX, khung h�
 
 ---
 
-### No. 14: Hồ sơ / Ảnh đại diện - Chân dung Studio với yếm màu xanh mòng két
+### No. 13: Hồ sơ / Ảnh đại diện - Chân dung Studio với yếm màu xanh mòng két
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1168,7 +1134,7 @@ Một gợi ý (prompt) chụp chân dung studio tập trung vào sự phối h�
 
 ---
 
-### No. 15: Hồ sơ / Ảnh đại diện - Minh họa chân dung thiếu nữ tóc xanh mòng két đầy thanh bình
+### No. 14: Hồ sơ / Ảnh đại diện - Minh họa chân dung thiếu nữ tóc xanh mòng két đầy thanh bình
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1202,7 +1168,7 @@ Một gợi ý minh họa theo phong cách hội họa về một người phụ
 
 ---
 
-### No. 16: Hồ sơ / Ảnh đại diện - Chân dung cô gái tóc nâu với kiểu tóc búi tự nhiên
+### No. 15: Hồ sơ / Ảnh đại diện - Chân dung cô gái tóc nâu với kiểu tóc búi tự nhiên
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1236,7 +1202,7 @@ Người phụ nữ trẻ đẹp đến nao lòng với mái tóc {argument name
 
 ---
 
-### No. 17: Hồ sơ / Ảnh đại diện - Ảnh chân dung điện ảnh chân thực
+### No. 16: Hồ sơ / Ảnh đại diện - Ảnh chân dung điện ảnh chân thực
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1270,7 +1236,7 @@ Sử dụng ảnh tôi đã tải lên làm tham chiếu khuôn mặt chính xá
 
 ---
 
-### No. 18: Hồ sơ / Ảnh đại diện - Chân dung tâm hồn phong cách tranh sơn dầu Impasto
+### No. 17: Hồ sơ / Ảnh đại diện - Chân dung tâm hồn phong cách tranh sơn dầu Impasto
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1310,7 +1276,7 @@ Một bức chân dung sơn dầu cận cảnh chất lượng cao về {argumen
 
 ---
 
-### No. 19: Hồ sơ / Ảnh đại diện - Chân dung selfie chân thực với kính đỏ
+### No. 18: Hồ sơ / Ảnh đại diện - Chân dung selfie chân thực với kính đỏ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1359,6 +1325,52 @@ Một câu lệnh chi tiết để tạo ảnh selfie trong nhà siêu thực c�
 - **Ngôn ngữ:** en
 
 **[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=33099)**
+
+---
+
+### No. 19: Hồ sơ / Ảnh đại diện - Chân dung Hijab đầy cảm xúc
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Mô tả
+
+Gợi ý tạo ảnh chân dung cận cảnh nhẹ nhàng, đầy cảm xúc về một người phụ nữ đội khăn hijab màu hồng bụi, tập trung vào ánh sáng ấm áp và các kết cấu tinh tế.
+
+#### 📝 Câu lệnh
+
+```
+Một bức chân dung cận cảnh nhẹ nhàng về một phụ nữ trẻ Đông Á với làn da trắng mịn và ánh nhìn dịu dàng, hơi nghiêng về phía máy ảnh. Cô có đôi mắt to, sẫm màu với hàng mi dài cong vút, kẻ mắt cánh mềm mại, lông mày cong sắc nét, má hồng phớt nhẹ và đôi môi hồng bóng tự nhiên. Cô đang đội một chiếc khăn {argument name="hijab color" default="hijab màu hồng bụi nhạt (hồng tím)"} làm từ chất liệu vải mềm, hơi nhăn, được quàng lỏng quanh đầu và cổ, với những nếp gấp nhẹ nhàng ôm lấy khuôn mặt. Cô mặc một chiếc {argument name="top style" default="áo dài tay ôm sát màu trắng có gân"} với phần cổ tay bèo nhún tinh tế. Một bàn tay hơi đưa lên gần ngực, các ngón tay chạm nhẹ vào khăn hijab. Ánh sáng trong nhà dịu nhẹ, ấm áp tạo nên những bóng đổ nhẹ ở phía bên phải khuôn mặt và làm làn da cô thêm rạng rỡ. Hậu cảnh được làm mờ nhẹ với {argument name="background details" default="rèm cửa màu nâu xanh trầm và một vài bức ảnh nhỏ được ghim trên tường"}. Thẩm mỹ gần gũi, tự nhiên, mềm mại, độ chi tiết cao, kết cấu da chân thực, ánh sáng điện ảnh dịu nhẹ, độ sâu trường ảnh nông.
+```
+
+#### 🖼️ Hình ảnh được tạo
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1788245875372_zfo7q9_HQx3lCHbQAAsxgF.jpg" width="600" alt="Hồ sơ / Ảnh đại diện - Chân dung Hijab đầy cảm xúc - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1788245875355_ht73di_HQx3lCKagAA7wua.jpg" width="600" alt="Hồ sơ / Ảnh đại diện - Chân dung Hijab đầy cảm xúc - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1788245875358_3imeom_HQx3lB8aIAAWj98.jpg" width="600" alt="Hồ sơ / Ảnh đại diện - Chân dung Hijab đầy cảm xúc - Image 3">
+</div>
+
+#### 📌 Chi tiết
+
+- **Tác giả:** [Feyber](https://x.com/woleswoosh)
+- **Nguồn:** [Twitter Post](https://x.com/woleswoosh/status/2094334380466725117)
+- **Đã xuất bản:** 31 tháng 8, 2026
+- **Ngôn ngữ:** en
+
+**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=33095)**
 
 ---
 
@@ -5642,7 +5654,7 @@ Một câu lệnh (prompt) có cấu trúc phức tạp dùng để tạo hình 
 
 <div align="center">
 
-### 🎯 15389 câu lệnh khác không hiển thị ở đây
+### 🎯 15388 câu lệnh khác không hiển thị ở đây
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -5705,6 +5717,6 @@ Xem [CONTRIBUTING.md](docs/CONTRIBUTING.md) để biết hướng dẫn chi ti�
 **[📝 Gửi một câu lệnh](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-09-04T08:03:59.463Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-09-04T12:04:24.965Z</sub>
 
 </div>
