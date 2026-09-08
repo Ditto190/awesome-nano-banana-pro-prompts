@@ -143,9 +143,9 @@ Lors de l'utilisation dans Raycast, vous pouvez remplacer dynamiquement les argu
 
 | Métrique | Nombre |
 |--------|-------|
-| 📝 Total des prompts | **15581** |
+| 📝 Total des prompts | **15576** |
 | ⭐ En vedette | **9** |
-| 🔄 Dernière mise à jour | **mardi 8 septembre 2026 à 08:05:02 UTC** |
+| 🔄 Dernière mise à jour | **mardi 8 septembre 2026 à 12:05:39 UTC** |
 
 </div>
 
@@ -1411,58 +1411,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 21: Publication sur les réseaux sociaux - Bannière d'annonce de campagne de cadeaux
-
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Description
-
-Une bannière d'annonce plate 2D pour les réseaux sociaux, conçue pour les campagnes de cadeaux, idéale pour l'engagement et les promotions.
-
-#### 📝 Prompt
-
-```
-[Informations sur la campagne]
-- Nom de la campagne : {argument name="campaign name" default="{campaignName}"}
-- Liste des prix : {argument name="prizes" default="{prizes}"}
-- Conditions/Étapes de participation : {argument name="entry steps" default="{entrySteps}"}
-
-[Qualité de l'image, présentation, spécifications de composition]
-- Style : Bannière promotionnelle pour réseaux sociaux, style pop, lumineux et convivial. Design accrocheur.
-- Sujet : Illustrations ou photos réalistes des {argument name="prizes" default="{prizes}"} sortant d'un coffret cadeau, entourés de rubans glamour et de décorations en forme d'étoiles, représentés au centre.
-- Couleurs/Ton : Tons pastel de rose vif, jaune, bleu clair, etc., créant un sentiment d'enthousiasme.
-- Informations textuelles (pour GPT-image / Nano Banana Pro) : Le texte {argument name="campaign name" default="{campaignName}"} en haut de l'écran et les étapes de participation simples {argument name="entry steps" default="{entrySteps}"} en bas sont clairement disposés dans une police épaisse, mignonne et arrondie.
-- Éclairage : Éclairage plat, uniforme et lumineux avec des ombres adoucies.
-
-[Contraintes strictes sur la mise en page et le rendu (Obligatoire)]
-- Produisez le design fini lui-même, en remplissant tout le canevas. L'arrière-plan et les représentations de scènes à l'intérieur du design (murs, espaces, ombres) peuvent suivre les instructions du texte principal.
-- Éléments interdits : Photos de l'affiche finie dans un cadre, photos de l'affiche collée sur un mur, photos de maquettes posées sur un bureau ou du papier, distorsion de perspective des bords du papier ou ombres portées.
-- Produisez le design 2D plat fini lui-même, en remplissant tout le canevas. Les éléments de scène à l'intérieur du design (murs, pièces, ombres) décrits ci-dessus sont autorisés. Absolument AUCUNE maquette de type "photo d'affiche" : pas de cadres photo, pas de photos d'affiches sur un mur ou sur un bureau, pas de déformation de perspective ni d'ombre portée autour des bords de l'illustration.
-
-- Format d'image : "--ar 1:1" ou "--ar 16:9"
-```
-
-#### 🖼️ Images générées
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788849681927_xhuq03_HRqxQLYakAE3uBb.jpg" width="600" alt="Publication sur les réseaux sociaux - Bannière d'annonce de campagne de cadeaux - Image 1">
-</div>
-
-#### 📌 Détails
-
-- **Auteur:** [AI Guide-Note - 実務で使えるAI活用メディア](https://x.com/AIGuideNote)
-- **Source:** [Twitter Post](https://x.com/AIGuideNote/status/2097183473601569109)
-- **Publié:** 8 septembre 2026
-- **Langues:** ja
-
-**[👉 Essayer maintenant →](https://youmind.com/fr-FR/nano-banana-pro-prompts?id=33795)**
-
----
-
-### No. 22: Publication sur les réseaux sociaux - Portrait à double exposition : moto et coucher de soleil
+### No. 21: Publication sur les réseaux sociaux - Portrait à double exposition : moto et coucher de soleil
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1496,7 +1445,7 @@ Une image 3D photoréaliste d'un jeune homme élégant posant à côté d'une mo
 
 ---
 
-### No. 23: Publication sur les réseaux sociaux - Portrait studio lookbook est-asiatique, studio cramoisi
+### No. 22: Publication sur les réseaux sociaux - Portrait studio lookbook est-asiatique, studio cramoisi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1529,7 +1478,7 @@ Portrait studio haute couture d'une jeune femme est-asiatique élégante posant 
 
 ---
 
-### No. 24: Publication sur les réseaux sociaux - Portrait en pied d'une femme en robe moulante rouge
+### No. 23: Publication sur les réseaux sociaux - Portrait en pied d'une femme en robe moulante rouge
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1562,7 +1511,7 @@ Créer une image d'une femme russe athlétique de 20 ans posant avec assurance d
 
 ---
 
-### No. 25: Publication sur les réseaux sociaux - Portrait style urbain en automne avec iPhone
+### No. 24: Publication sur les réseaux sociaux - Portrait style urbain en automne avec iPhone
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1609,7 +1558,7 @@ La perspective doit donner l'impression d'une vraie photographie capturée avec 
 
 ---
 
-### No. 26: Publication sur les réseaux sociaux - Portrait lifestyle mode avec bouquet
+### No. 25: Publication sur les réseaux sociaux - Portrait lifestyle mode avec bouquet
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1642,7 +1591,7 @@ Portrait lifestyle mode ultra-détaillé d'une femme tenant un bouquet en extér
 
 ---
 
-### No. 27: Publication sur les réseaux sociaux - Modification d'arrière-plan : Skyline de Londres
+### No. 26: Publication sur les réseaux sociaux - Modification d'arrière-plan : Skyline de Londres
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1676,7 +1625,7 @@ Remplace les lumières urbaines de l'arrière-plan par {argument name="city" def
 
 ---
 
-### No. 28: Publication sur les réseaux sociaux - Photographie lifestyle de bateau inspirée de Slim Aarons
+### No. 27: Publication sur les réseaux sociaux - Photographie lifestyle de bateau inspirée de Slim Aarons
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1709,7 +1658,7 @@ Un jeune homme séduisant et confiant est assis bien droit, légèrement penché
 
 ---
 
-### No. 29: Publication sur les réseaux sociaux - Portrait studio éditorial : costume rouille
+### No. 28: Publication sur les réseaux sociaux - Portrait studio éditorial : costume rouille
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1761,6 +1710,40 @@ Environnement : {argument name="setting" default="Studio intérieur minimaliste 
 
 ---
 
+### No. 29: Publication sur les réseaux sociaux - Mème absurde avec légende personnalisée
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Description
+
+Un prompt simple pour générer une image de style mème absurde avec une légende dans une police sans-serif spécifique.
+
+#### 📝 Prompt
+
+```
+mème absurde avec la légende : {argument name="caption" default="sans serif"}
+```
+
+#### 🖼️ Images générées
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1788764296027_iudgum_HRf0jFHaMAAkukf.jpg" width="600" alt="Publication sur les réseaux sociaux - Mème absurde avec légende personnalisée - Image 1">
+</div>
+
+#### 📌 Détails
+
+- **Auteur:** [larped](https://x.com/_larpGPT)
+- **Source:** [Twitter Post](https://x.com/_larpGPT/status/2096413501770359093)
+- **Publié:** 6 septembre 2026
+- **Langues:** en
+
+**[👉 Essayer maintenant →](https://youmind.com/fr-FR/nano-banana-pro-prompts?id=33559)**
+
+---
+
 ### No. 30: Infographie / Visuel éducatif - Caricature satirique britannique d'époque
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
@@ -1794,95 +1777,7 @@ Une caricature britannique d'époque dépeint une femme arborant une coiffure é
 
 ---
 
-### No. 31: Infographie / Visuel éducatif - Gros plan macro d'un chèque bancaire usé
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Description
-
-Prompt pour appareil photo reflex numérique (DSLR) visant à obtenir une photo réaliste d'un chèque bancaire usé posé sur un bureau rayé, avec une écriture manuscrite humaine personnalisée.
-
-#### 📝 Prompt
-
-```
-"Une photographie macro en gros plan hautement réaliste d'un chèque bancaire JP Morgan Chase utilisé et physiquement usé, posé sur un bureau en bois rayé. Le chèque est entièrement rempli au stylo à bille bleu. L'écriture est distinctement humaine, désordonnée, légèrement inclinée et stylisée de manière unique avec une pression d'encre irrégulière et de légers manques, évitant totalement toute apparence de police d'écriture uniforme ou informatisée. La date inscrite est '{argument name="date" default="1er mai 2026"}'. La signature en bas à droite indique clairement '{argument name="signature" default="iqrasaifiAI"}' dans une écriture cursive rapide, authentique et légèrement erratique. Le papier du chèque présente une usure physique importante : plis horizontaux et verticaux visibles, coins pliés et effilochés, légères taches de saleté et subtiles taches de café estompées. Un stylo à bille noir bon marché est légèrement flou en arrière-plan. Prise de vue au reflex numérique (DSLR), objectif 50 mm, lumière du jour naturelle projetant des ombres douces et réalistes, résolution 8k.",
-    "negative_prompt": "papier immaculé, plat, neuf, police informatisée, écriture parfaite, texte dactylographié, écriture sans défaut, art vectoriel, illustration, dessin animé, éclairage artificiel, filigrane, bords nets.",
-    "aspect_ratio": "16:9",
-    "style_preset": "photographique",
-    "seed": "aléatoire"
-```
-
-#### 🖼️ Images générées
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788849672097_gxpk7u_HRnhBSnbcAA1MjT.jpg" width="600" alt="Infographie / Visuel éducatif - Gros plan macro d'un chèque bancaire usé - Image 1">
-</div>
-
-#### 📌 Détails
-
-- **Auteur:** [Iqra Saifi](https://x.com/IqrasaifiAI)
-- **Source:** [Twitter Post](https://x.com/IqrasaifiAI/status/2096954546698506427)
-- **Publié:** 7 septembre 2026
-- **Langues:** en
-
-**[👉 Essayer maintenant →](https://youmind.com/fr-FR/nano-banana-pro-prompts?id=33780)**
-
----
-
-### No. 32: Infographie / Visuel éducatif - Flyer pour événement d'art moderne
-
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Description
-
-Un prompt épuré et minimaliste pour concevoir des affiches d'événements artistiques mêlant objets géométriques abstraits, photographie architecturale et typographie moderne.
-
-#### 📝 Prompt
-
-```
-[Informations sur l'événement]
-- Nom de l'événement : {argument name="event name" default="Margin and Structure"}
-- Date et heure : {argument name="date" default="12 octobre – 24 novembre 2026"}
-- Lieu : {argument name="venue" default="Musée national d'art moderne"}
-
-[Qualité, direction et composition]
-- Style : Une affiche pour une exposition d'art contemporain ou un événement de design moderne, présentant une mise en page éditoriale épurée et minimaliste.
-- Éléments visuels : Photographie magnifiquement composée mettant en vedette des objets d'art géométriques et abstraits ou des espaces architecturaux en béton et en verre, évoquant un sentiment de silence et d'intelligence.
-- Placement de la typographie (pour GPT-image / Nano Banana Pro) : Le nom de l'événement "{argument name="event name" default="Margin and Structure"}", la date "{argument name="date" default="12 octobre – 24 novembre 2026"}" et les informations sur le lieu "{argument name="venue" default="Musée national d'art moderne"}" sont magnifiquement disposés dans les espaces vides en utilisant une police sans-serif moderne et sophistiquée. Le texte s'harmonise avec l'image sans nuire à sa beauté globale.
-- Éclairage et couleurs : Un espace épuré à base de blanc, une lumière naturelle froide avec de doux dégradés de lumière, et des tons neutres avec des couleurs d'accentuation (par exemple, bleu marine ou gris foncé).
-
-[Contraintes strictes de mise en page et de sortie (obligatoire)]
-- Produisez le design fini lui-même, en remplissant tout le canevas. Les descriptions de scène à l'intérieur du design (murs, espaces, ombres, etc.) peuvent suivre les instructions principales.
-- Interdictions : Photos de l'affiche finie dans un cadre, photos de celle-ci collée sur un mur, photos de maquettes placées sur un bureau ou du papier, distorsion de perspective des bords du papier ou ombres portées.
-- Produisez le design 2D plat fini lui-même, en remplissant tout le canevas. Les éléments de scène à l'intérieur du design (murs, pièces, ombres) décrits ci-dessus sont autorisés. Absolument AUCUNE maquette de type "photo d'une affiche" : pas de cadres photo, pas de photos d'affiche sur un mur ou sur un bureau, pas de déformation de perspective ou d'ombre portée autour des bords de l'œuvre.
-
-- Format : --ar 3:4
-```
-
-#### 🖼️ Images générées
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788849667340_i09yi7_HRkDeDnacAAQ8aU.jpg" width="600" alt="Infographie / Visuel éducatif - Flyer pour événement d'art moderne - Image 1">
-</div>
-
-#### 📌 Détails
-
-- **Auteur:** [AI Guide-Note - 実務で使えるAI活用メディア](https://x.com/AIGuideNote)
-- **Source:** [Twitter Post](https://x.com/AIGuideNote/status/2096710919900582307)
-- **Publié:** 6 septembre 2026
-- **Langues:** ja
-
-**[👉 Essayer maintenant →](https://youmind.com/fr-FR/nano-banana-pro-prompts?id=33672)**
-
----
-
-### No. 33: Infographie / Visuel éducatif - Infographie du rapport sur le chiffre d'affaires de l'entreprise
+### No. 31: Infographie / Visuel éducatif - Infographie du rapport sur le chiffre d'affaires de l'entreprise
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1916,7 +1811,7 @@ Créez une infographie épurée résumant {argument name="subject" default="le r
 
 ---
 
-### No. 34: Infographie / Visuel éducatif - Collage éditorial de carnet de voyage vintage
+### No. 32: Infographie / Visuel éducatif - Collage éditorial de carnet de voyage vintage
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1949,7 +1844,7 @@ Créez un collage éditorial de carnet de voyage japonais vintage haut de gamme 
 
 ---
 
-### No. 35: Infographie / Visuel éducatif - Mise en page de storyboard culinaire éditorial
+### No. 33: Infographie / Visuel éducatif - Mise en page de storyboard culinaire éditorial
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1987,7 +1882,7 @@ Utilisez des flèches courbes blanches claires, des lignes de mouvement et des �
 
 ---
 
-### No. 36: Infographie / Visuel éducatif - Collage de carnet de voyage vintage
+### No. 34: Infographie / Visuel éducatif - Collage de carnet de voyage vintage
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2039,7 +1934,7 @@ Créez un collage éditorial de carnet de voyage japonais vintage haut de gamme 
 
 ---
 
-### No. 37: Infographie / Visuel éducatif - Affiche de l'atlas culturel régional
+### No. 35: Infographie / Visuel éducatif - Affiche de l'atlas culturel régional
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2119,7 +2014,7 @@ hémisphère sud codé en dur, petits-déjeuners fixes, aliments fixes, pays fix
 
 ---
 
-### No. 38: Infographie / Visuel éducatif - Illustration de page de coloriage fantaisiste
+### No. 36: Infographie / Visuel éducatif - Illustration de page de coloriage fantaisiste
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2153,7 +2048,7 @@ Un dessin au trait noir et blanc présente le texte "{argument name="quote" defa
 
 ---
 
-### No. 39: Infographie / Visuel éducatif - Photographie professionnelle de tacos au bœuf
+### No. 37: Infographie / Visuel éducatif - Photographie professionnelle de tacos au bœuf
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2186,7 +2081,7 @@ Une photographie de produit professionnelle de haute qualité représentant troi
 
 ---
 
-### No. 40: Infographie / Visuel éducatif - Infographie produit : Milkshake
+### No. 38: Infographie / Visuel éducatif - Infographie produit : Milkshake
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2219,7 +2114,7 @@ Une photographie produit professionnelle de haute qualité d'un milkshake à la 
 
 ---
 
-### No. 41: Infographie / Visuel éducatif - Photographie animalière de hamster d'Europe
+### No. 39: Infographie / Visuel éducatif - Photographie animalière de hamster d'Europe
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2253,7 +2148,7 @@ Un gros plan à hauteur d'œil capture un {argument name="animal type" default="
 
 ---
 
-### No. 42: Infographie / Visuel éducatif - Illustration réaliste de dodo
+### No. 40: Infographie / Visuel éducatif - Illustration réaliste de dodo
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2287,7 +2182,7 @@ un {argument name="bird species" default="dodo"}. Son corps est dodu et arrondi,
 
 ---
 
-### No. 43: Infographie / Visuel éducatif - Page produit mobile e-commerce pour chaise de bureau ergonomique
+### No. 41: Infographie / Visuel éducatif - Page produit mobile e-commerce pour chaise de bureau ergonomique
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2321,7 +2216,7 @@ Une page produit e-commerce mobile unique, continue et complète pour une chaise
 
 ---
 
-### No. 44: Infographie / Visuel éducatif - Diorama de livre pop-up miniature
+### No. 42: Infographie / Visuel éducatif - Diorama de livre pop-up miniature
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2352,6 +2247,74 @@ Grille 2x2, 16:9, appliquez ceci pour 4 {argument name="subject" default="villes
 - **Langues:** en
 
 **[👉 Essayer maintenant →](https://youmind.com/fr-FR/nano-banana-pro-prompts?id=30214)**
+
+---
+
+### No. 43: Infographie / Visuel éducatif - Design graphique d'alphabet rétro des années 1970
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Description
+
+Un prompt détaillé pour générer un ensemble d'alphabet fantaisiste dans un style graphique des années 1970, mettant en vedette des polices arrondies ludiques, des contours épais et des décorations pastel vibrantes.
+
+#### 📝 Prompt
+
+```
+Une collection de lettres de l'alphabet, {argument name="letters" default="de A à Z"} et d'éléments décoratifs sont disposés en rangées sur un {argument name="background color" default="fond blanc"}. Les lettres sont dans une police ludique et arrondie avec des contours noirs épais et des couleurs pastel vibrantes. Plusieurs lettres sont stylisées avec des graphismes associés : fleurs, éclats d'étoiles, cœurs, nœuds, paillettes. On trouve également des éléments floraux et des éclats d'étoiles dispersés dans toute la composition. Le style général rappelle le design graphique de {argument name="design era" default="années 1970"}, avec une esthétique joyeuse et fantaisiste.
+```
+
+#### 🖼️ Images générées
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1784963088586_p7yftd_HN5zRI_WAAABKw4.jpg" width="600" alt="Infographie / Visuel éducatif - Design graphique d'alphabet rétro des années 1970 - Image 1">
+</div>
+
+#### 📌 Détails
+
+- **Auteur:** [Heather Green](https://x.com/heathergreen)
+- **Source:** [Twitter Post](https://x.com/heathergreen/status/2080337142606111129)
+- **Publié:** 23 juillet 2026
+- **Langues:** en
+
+**[👉 Essayer maintenant →](https://youmind.com/fr-FR/nano-banana-pro-prompts?id=29664)**
+
+---
+
+### No. 44: Infographie / Visuel éducatif - Art en pop-up pour magazine Voxel
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Description
+
+Un prompt créatif de macrophotographie pour une mise en page de magazine mettant en scène un modèle 3D en voxel ou en argile surgissant des pages.
+
+#### 📝 Prompt
+
+```
+Grille 2x2, 16:9, faire ceci pour un espace public, livres libres de droits : { "Scene_Type": "Macrophotographie d'une double page de magazine ouverte", "Topic": "{argument name=\"franchise\" default=\"[FRANCHISE]\"} - {argument name=\"scene\" default=\"[SCENE]\"}", "AI_Semantic_Inference": { "The_Pop_Up": "Un bloc 3D isométrique très détaillé en voxel/argile représentant [SCENE] surgissant des pages glacées du magazine.", "The_Layout": "Les marges gauche et droite présentent des colonnes de texte éditorial, des titres en gras et des encadrés 'Secret Stats'.", "The_Callouts": "Cercles rouges dessinés autour de AI_INFER(easter eggs cachés dans le modèle 3D), avec des lignes rouges les reliant au texte en marge 2D." }, "Aesthetic": "Texture de papier légèrement glacé, couleurs vives, mélange tactile satisfaisant entre support imprimé 2D et art isométrique 3D." }
+```
+
+#### 🖼️ Images générées
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1784790709051_m3gcao_HNEgWh8XsAAGxv2.jpg" width="600" alt="Infographie / Visuel éducatif - Art en pop-up pour magazine Voxel - Image 1">
+</div>
+
+#### 📌 Détails
+
+- **Auteur:** [Gadgetify](https://x.com/Gdgtify)
+- **Source:** [Twitter Post](https://x.com/Gdgtify/status/2079934742581887010)
+- **Publié:** 22 juillet 2026
+- **Langues:** en
+
+**[👉 Essayer maintenant →](https://youmind.com/fr-FR/nano-banana-pro-prompts?id=29465)**
 
 ---
 
@@ -4062,60 +4025,7 @@ Publicité culinaire italienne ultra-réaliste, texture de pâtes authentique, v
 
 ---
 
-### No. 81: Marketing produit - Visuel de produit pour campagne de boissons et produits surgelés
-
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Description
-
-Une mise en page promotionnelle dynamique et rafraîchissante, idéale pour les campagnes de marques de boissons ou d'alimentation et les supports numériques.
-
-#### 📝 Prompt
-
-```
-[Produit/Emballage]
-- Nom/Genre du produit : {argument name="product name" default="{productName}"}
-- Accroche : {argument name="tagline" default="{subText}"}
-
-[Concept visuel]
-- Éléments visuels d'arrière-plan : {argument name="background element" default="{circleColor}"}
-
-[Qualité d'image, présentation, spécifications de composition]
-- Style : Visuel clé de campagne type « pop » et vif, inspiré des supérettes japonaises ou des fabricants agroalimentaires. Sensation de fraîcheur intense et fort impact visuel.
-- Sujet : Une canette, une bouteille ou un emballage de {argument name="product name" default="{productName}"} placé au centre. Des éclats de glace, des gouttelettes d'eau, des éclaboussures ou des ingrédients frais (feuilles de thé ou fruits) sont projetés dynamiquement autour du produit.
-- Arrière-plan : Un fond uni ou dégradé à fort contraste avec {argument name="background element" default="{circleColor}"} positionné comme élément graphique principal.
-- Typographie (pour GPT-image / Nano Banana Pro) : Le texte {argument name="tagline" default="{subText}"} est placé dans une police épaisse et énergique, à un endroit qui ne chevauche pas le produit.
-- Éclairage/Couleurs : Éclairage studio lumineux et vif, reflets cristallins et composition colorée énergique.
-
-[Contraintes strictes sur la mise en page et le rendu (Obligatoire)]
-- Produisez le design final lui-même, en remplissant tout le canevas. L'arrière-plan et les représentations de scène à l'intérieur du design (murs, espaces, ombres) peuvent suivre les instructions du texte principal.
-- Éléments interdits : Photos de l'affiche finie dans un cadre, photos de l'affiche collée sur un mur, maquettes posées sur un bureau ou du papier, distorsion de perspective des bords du papier ou ombres portées.
-- Produisez le design 2D plat final lui-même, en remplissant tout le canevas. Les éléments de scène à l'intérieur du design (murs, pièces, ombres) décrits ci-dessus sont autorisés. Absolument AUCUNE maquette de type « photo d'affiche » : pas de cadres photo, pas de photos d'affiches sur un mur ou un bureau, pas de déformation de perspective ni d'ombre portée autour des bords de l'illustration.
-
-- Format : --ar 16:9
-```
-
-#### 🖼️ Images générées
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788849682151_036pa8_HRou6robsAABh1d.jpg" width="600" alt="Marketing produit - Visuel de produit pour campagne de boissons et produits surgelés - Image 1">
-</div>
-
-#### 📌 Détails
-
-- **Auteur:** [AI Guide-Note - 実務で使えるAI活用メディア](https://x.com/AIGuideNote)
-- **Source:** [Twitter Post](https://x.com/AIGuideNote/status/2097040165009252374)
-- **Publié:** 7 septembre 2026
-- **Langues:** ja
-
-**[👉 Essayer maintenant →](https://youmind.com/fr-FR/nano-banana-pro-prompts?id=33796)**
-
----
-
-### No. 82: Marketing produit - Gros plan mode : casquette rouge
+### No. 81: Marketing produit - Gros plan mode : casquette rouge
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4149,57 +4059,7 @@ Cadrage serré mode ultra-réaliste d'un mannequin portant {argument name="headw
 
 ---
 
-### No. 83: Marketing produit - Grille de mise en page « Flat Lay » pour boutique e-commerce
-
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Description
-
-Une mise en page élégante conçue pour les lookbooks e-commerce de mode et d'habillement, présentant des articles organisés à plat sur un sol en béton ou en bois.
-
-#### 📝 Prompt
-
-```
-[Informations sur la marque/le produit]
-- Nom de la marque : {argument name="brand name" default="{brandName}"}
-- Nom de la collection : {argument name="collection" default="{collection}"}
-- Prix typique de l'article : {argument name="item price" default="{backpackPrice}"}
-
-[Spécifications de qualité d'image, de présentation et de composition]
-- Style : Photo de lookbook minimaliste et sophistiquée pour le site e-commerce d'une marque de mode/lifestyle japonaise.
-- Composition : Une vue à plat ou une présentation ordonnée d'articles vestimentaires (sacs, vêtements d'extérieur, chaussures, etc.) disposés soigneusement sur un parquet ou un sol en béton dans un studio éclairé par la lumière naturelle.
-- Mise en page typographique (pour GPT-image / Nano Banana Pro) : Discrètement dans le coin de la toile, le nom de la marque {argument name="brand name" default="{brandName}"}, le texte {argument name="collection" default="{collection}"} et l'indication du prix {argument name="item price" default="{backpackPrice}"} sont disposés dans une police ultra-fine.
-- Éclairage/Couleurs : Lumière très douce rappelant la lumière naturelle d'une journée nuageuse, faible contraste, ton calme basé sur des couleurs terreuses (beige, olive, gris anthracite, blanc cassé).
-
-[Contraintes strictes sur la mise en page et le rendu (Obligatoire)]
-- Produisez le design fini lui-même, en remplissant toute la toile. L'arrière-plan et les représentations de scènes à l'intérieur du design (murs, espaces, ombres) peuvent suivre les instructions du texte principal.
-- Éléments interdits : Photos de l'affiche finie dans un cadre, photos de celle-ci collée sur un mur, photos de maquettes posées sur un bureau ou du papier, distorsion de perspective des bords du papier ou ombres portées.
-- Produisez le design 2D plat fini lui-même, en remplissant toute la toile. Les éléments de scène à l'intérieur du design (murs, pièces, ombres) décrits ci-dessus sont autorisés. Absolument AUCUNE maquette de type « photo d'affiche » : pas de cadres photo, pas de photos d'affiches sur un mur ou sur un bureau, pas de déformation de perspective ou d'ombre portée autour des bords de l'œuvre.
-
-- Format d'image : « --ar 1:1 » ou « --ar 4:3 »
-```
-
-#### 🖼️ Images générées
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788849683615_nihnzw_HRm1opdXQAEwb6-.jpg" width="600" alt="Marketing produit - Grille de mise en page « Flat Lay » pour boutique e-commerce - Image 1">
-</div>
-
-#### 📌 Détails
-
-- **Auteur:** [AI Guide-Note - 実務で使えるAI活用メディア](https://x.com/AIGuideNote)
-- **Source:** [Twitter Post](https://x.com/AIGuideNote/status/2096906819713081810)
-- **Publié:** 7 septembre 2026
-- **Langues:** ja
-
-**[👉 Essayer maintenant →](https://youmind.com/fr-FR/nano-banana-pro-prompts?id=33797)**
-
----
-
-### No. 84: Marketing produit - Affiche éditoriale de mode premium
+### No. 82: Marketing produit - Affiche éditoriale de mode premium
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4233,7 +4093,7 @@ Créez une affiche éditoriale de mode premium et hyper-réaliste en utilisant l
 
 ---
 
-### No. 85: Marketing produit - Affiche surréaliste pour la marque Rolex
+### No. 83: Marketing produit - Affiche surréaliste pour la marque Rolex
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4274,7 +4134,7 @@ Format : 3:4.
 
 ---
 
-### No. 86: Marketing produit - Portrait éditorial pour magazine culturel
+### No. 84: Marketing produit - Portrait éditorial pour magazine culturel
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4328,7 +4188,7 @@ Un prompt sophistiqué pour créer des portraits éditoriaux dans le style des m
 
 ---
 
-### No. 87: Marketing produit - Moment romantique dans une ville sous la pluie
+### No. 85: Marketing produit - Moment romantique dans une ville sous la pluie
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4362,7 +4222,7 @@ Un cliché réaliste de style éditorial représentant une femme en trench-coat 
 
 ---
 
-### No. 88: Marketing produit - Couverture de magazine de luxe style Vogue
+### No. 86: Marketing produit - Couverture de magazine de luxe style Vogue
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4437,7 +4297,7 @@ Composition : cadrage vertical de couverture de magazine, sujet centré et domin
 
 ---
 
-### No. 89: Marketing produit - Portrait éditorial streetwear des années 90
+### No. 87: Marketing produit - Portrait éditorial streetwear des années 90
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4468,6 +4328,74 @@ Un {argument name="subject" default="jeune mannequin masculin"} est capturé en 
 - **Langues:** en
 
 **[👉 Essayer maintenant →](https://youmind.com/fr-FR/nano-banana-pro-prompts?id=33666)**
+
+---
+
+### No. 88: Marketing produit - Portrait studio avec gant en résille rouge
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Description
+
+Un portrait de mode en studio symétrique mettant en avant des éléments rouges monochromatiques et un accessoire de gant translucide distinctif.
+
+#### 📝 Prompt
+
+```
+Portrait de mode en studio, visage complet d'une femme regardant directement l'objectif, une main portant un {argument name="glove style" default="gant en résille rouge translucide"} pressée contre son visage et couvrant partiellement un œil. La composition est symétrique et centrée, cadrée au niveau des épaules. Elle porte une {argument name="clothing" default="veste structurée rouge vif"} aux épaules marquées, des bijoux en perles et une bague en perles. Son maquillage présente un teint mat, des cils définis et des lèvres rouge bordeaux intense. L'arrière-plan est uni, de couleur {argument name="background color" default="rouge monochromatique"}. L'éclairage est une lumière frontale douce de studio contrôlée avec un léger décalage latéral. Très détaillé, photoréaliste, style objectif 50 mm, traitement numérique net.
+```
+
+#### 🖼️ Images générées
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1788676675240_lvuth2_HRWjQOoa0AAgLo5.jpg" width="600" alt="Marketing produit - Portrait studio avec gant en résille rouge - Image 1">
+</div>
+
+#### 📌 Détails
+
+- **Auteur:** [dreamy digital arts](https://x.com/dreamydigiarts)
+- **Source:** [Twitter Post](https://x.com/dreamydigiarts/status/2096191617988219098)
+- **Publié:** 5 septembre 2026
+- **Langues:** en
+
+**[👉 Essayer maintenant →](https://youmind.com/fr-FR/nano-banana-pro-prompts?id=33568)**
+
+---
+
+### No. 89: Marketing produit - Éditorial : Reflets cinématographiques dans un miroir
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Description
+
+Un prompt pour éditorial de mode qui préserve l'identité faciale d'une image de référence tout en créant des reflets sophistiqués dans un studio de luxe.
+
+#### 📝 Prompt
+
+```
+Générez un portrait de studio cinématographique sophistiqué de {argument name="subject" default="l'homme élégant"} téléchargé, debout entre deux immenses {argument name="background elements" default="miroirs sombres et réfléchissants"}, créant de multiples reflets élégants qui s'estompent en arrière-plan. Il porte un {argument name="outfit" default="costume entièrement noir, des lunettes de soleil et des bottes cirées"}, posant avec assurance, une main dans la poche. Éclairage tamisé, projecteur subtil sur le sujet, atmosphère de luxe mystérieuse, éditorial de mode ultra-réaliste, détails nets, profondeur cinématographique, 8K, format vertical 4:5. Maintenez le visage exactement identique à celui de la photo téléchargée.
+```
+
+#### 🖼️ Images générées
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1788591088834_qydxlq_HRbUJ6baAAA41m9.jpg" width="600" alt="Marketing produit - Éditorial : Reflets cinématographiques dans un miroir - Image 1">
+</div>
+
+#### 📌 Détails
+
+- **Auteur:** [Muhammad Jamil](https://x.com/JamilAI55)
+- **Source:** [Twitter Post](https://x.com/JamilAI55/status/2096096086658371698)
+- **Publié:** 5 septembre 2026
+- **Langues:** en
+
+**[👉 Essayer maintenant →](https://youmind.com/fr-FR/nano-banana-pro-prompts?id=33469)**
 
 ---
 
@@ -5199,7 +5127,71 @@ Créez un rendu photoréaliste de qualité studio reprenant exactement le design
 
 ---
 
-### No. 107: Ressource de jeu - Génération SQL de dioramas d'artefacts
+### No. 107: Image principale du e-commerce - Prompt maître pour cluster de produits de luxe
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Description
+
+Un prompt maître sophistiqué conçu pour le rendu de plusieurs produits sous forme de cluster 3D dense et haut de gamme avec des textures réalistes.
+
+#### 📝 Prompt
+
+```
+Gros plan extrême, rendu Blender + Octane hautement détaillé des images de produits jointes, disposées sous forme de {argument name="composition style" default="cluster 3D dense et flottant avec chevauchements"}. Utilisez les produits exacts montrés sur les photos jointes, en préservant fidèlement leurs couleurs, matériaux, logos, étiquettes, textures et proportions tels qu'ils ont été photographiés. N'inventez, ne substituez et ne réinterprétez aucun produit de manière générique ; rendez-les comme des versions 3D fidèles aux références fournies.
+
+Composition : les objets se chevauchent et flottent dans un cluster macro serré, chacun captant la lumière sous un angle différent, créant un effet de profondeur de champ stratifié avec l'objet le plus proche parfaitement net et les autres se fondant doucement dans le flou d'arrière-plan.
+
+Entrelacés dans tout le cluster : de longs rubans enroulés de {argument name="decorative element" default="ruban de confettis métalliques"} et de fins rubans soyeux, se faufilant entre et derrière les objets, captant des reflets spéculaires au fil de leurs courbes dans le cadre.
+
+Matériaux et rendu : mettez l'accent sur les textures contrastées fidèles à chaque produit joint : métal brossé ou poli, éclat et plis de tissus doux, verre avec caustiques complexes et réfractions si un liquide transparent est présent, surfaces cireuses ou mates, plastique brillant ou laqué, le tout rendu avec des réflexions, réfractions et occlusions d'ombres douces physiquement précises.
+
+Arrière-plan : un {argument name="background lighting" default="dégradé sophistiqué aux tons multiples"}, construit de manière créative à partir des couleurs dominantes et d'accentuation réellement présentes dans les images de produits jointes. Analysez la palette des photos jointes (couleur principale de l'objet, couleur de l'emballage, tons métalliques ou d'accentuation) et construisez un dégradé fluide et atmosphérique qui effectue une transition entre 2 à 3 de ces tons extraits, le ton le plus profond/froid sur le bord inférieur, le ton le plus chaud/clair sur le bord supérieur, évoquant une atmosphère de luxe nocturne raffinée. Ne vous contentez pas d'une palette fixe : le dégradé doit être visiblement lié aux couleurs réelles des produits joints et les compléter. Les couleurs des rubans de confettis doivent également être tirées de cette même palette extraite (un ton métallique + un ton doux).
+
+Éclairage : lumière principale douce provenant de la lueur supérieure de l'arrière-plan, éclairage de contour subtil sur chaque bord d'objet, lumière de rebond délicate entre les éléments qui se chevauchent, pas d'ombres marquées.
+
+Caméra : aspect objectif macro, faible profondeur de champ, cadrage en gros plan extrême, photoréaliste, ultra-détaillé, qualité de rendu 8K.
+```
+
+#### 🖼️ Images générées
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1784618418893_2imkhx_HNsCe80XMAAnUX5.jpg" width="600" alt="Image principale du e-commerce - Prompt maître pour cluster de produits de luxe - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1784618418851_se7utf_HNsCgLiWQAAmYsM.jpg" width="600" alt="Image principale du e-commerce - Prompt maître pour cluster de produits de luxe - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1784618418838_k0moey_HNsChTsW4AADdU-.jpg" width="600" alt="Image principale du e-commerce - Prompt maître pour cluster de produits de luxe - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1784618419743_ob9c3u_HNsCjQYX0AAvqUS.jpg" width="600" alt="Image principale du e-commerce - Prompt maître pour cluster de produits de luxe - Image 4">
+</div>
+
+#### 📌 Détails
+
+- **Auteur:** [Zazzy](https://x.com/zazzygfx)
+- **Source:** [Twitter Post](https://x.com/zazzygfx/status/2079258961417732263)
+- **Publié:** 20 juillet 2026
+- **Langues:** en
+
+**[👉 Essayer maintenant →](https://youmind.com/fr-FR/nano-banana-pro-prompts?id=29267)**
+
+---
+
+### No. 108: Ressource de jeu - Génération SQL de dioramas d'artefacts
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5251,7 +5243,7 @@ Un prompt de génération unique de style SQL pour créer des dioramas architect
 
 ---
 
-### No. 108: Ressource de jeu - Automate sculpture cinétique Woodpunk
+### No. 109: Ressource de jeu - Automate sculpture cinétique Woodpunk
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5309,7 +5301,7 @@ Sortie : UNE image, rapport hauteur/largeur 1:1, photographie de produit, esthé
 
 ---
 
-### No. 109: Ressource de jeu - Kit de maquette de diorama de bureau Manga
+### No. 110: Ressource de jeu - Kit de maquette de diorama de bureau Manga
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5343,7 +5335,7 @@ Un prompt unique pour visualiser les franchises de manga et d'anime sous forme d
 
 ---
 
-### No. 110: Ressource de jeu - Portrait d'une femme éthérée aux cheveux fleuris
+### No. 111: Ressource de jeu - Portrait d'une femme éthérée aux cheveux fleuris
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5377,7 +5369,7 @@ Gros plan sur le portrait d'une {argument name="subject" default="jeune femme é
 
 ---
 
-### No. 111: Ressource de jeu - Archiviste IA animé au style cinématographique
+### No. 112: Ressource de jeu - Archiviste IA animé au style cinématographique
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5411,7 +5403,7 @@ Créez une image fixe de film d'animation 3D cinématographique pour une série 
 
 ---
 
-### No. 112: Ressource de jeu - Studio de verre à toile holographique
+### No. 113: Ressource de jeu - Studio de verre à toile holographique
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5445,7 +5437,7 @@ Un prompt minimaliste pour une scène de studio en verre cinématographique mett
 
 ---
 
-### No. 113: Ressource de jeu - Aura de guerrier cinématique anime d'élite
+### No. 114: Ressource de jeu - Aura de guerrier cinématique anime d'élite
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5501,7 +5493,7 @@ Format : 16:9. Ultra-détaillé, cinématique, époustouflant, visuel clé d'ani
 
 ---
 
-### No. 114: Ressource de jeu - Concept art GTA Londres futuriste
+### No. 115: Ressource de jeu - Concept art GTA Londres futuriste
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5541,7 +5533,7 @@ Concept art GTA dans un cadre {argument name="setting" default="futuriste"} à {
 
 ---
 
-### No. 115: Ressource de jeu - Bille de verre sur ardoise noire
+### No. 116: Ressource de jeu - Bille de verre sur ardoise noire
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5575,7 +5567,7 @@ une bille de verre {argument name="color" default="verte"} sur {argument name="s
 
 ---
 
-### No. 116: Ressource de jeu - Diorama cinématographique de livre de science-fiction
+### No. 117: Ressource de jeu - Diorama cinématographique de livre de science-fiction
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5627,7 +5619,7 @@ Créez un diorama cinématographique photoréaliste émergeant physiquement d'un
 
 ---
 
-### No. 117: Ressource de jeu - Diorama de personnage de manga style Nendoroid
+### No. 118: Ressource de jeu - Diorama de personnage de manga style Nendoroid
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5673,7 +5665,7 @@ Un prompt complexe et structuré pour générer des figurines de personnages de 
 
 ---
 
-### No. 118: Ressource de jeu - Portrait fantastique cinématographique avec éclaboussures fluides
+### No. 119: Ressource de jeu - Portrait fantastique cinématographique avec éclaboussures fluides
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5719,7 +5711,7 @@ Portrait fantastique cinématographique ultra-réaliste style Netflix niveau IMA
 
 ---
 
-### No. 119: Ressource de jeu - Style d'illustration vectorielle 3D hybride
+### No. 120: Ressource de jeu - Style d'illustration vectorielle 3D hybride
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5765,59 +5757,13 @@ Un {argument name="subject" default="style de portrait humain hybride"} sophisti
 
 ---
 
-### No. 120: Affiche / Flyer - Illustration d'art conceptuel cinématographique
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Description
-
-Un prompt détaillé pour générer de l'art conceptuel cinématographique avec une esthétique d'affiche éditoriale texturée aux éclaboussures d'encre.
-
-#### 📝 Prompt
-
-```
-Cette illustration d'affiche, créée à partir du sujet ci-joint, adhère entièrement à l'esthétique de l'art conceptuel cinématographique moderne. Elle présente une composition hautement dynamique, une perspective spectaculaire en contre-plongée, un rendu détaillé et réaliste des vêtements, ainsi qu'une texture vieillie obtenue grâce à des coups de pinceau superposés semi-réalistes combinés à des contours nets rappelant l'encre. L'illustration utilise une palette de couleurs terreuses limitée, dominée par {argument name="primary colors" default="orange brûlé chaud, bleu marine profond, crème doux"}, brun sépia, noir charbon et gris acier délavé. L'arrière-plan intègre des blocs géométriques abstraits, des textures d'affiches usées, un grain de papier rugueux, des taches d'encre, des éclaboussures de peinture et des éléments graphiques partiellement effacés. Les caractéristiques clés incluent un éclairage à fort contraste, des ombres atmosphériques, des effets d'impression vintage subtils, une finition mate texturée et un format d'affiche éditoriale 9:16 très détaillé !
-```
-
-#### 🖼️ Images générées
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788764298222_7duwfi_HRjS2X_XMAQMs32.jpg" width="600" alt="Affiche / Flyer - Illustration d'art conceptuel cinématographique - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788764298243_uxhzxe_HRjS2Yma0AA7fKD.jpg" width="600" alt="Affiche / Flyer - Illustration d'art conceptuel cinématographique - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788764298326_5ms5lg_HRjS2Yma8AE66tS.jpg" width="600" alt="Affiche / Flyer - Illustration d'art conceptuel cinématographique - Image 3">
-</div>
-
-#### 📌 Détails
-
-- **Auteur:** [Zayan](https://x.com/HustleXR)
-- **Source:** [Twitter Post](https://x.com/HustleXR/status/2096657468973633704)
-- **Publié:** 6 septembre 2026
-- **Langues:** en
-
-**[👉 Essayer maintenant →](https://youmind.com/fr-FR/nano-banana-pro-prompts?id=33671)**
-
----
-
 ---
 
 ## 📚 Plus de prompts disponibles
 
 <div align="center">
 
-### 🎯 15461 prompts supplémentaires non affichés ici
+### 🎯 15456 prompts supplémentaires non affichés ici
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -5880,6 +5826,6 @@ Sous licence [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Soumettre un prompt](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Mettre une étoile à ce dépôt](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-09-08T08:05:02.873Z</sub>
+<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-09-08T12:05:39.966Z</sub>
 
 </div>
