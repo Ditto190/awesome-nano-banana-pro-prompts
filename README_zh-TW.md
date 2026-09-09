@@ -143,9 +143,9 @@ by {argument name="author" default="Steve Jobs"}
 
 | 指標 | 數量 |
 |--------|-------|
-| 📝 提示詞總數 | **15588** |
+| 📝 提示詞總數 | **15586** |
 | ⭐ 精選 | **9** |
-| 🔄 最後更新 | **2026年9月9日 星期三 上午8:03:44 [UTC]** |
+| 🔄 最後更新 | **2026年9月9日 星期三 中午12:03:40 [UTC]** |
 
 </div>
 
@@ -4074,47 +4074,7 @@ STORYBOARD：
 
 ---
 
-### No. 82: 產品行銷 - 指針式時鐘與漢堡基準測試
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-這是一個高難度的壓力測試提示詞，要求生成一個顯示特定時間的指針式時鐘、一個波羅伏洛起司漢堡，以及一杯倒滿的紅酒。
-
-#### 📝 提示詞
-
-```
-請建立一個顯示 {argument name="time" default="15:32"} 的指針式時鐘 [非數位時鐘，且不得顯示其他時間]、一個夾有 {argument name="cheese" default="金黃色波羅伏洛起司"} 的漢堡，以及一杯 {argument name="beverage" default="倒滿的紅酒"}。
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788936826958_k9bjzo_HRuAVTTXMAAawZT.jpg" width="600" alt="產品行銷 - 指針式時鐘與漢堡基準測試 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788936826991_y858ka_HRuCHrgXEAEHiM-.jpg" width="600" alt="產品行銷 - 指針式時鐘與漢堡基準測試 - Image 2">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [Federico Lix Klett](https://x.com/FedericoLKG)
-- **來源:** [Twitter Post](https://x.com/FedericoLKG/status/2097413362841784521)
-- **發布時間:** 2026年9月8日
-- **多語言:** en
-
-**[👉 立即嘗試 →](https://youmind.com/zh-TW/nano-banana-pro-prompts?id=33921)**
-
----
-
-### No. 83: 產品行銷 - 極簡風格 B2B 企業廣告
+### No. 82: 產品行銷 - 極簡風格 B2B 企業廣告
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4161,7 +4121,7 @@ STORYBOARD：
 
 ---
 
-### No. 84: 產品行銷 - 紅色棒球帽時尚特寫
+### No. 83: 產品行銷 - 紅色棒球帽時尚特寫
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4195,7 +4155,7 @@ STORYBOARD：
 
 ---
 
-### No. 85: 產品行銷 - 頂級時尚雜誌風格海報
+### No. 84: 產品行銷 - 頂級時尚雜誌風格海報
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4229,7 +4189,7 @@ STORYBOARD：
 
 ---
 
-### No. 86: 產品行銷 - 超現實主義 Rolex 品牌海報
+### No. 85: 產品行銷 - 超現實主義 Rolex 品牌海報
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4270,7 +4230,7 @@ STORYBOARD：
 
 ---
 
-### No. 87: 產品行銷 - 文化雜誌編輯人像
+### No. 86: 產品行銷 - 文化雜誌編輯人像
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4324,7 +4284,7 @@ STORYBOARD：
 
 ---
 
-### No. 88: 產品行銷 - 浪漫雨中城市時刻
+### No. 87: 產品行銷 - 浪漫雨中城市時刻
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4358,7 +4318,7 @@ STORYBOARD：
 
 ---
 
-### No. 89: 產品行銷 - 奢華 Vogue 雜誌封面
+### No. 88: 產品行銷 - 奢華 Vogue 雜誌封面
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4430,6 +4390,40 @@ ELEGANCE.
 - **多語言:** en
 
 **[👉 立即嘗試 →](https://youmind.com/zh-TW/nano-banana-pro-prompts?id=33660)**
+
+---
+
+### No. 89: 產品行銷 - 90 年代街頭時尚雜誌人像
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+這是一個電影級時尚攝影提示詞，捕捉了一位身著 90 年代極簡街頭服飾，並帶有《駭客任務》(Matrix) 風格的男性模特兒。
+
+#### 📝 提示詞
+
+```
+一位 {argument name="subject" default="年輕男性模特兒"} 以自信且充滿活力的步伐走在街頭，呈現出 90 年代極簡街頭時尚雜誌的風格。他梳著油頭，濕髮造型帶有細緻的挑染，突顯出髮絲質感；戴著窄版深色長方形的 90 年代墨鏡，遮住了雙眼，視線在平靜的眉宇下微微看向觀眾的左側。他的嘴唇微張，神情放鬆，彷彿正在說話或正進行著有目的的動作。他穿著一件 {argument name="clothing" default="厚重的黑色長版羊毛大衣，內搭對比強烈的俐落白 T 恤"}。他的身體微微向右傾斜，重心前移，雙肩內縮，雙手戴著霧面黑色手套，對稱地舉至上胸處。他雙手肌肉緊繃，正用力抓著並調整大衣寬大的領口。他走在淺灰色的混凝土人行道上，前景過渡到深灰色的柏油路面，右下角有著微微褪色、磨損的雙黃線，為畫面提供了視覺錨點。背景呈現中等空間深度，經過輕微模糊處理，以非對稱構圖突顯主體。右側是一棟 {argument name="background" default="風化且外露的磚造建築外牆"}，以深暖棕色和深紅色調為主，夾雜著炭灰色，表面呈現粗糙的霧面質感，帶有斑駁的煙燻痕跡、不規則的磚塊排列以及明顯的深色灰泥縫隙。左側是一個金屬邊框的陳舊門廊，形成了一個深邃且充滿陰影的凹槽。場景籠罩在冷冽、憂鬱且神秘的氛圍中，自然陰天的光線從上方和前方照射，如同一個巨大的柔光箱。細微的高光掠過他的顴骨和額頭，而下巴下方、厚重大衣領下以及混凝土上則投射出短小、灰色且邊緣柔和的陰影。色彩採用分割互補色調，以低飽和度的冷中性灰、純黑與純白為主，與背景磚牆溫暖的紅棕色形成對比。使用 50mm 鏡頭、f/2.8 光圈、1/500s 快門與 ISO 400 拍攝，這張紀實風格的數位街頭時尚攝影作品展現了電影般的《駭客任務》美學，具備輕微柔焦、中等景深、正面視角與明顯的數位雜訊顆粒感，並透過冷色調陰影與提升黑位處理，呈現出平滑的霧面質感，同時保留了黑色大衣的動態範圍，最終以 4:5 的垂直比例完美呈現。
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1788764295000_camlms_HQ_d14eWUAA-OF6.jpg" width="600" alt="產品行銷 - 90 年代街頭時尚雜誌人像 - Image 1">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [Picts by AI](https://x.com/pictsbyai)
+- **來源:** [Twitter Post](https://x.com/pictsbyai/status/2096513231757922520)
+- **發布時間:** 2026年9月6日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/zh-TW/nano-banana-pro-prompts?id=33666)**
 
 ---
 
@@ -5161,7 +5155,71 @@ ELEGANCE.
 
 ---
 
-### No. 107: 遊戲素材 - Artifact Diorama SQL 生成
+### No. 107: 電子商務主圖 - 奢華產品群組大師級提示詞
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+一款精緻的大師級提示詞，專為將多個產品渲染成高密度、高端且具備真實紋理的 3D 群組而設計。
+
+#### 📝 提示詞
+
+```
+極致特寫，高度細節的 Blender + Octane 渲染，將附帶的產品圖片排列為 {argument name="composition style" default="密集、重疊的 3D 懸浮群組"}。請使用附圖中顯示的確切產品，並精確保留照片中的真實色彩、材質、標誌、標籤、紋理和比例。請勿虛構、替換或泛化詮釋任何產品；請將它們渲染為附帶參考圖的忠實 3D 版本。
+
+構圖：物體在緊湊的微距群組中重疊並懸浮，每個物體從不同角度捕捉光線，創造出層次分明的景深效果，最近的物體清晰對焦，其餘物體則在背景模糊中柔和地淡出。
+
+群組間交織：長而捲曲的 {argument name="decorative element" default="金屬質感碎紙彩帶"} 和細緻的絲帶，穿梭於物體之間與後方，在捲曲穿過畫面時捕捉鏡面高光。
+
+材質與渲染：強調與每個附帶產品相符的對比紋理——拉絲或拋光金屬、柔軟的織物光澤與褶皺、若有透明液體則呈現複雜焦散與折射的玻璃、蠟質或啞光表面、亮面塑料或漆面——所有材質均以物理精確的反射、折射和柔和陰影遮蔽進行渲染。
+
+背景：一個 {argument name="background lighting" default="精緻的多色調漸層"}，根據附帶產品圖片中實際存在的主色調與強調色進行創意構建。分析附圖的調色板（主要物體顏色、包裝顏色、任何金屬或強調色調），並構建一個平滑、富有氛圍感的漸層，在提取出的 2–3 種色調之間過渡，底部邊緣為最深/最冷的色調，頂部邊緣為最暖/最亮的色調，營造出精緻的晚宴奢華氛圍。請勿使用固定的預設調色板，漸層必須與附帶產品的實際顏色明顯相關並形成互補。碎紙彩帶的顏色也應從相同的提取調色板中選取（一種金屬色調 + 一種柔和色調）。
+
+燈光：來自上方背景輝光的柔和主光，每個物體邊緣細膩的輪廓光，重疊物體間柔和的反射光，無生硬陰影。
+
+攝影機：微距鏡頭感，淺景深，極致特寫構圖，照片級真實感，超細節，8K 渲染品質。
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1784618418893_2imkhx_HNsCe80XMAAnUX5.jpg" width="600" alt="電子商務主圖 - 奢華產品群組大師級提示詞 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1784618418851_se7utf_HNsCgLiWQAAmYsM.jpg" width="600" alt="電子商務主圖 - 奢華產品群組大師級提示詞 - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1784618418838_k0moey_HNsChTsW4AADdU-.jpg" width="600" alt="電子商務主圖 - 奢華產品群組大師級提示詞 - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1784618419743_ob9c3u_HNsCjQYX0AAvqUS.jpg" width="600" alt="電子商務主圖 - 奢華產品群組大師級提示詞 - Image 4">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [Zazzy](https://x.com/zazzygfx)
+- **來源:** [Twitter Post](https://x.com/zazzygfx/status/2079258961417732263)
+- **發布時間:** 2026年7月20日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/zh-TW/nano-banana-pro-prompts?id=29267)**
+
+---
+
+### No. 108: 遊戲素材 - Artifact Diorama SQL 生成
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5213,7 +5271,7 @@ ELEGANCE.
 
 ---
 
-### No. 108: 遊戲素材 - Woodpunk 動力木製雕塑自動裝置
+### No. 109: 遊戲素材 - Woodpunk 動力木製雕塑自動裝置
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5271,7 +5329,7 @@ ELEGANCE.
 
 ---
 
-### No. 109: 遊戲素材 - 漫畫主題桌面立體透視模型套件
+### No. 110: 遊戲素材 - 漫畫主題桌面立體透視模型套件
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5305,7 +5363,7 @@ ELEGANCE.
 
 ---
 
-### No. 110: 遊戲素材 - 空靈女子花卉髮飾肖像
+### No. 111: 遊戲素材 - 空靈女子花卉髮飾肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5339,7 +5397,7 @@ ELEGANCE.
 
 ---
 
-### No. 111: 遊戲素材 - 電影級 3D 動畫 AI 檔案管理員
+### No. 112: 遊戲素材 - 電影級 3D 動畫 AI 檔案管理員
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5373,7 +5431,7 @@ ELEGANCE.
 
 ---
 
-### No. 112: 遊戲素材 - 全息畫布玻璃工作室
+### No. 113: 遊戲素材 - 全息畫布玻璃工作室
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5407,7 +5465,7 @@ ELEGANCE.
 
 ---
 
-### No. 113: 遊戲素材 - 頂級動漫電影感戰士氣場
+### No. 114: 遊戲素材 - 頂級動漫電影感戰士氣場
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5463,7 +5521,7 @@ ELEGANCE.
 
 ---
 
-### No. 114: 遊戲素材 - 未來倫敦 GTA 風格概念藝術
+### No. 115: 遊戲素材 - 未來倫敦 GTA 風格概念藝術
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5503,7 +5561,7 @@ ELEGANCE.
 
 ---
 
-### No. 115: 遊戲素材 - 黑色石板上的玻璃彈珠
+### No. 116: 遊戲素材 - 黑色石板上的玻璃彈珠
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5537,7 +5595,7 @@ ELEGANCE.
 
 ---
 
-### No. 116: 遊戲素材 - 科幻書籍電影感立體場景
+### No. 117: 遊戲素材 - 科幻書籍電影感立體場景
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5589,7 +5647,7 @@ ELEGANCE.
 
 ---
 
-### No. 117: 遊戲素材 - 漫畫角色黏土人風格立體透視模型
+### No. 118: 遊戲素材 - 漫畫角色黏土人風格立體透視模型
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5635,7 +5693,7 @@ ELEGANCE.
 
 ---
 
-### No. 118: 遊戲素材 - 電影感奇幻肖像與流體潑濺
+### No. 119: 遊戲素材 - 電影感奇幻肖像與流體潑濺
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5681,7 +5739,7 @@ ELEGANCE.
 
 ---
 
-### No. 119: 遊戲素材 - 混合 3D 向量插畫風格
+### No. 120: 遊戲素材 - 混合 3D 向量插畫風格
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5727,52 +5785,13 @@ ELEGANCE.
 
 ---
 
-### No. 120: 海報／傳單 - 未來感浮空城市星雲插畫
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 描述
-
-這是一幅迷人的高對比度圖像，細緻描繪了漂浮在雲端之上、位於璀璨宇宙星雲環下的城市景觀或科幻大都會佈局。
-
-#### 📝 提示詞
-
-```
-這是一幅迷人的數位插畫，描繪了一座懸浮在夢幻夜空下、蓬鬆雲海之上的城市景觀。前景中，密集的摩天大樓群窗戶透出溫暖的金色光芒，勾勒出耀眼的城市天際線。城市彷彿坐落在深藍與灰色的厚重雲層之上，雲海向遠處綿延。城市上方，夜空化作一片天體奇觀：一個巨大且明亮的彩色星雲環繞著漆黑且繁星點點的虛空。星雲散發著深紫、電光藍與火橘色的鮮豔光彩，點綴著遙遠的閃爍星辰與星座，營造出夢幻且超凡脫俗的氛圍。這是一幅令人屏息的垂直視角畫面，展現了一座未來感大都會在暮色中優雅地漂浮於無盡的深灰色濃雲之上。廣闊的城市天際線擁有無數高聳入雲的摩天大樓，發光的窗戶將溫暖的琥珀色與橘色光芒投射在下方的城市景觀中。畫面頂部由一個宏偉的宇宙環主宰，這是一個由鮮豔紫色、深藍色與燦爛暖金色組成的發光圓形星雲，漆黑的夜空中灑滿了無數閃爍的恆星與遙遠的星系。構圖平衡且宏偉，深色的雲層作為前景基底，與上方璀璨的宇宙現象形成強烈對比。光影效果超現實且空靈，將城市燈光的溫暖人造光與星雲的宇宙光芒完美融合。氛圍寧靜、令人敬畏且充滿神秘感，喚起了一種星際奇觀與城市孤寂的感受。柔軟蓬鬆的雲朵細節、摩天大樓光滑的玻璃鋼鐵建築，以及星光熠熠的宇宙塵埃，共同構成了這幅高對比度且視覺震撼的場景。
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788936824149_oza239_HRuTgPPWIAAcjAy.jpg" width="600" alt="海報／傳單 - 未來感浮空城市星雲插畫 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788936824151_i8amo2_HRuTWsta0AAU6QG.jpg" width="600" alt="海報／傳單 - 未來感浮空城市星雲插畫 - Image 2">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [Viki](https://x.com/churvikv)
-- **來源:** [Twitter Post](https://x.com/churvikv/status/2097435473043931201)
-- **發布時間:** 2026年9月8日
-- **多語言:** en
-
-**[👉 立即嘗試 →](https://youmind.com/zh-TW/nano-banana-pro-prompts?id=33916)**
-
----
-
 ---
 
 ## 📚 更多提示詞
 
 <div align="center">
 
-### 🎯 15468 更多提示詞未在此顯示
+### 🎯 15466 更多提示詞未在此顯示
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -5835,6 +5854,6 @@ The gallery features:
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-09-09T08:03:44.964Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-09-09T12:03:40.933Z</sub>
 
 </div>

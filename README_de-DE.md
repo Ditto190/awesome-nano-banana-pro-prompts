@@ -143,9 +143,9 @@ Bei Verwendung in Raycast können Sie die Argumente dynamisch ersetzen, um schne
 
 | Metrik | Anzahl |
 |--------|-------|
-| 📝 Gesamtanzahl Prompts | **15588** |
+| 📝 Gesamtanzahl Prompts | **15586** |
 | ⭐ Ausgewählt | **9** |
-| 🔄 Zuletzt aktualisiert | **Mittwoch, 9. September 2026 um 08:04:38 UTC** |
+| 🔄 Zuletzt aktualisiert | **Mittwoch, 9. September 2026 um 12:04:38 UTC** |
 
 </div>
 
@@ -4068,47 +4068,7 @@ Vermeiden: Verzerrte Personen, zusätzliche Gliedmaßen, unrealistische Architek
 
 ---
 
-### No. 82: Produktmarketing - Analoguhr- und Burger-Benchmark
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Beschreibung
-
-Ein anspruchsvoller Stresstest-Prompt, der eine Analoguhr mit einer spezifischen Uhrzeit, einen Provolone-Burger und ein volles Glas Wein erfordert.
-
-#### 📝 Prompt
-
-```
-Erstelle eine Analoguhr, die {argument name="time" default="15:32"} anzeigt [keine digitale Uhr und keine andere Uhrzeit], einen Burger mit gegrilltem {argument name="cheese" default="goldgelbem Provolone-Käse"} und ein Glas {argument name="beverage" default="bis zum Rand gefülltem Rotwein"}.
-```
-
-#### 🖼️ Generierte Bilder
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788936826958_k9bjzo_HRuAVTTXMAAawZT.jpg" width="600" alt="Produktmarketing - Analoguhr- und Burger-Benchmark - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788936826991_y858ka_HRuCHrgXEAEHiM-.jpg" width="600" alt="Produktmarketing - Analoguhr- und Burger-Benchmark - Image 2">
-</div>
-
-#### 📌 Details
-
-- **Autor:** [Federico Lix Klett](https://x.com/FedericoLKG)
-- **Quelle:** [Twitter Post](https://x.com/FedericoLKG/status/2097413362841784521)
-- **Veröffentlicht:** 8. September 2026
-- **Sprachen:** en
-
-**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/nano-banana-pro-prompts?id=33921)**
-
----
-
-### No. 83: Produktmarketing - Minimalistische B2B-Unternehmensanzeige
+### No. 82: Produktmarketing - Minimalistische B2B-Unternehmensanzeige
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4155,7 +4115,7 @@ Ein professioneller Prompt zur Erstellung sauberer und vertrauenswürdiger Unter
 
 ---
 
-### No. 84: Produktmarketing - Nahaufnahme: Modische rote Kappe
+### No. 83: Produktmarketing - Nahaufnahme: Modische rote Kappe
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4189,7 +4149,7 @@ Ultrarealistischer Fashion-Beauty-Ausschnitt einer weiblichen Person, die die Re
 
 ---
 
-### No. 85: Produktmarketing - Premium Fashion Editorial Poster
+### No. 84: Produktmarketing - Premium Fashion Editorial Poster
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4223,7 +4183,7 @@ Erstelle ein erstklassiges, hyperrealistisches Mode-Editorial-Poster und verwend
 
 ---
 
-### No. 86: Produktmarketing - Surrealistisches Rolex-Markenposter
+### No. 85: Produktmarketing - Surrealistisches Rolex-Markenposter
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4264,7 +4224,7 @@ Seitenverhältnis: 3:4.
 
 ---
 
-### No. 87: Produktmarketing - Editorial-Porträt für Kulturmagazine
+### No. 86: Produktmarketing - Editorial-Porträt für Kulturmagazine
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4318,7 +4278,7 @@ Ein anspruchsvoller Prompt zur Erstellung von Editorial-Porträts im Stil hochwe
 
 ---
 
-### No. 88: Produktmarketing - Romantischer Moment in der regnerischen Stadt
+### No. 87: Produktmarketing - Romantischer Moment in der regnerischen Stadt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4352,7 +4312,7 @@ Eine sanfte Aufnahme im redaktionellen Realismus-Stil: eine Frau im Trenchcoat m
 
 ---
 
-### No. 89: Produktmarketing - Luxuriöses Vogue-Magazin-Cover
+### No. 88: Produktmarketing - Luxuriöses Vogue-Magazin-Cover
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4424,6 +4384,40 @@ Komposition: vertikale Magazin-Cover-Rahmung, Motiv zentriert und dominant, real
 - **Sprachen:** en
 
 **[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/nano-banana-pro-prompts?id=33660)**
+
+---
+
+### No. 89: Produktmarketing - 90er-Jahre Streetwear Editorial-Porträt
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Beschreibung
+
+Ein cineastischer Modefotografie-Prompt, der ein männliches Model in minimalistischer 90er-Jahre-Streetwear mit einer von Matrix inspirierten Ästhetik einfängt.
+
+#### 📝 Prompt
+
+```
+Ein {argument name="subject" default="junges männliches Model"} wird mitten im Schritt mit selbstbewusstem, energiegeladenem Auftreten im minimalistischen 90er-Jahre-Streetwear-Editorial-Stil festgehalten. Sein nach hinten gegeltes Haar hat einen ausgeprägten Wet-Look, wobei dezente Highlights die Textur betonen, während eine schmale, dunkle rechteckige 90er-Jahre-Sonnenbrille seine Augen verdeckt, die unter neutralen Augenbrauen leicht am Betrachter vorbei nach links blicken. Sein Mund ist leicht geöffnet mit entspannten Lippen, was den Eindruck von mitten im Satz oder zielgerichteter Bewegung vermittelt. Er trägt einen {argument name="clothing" default="schweren, langen schwarzen Wollmantel über einem stark kontrastierenden, knackig weißen T-Shirt"}. Sein Körper ist leicht nach rechts gewinkelt, das Gewicht nach vorne verlagert, die Schultern leicht nach innen gezogen, während beide Hände in mattschwarzen Handschuhen symmetrisch zur oberen Brust erhoben sind. Seine Hände sind angespannt, die Muskeln deutlich sichtbar, während er den dicken Stoff des breiten Mantelkragens fest umgreift und zurechtrückt. Er geht auf einem hellen, betongrauen Gehweg, der im Vordergrund in eine dunkelgraue Asphaltstraße übergeht, wo leicht verblasste, abgenutzte, aufgemalte doppelte gelbe parallele Linien den unteren rechten Bildrand erden. Der Hintergrund fällt in eine mittlere räumliche Tiefe ab und ist leicht unscharf, um das Motiv in einer asymmetrischen Komposition zu isolieren. Rechts dominiert ein {argument name="background" default="verwittertes Backsteingebäude"}, das durch dunkle, warme Brauntöne und tiefes Rot mit anthrazitfarbenen Variationen, ein raues, mattes Finish, fleckige Rußspuren, unebene Ziegelanordnung und markante dunkle Mörtelfugen charakterisiert ist. Links bildet ein abgenutzter Türrahmen aus Metall eine tiefe, schattenreiche Nische. Die Szene ist in eine kühle, stimmungsvolle und geheimnisvolle Atmosphäre getaucht, unter natürlichem, bewölktem Außenlicht, das wie eine große, diffuse Softbox von oben und vorne wirkt. Dezente Highlights streifen seine Wangenknochen und Stirn, während kurze, graue, weich gezeichnete Schatten unter seinem Kinn, unter dem dicken Kragen und sanft auf den Beton fallen. Die gespaltene Komplementärfarbpalette setzt auf entsättigte, kühle neutrale Grautöne sowie harte Schwarz- und Weißtöne, die einen Kontrast zu den warmen, erdigen Rotbrauntönen des Mauerwerks bilden. Aufgenommen mit einem 50-mm-Objektiv bei f/2.8, 1/500s und ISO 400, fängt dieses authentische digitale Street-Fashion-Foto eine cineastische Matrix-Ästhetik mit leicht weichem Fokus, mittlerer Schärfentiefe, frontaler Perspektive und sichtbarem digitalen Bildrauschen ein, abgerundet durch kühle Schattentöne und angehobene Schwarztöne für ein flaches, mattes Finish, das den Dynamikumfang des dunklen Mantels bewahrt, alles wunderschön eingerahmt in einem 4:5-Hochformat.
+```
+
+#### 🖼️ Generierte Bilder
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1788764295000_camlms_HQ_d14eWUAA-OF6.jpg" width="600" alt="Produktmarketing - 90er-Jahre Streetwear Editorial-Porträt - Image 1">
+</div>
+
+#### 📌 Details
+
+- **Autor:** [Picts by AI](https://x.com/pictsbyai)
+- **Quelle:** [Twitter Post](https://x.com/pictsbyai/status/2096513231757922520)
+- **Veröffentlicht:** 6. September 2026
+- **Sprachen:** en
+
+**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/nano-banana-pro-prompts?id=33666)**
 
 ---
 
@@ -5155,7 +5149,71 @@ Erstelle ein fotorealistisches Rendering in Studioqualität, das exakt dem moder
 
 ---
 
-### No. 107: Spiel-Asset - Artifact Diorama SQL-Generierung
+### No. 107: E-Commerce-Hauptbild - Master-Prompt für Luxusprodukt-Cluster
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Beschreibung
+
+Ein ausgefeilter Master-Prompt für die Erstellung eines dichten, hochwertigen 3D-Clusters mehrerer Produkte mit realistischen Texturen.
+
+#### 📝 Prompt
+
+```
+Extreme Nahaufnahme, hochdetailliertes Blender + Octane Render der angehängten Produktbilder, angeordnet als ein {argument name="composition style" default="dichter, überlappender 3D-Cluster im Schwebedesign"}. Verwenden Sie exakt die in den beigefügten Fotos gezeigten Produkte und bewahren Sie deren Originalfarben, Materialien, Logos, Etiketten, Texturen und Proportionen genau wie fotografiert. Erfinden oder ersetzen Sie keine Produkte und interpretieren Sie diese nicht generisch; rendern Sie sie als originalgetreue 3D-Versionen der angehängten Referenzen.
+
+Komposition: Die Objekte überlappen und schweben in einem engen Makro-Cluster, wobei jedes Objekt das Licht aus einem anderen Winkel einfängt. Dies erzeugt einen geschichteten Tiefenschärfe-Effekt, bei dem das vorderste Objekt scharf fokussiert ist, während die anderen im Hintergrund weich verschwimmen.
+
+Durch den gesamten Cluster verwoben: lange, geschwungene Bänder aus {argument name="decorative element" default="metallischem Konfetti-Band"} und dünnem Seidenband, die sich zwischen und hinter den Objekten hindurchziehen und beim Durchqueren des Bildausschnitts Glanzlichter einfangen.
+
+Materialien und Rendering: Betonen Sie die kontrastierenden Texturen, die jedem angehängten Produkt entsprechen – gebürstetes oder poliertes Metall, seidiger Glanz und Faltenwurf von Stoffen, Glas mit komplexen Kaustiken und Lichtbrechungen bei vorhandenen Flüssigkeiten, wachsartige oder matte Oberflächen, glänzender Kunststoff oder Lack – alles gerendert mit physikalisch korrekten Reflexionen, Lichtbrechungen und weicher Schattenokklusion.
+
+Hintergrund: ein {argument name="background lighting" default="anspruchsvoller, mehrfarbiger Verlauf"}, der kreativ aus den dominanten und Akzentfarben der angehängten Produktbilder aufgebaut ist. Analysieren Sie die Farbpalette der beigefügten Fotos (Primärfarbe des Objekts, Verpackungsfarbe, metallische oder Akzenttöne) und erstellen Sie einen weichen, stimmungsvollen Verlauf, der zwischen 2–3 dieser extrahierten Töne wechselt. Der tiefste/kühlste Ton am unteren Rand, der wärmste/hellste Ton am oberen Rand, um eine raffinierte, luxuriöse Abendatmosphäre zu erzeugen. Verwenden Sie keine feste Standardpalette; der Verlauf muss sich sichtbar auf die tatsächlichen Farben der angehängten Produkte beziehen und diese ergänzen. Die Farben der Konfetti-Bänder sollten ebenfalls aus dieser extrahierten Palette stammen (ein metallischer Ton + ein weicher Ton).
+
+Beleuchtung: weiches Hauptlicht durch den oberen Hintergrundglanz, subtile Konturbeleuchtung an jeder Objektkante, sanftes Streulicht zwischen überlappenden Elementen, keine harten Schatten.
+
+Kamera: Makro-Objektiv-Look, geringe Tiefenschärfe, extreme Nahaufnahme, fotorealistisch, hochdetailliert, 8K-Renderqualität.
+```
+
+#### 🖼️ Generierte Bilder
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1784618418893_2imkhx_HNsCe80XMAAnUX5.jpg" width="600" alt="E-Commerce-Hauptbild - Master-Prompt für Luxusprodukt-Cluster - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1784618418851_se7utf_HNsCgLiWQAAmYsM.jpg" width="600" alt="E-Commerce-Hauptbild - Master-Prompt für Luxusprodukt-Cluster - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1784618418838_k0moey_HNsChTsW4AADdU-.jpg" width="600" alt="E-Commerce-Hauptbild - Master-Prompt für Luxusprodukt-Cluster - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1784618419743_ob9c3u_HNsCjQYX0AAvqUS.jpg" width="600" alt="E-Commerce-Hauptbild - Master-Prompt für Luxusprodukt-Cluster - Image 4">
+</div>
+
+#### 📌 Details
+
+- **Autor:** [Zazzy](https://x.com/zazzygfx)
+- **Quelle:** [Twitter Post](https://x.com/zazzygfx/status/2079258961417732263)
+- **Veröffentlicht:** 20. Juli 2026
+- **Sprachen:** en
+
+**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/nano-banana-pro-prompts?id=29267)**
+
+---
+
+### No. 108: Spiel-Asset - Artifact Diorama SQL-Generierung
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5207,7 +5265,7 @@ Ein einzigartiger SQL-basierter Prompt zur Erstellung komplexer architektonische
 
 ---
 
-### No. 108: Spiel-Asset - Woodpunk Kinetische Skulptur Automat
+### No. 109: Spiel-Asset - Woodpunk Kinetische Skulptur Automat
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5265,7 +5323,7 @@ Ausgabe: EIN Bild, 1:1 Seitenverhältnis, Produktfotografie, „Woodpunk“-Äst
 
 ---
 
-### No. 109: Spiel-Asset - Manga-Desktop-Diorama-Modellbausatz
+### No. 110: Spiel-Asset - Manga-Desktop-Diorama-Modellbausatz
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5299,7 +5357,7 @@ Ein einzigartiger Prompt zur Visualisierung von Manga- und Anime-Franchises als 
 
 ---
 
-### No. 110: Spiel-Asset - Porträt einer ätherischen Frau mit Blumen im Haar
+### No. 111: Spiel-Asset - Porträt einer ätherischen Frau mit Blumen im Haar
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5333,7 +5391,7 @@ Nahaufnahme eines {argument name="subject" default="ätherischen jungen Frau"} m
 
 ---
 
-### No. 111: Spiel-Asset - Cinematic animierter KI-Archivar
+### No. 112: Spiel-Asset - Cinematic animierter KI-Archivar
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5367,7 +5425,7 @@ Erstelle ein cineastisches 3D-Animations-Filmstill für eine originale Animation
 
 ---
 
-### No. 112: Spiel-Asset - Holografisches Leinwand-Glasstudio
+### No. 113: Spiel-Asset - Holografisches Leinwand-Glasstudio
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5401,7 +5459,7 @@ Ein minimalistischer Prompt für eine filmreife Glasstudio-Szene mit einer holog
 
 ---
 
-### No. 113: Spiel-Asset - Elite Anime Cinematic Warrior Aura
+### No. 114: Spiel-Asset - Elite Anime Cinematic Warrior Aura
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5457,7 +5515,7 @@ Seitenverhältnis: 16:9. Ultra-detailliert, filmisch, atemberaubend, erstklassig
 
 ---
 
-### No. 114: Spiel-Asset - Future London GTA Concept Art
+### No. 115: Spiel-Asset - Future London GTA Concept Art
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5497,7 +5555,7 @@ GTA im {argument name="setting" default="nahe Zukunft"} {argument name="location
 
 ---
 
-### No. 115: Spiel-Asset - Glaskugel auf schwarzem Schiefer
+### No. 116: Spiel-Asset - Glaskugel auf schwarzem Schiefer
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5531,7 +5589,7 @@ eine {argument name="color" default="grüne"} Glaskugel auf {argument name="surf
 
 ---
 
-### No. 116: Spiel-Asset - Sci-Fi-Buch-Filmdiorama
+### No. 117: Spiel-Asset - Sci-Fi-Buch-Filmdiorama
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5583,7 +5641,7 @@ Erstelle ein fotorealistisches filmisches Diorama, das physisch aus einem aufges
 
 ---
 
-### No. 117: Spiel-Asset - Manga-Charakter Nendoroid-Stil Diorama
+### No. 118: Spiel-Asset - Manga-Charakter Nendoroid-Stil Diorama
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5629,7 +5687,7 @@ Ein komplexer, strukturierter Prompt zur Generierung von Manga-Charakter-Figuren
 
 ---
 
-### No. 118: Spiel-Asset - Cinematic Fantasy-Porträt mit fließenden Spritzern
+### No. 119: Spiel-Asset - Cinematic Fantasy-Porträt mit fließenden Spritzern
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5675,7 +5733,7 @@ Ultra-realistisches, filmisches Fantasy-Porträt im IMAX- und Netflix-Stil, 4:5 
 
 ---
 
-### No. 119: Spiel-Asset - Hybrider 3D-Vektor-Illustrationsstil
+### No. 120: Spiel-Asset - Hybrider 3D-Vektor-Illustrationsstil
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5721,52 +5779,13 @@ Ein anspruchsvoller {argument name="subject" default="hybrider menschlicher Port
 
 ---
 
-### No. 120: Plakat / Flyer - Futuristische Illustration einer schwebenden Stadt im Nebel
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Beschreibung
-
-Eine bezaubernde, kontrastreiche Grafik, die das Layout einer urbanen Stadtlandschaft oder Sci-Fi-Metropole zeigt, die über Wolken unter einem brillanten kosmischen Nebelring schwebt.
-
-#### 📝 Prompt
-
-```
-Eine bezaubernde digitale Illustration einer Stadtlandschaft, die über einem Meer aus flauschigen, nächtlichen Wolken unter einem magischen Himmel schwebt. Im Vordergrund erzeugt eine dichte Ansammlung hoch aufragender Wolkenkratzer, deren Fenster in warmem goldenen Licht erstrahlen, eine leuchtende urbane Skyline. Die Stadt scheint auf einer dichten, wogenden Decke aus dunkelblauen und grauen Wolken zu ruhen, die sich bis in die Ferne erstreckt. Über der Stadt verwandelt sich der Nachthimmel in ein himmlisches Wunder: Ein massiver, leuchtender Ring aus einem farbenfrohen Nebel umschließt eine dunkle, sternenreiche Leere. Der Nebel erstrahlt in lebendigen Farbtönen von tiefem Violett, elektrischem Blau und feurigem Orange, gespickt mit funkelnden Sternen und Sternbildern in der Ferne, was eine traumhafte, jenseitige Atmosphäre schafft. Eine atemberaubende vertikale Ansicht einer futuristischen Metropole, die in der Dämmerung anmutig über einem endlosen Meer aus dichten, wogenden dunkelgrauen Wolken schwebt. Die weitläufige Skyline der Stadt zeigt zahlreiche hoch aufragende Wolkenkratzer mit leuchtenden Fenstern, die warmes bernsteinfarbenes und oranges Licht auf die urbane Landschaft darunter werfen. Den oberen Teil des Bildes dominiert ein prächtiger kosmischer Ring, ein leuchtender kreisförmiger Nebel, der aus lebendigen Violett-, Tiefblau- und brillanten warmen Goldtönen besteht und mit unzähligen funkelnden Sternen und fernen Galaxien am pechschwarzen Nachthimmel übersät ist. Die Komposition ist ausgewogen und majestätisch, wobei die dunkle Wolkenschicht den unteren Vordergrund erdet und einen scharfen Kontrast zum strahlenden kosmischen Phänomen darüber bildet. Die Beleuchtung ist surreal und ätherisch und verbindet das warme künstliche Leuchten der Lichter der Stadt mit der kosmischen Lumineszenz des Nebels. Die Atmosphäre ist ruhig, ehrfurchtgebietend und mystisch und weckt ein Gefühl von interstellarem Staunen und urbaner Isolation. Die detaillierten Texturen der weichen, voluminösen Wolken, die elegante Glas- und Stahlarchitektur der Wolkenkratzer und der sternenklare kosmische Staub schaffen eine kontrastreiche, visuell beeindruckende Szene.
-```
-
-#### 🖼️ Generierte Bilder
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788936824149_oza239_HRuTgPPWIAAcjAy.jpg" width="600" alt="Plakat / Flyer - Futuristische Illustration einer schwebenden Stadt im Nebel - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788936824151_i8amo2_HRuTWsta0AAU6QG.jpg" width="600" alt="Plakat / Flyer - Futuristische Illustration einer schwebenden Stadt im Nebel - Image 2">
-</div>
-
-#### 📌 Details
-
-- **Autor:** [Viki](https://x.com/churvikv)
-- **Quelle:** [Twitter Post](https://x.com/churvikv/status/2097435473043931201)
-- **Veröffentlicht:** 8. September 2026
-- **Sprachen:** en
-
-**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/nano-banana-pro-prompts?id=33916)**
-
----
-
 ---
 
 ## 📚 Weitere Prompts verfügbar
 
 <div align="center">
 
-### 🎯 15468 weitere Prompts hier nicht angezeigt
+### 🎯 15466 weitere Prompts hier nicht angezeigt
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -5829,6 +5848,6 @@ Lizenziert unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Prompt einreichen](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Dieses Repository mit Stern markieren](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-09-09T08:04:38.965Z</sub>
+<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-09-09T12:04:38.998Z</sub>
 
 </div>

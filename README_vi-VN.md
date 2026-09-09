@@ -143,9 +143,9 @@ Khi sử dụng trong Raycast, bạn có thể thay thế động các đối s�
 
 | Chỉ số | Số lượng |
 |--------|-------|
-| 📝 Tổng số câu lệnh | **15588** |
+| 📝 Tổng số câu lệnh | **15586** |
 | ⭐ Nổi bật | **9** |
-| 🔄 Cập nhật lần cuối | **lúc 08:04:11 UTC Thứ Tư, 9 tháng 9, 2026** |
+| 🔄 Cập nhật lần cuối | **lúc 12:04:12 UTC Thứ Tư, 9 tháng 9, 2026** |
 
 </div>
 
@@ -4068,47 +4068,7 @@ Tránh: người bị biến dạng, thừa chi tiết cơ thể, kiến trúc p
 
 ---
 
-### No. 82: Tiếp thị sản phẩm - Đồng hồ kim và bài kiểm tra Burger
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Mô tả
-
-Một câu lệnh kiểm tra khả năng chịu tải đầy thử thách, yêu cầu tạo hình đồng hồ kim hiển thị thời gian cụ thể, một chiếc burger phô mai provolone và một ly rượu vang đầy ắp.
-
-#### 📝 Câu lệnh
-
-```
-Hãy tạo một chiếc đồng hồ kim hiển thị {argument name="time" default="15:32"} [Không phải đồng hồ số và không hiển thị thời gian nào khác], một chiếc burger với {argument name="cheese" default="phô mai provolone vàng óng"} nướng, và một ly {argument name="beverage" default="rượu vang đỏ đầy tràn"}.
-```
-
-#### 🖼️ Hình ảnh được tạo
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788936826958_k9bjzo_HRuAVTTXMAAawZT.jpg" width="600" alt="Tiếp thị sản phẩm - Đồng hồ kim và bài kiểm tra Burger - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788936826991_y858ka_HRuCHrgXEAEHiM-.jpg" width="600" alt="Tiếp thị sản phẩm - Đồng hồ kim và bài kiểm tra Burger - Image 2">
-</div>
-
-#### 📌 Chi tiết
-
-- **Tác giả:** [Federico Lix Klett](https://x.com/FedericoLKG)
-- **Nguồn:** [Twitter Post](https://x.com/FedericoLKG/status/2097413362841784521)
-- **Đã xuất bản:** 8 tháng 9, 2026
-- **Ngôn ngữ:** en
-
-**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=33921)**
-
----
-
-### No. 83: Tiếp thị sản phẩm - Quảng cáo doanh nghiệp B2B phong cách tối giản
+### No. 82: Tiếp thị sản phẩm - Quảng cáo doanh nghiệp B2B phong cách tối giản
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4155,7 +4115,7 @@ Một câu lệnh chuyên nghiệp để tạo ra hình ảnh doanh nghiệp s�
 
 ---
 
-### No. 84: Tiếp thị sản phẩm - Cận cảnh thời trang mũ lưỡi trai đỏ
+### No. 83: Tiếp thị sản phẩm - Cận cảnh thời trang mũ lưỡi trai đỏ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4189,7 +4149,7 @@ Một câu lệnh chuyên nghiệp để tạo ra hình ảnh doanh nghiệp s�
 
 ---
 
-### No. 85: Tiếp thị sản phẩm - Poster Biên tập Thời trang Cao cấp
+### No. 84: Tiếp thị sản phẩm - Poster Biên tập Thời trang Cao cấp
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4223,7 +4183,7 @@ Tạo một poster biên tập thời trang cao cấp, siêu thực bằng cách
 
 ---
 
-### No. 86: Tiếp thị sản phẩm - Áp phích thương hiệu Rolex theo phong cách siêu thực
+### No. 85: Tiếp thị sản phẩm - Áp phích thương hiệu Rolex theo phong cách siêu thực
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4264,7 +4224,7 @@ Tỷ lệ khung hình: 3:4.
 
 ---
 
-### No. 87: Tiếp thị sản phẩm - Chân dung Biên tập Tạp chí Văn hóa
+### No. 86: Tiếp thị sản phẩm - Chân dung Biên tập Tạp chí Văn hóa
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4318,7 +4278,7 @@ Một câu lệnh tinh tế để tạo ra các bức chân dung biên tập the
 
 ---
 
-### No. 88: Tiếp thị sản phẩm - Khoảnh khắc lãng mạn trong thành phố ngày mưa
+### No. 87: Tiếp thị sản phẩm - Khoảnh khắc lãng mạn trong thành phố ngày mưa
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4352,7 +4312,7 @@ Một bức ảnh theo phong cách hiện thực biên tập nhẹ nhàng về m
 
 ---
 
-### No. 89: Tiếp thị sản phẩm - Trang bìa tạp chí thời trang cao cấp
+### No. 88: Tiếp thị sản phẩm - Trang bìa tạp chí thời trang cao cấp
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4424,6 +4384,40 @@ Bố cục: khung hình trang bìa tạp chí dọc, chủ thể được căn g
 - **Ngôn ngữ:** en
 
 **[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=33660)**
+
+---
+
+### No. 89: Tiếp thị sản phẩm - Ảnh chân dung thời trang đường phố thập niên 90
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Mô tả
+
+Một câu lệnh tạo ảnh thời trang điện ảnh ghi lại hình ảnh người mẫu nam trong trang phục đường phố tối giản thập niên 90 với phong cách lấy cảm hứng từ phim Matrix.
+
+#### 📝 Câu lệnh
+
+```
+Một {argument name="subject" default="người mẫu nam trẻ tuổi"} được ghi lại khoảnh khắc đang sải bước với phong thái tự tin, tràn đầy năng lượng theo phong cách biên tập thời trang đường phố tối giản thập niên 90. Mái tóc vuốt ngược của anh có vẻ ngoài bóng mượt đặc trưng với những điểm nhấn tinh tế làm nổi bật kết cấu, trong khi cặp kính râm hình chữ nhật tối màu kiểu thập niên 90 che khuất đôi mắt, ánh nhìn hơi hướng về phía bên trái người xem dưới hàng chân mày trung tính. Miệng anh hơi mở với đôi môi thả lỏng, gợi lên cảm giác như đang nói dở hoặc đang chuyển động có chủ đích. Anh mặc một chiếc {argument name="clothing" default="áo khoác len đen dài, dày dặn bên ngoài chiếc áo phông trắng tinh khôi tương phản mạnh mẽ"}. Cơ thể anh hơi nghiêng sang phải với trọng tâm dồn về phía trước, vai hơi khom vào trong, cả hai tay đeo găng đen nhám được nâng đối xứng lên phía ngực trên. Đôi tay anh căng ra với các cơ bắp hoạt động, nắm chặt và chỉnh lại phần cổ áo rộng của chiếc áo khoác. Anh đi dọc theo vỉa hè bê tông màu xám nhạt, chuyển tiếp sang con đường nhựa màu xám đậm ở tiền cảnh, nơi có những đường kẻ vàng song song đã phai màu và mòn vẹt làm điểm tựa ở góc dưới bên phải khung hình. Hậu cảnh có độ sâu không gian trung bình, hơi mờ để làm nổi bật chủ thể trong bố cục bất đối xứng. Bên phải là một {argument name="background" default="ngoại thất tòa nhà gạch trần, phong hóa"} chiếm ưu thế, đặc trưng bởi các tông màu nâu ấm tối và đỏ thẫm với những biến thể màu than, bề mặt nhám thô, vết bẩn loang lổ, các hàng gạch không đều và những đường vữa tối màu nổi bật. Bên trái, một khung cửa kim loại cũ kỹ tạo nên một hốc sâu đầy bóng tối. Khung cảnh được bao phủ trong bầu không khí lạnh lẽo, tâm trạng và đầy bí ẩn dưới ánh sáng ngoài trời tự nhiên, nhiều mây, đóng vai trò như một softbox khuếch tán lớn từ phía trên và phía trước. Những điểm sáng tinh tế lướt qua xương gò má và trán của anh, trong khi những bóng đổ ngắn, xám, mềm mại đổ xuống dưới cằm, dưới cổ áo dày và đổ nhẹ lên nền bê tông. Bảng màu bổ sung tách biệt dựa trên các tông màu xám trung tính lạnh, đen và trắng sắc nét, tương phản với màu đỏ nâu đất ấm áp của lớp gạch nền. Được chụp bằng ống kính 50mm ở f/2.8, 1/500s và ISO 400, bức ảnh thời trang đường phố kỹ thuật số chân thực này mang phong cách điện ảnh Matrix với tiêu điểm hơi mềm, độ sâu trường ảnh trung bình, góc nhìn trực diện và nhiễu hạt kỹ thuật số có thể nhìn thấy, hoàn thiện với các tông màu bóng được làm mát và sắc đen được nâng lên cho lớp hoàn thiện nhám phẳng giúp bảo toàn dải động trong chiếc áo khoác tối màu, tất cả được đóng khung đẹp mắt trong định dạng dọc 4:5.
+```
+
+#### 🖼️ Hình ảnh được tạo
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1788764295000_camlms_HQ_d14eWUAA-OF6.jpg" width="600" alt="Tiếp thị sản phẩm - Ảnh chân dung thời trang đường phố thập niên 90 - Image 1">
+</div>
+
+#### 📌 Chi tiết
+
+- **Tác giả:** [Picts by AI](https://x.com/pictsbyai)
+- **Nguồn:** [Twitter Post](https://x.com/pictsbyai/status/2096513231757922520)
+- **Đã xuất bản:** 6 tháng 9, 2026
+- **Ngôn ngữ:** en
+
+**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=33666)**
 
 ---
 
@@ -5155,7 +5149,71 @@ Tạo một bản render ảnh chân thực chất lượng studio từ thiết 
 
 ---
 
-### No. 107: Tài sản trò chơi - Tạo mô hình diorama cổ vật bằng SQL
+### No. 107: Hình ảnh chính thương mại điện tử - Master Prompt cho Cụm Sản phẩm Cao cấp
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Mô tả
+
+Một master prompt tinh vi được thiết kế để kết xuất nhiều sản phẩm thành một cụm 3D dày đặc, cao cấp với các kết cấu chân thực.
+
+#### 📝 Câu lệnh
+
+```
+Cận cảnh cực đại, kết xuất Blender + Octane chi tiết cao của các hình ảnh sản phẩm đính kèm được sắp xếp theo {argument name="composition style" default="cụm 3D nổi dày đặc, chồng chéo"}. Sử dụng chính xác các sản phẩm được hiển thị trong ảnh đính kèm, giữ nguyên màu sắc, chất liệu, logo, nhãn mác, kết cấu và tỷ lệ thực tế như trong ảnh chụp. Không tự ý sáng tạo, thay thế hoặc diễn giải chung chung bất kỳ sản phẩm nào; hãy kết xuất chúng thành các phiên bản 3D trung thực với các tài liệu tham khảo đính kèm.
+
+Bố cục: các vật thể chồng chéo và nổi trong một cụm macro chặt chẽ, mỗi vật thể đón ánh sáng từ một góc độ khác nhau, tạo ra hiệu ứng độ sâu trường ảnh (depth-of-field) phân lớp với vật thể gần nhất được lấy nét sắc nét và các vật thể khác mờ dần trong hậu cảnh.
+
+Đan xen khắp cụm: những dải ruy băng {argument name="decorative element" default="kim loại dạng pháo giấy"} dài, uốn lượn và dải ruy băng lụa mỏng, luồn lách giữa và phía sau các vật thể, bắt lấy các điểm sáng phản chiếu khi chúng uốn lượn trong khung hình.
+
+Chất liệu và kết xuất: nhấn mạnh các kết cấu tương phản trung thực với từng sản phẩm đính kèm: kim loại chải hoặc đánh bóng, độ bóng và nếp gấp của vải mềm, thủy tinh với các hiệu ứng khúc xạ và tán xạ phức tạp nếu có chất lỏng trong suốt, bề mặt sáp hoặc mờ, nhựa bóng hoặc sơn mài, tất cả đều được kết xuất với các phản xạ, khúc xạ và đổ bóng mềm chính xác về mặt vật lý.
+
+Nền: một {argument name="background lighting" default="gradient đa tông màu tinh tế"}, được xây dựng sáng tạo từ các màu chủ đạo và màu nhấn thực tế có trong hình ảnh sản phẩm đính kèm. Phân tích bảng màu của ảnh đính kèm (màu vật thể chính, màu bao bì, bất kỳ tông màu kim loại hoặc màu nhấn nào) và tạo ra một gradient mượt mà, đầy tâm trạng chuyển đổi giữa 2–3 tông màu được trích xuất đó, tông màu sâu/lạnh nhất ở cạnh dưới, tông màu ấm/sáng nhất ở cạnh trên, gợi lên bầu không khí sang trọng của buổi tối. Không sử dụng bảng màu cố định, gradient phải liên quan trực tiếp và bổ sung cho màu sắc thực tế của các sản phẩm đính kèm. Màu sắc của dải ruy băng cũng nên được lấy từ chính bảng màu đã trích xuất này (một tông màu kim loại + một tông màu mềm).
+
+Ánh sáng: ánh sáng chính dịu nhẹ từ phía trên nền, ánh sáng viền tinh tế trên từng cạnh vật thể, ánh sáng phản xạ nhẹ giữa các vật thể chồng chéo, không có bóng đổ gắt.
+
+Máy ảnh: phong cách ống kính macro, độ sâu trường ảnh nông, khung hình cận cảnh cực đại, chân thực như ảnh chụp, chất lượng kết xuất 8K siêu chi tiết.
+```
+
+#### 🖼️ Hình ảnh được tạo
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1784618418893_2imkhx_HNsCe80XMAAnUX5.jpg" width="600" alt="Hình ảnh chính thương mại điện tử - Master Prompt cho Cụm Sản phẩm Cao cấp - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1784618418851_se7utf_HNsCgLiWQAAmYsM.jpg" width="600" alt="Hình ảnh chính thương mại điện tử - Master Prompt cho Cụm Sản phẩm Cao cấp - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1784618418838_k0moey_HNsChTsW4AADdU-.jpg" width="600" alt="Hình ảnh chính thương mại điện tử - Master Prompt cho Cụm Sản phẩm Cao cấp - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1784618419743_ob9c3u_HNsCjQYX0AAvqUS.jpg" width="600" alt="Hình ảnh chính thương mại điện tử - Master Prompt cho Cụm Sản phẩm Cao cấp - Image 4">
+</div>
+
+#### 📌 Chi tiết
+
+- **Tác giả:** [Zazzy](https://x.com/zazzygfx)
+- **Nguồn:** [Twitter Post](https://x.com/zazzygfx/status/2079258961417732263)
+- **Đã xuất bản:** 20 tháng 7, 2026
+- **Ngôn ngữ:** en
+
+**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=29267)**
+
+---
+
+### No. 108: Tài sản trò chơi - Tạo mô hình diorama cổ vật bằng SQL
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5207,7 +5265,7 @@ Một câu lệnh tạo hình theo phong cách SQL độc đáo để tạo ra c
 
 ---
 
-### No. 108: Tài sản trò chơi - Mô hình cơ khí chuyển động Woodpunk bằng gỗ
+### No. 109: Tài sản trò chơi - Mô hình cơ khí chuyển động Woodpunk bằng gỗ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5265,7 +5323,7 @@ Kết cấu: Vecni bóng cao cấp. Gỗ phải trông đắt tiền, mịn màn
 
 ---
 
-### No. 109: Tài sản trò chơi - Bộ mô hình tiểu cảnh Manga để bàn
+### No. 110: Tài sản trò chơi - Bộ mô hình tiểu cảnh Manga để bàn
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5299,7 +5357,7 @@ Một câu lệnh độc đáo để hình dung các thương hiệu manga và a
 
 ---
 
-### No. 110: Tài sản trò chơi - Chân dung người phụ nữ thanh tao với mái tóc hoa
+### No. 111: Tài sản trò chơi - Chân dung người phụ nữ thanh tao với mái tóc hoa
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5333,7 +5391,7 @@ Chân dung cận cảnh một {argument name="subject" default="người phụ n
 
 ---
 
-### No. 111: Tài sản trò chơi - Nhân vật lưu trữ AI hoạt hình phong cách điện ảnh
+### No. 112: Tài sản trò chơi - Nhân vật lưu trữ AI hoạt hình phong cách điện ảnh
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5367,7 +5425,7 @@ Tạo một ảnh tĩnh phim hoạt hình 3D phong cách điện ảnh cho một
 
 ---
 
-### No. 112: Tài sản trò chơi - Studio kính Holographic Canvas
+### No. 113: Tài sản trò chơi - Studio kính Holographic Canvas
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5401,7 +5459,7 @@ Một câu lệnh tối giản cho khung cảnh studio kính đậm chất đi�
 
 ---
 
-### No. 113: Tài sản trò chơi - Hào quang Chiến binh Anime Điện ảnh Đẳng cấp
+### No. 114: Tài sản trò chơi - Hào quang Chiến binh Anime Điện ảnh Đẳng cấp
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5457,7 +5515,7 @@ Tỷ lệ khung hình: 16:9. Siêu chi tiết, điện ảnh, ngoạn mục, hì
 
 ---
 
-### No. 114: Tài sản trò chơi - Ảnh ý tưởng GTA bối cảnh London tương lai
+### No. 115: Tài sản trò chơi - Ảnh ý tưởng GTA bối cảnh London tương lai
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5497,7 +5555,7 @@ Tạo ra ảnh ý tưởng phong cách GTA đầy gai góc với bối cảnh Lo
 
 ---
 
-### No. 115: Tài sản trò chơi - Viên bi thủy tinh trên phiến đá đen
+### No. 116: Tài sản trò chơi - Viên bi thủy tinh trên phiến đá đen
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5531,7 +5589,7 @@ một viên bi thủy tinh {argument name="color" default="màu xanh lá"} trên
 
 ---
 
-### No. 116: Tài sản trò chơi - Diorama điện ảnh sách khoa học viễn tưởng
+### No. 117: Tài sản trò chơi - Diorama điện ảnh sách khoa học viễn tưởng
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5583,7 +5641,7 @@ Tạo ra một diorama điện ảnh chân thực như ảnh chụp đang hiện
 
 ---
 
-### No. 117: Tài sản trò chơi - Diorama Nhân vật Manga phong cách Nendoroid
+### No. 118: Tài sản trò chơi - Diorama Nhân vật Manga phong cách Nendoroid
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5629,7 +5687,7 @@ Một câu lệnh (prompt) có cấu trúc phức tạp dùng để tạo hình 
 
 ---
 
-### No. 118: Tài sản trò chơi - Chân dung giả tưởng điện ảnh với những vệt chất lỏng sống động
+### No. 119: Tài sản trò chơi - Chân dung giả tưởng điện ảnh với những vệt chất lỏng sống động
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5675,7 +5733,7 @@ Chân dung giả tưởng điện ảnh siêu thực chuẩn IMAX phong cách Ne
 
 ---
 
-### No. 119: Tài sản trò chơi - Phong cách minh họa Vector 3D lai
+### No. 120: Tài sản trò chơi - Phong cách minh họa Vector 3D lai
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5721,52 +5779,13 @@ Một {argument name="subject" default="phong cách chân dung người lai"} ti
 
 ---
 
-### No. 120: Áp phích / Tờ rơi - Minh họa Thành phố Lơ lửng Tương lai Nebula
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Mô tả
-
-Một hình ảnh đồ họa có độ tương phản cao đầy mê hoặc, mô tả chi tiết bố cục cảnh quan đô thị hoặc siêu đô thị khoa học viễn tưởng lơ lửng trên những đám mây dưới một vòng tinh vân vũ trụ rực rỡ.
-
-#### 📝 Câu lệnh
-
-```
-Một bức tranh minh họa kỹ thuật số đầy mê hoặc về một cảnh quan thành phố lơ lửng phía trên biển mây đêm bồng bềnh dưới bầu trời kỳ ảo. Ở tiền cảnh, một cụm dày đặc các tòa nhà chọc trời với những ô cửa sổ được thắp sáng bởi ánh đèn vàng ấm áp tạo nên một đường chân trời đô thị rực rỡ. Thành phố như đang tựa mình trên một lớp mây dày, cuộn sóng màu xanh đậm và xám trải dài ra xa. Phía trên thành phố, bầu trời đêm biến thành một kỳ quan thiên thể: một vòng tinh vân khổng lồ, rực rỡ sắc màu bao quanh một khoảng không tối tăm đầy sao. Tinh vân tỏa sáng với các tông màu rực rỡ của tím đậm, xanh điện và cam rực lửa, điểm xuyết bởi những ngôi sao lấp lánh và các chòm sao xa xôi, tạo nên một bầu không khí mơ màng, khác biệt. Một góc nhìn thẳng đứng đầy ngoạn mục về một siêu đô thị tương lai đang lơ lửng một cách duyên dáng phía trên biển mây xám đậm dày đặc, cuộn sóng vào lúc hoàng hôn. Đường chân trời của thành phố trải dài với vô số tòa nhà chọc trời cao vút cùng những ô cửa sổ phát sáng, đổ ánh đèn vàng hổ phách và cam ấm áp xuống cảnh quan đô thị bên dưới. Chiếm lĩnh phần trên của khung hình là một vòng tròn vũ trụ tráng lệ, một tinh vân hình tròn rực rỡ được tạo thành từ các sắc tím sống động, xanh đậm và vàng kim ấm áp, được điểm xuyết bởi vô số ngôi sao lấp lánh và các thiên hà xa xôi trên bầu trời đêm đen kịt. Bố cục cân đối và hùng vĩ, với lớp mây tối làm nền cho tiền cảnh phía dưới, tạo sự tương phản sắc nét với hiện tượng vũ trụ rạng rỡ phía trên. Ánh sáng mang tính siêu thực và thanh tao, hòa quyện giữa ánh sáng nhân tạo ấm áp của đèn thành phố với ánh sáng vũ trụ của tinh vân. Bầu không khí tĩnh lặng, đầy cảm hứng và huyền bí, gợi lên cảm giác kỳ diệu về không gian liên sao và sự cô độc của đô thị. Các kết cấu chi tiết của những đám mây mềm mại, đồ sộ, kiến trúc kính và thép bóng bẩy của các tòa nhà chọc trời, cùng bụi vũ trụ đầy sao tạo nên một khung cảnh có độ tương phản cao và vô cùng ấn tượng về mặt thị giác.
-```
-
-#### 🖼️ Hình ảnh được tạo
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788936824149_oza239_HRuTgPPWIAAcjAy.jpg" width="600" alt="Áp phích / Tờ rơi - Minh họa Thành phố Lơ lửng Tương lai Nebula - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788936824151_i8amo2_HRuTWsta0AAU6QG.jpg" width="600" alt="Áp phích / Tờ rơi - Minh họa Thành phố Lơ lửng Tương lai Nebula - Image 2">
-</div>
-
-#### 📌 Chi tiết
-
-- **Tác giả:** [Viki](https://x.com/churvikv)
-- **Nguồn:** [Twitter Post](https://x.com/churvikv/status/2097435473043931201)
-- **Đã xuất bản:** 8 tháng 9, 2026
-- **Ngôn ngữ:** en
-
-**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=33916)**
-
----
-
 ---
 
 ## 📚 Thêm câu lệnh có sẵn
 
 <div align="center">
 
-### 🎯 15468 câu lệnh khác không hiển thị ở đây
+### 🎯 15466 câu lệnh khác không hiển thị ở đây
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -5829,6 +5848,6 @@ Xem [CONTRIBUTING.md](docs/CONTRIBUTING.md) để biết hướng dẫn chi ti�
 **[📝 Gửi một câu lệnh](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-09-09T08:04:11.345Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-09-09T12:04:12.621Z</sub>
 
 </div>

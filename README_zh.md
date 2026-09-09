@@ -143,9 +143,9 @@ by {argument name="author" default="Steve Jobs"}
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **15588** |
+| 📝 提示词总数 | **15586** |
 | ⭐ 精选 | **9** |
-| 🔄 最后更新 | **2026年9月9日星期三 UTC 08:03:38** |
+| 🔄 最后更新 | **2026年9月9日星期三 UTC 12:03:32** |
 
 </div>
 
@@ -4074,47 +4074,7 @@ Mini Cooper 内部细节渲染得极其逼真（仪表盘、方向盘、座椅�
 
 ---
 
-### No. 82: 产品营销 - 模拟时钟与汉堡基准测试
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-这是一项极具挑战性的压力测试提示词，要求生成一个显示特定时间的模拟时钟、一个波萝伏洛干酪汉堡以及一杯斟满的葡萄酒。
-
-#### 📝 提示词
-
-```
-创建一个显示 {argument name="time" default="15:32"} 的模拟时钟 [非数字时钟，且不得显示其他时间]，一个带有烤 {argument name="cheese" default="金黄色波萝伏洛干酪"} 的汉堡，以及一杯 {argument name="beverage" default="斟满的红酒"}。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788936826958_k9bjzo_HRuAVTTXMAAawZT.jpg" width="600" alt="产品营销 - 模拟时钟与汉堡基准测试 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788936826991_y858ka_HRuCHrgXEAEHiM-.jpg" width="600" alt="产品营销 - 模拟时钟与汉堡基准测试 - Image 2">
-</div>
-
-#### 📌 详情
-
-- **作者:** [Federico Lix Klett](https://x.com/FedericoLKG)
-- **来源:** [Twitter Post](https://x.com/FedericoLKG/status/2097413362841784521)
-- **发布时间:** 2026年9月8日
-- **多语言:** en
-
-**[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?id=33921)**
-
----
-
-### No. 83: 产品营销 - 极简主义 B2B 企业广告
+### No. 82: 产品营销 - 极简主义 B2B 企业广告
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4161,7 +4121,7 @@ Mini Cooper 内部细节渲染得极其逼真（仪表盘、方向盘、座椅�
 
 ---
 
-### No. 84: 产品营销 - 红色棒球帽时尚特写
+### No. 83: 产品营销 - 红色棒球帽时尚特写
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4195,7 +4155,7 @@ Mini Cooper 内部细节渲染得极其逼真（仪表盘、方向盘、座椅�
 
 ---
 
-### No. 85: 产品营销 - 高端时尚杂志海报
+### No. 84: 产品营销 - 高端时尚杂志海报
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4229,7 +4189,7 @@ Mini Cooper 内部细节渲染得极其逼真（仪表盘、方向盘、座椅�
 
 ---
 
-### No. 86: 产品营销 - 超现实主义 Rolex 品牌海报
+### No. 85: 产品营销 - 超现实主义 Rolex 品牌海报
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4270,7 +4230,7 @@ Mini Cooper 内部细节渲染得极其逼真（仪表盘、方向盘、座椅�
 
 ---
 
-### No. 87: 产品营销 - 文化杂志编辑肖像
+### No. 86: 产品营销 - 文化杂志编辑肖像
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4324,7 +4284,7 @@ Mini Cooper 内部细节渲染得极其逼真（仪表盘、方向盘、座椅�
 
 ---
 
-### No. 88: 产品营销 - 浪漫雨中城市时刻
+### No. 87: 产品营销 - 浪漫雨中城市时刻
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4358,7 +4318,7 @@ Mini Cooper 内部细节渲染得极其逼真（仪表盘、方向盘、座椅�
 
 ---
 
-### No. 89: 产品营销 - 奢华 Vogue 杂志封面
+### No. 88: 产品营销 - 奢华 Vogue 杂志封面
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4430,6 +4390,40 @@ ELEGANCE.
 - **多语言:** en
 
 **[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?id=33660)**
+
+---
+
+### No. 89: 产品营销 - 90 年代街头风时尚人像
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+这是一段电影质感的时尚摄影提示词，捕捉了一位身着 90 年代极简街头服饰、带有《黑客帝国》美学风格的男性模特。
+
+#### 📝 提示词
+
+```
+一位 {argument name="subject" default="年轻男模特"} 以 90 年代极简街头时尚风格，自信且充满活力地迈步前行。他梳着背头，呈现出独特的湿发质感，细微的高光突显了发丝纹理；他戴着一副窄框深色长方形 90 年代太阳镜，遮住了双眼，目光在平直的眉毛下略微看向观众的左侧。他的嘴唇微张，神态自然，仿佛正在说话或正处于某种有目的的动作中。他穿着一件 {argument name="clothing" default="厚重的黑色长款羊毛大衣，内搭一件对比鲜明的纯白色 T 恤"}。他的身体略微向右倾斜，重心前移，双肩内收，戴着哑光黑色手套的双手对称地抬至上胸部。他的手部肌肉紧绷，紧紧抓着并整理着大衣宽大的领口。他走在浅灰色的混凝土人行道上，前方过渡到深灰色的沥青路面，画面右下角有几条略显褪色、磨损的双黄线作为视觉锚点。背景处于中等空间深度，经过轻微虚化，以非对称构图突显主体。画面右侧是一座 {argument name="background" default="饱经风霜的红砖建筑外墙"}，呈现出深暖棕色和深红色调，带有炭灰色变化、粗糙的哑光质感、斑驳的烟熏痕迹、不均匀的砖块排列以及明显的深色灰浆缝隙。左侧是一个带有金属边框的破旧门洞，形成了一个深邃且充满阴影的凹槽。场景沐浴在阴天自然光下，光线冷峻、神秘且富有氛围感，如同从上方和前方照射的大型柔光箱。细微的高光掠过他的颧骨和前额，下巴下方、厚领下方以及混凝土上投射出柔和的灰色短影。色彩采用分裂互补色调，以低饱和度的冷中性灰、纯黑和纯白为主，与背景砖墙的暖土红棕色形成对比。使用 50mm 镜头，f/2.8 光圈，1/500 秒快门，ISO 400 拍摄，这张纪实风格的数码街拍照片融合了电影般的《黑客帝国》美学，具有轻微的柔焦效果、中等景深、正面视角和可见的数码噪点，最终呈现出冷色调阴影和提升后的黑色，形成一种保留了深色大衣动态范围的平滑哑光质感，并以 4:5 的竖构图完美呈现。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1788764295000_camlms_HQ_d14eWUAA-OF6.jpg" width="600" alt="产品营销 - 90 年代街头风时尚人像 - Image 1">
+</div>
+
+#### 📌 详情
+
+- **作者:** [Picts by AI](https://x.com/pictsbyai)
+- **来源:** [Twitter Post](https://x.com/pictsbyai/status/2096513231757922520)
+- **发布时间:** 2026年9月6日
+- **多语言:** en
+
+**[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?id=33666)**
 
 ---
 
@@ -5161,7 +5155,71 @@ ELEGANCE.
 
 ---
 
-### No. 107: 游戏素材 - Artifact Diorama SQL 生成
+### No. 107: 电商主图 - 奢侈品集群主提示词
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+一款精致的主提示词，旨在将多个产品渲染为密集、高端且具有逼真纹理的 3D 集群。
+
+#### 📝 提示词
+
+```
+极致特写，高度细节化的 Blender + Octane 渲染，将附带的产品图片排列为 {argument name="composition style" default="密集、重叠的 3D 悬浮集群"}。请使用附图中展示的精确产品，并严格保留其拍摄时的真实颜色、材质、Logo、标签、纹理和比例。严禁虚构、替换或泛化地重新解读任何产品；请将其渲染为附带参考图的忠实 3D 版本。
+
+构图：物体在紧凑的微距集群中重叠并悬浮，每个物体从不同角度捕捉光线，营造出层次分明的景深效果，最近的物体清晰对焦，其余物体在背景虚化中柔和过渡。
+
+集群交织元素：长而卷曲的 {argument name="decorative element" default="金属质感纸屑丝带"} 和细长的丝绸缎带，穿插在物体之间和后方，在画面中卷曲时捕捉高光。
+
+材质与渲染：强调符合各附带产品真实质感的对比纹理——拉丝或抛光金属、柔软的织物光泽与褶皱、若有透明液体则呈现具有复杂焦散和折射效果的玻璃、蜡质或哑光表面、光泽塑料或漆面——所有材质均需通过物理精确的反射、折射和柔和阴影遮挡进行渲染。
+
+背景：一种 {argument name="background lighting" default="精致的多色调渐变"}，根据附带产品图片中实际存在的主色调和强调色进行创意构建。分析附带照片的调色板（主要物体颜色、包装颜色、任何金属或强调色调），并构建一个平滑、富有氛围感的渐变，在提取出的 2–3 种色调之间过渡，底部边缘使用最深/最冷的色调，顶部边缘使用最暖/最亮的色调，营造出精致的奢华晚宴氛围。不要使用固定的默认调色板，渐变必须与附带产品的实际颜色有明显的关联并形成互补。纸屑丝带的颜色也应从同一提取的调色板中选取（一种金属色调 + 一种柔和色调）。
+
+光照：来自背景上方光晕的柔和主光，每个物体边缘有微妙的轮廓光，重叠物体之间有柔和的反射光，无生硬阴影。
+
+相机：微距镜头视觉，浅景深，极致特写构图，照片级真实感，超精细，8K 渲染质量。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1784618418893_2imkhx_HNsCe80XMAAnUX5.jpg" width="600" alt="电商主图 - 奢侈品集群主提示词 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1784618418851_se7utf_HNsCgLiWQAAmYsM.jpg" width="600" alt="电商主图 - 奢侈品集群主提示词 - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1784618418838_k0moey_HNsChTsW4AADdU-.jpg" width="600" alt="电商主图 - 奢侈品集群主提示词 - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1784618419743_ob9c3u_HNsCjQYX0AAvqUS.jpg" width="600" alt="电商主图 - 奢侈品集群主提示词 - Image 4">
+</div>
+
+#### 📌 详情
+
+- **作者:** [Zazzy](https://x.com/zazzygfx)
+- **来源:** [Twitter Post](https://x.com/zazzygfx/status/2079258961417732263)
+- **发布时间:** 2026年7月20日
+- **多语言:** en
+
+**[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?id=29267)**
+
+---
+
+### No. 108: 游戏素材 - Artifact Diorama SQL 生成
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5213,7 +5271,7 @@ ELEGANCE.
 
 ---
 
-### No. 108: 游戏素材 - Woodpunk 动力木质雕塑自动机
+### No. 109: 游戏素材 - Woodpunk 动力木质雕塑自动机
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5271,7 +5329,7 @@ ELEGANCE.
 
 ---
 
-### No. 109: 游戏素材 - 漫画桌面立体模型套件
+### No. 110: 游戏素材 - 漫画桌面立体模型套件
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5305,7 +5363,7 @@ ELEGANCE.
 
 ---
 
-### No. 110: 游戏素材 - 空灵女子花卉发饰肖像
+### No. 111: 游戏素材 - 空灵女子花卉发饰肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5339,7 +5397,7 @@ ELEGANCE.
 
 ---
 
-### No. 111: 游戏素材 - 电影级 3D 动画 AI 档案员
+### No. 112: 游戏素材 - 电影级 3D 动画 AI 档案员
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5373,7 +5431,7 @@ ELEGANCE.
 
 ---
 
-### No. 112: 游戏素材 - 全息画布玻璃工作室
+### No. 113: 游戏素材 - 全息画布玻璃工作室
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5407,7 +5465,7 @@ ELEGANCE.
 
 ---
 
-### No. 113: 游戏素材 - 精英动漫电影级战士气场
+### No. 114: 游戏素材 - 精英动漫电影级战士气场
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5463,7 +5521,7 @@ ELEGANCE.
 
 ---
 
-### No. 114: 游戏素材 - 未来伦敦 GTA 风格概念艺术
+### No. 115: 游戏素材 - 未来伦敦 GTA 风格概念艺术
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5503,7 +5561,7 @@ ELEGANCE.
 
 ---
 
-### No. 115: 游戏素材 - 黑色石板上的玻璃弹珠
+### No. 116: 游戏素材 - 黑色石板上的玻璃弹珠
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5537,7 +5595,7 @@ ELEGANCE.
 
 ---
 
-### No. 116: 游戏素材 - 科幻书籍电影感立体模型
+### No. 117: 游戏素材 - 科幻书籍电影感立体模型
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5589,7 +5647,7 @@ ELEGANCE.
 
 ---
 
-### No. 117: 游戏素材 - 漫画角色粘土人风格立体模型
+### No. 118: 游戏素材 - 漫画角色粘土人风格立体模型
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5635,7 +5693,7 @@ ELEGANCE.
 
 ---
 
-### No. 118: 游戏素材 - 充满流动感的电影级奇幻肖像
+### No. 119: 游戏素材 - 充满流动感的电影级奇幻肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5681,7 +5739,7 @@ ELEGANCE.
 
 ---
 
-### No. 119: 游戏素材 - 混合 3D 矢量插画风格
+### No. 120: 游戏素材 - 混合 3D 矢量插画风格
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5727,52 +5785,13 @@ ELEGANCE.
 
 ---
 
-### No. 120: 海报 / 传单 - 未来感浮空城市星云插画
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 描述
-
-一幅迷人的高对比度图形，详细描绘了漂浮在云层之上、璀璨宇宙星云环下的城市景观或科幻都市布局。
-
-#### 📝 提示词
-
-```
-这是一幅迷人的数字插画，描绘了一座悬浮在蓬松夜云之上的城市，背景是梦幻般的天空。前景中，密集的摩天大楼群窗户透出温暖的金色灯光，勾勒出闪耀的城市天际线。城市仿佛坐落在厚重、连绵的深蓝色与灰色云层之上，向远方延伸。城市上方，夜空化作了天体奇观：一个巨大且发光的彩色星云环绕着漆黑、星光点点的虚空。星云散发出深紫、电光蓝和炽热橙色的鲜艳色调，点缀着遥远闪烁的恒星与星座，营造出梦幻般超凡脱俗的氛围。这是一幅令人惊叹的垂直视角画面，展现了一座未来都市在黄昏时分优雅地漂浮在无尽、厚重且连绵的深灰色云海之上。广阔的城市天际线拥有众多高耸入云的摩天大楼，发光的窗户将温暖的琥珀色和橙色光芒投射到下方的城市景观中。画面上方是一道壮丽的宇宙环，这是一个由鲜艳紫色、深蓝色和灿烂暖金色组成的圆形发光星云，在漆黑的夜空中洒满了无数闪烁的恒星和遥远的星系。构图平衡且宏伟，下方的深色云层作为基底，与上方璀璨的宇宙现象形成鲜明对比。光影超现实且空灵，将城市灯光的温暖人造光与星云的宇宙光芒融为一体。氛围宁静、令人敬畏且神秘，唤起了一种星际奇观与城市孤寂感。柔软蓬松的云层纹理、摩天大楼光滑的玻璃钢结构以及星光熠熠的宇宙尘埃，共同营造出高对比度、视觉冲击力极强的场景。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788936824149_oza239_HRuTgPPWIAAcjAy.jpg" width="600" alt="海报 / 传单 - 未来感浮空城市星云插画 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788936824151_i8amo2_HRuTWsta0AAU6QG.jpg" width="600" alt="海报 / 传单 - 未来感浮空城市星云插画 - Image 2">
-</div>
-
-#### 📌 详情
-
-- **作者:** [Viki](https://x.com/churvikv)
-- **来源:** [Twitter Post](https://x.com/churvikv/status/2097435473043931201)
-- **发布时间:** 2026年9月8日
-- **多语言:** en
-
-**[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?id=33916)**
-
----
-
 ---
 
 ## 📚 更多提示词
 
 <div align="center">
 
-### 🎯 15468 更多提示词未在此显示
+### 🎯 15466 更多提示词未在此显示
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -5835,6 +5854,6 @@ The gallery features:
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-09-09T08:03:38.407Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-09-09T12:03:32.184Z</sub>
 
 </div>
