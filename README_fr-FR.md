@@ -143,9 +143,9 @@ Lors de l'utilisation dans Raycast, vous pouvez remplacer dynamiquement les argu
 
 | Métrique | Nombre |
 |--------|-------|
-| 📝 Total des prompts | **15601** |
+| 📝 Total des prompts | **15600** |
 | ⭐ En vedette | **9** |
-| 🔄 Dernière mise à jour | **jeudi 10 septembre 2026 à 08:04:18 UTC** |
+| 🔄 Dernière mise à jour | **jeudi 10 septembre 2026 à 12:04:51 UTC** |
 
 </div>
 
@@ -781,41 +781,7 @@ Plan moyen d'une {argument name="subject" default="jeune femme"} assise sur un {
 
 ---
 
-### No. 4: Profil / Avatar - Portrait en silhouette à l'heure dorée
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Description
-
-Portrait cinématographique au coucher du soleil d'un homme sud-asiatique avec une préservation stricte de l'identité.
-
-#### 📝 Prompt
-
-```
-Gros plan cinématographique ultra-réaliste de profil, tourné vers la droite, d'un {argument name="subject" default="jeune homme sud-asiatique"} en extérieur pendant {argument name="time of day" default="le coucher du soleil à l'heure dorée"}. Utilisez ma référence faciale téléchargée comme référence stricte pour correspondre à 100 % à mon visage, mes proportions faciales, ma barbe, ma moustache, ma texture de peau et ma coiffure, sans embellissement, sans blanchiment de la peau, sans remodelage du visage. Copiez uniquement la pose et la composition de la référence présidentielle. Du haut de la poitrine et des épaules vers le haut, corps entièrement de profil vers la droite, tête droite avec le menton légèrement relevé, yeux doucement fermés, lèvres détendues et expression paisible. {argument name="clothing" default="T-shirt uni oversize à col rond noir mat"}. Ciel ouvert minimal au coucher du soleil avec un dégradé naturel pêche-orange et ambre chaud, horizon subtilement flou. Contre-jour puissant du coucher du soleil créant une silhouette sombre et mélancolique ; le visage doit rester sombre, non éclairé de face. Fine lumière dorée chaude soulignant les cheveux, le front, le nez, les lèvres, la barbe, la mâchoire et les épaules. 85mm DSLR, f/1.8, faible profondeur de champ, exposition low-key, ombres profondes, grain de film subtil, étalonnage cinématographique, résolution 12k hyper réaliste, photo naturelle, portrait vertical 3:4.
-```
-
-#### 🖼️ Images générées
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1789022272185_r06bom_HR0uNB9bcAA0JS-.jpg" width="600" alt="Profil / Avatar - Portrait en silhouette à l'heure dorée - Image 1">
-</div>
-
-#### 📌 Détails
-
-- **Auteur:** [Muhammad Jamil](https://x.com/JamilAI55)
-- **Source:** [Twitter Post](https://x.com/JamilAI55/status/2097883811053031584)
-- **Publié:** 10 septembre 2026
-- **Langues:** en
-
-**[👉 Essayer maintenant →](https://youmind.com/fr-FR/nano-banana-pro-prompts?id=34123)**
-
----
-
-### No. 5: Profil / Avatar - Portrait de nuit professionnel d'un couple
+### No. 4: Profil / Avatar - Portrait de nuit professionnel d'un couple
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -849,7 +815,7 @@ Utilisez l'image téléchargée comme seule référence faciale et préservez à
 
 ---
 
-### No. 6: Profil / Avatar - Portrait éditorial streetwear et préservation de l'identité
+### No. 5: Profil / Avatar - Portrait éditorial streetwear et préservation de l'identité
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -895,7 +861,7 @@ Crée un portrait éditorial streetwear cinématographique et ultra-réaliste de
 
 ---
 
-### No. 7: Profil / Avatar - Portrait de beauté vintage style vieil Hollywood
+### No. 6: Profil / Avatar - Portrait de beauté vintage style vieil Hollywood
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -929,7 +895,7 @@ Portrait de beauté haute couture ultra-réaliste d'une femme élégante au look
 
 ---
 
-### No. 8: Profil / Avatar - Portrait en robe en dentelle avec flash direct en extérieur
+### No. 7: Profil / Avatar - Portrait en robe en dentelle avec flash direct en extérieur
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -970,7 +936,7 @@ Arrière-plan : {argument name="background" default="Un mur dense de lierre vert
 
 ---
 
-### No. 9: Profil / Avatar - Portrait élégant en pull à épaules dénudées
+### No. 8: Profil / Avatar - Portrait élégant en pull à épaules dénudées
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1003,7 +969,7 @@ Une femme aux longs cheveux bouclés pose avec élégance devant un fond beige d
 
 ---
 
-### No. 10: Profil / Avatar - Portrait d'une jeune femme dans une rue de nuit
+### No. 9: Profil / Avatar - Portrait d'une jeune femme dans une rue de nuit
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1038,7 +1004,7 @@ Sujet : Elle a de longs cheveux ondulés châtain clair ou blonds ramenés sur u
 
 ---
 
-### No. 11: Profil / Avatar - Portrait en robe de soie dans un complexe hôtelier aux Maldives
+### No. 10: Profil / Avatar - Portrait en robe de soie dans un complexe hôtelier aux Maldives
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1072,7 +1038,7 @@ Portrait ultra-réaliste de luxe en complexe hôtelier d'une jeune femme debout 
 
 ---
 
-### No. 12: Profil / Avatar - Portrait cinématographique clair-obscur à l'heure dorée
+### No. 11: Profil / Avatar - Portrait cinématographique clair-obscur à l'heure dorée
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1105,7 +1071,7 @@ Un portrait cinématographique en gros plan d'une jeune femme à la beauté natu
 
 ---
 
-### No. 13: Profil / Avatar - Adorable chat tabby flottant et brillant dans l'espace
+### No. 12: Profil / Avatar - Adorable chat tabby flottant et brillant dans l'espace
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -1138,7 +1104,7 @@ Un adorable chat tabby flotte au centre d'un fond spatial noir, le contour de so
 
 ---
 
-### No. 14: Profil / Avatar - Portrait selfie au reflex numérique à l'heure dorée
+### No. 13: Profil / Avatar - Portrait selfie au reflex numérique à l'heure dorée
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1171,7 +1137,7 @@ Portrait selfie ultra-réaliste de style reflex numérique d'une jeune fille ave
 
 ---
 
-### No. 15: Profil / Avatar - Portrait hybride réaliste au style pictural expressif
+### No. 14: Profil / Avatar - Portrait hybride réaliste au style pictural expressif
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1230,7 +1196,7 @@ Format : 9:16 vertical.
 
 ---
 
-### No. 16: Profil / Avatar - Shooting éditorial de mode de luxe avec SUV
+### No. 15: Profil / Avatar - Shooting éditorial de mode de luxe avec SUV
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1263,7 +1229,7 @@ Modifie ma photo téléchargée pour créer un look lifestyle de luxe similaire 
 
 ---
 
-### No. 17: Profil / Avatar - Portrait beauté éditorial coréen
+### No. 16: Profil / Avatar - Portrait beauté éditorial coréen
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1313,7 +1279,7 @@ Prompt négatif : identité modifiée, visage différent, visage embelli, peau p
 
 ---
 
-### No. 18: Profil / Avatar - Portrait d'une femme indienne près d'une fenêtre
+### No. 17: Profil / Avatar - Portrait d'une femme indienne près d'une fenêtre
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1347,7 +1313,7 @@ Une {argument name="subject" default="belle jeune femme indienne"} avec un maqui
 
 ---
 
-### No. 19: Profil / Avatar - Portrait cinématographique intense de profil
+### No. 18: Profil / Avatar - Portrait cinématographique intense de profil
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1378,6 +1344,40 @@ Créez un portrait cinématographique sombre et intense en gros plan de l'homme 
 - **Langues:** en
 
 **[👉 Essayer maintenant →](https://youmind.com/fr-FR/nano-banana-pro-prompts?id=33567)**
+
+---
+
+### No. 19: Profil / Avatar - Photographie lifestyle ludique en chambre
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Description
+
+Un prompt pour capturer un moment ludique et amusant dans une chambre, en se concentrant sur la pose et l'expression d'un modèle pour un rendu photographique professionnel.
+
+#### 📝 Prompt
+
+```
+Style de photographie professionnelle, adoptez un nouvel angle et une nouvelle pose pour notre {argument name="subject" default="modèle"} se détendant dans {argument name="setting" default="sa chambre"}. Une pose ludique faisant le signe de la paix et tirant la langue, la tête penchée sur le côté pour un effet amusant.
+```
+
+#### 🖼️ Images générées
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1788676670911_s88p6t_HRWk1OIa8AAnQYc.jpg" width="600" alt="Profil / Avatar - Photographie lifestyle ludique en chambre - Image 1">
+</div>
+
+#### 📌 Détails
+
+- **Auteur:** [dreamy digital arts](https://x.com/dreamydigiarts)
+- **Source:** [Twitter Post](https://x.com/dreamydigiarts/status/2096259560700805135)
+- **Publié:** 5 septembre 2026
+- **Langues:** en
+
+**[👉 Essayer maintenant →](https://youmind.com/fr-FR/nano-banana-pro-prompts?id=33561)**
 
 ---
 
@@ -5857,7 +5857,7 @@ Un {argument name="subject" default="style de portrait humain hybride"} sophisti
 
 <div align="center">
 
-### 🎯 15481 prompts supplémentaires non affichés ici
+### 🎯 15480 prompts supplémentaires non affichés ici
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -5920,6 +5920,6 @@ Sous licence [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Soumettre un prompt](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Mettre une étoile à ce dépôt](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-09-10T08:04:18.674Z</sub>
+<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-09-10T12:04:51.732Z</sub>
 
 </div>

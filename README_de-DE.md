@@ -143,9 +143,9 @@ Bei Verwendung in Raycast können Sie die Argumente dynamisch ersetzen, um schne
 
 | Metrik | Anzahl |
 |--------|-------|
-| 📝 Gesamtanzahl Prompts | **15601** |
+| 📝 Gesamtanzahl Prompts | **15600** |
 | ⭐ Ausgewählt | **9** |
-| 🔄 Zuletzt aktualisiert | **Donnerstag, 10. September 2026 um 08:04:14 UTC** |
+| 🔄 Zuletzt aktualisiert | **Donnerstag, 10. September 2026 um 12:04:45 UTC** |
 
 </div>
 
@@ -781,41 +781,7 @@ Halbtotale einer sitzenden {argument name="subject" default="jungen Frau"} auf e
 
 ---
 
-### No. 4: Profil / Avatar - Porträt im Gegenlicht zur goldenen Stunde
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Beschreibung
-
-Filmreifes Porträt bei Sonnenuntergang eines südasiatischen Mannes unter strikter Wahrung der Identität.
-
-#### 📝 Prompt
-
-```
-Ultrarealistisches, filmreifes Nahaufnahme-Porträt im Seitenprofil nach rechts von einem {argument name="subject" default="jungen südasiatischen Mann"} im Freien während der {argument name="time of day" default="warmen goldenen Stunde bei Sonnenuntergang"}. Verwenden Sie mein hochgeladenes Gesichtsfoto als strikte Identitätsreferenz – übernehmen Sie mein exaktes Gesicht, meine Gesichtsproportionen, meinen Bart, Schnurrbart, meine Hautstruktur und Frisur zu 100 %, keine Verschönerung, keine Hautaufhellung, keine Gesichtsformung. Übernehmen Sie nur die Pose und Komposition von der Referenzvorlage. Oberkörper und Schultern aufwärts, Körper vollständig seitlich nach rechts gedreht, Kopf gerade mit leicht angehobenem Kinn, Augen sanft geschlossen, entspannte Lippen und friedlicher emotionaler Ausdruck. {argument name="clothing" default="Schlichtes, übergroßes, mattschwarzes T-Shirt mit Rundhalsausschnitt"}. Minimalistischer, offener Sonnenuntergangshimmel mit natürlichem pfirsich-orangenem und warmem bernsteinfarbenem Verlauf, dezent verschwommener Horizont. Starkes Gegenlicht des Sonnenuntergangs erzeugt eine dunkle, stimmungsvolle Silhouette; das Gesicht muss dunkel bleiben, nicht aufgehellt oder von vorne beleuchtet. Dünnes, warmes goldenes Streiflicht, das Haare, Stirn, Nase, Lippen, Bart, Kieferpartie und Schultern umrandet. 85mm DSLR, f/1.8, geringe Schärfentiefe, Low-Key-Belichtung, tiefe Schatten, dezentes Filmkorn, filmisches Color Grading, hyperrealistische 12k-Auflösung, natürliches Foto, 3:4 vertikales Porträt.
-```
-
-#### 🖼️ Generierte Bilder
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1789022272185_r06bom_HR0uNB9bcAA0JS-.jpg" width="600" alt="Profil / Avatar - Porträt im Gegenlicht zur goldenen Stunde - Image 1">
-</div>
-
-#### 📌 Details
-
-- **Autor:** [Muhammad Jamil](https://x.com/JamilAI55)
-- **Quelle:** [Twitter Post](https://x.com/JamilAI55/status/2097883811053031584)
-- **Veröffentlicht:** 10. September 2026
-- **Sprachen:** en
-
-**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/nano-banana-pro-prompts?id=34123)**
-
----
-
-### No. 5: Profil / Avatar - Professionelles Nachtporträt eines Paares
+### No. 4: Profil / Avatar - Professionelles Nachtporträt eines Paares
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -849,7 +815,7 @@ Verwenden Sie das hochgeladene Bild als einzige Gesichtsreferenz und bewahren Si
 
 ---
 
-### No. 6: Profil / Avatar - Streetwear-Editorial-Porträt mit Identitätserhalt
+### No. 5: Profil / Avatar - Streetwear-Editorial-Porträt mit Identitätserhalt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -895,7 +861,7 @@ Erstelle ein cineastisches, ultra-realistisches Streetwear-Editorial-Porträt vo
 
 ---
 
-### No. 7: Profil / Avatar - Vintage Old Hollywood Beauty-Porträt
+### No. 6: Profil / Avatar - Vintage Old Hollywood Beauty-Porträt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -929,7 +895,7 @@ Ultrarealistisches High-Fashion-Beauty-Porträt einer eleganten Frau im glamour�
 
 ---
 
-### No. 8: Profil / Avatar - Outdoor-Porträt mit direktem Blitzlicht im Spitzenkleid
+### No. 7: Profil / Avatar - Outdoor-Porträt mit direktem Blitzlicht im Spitzenkleid
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -970,7 +936,7 @@ Hintergrund: {argument name="background" default="Eine dichte Wand aus sattgrün
 
 ---
 
-### No. 9: Profil / Avatar - Elegantes Porträt im schulterfreien Pullover
+### No. 8: Profil / Avatar - Elegantes Porträt im schulterfreien Pullover
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1003,7 +969,7 @@ Eine Frau mit langem, lockigem Haar sitzt elegant vor einem sanften beigen Hinte
 
 ---
 
-### No. 10: Profil / Avatar - Porträt einer jungen Frau bei Nacht auf der Straße
+### No. 9: Profil / Avatar - Porträt einer jungen Frau bei Nacht auf der Straße
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1038,7 +1004,7 @@ Motiv: Sie hat langes, welliges hellbraunes oder blondes Haar, das über eine Sc
 
 ---
 
-### No. 11: Profil / Avatar - Porträt einer Frau im Seidenkleid in einem Resort auf den Malediven
+### No. 10: Profil / Avatar - Porträt einer Frau im Seidenkleid in einem Resort auf den Malediven
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1072,7 +1038,7 @@ Ultrarealistisches Luxus-Resort-Porträt einer jungen Frau, die während der gol
 
 ---
 
-### No. 12: Profil / Avatar - Chiaroscuro Golden Hour Kinematografisches Porträt
+### No. 11: Profil / Avatar - Chiaroscuro Golden Hour Kinematografisches Porträt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1105,7 +1071,7 @@ Ein kinematografisches Nahaufnahme-Porträt einer jungen Frau mit natürlicher S
 
 ---
 
-### No. 13: Profil / Avatar - Süße schwebende glänzende Weltraum-Tigerkatze
+### No. 12: Profil / Avatar - Süße schwebende glänzende Weltraum-Tigerkatze
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -1138,7 +1104,7 @@ Eine entzückende Tigerkatze schwebt in der Mitte eines schwarzen Weltraumhinter
 
 ---
 
-### No. 14: Profil / Avatar - Golden Hour DSLR Selfie-Porträt
+### No. 13: Profil / Avatar - Golden Hour DSLR Selfie-Porträt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1171,7 +1137,7 @@ Ultrarealistisches Selfie-Porträt im DSLR-Stil eines Mädchens mit ähnlichen G
 
 ---
 
-### No. 15: Profil / Avatar - Ausdrucksstarkes, malerisch-realistisches Hybrid-Porträt
+### No. 14: Profil / Avatar - Ausdrucksstarkes, malerisch-realistisches Hybrid-Porträt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1230,7 +1196,7 @@ Seitenverhältnis: 9:16 vertikal.
 
 ---
 
-### No. 16: Profil / Avatar - Luxus-Mode-Editorial-Shooting mit SUV
+### No. 15: Profil / Avatar - Luxus-Mode-Editorial-Shooting mit SUV
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1263,7 +1229,7 @@ Bearbeite mein hochgeladenes Foto, um einen luxuriösen Lifestyle-Look zu kreier
 
 ---
 
-### No. 17: Profil / Avatar - Korean Editorial Beauty-Porträt
+### No. 16: Profil / Avatar - Korean Editorial Beauty-Porträt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1313,7 +1279,7 @@ Negativer Prompt: veränderte Identität, anderes Gesicht, verschönertes Gesich
 
 ---
 
-### No. 18: Profil / Avatar - Porträt einer indischen Frau am Fenster
+### No. 17: Profil / Avatar - Porträt einer indischen Frau am Fenster
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1347,7 +1313,7 @@ Eine {argument name="subject" default="schöne junge indische Frau"} mit dezente
 
 ---
 
-### No. 19: Profil / Avatar - Cinematisches, intensives Porträt mit Seitenblick
+### No. 18: Profil / Avatar - Cinematisches, intensives Porträt mit Seitenblick
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1378,6 +1344,40 @@ Erstelle ein dunkles, intensives, kinoreifes Nahaufnahme-Porträt des hochgelade
 - **Sprachen:** en
 
 **[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/nano-banana-pro-prompts?id=33567)**
+
+---
+
+### No. 19: Profil / Avatar - Verspielte Lifestyle-Fotografie im Schlafzimmer
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Beschreibung
+
+Ein Prompt zum Einfangen eines verspielten, albernen Moments in einem Schlafzimmer-Setting, der sich auf die Pose und den Ausdruck eines Models für einen professionellen Fotografie-Look konzentriert.
+
+#### 📝 Prompt
+
+```
+Professioneller Fotostil. Wähle einen neuen Blickwinkel und eine neue Pose für unser {argument name="subject" default="Model"}, das sich in {argument name="setting" default="ihrem Schlafzimmer"} aufhält. Eine verspielte Pose mit Victory-Zeichen und herausgestreckter Zunge, den Kopf zur Seite geneigt, um albern zu wirken.
+```
+
+#### 🖼️ Generierte Bilder
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1788676670911_s88p6t_HRWk1OIa8AAnQYc.jpg" width="600" alt="Profil / Avatar - Verspielte Lifestyle-Fotografie im Schlafzimmer - Image 1">
+</div>
+
+#### 📌 Details
+
+- **Autor:** [dreamy digital arts](https://x.com/dreamydigiarts)
+- **Quelle:** [Twitter Post](https://x.com/dreamydigiarts/status/2096259560700805135)
+- **Veröffentlicht:** 5. September 2026
+- **Sprachen:** en
+
+**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/nano-banana-pro-prompts?id=33561)**
 
 ---
 
@@ -5853,7 +5853,7 @@ Ein anspruchsvoller {argument name="subject" default="hybrider menschlicher Port
 
 <div align="center">
 
-### 🎯 15481 weitere Prompts hier nicht angezeigt
+### 🎯 15480 weitere Prompts hier nicht angezeigt
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -5916,6 +5916,6 @@ Lizenziert unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Prompt einreichen](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Dieses Repository mit Stern markieren](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-09-10T08:04:14.786Z</sub>
+<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-09-10T12:04:45.614Z</sub>
 
 </div>

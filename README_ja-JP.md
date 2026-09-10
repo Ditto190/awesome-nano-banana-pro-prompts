@@ -143,9 +143,9 @@ Raycast で使用すると、引数を動的に置き換えて迅速に反復で
 
 | 指標 | 数 |
 |--------|-------|
-| 📝 プロンプト総数 | **15601** |
+| 📝 プロンプト総数 | **15600** |
 | ⭐ おすすめ | **9** |
-| 🔄 最終更新 | **2026年9月10日木曜日 8:03:47 UTC** |
+| 🔄 最終更新 | **2026年9月10日木曜日 12:04:03 UTC** |
 
 </div>
 
@@ -781,41 +781,7 @@ Grok からの検索結果
 
 ---
 
-### No. 4: プロフィール / アバター - ゴールデンアワーのシルエットポートレート
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 説明
-
-厳格な本人確認を伴う、南アジア人男性の映画のような夕日のポートレート。
-
-#### 📝 プロンプト
-
-```
-{argument name="time of day" default="暖かいゴールデンアワーの夕暮れ"} の屋外で、{argument name="subject" default="若い南アジア人男性"} を捉えた、超リアルで映画のような右向き横顔のクローズアップポートレート。アップロードした顔写真を厳格な本人参照用として使用し、顔立ち、比率、髭、口髭、肌の質感、髪型を 100% 一致させてください。美化、肌の美白、顔の造形変更は一切行わないでください。大統領の参照画像からはポーズと構図のみをコピーしてください。胸から上を写し、体は完全に右を向き、頭は真っ直ぐで顎をわずかに上げ、目は優しく閉じ、唇はリラックスした穏やかな表情で。{argument name="clothing" default="無地のオーバーサイズでマットな黒のクルーネック T シャツ"}。背景は最小限の開けた夕空で、自然なピーチオレンジと温かみのあるアンバーのグラデーション、かすかにぼやけた地平線。夕日の強い逆光により、ダークでムードのあるシルエットを表現してください。顔は明るくしたり正面から照らしたりせず、暗いままに保つこと。髪、額、鼻、唇、髭、顎のライン、肩を縁取る、細く温かみのあるゴールデンリムライト。85mm DSLR、f/1.8、浅い被写界深度、ローキー露出、深い影、繊細なフィルムグレイン、映画のようなカラーグレーディング、ハイパーリアルな 12k 解像度、自然な写真、3:4 の縦型ポートレート。
-```
-
-#### 🖼️ 生成画像
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1789022272185_r06bom_HR0uNB9bcAA0JS-.jpg" width="600" alt="プロフィール / アバター - ゴールデンアワーのシルエットポートレート - Image 1">
-</div>
-
-#### 📌 詳細
-
-- **作者:** [Muhammad Jamil](https://x.com/JamilAI55)
-- **ソース:** [Twitter Post](https://x.com/JamilAI55/status/2097883811053031584)
-- **公開日:** 2026年9月10日
-- **言語:** en
-
-**[👉 今すぐ試す →](https://youmind.com/ja-JP/nano-banana-pro-prompts?id=34123)**
-
----
-
-### No. 5: プロフィール / アバター - カップルのプロフェッショナルな夜間ポートレート
+### No. 4: プロフィール / アバター - カップルのプロフェッショナルな夜間ポートレート
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -849,7 +815,7 @@ Grok からの検索結果
 
 ---
 
-### No. 6: プロフィール / アバター - ストリートウェア・エディトリアル・ポートレート：アイデンティティ保持
+### No. 5: プロフィール / アバター - ストリートウェア・エディトリアル・ポートレート：アイデンティティ保持
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -895,7 +861,7 @@ Grok からの検索結果
 
 ---
 
-### No. 7: プロフィール / アバター - ヴィンテージなオールドハリウッド風ビューティーポートレート
+### No. 6: プロフィール / アバター - ヴィンテージなオールドハリウッド風ビューティーポートレート
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -929,7 +895,7 @@ Grok からの検索結果
 
 ---
 
-### No. 8: プロフィール / アバター - 屋外でのダイレクトフラッシュ・レースドレスのポートレート
+### No. 7: プロフィール / アバター - 屋外でのダイレクトフラッシュ・レースドレスのポートレート
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -970,7 +936,7 @@ Grok からの検索結果
 
 ---
 
-### No. 9: プロフィール / アバター - オフショルダーのセーターを纏ったエレガントなポートレート
+### No. 8: プロフィール / アバター - オフショルダーのセーターを纏ったエレガントなポートレート
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1003,7 +969,7 @@ Grok からの検索結果
 
 ---
 
-### No. 10: プロフィール / アバター - 夜のストリートで佇む若い女性のポートレート
+### No. 9: プロフィール / アバター - 夜のストリートで佇む若い女性のポートレート
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1038,7 +1004,7 @@ Grok からの検索結果
 
 ---
 
-### No. 11: プロフィール / アバター - モルディブのリゾートでのシルクドレスのポートレート
+### No. 10: プロフィール / アバター - モルディブのリゾートでのシルクドレスのポートレート
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1072,7 +1038,7 @@ Grok からの検索結果
 
 ---
 
-### No. 12: プロフィール / アバター - キアロスクーロ：ゴールデンアワーのシネマティック・ポートレート
+### No. 11: プロフィール / アバター - キアロスクーロ：ゴールデンアワーのシネマティック・ポートレート
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1105,7 +1071,7 @@ Grok からの検索結果
 
 ---
 
-### No. 13: プロフィール / アバター - キュートで光沢のある宇宙を漂うタビーキャット
+### No. 12: プロフィール / アバター - キュートで光沢のある宇宙を漂うタビーキャット
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -1138,7 +1104,7 @@ Grok からの検索結果
 
 ---
 
-### No. 14: プロフィール / アバター - ゴールデンアワーの DSLR セルフィーポートレート
+### No. 13: プロフィール / アバター - ゴールデンアワーの DSLR セルフィーポートレート
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1171,7 +1137,7 @@ DSLR スタイルの超リアルなセルフィーポートレート。顔立ち
 
 ---
 
-### No. 15: プロフィール / アバター - 表現力豊かな絵画的リアリズムのハイブリッド・ポートレート
+### No. 14: プロフィール / アバター - 表現力豊かな絵画的リアリズムのハイブリッド・ポートレート
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1230,7 +1196,7 @@ DSLR スタイルの超リアルなセルフィーポートレート。顔立ち
 
 ---
 
-### No. 16: プロフィール / アバター - ラグジュアリーファッション誌風 SUV 撮影
+### No. 15: プロフィール / アバター - ラグジュアリーファッション誌風 SUV 撮影
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1263,7 +1229,7 @@ DSLR スタイルの超リアルなセルフィーポートレート。顔立ち
 
 ---
 
-### No. 17: プロフィール / アバター - 韓国エディトリアル風ビューティーポートレート
+### No. 16: プロフィール / アバター - 韓国エディトリアル風ビューティーポートレート
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1313,7 +1279,7 @@ DSLR スタイルの超リアルなセルフィーポートレート。顔立ち
 
 ---
 
-### No. 18: プロフィール / アバター - インド人女性の窓辺のポートレート
+### No. 17: プロフィール / アバター - インド人女性の窓辺のポートレート
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1347,7 +1313,7 @@ DSLR スタイルの超リアルなセルフィーポートレート。顔立ち
 
 ---
 
-### No. 19: プロフィール / アバター - シネマティックで力強い横顔のポートレート
+### No. 18: プロフィール / アバター - シネマティックで力強い横顔のポートレート
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1378,6 +1344,40 @@ DSLR スタイルの超リアルなセルフィーポートレート。顔立ち
 - **言語:** en
 
 **[👉 今すぐ試す →](https://youmind.com/ja-JP/nano-banana-pro-prompts?id=33567)**
+
+---
+
+### No. 19: プロフィール / アバター - 遊び心あふれるベッドルームのライフスタイル写真
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 説明
+
+ベッドルームという設定で、モデルのポーズや表情に焦点を当て、プロフェッショナルな写真のような遊び心のある楽しい瞬間を捉えるためのプロンプトです。
+
+#### 📝 プロンプト
+
+```
+プロフェッショナルな写真スタイルで、{argument name="subject" default="モデル"} が {argument name="setting" default="ベッドルーム"} でくつろいでいる様子を、新しいアングルとポーズで撮影してください。ピースサインをして舌を出し、頭を少し傾けておどけているような、遊び心のあるポーズで。
+```
+
+#### 🖼️ 生成画像
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1788676670911_s88p6t_HRWk1OIa8AAnQYc.jpg" width="600" alt="プロフィール / アバター - 遊び心あふれるベッドルームのライフスタイル写真 - Image 1">
+</div>
+
+#### 📌 詳細
+
+- **作者:** [dreamy digital arts](https://x.com/dreamydigiarts)
+- **ソース:** [Twitter Post](https://x.com/dreamydigiarts/status/2096259560700805135)
+- **公開日:** 2026年9月5日
+- **言語:** en
+
+**[👉 今すぐ試す →](https://youmind.com/ja-JP/nano-banana-pro-prompts?id=33561)**
 
 ---
 
@@ -5890,7 +5890,7 @@ L 字型のディスプレイに、カスタム 3D 効果音とコミックパ�
 
 <div align="center">
 
-### 🎯 15481 さらに多くのプロンプトがあります
+### 🎯 15480 さらに多くのプロンプトがあります
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -5953,6 +5953,6 @@ The gallery features:
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 この README は自動生成されています。最終更新： 2026-09-10T08:03:47.213Z</sub>
+<sub>🤖 この README は自動生成されています。最終更新： 2026-09-10T12:04:03.677Z</sub>
 
 </div>

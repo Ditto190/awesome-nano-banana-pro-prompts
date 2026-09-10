@@ -143,9 +143,9 @@ by {argument name="author" default="Steve Jobs"}
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **15601** |
+| 📝 提示词总数 | **15600** |
 | ⭐ 精选 | **9** |
-| 🔄 最后更新 | **2026年9月10日星期四 UTC 08:03:36** |
+| 🔄 最后更新 | **2026年9月10日星期四 UTC 12:03:52** |
 
 </div>
 
@@ -781,41 +781,7 @@ Grok 的搜索结果
 
 ---
 
-### No. 4: 个人资料 / 头像 - 黄金时刻剪影肖像
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-南亚男性的电影感日落肖像，严格保持身份特征。
-
-#### 📝 提示词
-
-```
-超写实电影感特写，右侧面侧影肖像，拍摄对象为 {argument name="subject" default="年轻南亚男性"}，场景位于户外，时间为 {argument name="time of day" default="温暖的黄金时刻日落"}。请使用我上传的面部参考图作为严格的身份匹配参考，100% 还原我的真实面容、面部比例、胡须、八字胡、皮肤纹理和发型，禁止美颜、禁止美白、禁止重塑脸型。仅复制总统参考图中的姿势和构图。画面包含上胸部及肩部以上，身体完全侧向右方，头部保持平直，下巴微抬，双眼轻闭，嘴唇放松，表情平和。{argument name="clothing" default="纯色超大款哑光黑色圆领 T 恤"}。背景为极简的开阔日落天空，呈现自然的桃橙色与暖琥珀色渐变，地平线微弱模糊。强烈的日落逆光营造出深沉的剪影效果；面部必须保持暗色，不可过亮或进行正面补光。纤细的暖金色轮廓光勾勒出头发、额头、鼻子、嘴唇、胡须、下颌线和肩部轮廓。85mm 单反镜头，f/1.8 光圈，浅景深，低调曝光，深邃阴影，细腻胶片颗粒感，电影级调色，超写实 12k 分辨率，自然摄影风格，3:4 竖构图肖像。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1789022272185_r06bom_HR0uNB9bcAA0JS-.jpg" width="600" alt="个人资料 / 头像 - 黄金时刻剪影肖像 - Image 1">
-</div>
-
-#### 📌 详情
-
-- **作者:** [Muhammad Jamil](https://x.com/JamilAI55)
-- **来源:** [Twitter Post](https://x.com/JamilAI55/status/2097883811053031584)
-- **发布时间:** 2026年9月10日
-- **多语言:** en
-
-**[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?id=34123)**
-
----
-
-### No. 5: 个人资料 / 头像 - 专业情侣夜间人像
+### No. 4: 个人资料 / 头像 - 专业情侣夜间人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -849,7 +815,7 @@ Grok 的搜索结果
 
 ---
 
-### No. 6: 个人资料 / 头像 - 街头服饰时尚大片人像身份保留
+### No. 5: 个人资料 / 头像 - 街头服饰时尚大片人像身份保留
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -895,7 +861,7 @@ Grok 的搜索结果
 
 ---
 
-### No. 7: 个人资料 / 头像 - 复古好莱坞经典美学肖像
+### No. 6: 个人资料 / 头像 - 复古好莱坞经典美学肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -929,7 +895,7 @@ Grok 的搜索结果
 
 ---
 
-### No. 8: 个人资料 / 头像 - 户外直闪蕾丝裙人像
+### No. 7: 个人资料 / 头像 - 户外直闪蕾丝裙人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -972,7 +938,7 @@ Grok 的搜索结果
 
 ---
 
-### No. 9: 个人资料 / 头像 - 身着露肩毛衣的优雅肖像
+### No. 8: 个人资料 / 头像 - 身着露肩毛衣的优雅肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1005,7 +971,7 @@ Grok 的搜索结果
 
 ---
 
-### No. 10: 个人资料 / 头像 - 年轻女性夜间街头肖像
+### No. 9: 个人资料 / 头像 - 年轻女性夜间街头肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1040,7 +1006,7 @@ Grok 的搜索结果
 
 ---
 
-### No. 11: 个人资料 / 头像 - 马尔代夫度假村丝绸长裙人像
+### No. 10: 个人资料 / 头像 - 马尔代夫度假村丝绸长裙人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1074,7 +1040,7 @@ Grok 的搜索结果
 
 ---
 
-### No. 12: 个人资料 / 头像 - 明暗对照法黄金时刻电影感人像
+### No. 11: 个人资料 / 头像 - 明暗对照法黄金时刻电影感人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1107,7 +1073,7 @@ Grok 的搜索结果
 
 ---
 
-### No. 13: 个人资料 / 头像 - 可爱的悬浮光泽太空虎斑猫
+### No. 12: 个人资料 / 头像 - 可爱的悬浮光泽太空虎斑猫
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -1140,7 +1106,7 @@ Grok 的搜索结果
 
 ---
 
-### No. 14: 个人资料 / 头像 - 黄金时刻 DSLR 自拍人像
+### No. 13: 个人资料 / 头像 - 黄金时刻 DSLR 自拍人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1173,7 +1139,7 @@ Grok 的搜索结果
 
 ---
 
-### No. 15: 个人资料 / 头像 - 表现主义写实混合风格肖像
+### No. 14: 个人资料 / 头像 - 表现主义写实混合风格肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1232,7 +1198,7 @@ Grok 的搜索结果
 
 ---
 
-### No. 16: 个人资料 / 头像 - 奢华时尚大片风格 SUV 拍摄
+### No. 15: 个人资料 / 头像 - 奢华时尚大片风格 SUV 拍摄
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1265,7 +1231,7 @@ Grok 的搜索结果
 
 ---
 
-### No. 17: 个人资料 / 头像 - 韩式时尚美妆人像
+### No. 16: 个人资料 / 头像 - 韩式时尚美妆人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1315,7 +1281,7 @@ Grok 的搜索结果
 
 ---
 
-### No. 18: 个人资料 / 头像 - 印度女性窗边肖像
+### No. 17: 个人资料 / 头像 - 印度女性窗边肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1349,7 +1315,7 @@ Grok 的搜索结果
 
 ---
 
-### No. 19: 个人资料 / 头像 - 电影感强烈侧视肖像
+### No. 18: 个人资料 / 头像 - 电影感强烈侧视肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1380,6 +1346,40 @@ Grok 的搜索结果
 - **多语言:** en
 
 **[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?id=33567)**
+
+---
+
+### No. 19: 个人资料 / 头像 - 趣味卧室生活摄影
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+一个用于捕捉卧室场景中俏皮、搞怪瞬间的提示词，侧重于模特姿势与表情，以呈现专业摄影质感。
+
+#### 📝 提示词
+
+```
+专业摄影风格，为我们的 {argument name="subject" default="model"} 在 {argument name="setting" default="her bedroom"} 中放松休息提供一个新的角度和姿势。一个俏皮的姿势，比着剪刀手并吐着舌头，歪着头，显得十分搞怪。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1788676670911_s88p6t_HRWk1OIa8AAnQYc.jpg" width="600" alt="个人资料 / 头像 - 趣味卧室生活摄影 - Image 1">
+</div>
+
+#### 📌 详情
+
+- **作者:** [dreamy digital arts](https://x.com/dreamydigiarts)
+- **来源:** [Twitter Post](https://x.com/dreamydigiarts/status/2096259560700805135)
+- **发布时间:** 2026年9月5日
+- **多语言:** en
+
+**[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?id=33561)**
 
 ---
 
@@ -5860,7 +5860,7 @@ Mini Cooper 内部细节渲染得极其逼真（仪表盘、方向盘、座椅�
 
 <div align="center">
 
-### 🎯 15481 更多提示词未在此显示
+### 🎯 15480 更多提示词未在此显示
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -5923,6 +5923,6 @@ The gallery features:
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-09-10T08:03:36.259Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-09-10T12:03:52.448Z</sub>
 
 </div>

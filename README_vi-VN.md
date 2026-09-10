@@ -143,9 +143,9 @@ Khi sử dụng trong Raycast, bạn có thể thay thế động các đối s�
 
 | Chỉ số | Số lượng |
 |--------|-------|
-| 📝 Tổng số câu lệnh | **15601** |
+| 📝 Tổng số câu lệnh | **15600** |
 | ⭐ Nổi bật | **9** |
-| 🔄 Cập nhật lần cuối | **lúc 08:03:59 UTC Thứ Năm, 10 tháng 9, 2026** |
+| 🔄 Cập nhật lần cuối | **lúc 12:04:19 UTC Thứ Năm, 10 tháng 9, 2026** |
 
 </div>
 
@@ -781,41 +781,7 @@ Cảnh quay trung cận của một {argument name="subject" default="người p
 
 ---
 
-### No. 4: Hồ sơ / Ảnh đại diện - Chân dung bóng đổ giờ vàng
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Mô tả
-
-Chân dung hoàng hôn đậm chất điện ảnh của một người đàn ông Nam Á với độ nhận diện khuôn mặt chính xác tuyệt đối.
-
-#### 📝 Câu lệnh
-
-```
-Ảnh chân dung cận cảnh góc nghiêng bên phải, đậm chất điện ảnh và siêu thực của {argument name="subject" default="một người đàn ông trẻ Nam Á"} ở ngoài trời trong {argument name="time of day" default="khoảnh khắc hoàng hôn giờ vàng ấm áp"}. Hãy sử dụng ảnh tham chiếu khuôn mặt tôi đã tải lên làm căn cứ nhận diện nghiêm ngặt - khớp chính xác 100% khuôn mặt, tỷ lệ khuôn mặt, râu, ria mép, kết cấu da và kiểu tóc của tôi, không làm đẹp, không làm trắng da, không thay đổi hình dáng khuôn mặt. Chỉ sao chép tư thế và bố cục từ ảnh tham chiếu phong cách tổng thống. Lấy từ phần ngực trên và vai trở lên, cơ thể xoay hoàn toàn sang bên phải, đầu thẳng với cằm hơi nâng lên, mắt nhắm nhẹ, môi thả lỏng và biểu cảm gương mặt bình yên. {argument name="clothing" default="Áo thun cổ tròn màu đen nhám, phom rộng đơn giản"}. Bầu trời hoàng hôn thoáng đãng với dải màu chuyển tiếp từ cam đào tự nhiên sang hổ phách ấm áp, đường chân trời mờ ảo tinh tế. Ánh sáng ngược mạnh từ hoàng hôn tạo nên bóng đổ tối đầy tâm trạng; khuôn mặt phải giữ độ tối, không được sáng hay chiếu sáng trực diện. Đường viền sáng vàng ấm mỏng làm nổi bật đường nét tóc, trán, mũi, môi, râu, đường viền hàm và vai. Ống kính DSLR 85mm, f/1.8, độ sâu trường ảnh nông, phơi sáng low-key, bóng đổ sâu, hạt phim tinh tế, chỉnh màu điện ảnh, độ phân giải 12k siêu thực, ảnh tự nhiên, khung hình dọc 3:4.
-```
-
-#### 🖼️ Hình ảnh được tạo
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1789022272185_r06bom_HR0uNB9bcAA0JS-.jpg" width="600" alt="Hồ sơ / Ảnh đại diện - Chân dung bóng đổ giờ vàng - Image 1">
-</div>
-
-#### 📌 Chi tiết
-
-- **Tác giả:** [Muhammad Jamil](https://x.com/JamilAI55)
-- **Nguồn:** [Twitter Post](https://x.com/JamilAI55/status/2097883811053031584)
-- **Đã xuất bản:** 10 tháng 9, 2026
-- **Ngôn ngữ:** en
-
-**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=34123)**
-
----
-
-### No. 5: Hồ sơ / Ảnh đại diện - Ảnh chân dung đêm chuyên nghiệp của một cặp đôi
+### No. 4: Hồ sơ / Ảnh đại diện - Ảnh chân dung đêm chuyên nghiệp của một cặp đôi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -849,7 +815,7 @@ Sử dụng hình ảnh đã tải lên làm tài liệu tham khảo khuôn mặ
 
 ---
 
-### No. 6: Hồ sơ / Ảnh đại diện - Duy trì nhận diện khuôn mặt trong ảnh chân dung thời trang đường phố
+### No. 5: Hồ sơ / Ảnh đại diện - Duy trì nhận diện khuôn mặt trong ảnh chân dung thời trang đường phố
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -895,7 +861,7 @@ Hãy tạo một bức ảnh chân dung thời trang đường phố mang tính 
 
 ---
 
-### No. 7: Hồ sơ / Ảnh đại diện - Chân dung vẻ đẹp cổ điển phong cách Hollywood xưa
+### No. 6: Hồ sơ / Ảnh đại diện - Chân dung vẻ đẹp cổ điển phong cách Hollywood xưa
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -929,7 +895,7 @@ Chân dung vẻ đẹp thời trang cao cấp siêu thực của một người 
 
 ---
 
-### No. 8: Hồ sơ / Ảnh đại diện - Ảnh chân dung ngoài trời với váy ren và đèn flash trực tiếp
+### No. 7: Hồ sơ / Ảnh đại diện - Ảnh chân dung ngoài trời với váy ren và đèn flash trực tiếp
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -970,7 +936,7 @@ Phông nền: {argument name="background" default="Một bức tường dày đ�
 
 ---
 
-### No. 9: Hồ sơ / Ảnh đại diện - Chân dung thanh lịch trong chiếc áo len trễ vai
+### No. 8: Hồ sơ / Ảnh đại diện - Chân dung thanh lịch trong chiếc áo len trễ vai
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1003,7 +969,7 @@ Một người phụ nữ với mái tóc dài xoăn tự nhiên ngồi đầy t
 
 ---
 
-### No. 10: Hồ sơ / Ảnh đại diện - Chân dung thiếu nữ trên phố đêm
+### No. 9: Hồ sơ / Ảnh đại diện - Chân dung thiếu nữ trên phố đêm
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1038,7 +1004,7 @@ Chủ thể: Cô gái có mái tóc dài, xoăn nhẹ màu nâu sáng hoặc và
 
 ---
 
-### No. 11: Hồ sơ / Ảnh đại diện - Ảnh chân dung mặc váy lụa tại khu nghỉ dưỡng Maldives
+### No. 10: Hồ sơ / Ảnh đại diện - Ảnh chân dung mặc váy lụa tại khu nghỉ dưỡng Maldives
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1072,7 +1038,7 @@ Câu lệnh tạo ảnh chân dung siêu thực tại khu nghỉ dưỡng, mô t
 
 ---
 
-### No. 12: Hồ sơ / Ảnh đại diện - Chân dung điện ảnh Chiaroscuro trong giờ vàng
+### No. 11: Hồ sơ / Ảnh đại diện - Chân dung điện ảnh Chiaroscuro trong giờ vàng
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1105,7 +1071,7 @@ Một bức chân dung điện ảnh cận cảnh một người phụ nữ tr�
 
 ---
 
-### No. 13: Hồ sơ / Ảnh đại diện - Chú mèo mướp không gian bóng bẩy, đáng yêu
+### No. 12: Hồ sơ / Ảnh đại diện - Chú mèo mướp không gian bóng bẩy, đáng yêu
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -1138,7 +1104,7 @@ Một chú mèo mướp đáng yêu đang trôi nổi ở trung tâm của nền
 
 ---
 
-### No. 14: Hồ sơ / Ảnh đại diện - Ảnh chân dung selfie DSLR trong khung giờ vàng
+### No. 13: Hồ sơ / Ảnh đại diện - Ảnh chân dung selfie DSLR trong khung giờ vàng
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1171,7 +1137,7 @@ Một bức ảnh chân dung selfie cận cảnh siêu thực, ghi lại những
 
 ---
 
-### No. 15: Hồ sơ / Ảnh đại diện - Chân dung lai giữa hội họa biểu cảm và hiện thực
+### No. 14: Hồ sơ / Ảnh đại diện - Chân dung lai giữa hội họa biểu cảm và hiện thực
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1230,7 +1196,7 @@ Tỷ lệ khung hình: 9:16 dọc.
 
 ---
 
-### No. 16: Hồ sơ / Ảnh đại diện - Chụp ảnh thời trang cao cấp với xe SUV
+### No. 15: Hồ sơ / Ảnh đại diện - Chụp ảnh thời trang cao cấp với xe SUV
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1263,7 +1229,7 @@ Hãy chỉnh sửa ảnh tôi đã tải lên để tạo phong cách sống san
 
 ---
 
-### No. 17: Hồ sơ / Ảnh đại diện - Chân dung làm đẹp phong cách biên tập Hàn Quốc
+### No. 16: Hồ sơ / Ảnh đại diện - Chân dung làm đẹp phong cách biên tập Hàn Quốc
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1313,7 +1279,7 @@ Câu lệnh phủ định (Negative prompt): thay đổi danh tính, khuôn mặ
 
 ---
 
-### No. 18: Hồ sơ / Ảnh đại diện - Chân dung người phụ nữ Ấn Độ bên cửa sổ
+### No. 17: Hồ sơ / Ảnh đại diện - Chân dung người phụ nữ Ấn Độ bên cửa sổ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1347,7 +1313,7 @@ Một {argument name="subject" default="người phụ nữ trẻ người Ấn 
 
 ---
 
-### No. 19: Hồ sơ / Ảnh đại diện - Chân dung góc nghiêng điện ảnh đầy cảm xúc
+### No. 18: Hồ sơ / Ảnh đại diện - Chân dung góc nghiêng điện ảnh đầy cảm xúc
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1378,6 +1344,40 @@ Tạo một bức chân dung cận cảnh điện ảnh đầy u tối và mãnh
 - **Ngôn ngữ:** en
 
 **[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=33567)**
+
+---
+
+### No. 19: Hồ sơ / Ảnh đại diện - Nhiếp ảnh phong cách sống vui tươi trong phòng ngủ
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Mô tả
+
+Một câu lệnh (prompt) để ghi lại khoảnh khắc vui tươi, tinh nghịch trong bối cảnh phòng ngủ, tập trung vào tư thế và biểu cảm của người mẫu để có được vẻ ngoài nhiếp ảnh chuyên nghiệp.
+
+#### 📝 Câu lệnh
+
+```
+Phong cách nhiếp ảnh chuyên nghiệp và tạo góc chụp cũng như tư thế mới cho {argument name="subject" default="người mẫu"} của chúng ta đang thư giãn trong {argument name="setting" default="phòng ngủ của cô ấy"}. Một tư thế vui tươi với biểu cảm giơ tay hình chữ V và lè lưỡi, đầu nghiêng sang một bên đầy tinh nghịch.
+```
+
+#### 🖼️ Hình ảnh được tạo
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1788676670911_s88p6t_HRWk1OIa8AAnQYc.jpg" width="600" alt="Hồ sơ / Ảnh đại diện - Nhiếp ảnh phong cách sống vui tươi trong phòng ngủ - Image 1">
+</div>
+
+#### 📌 Chi tiết
+
+- **Tác giả:** [dreamy digital arts](https://x.com/dreamydigiarts)
+- **Nguồn:** [Twitter Post](https://x.com/dreamydigiarts/status/2096259560700805135)
+- **Đã xuất bản:** 5 tháng 9, 2026
+- **Ngôn ngữ:** en
+
+**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=33561)**
 
 ---
 
@@ -5854,7 +5854,7 @@ Một {argument name="subject" default="phong cách chân dung người lai"} ti
 
 <div align="center">
 
-### 🎯 15481 câu lệnh khác không hiển thị ở đây
+### 🎯 15480 câu lệnh khác không hiển thị ở đây
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -5917,6 +5917,6 @@ Xem [CONTRIBUTING.md](docs/CONTRIBUTING.md) để biết hướng dẫn chi ti�
 **[📝 Gửi một câu lệnh](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-09-10T08:03:59.193Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-09-10T12:04:19.198Z</sub>
 
 </div>

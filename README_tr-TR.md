@@ -143,9 +143,9 @@ Raycast'te kullanıldığında, hızlı yinelemeler için argümanları dinamik 
 
 | Metrik | Sayı |
 |--------|-------|
-| 📝 Toplam İstem | **15601** |
+| 📝 Toplam İstem | **15600** |
 | ⭐ Öne Çıkan | **9** |
-| 🔄 Son Güncelleme | **10 Eylül 2026 Perşembe 08:04:39 UTC** |
+| 🔄 Son Güncelleme | **10 Eylül 2026 Perşembe 12:05:14 UTC** |
 
 </div>
 
@@ -781,41 +781,7 @@ Görünür altın boya ve patinalı, süslü bir {argument name="armchair style"
 
 ---
 
-### No. 4: Profil / Avatar - Altın Saat Silüet Portresi
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Açıklama
-
-Kimlik koruması ön planda tutularak çekilmiş, sinematik gün batımı Güney Asyalı erkek portresi.
-
-#### 📝 İstem
-
-```
-{argument name="time of day" default="sıcak altın saat gün batımı"} sırasında dış mekanda, {argument name="subject" default="genç bir Güney Asyalı erkek"} için ultra gerçekçi, sinematik, sağa dönük yan profil portresi. Yüklediğim yüz referansını kesin kimlik referansı olarak kullan; yüzümü, yüz hatlarımı, sakalımı, bıyığımı, cilt dokumu ve saç stilimi %100 eşleştir; güzelleştirme, cilt beyazlatma veya yüz şekillendirme yapma. Sadece başkanlık referansındaki pozu ve kompozisyonu kopyala. Üst göğüs ve omuzlardan yukarıyı göster, vücut tamamen sağa dönük, baş dik, çene hafifçe yukarıda, gözler hafifçe kapalı, dudaklar rahat ve huzurlu bir ifadeye sahip. {argument name="clothing" default="Düz, oversize, mat siyah bisiklet yaka tişört"}. Doğal şeftali-turuncu ve sıcak kehribar gradyanlı, hafif bulanık ufuk çizgisine sahip minimal açık gün batımı gökyüzü. Yüzün aydınlık veya önden ışık almayıp karanlık kalması gereken, koyu ve dramatik bir silüet oluşturan güçlü gün batımı arkadan aydınlatması. Saç, alın, burun, dudaklar, sakal, çene hattı ve omuzları çevreleyen ince, sıcak altın rengi bir kontur ışığı. 85mm DSLR, f/1.8, sığ alan derinliği, düşük pozlama, derin gölgeler, hafif film greni, sinematik renk derecelendirme, hiper gerçekçi 12k çözünürlük, doğal fotoğraf, 3:4 dikey portre.
-```
-
-#### 🖼️ Oluşturulan Görseller
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1789022272185_r06bom_HR0uNB9bcAA0JS-.jpg" width="600" alt="Profil / Avatar - Altın Saat Silüet Portresi - Image 1">
-</div>
-
-#### 📌 Detaylar
-
-- **Yazar:** [Muhammad Jamil](https://x.com/JamilAI55)
-- **Kaynak:** [Twitter Post](https://x.com/JamilAI55/status/2097883811053031584)
-- **Yayınlandı:** 10 Eylül 2026
-- **Diller:** en
-
-**[👉 Şimdi dene →](https://youmind.com/tr-TR/nano-banana-pro-prompts?id=34123)**
-
----
-
-### No. 5: Profil / Avatar - Çiftler İçin Profesyonel Gece Portresi
+### No. 4: Profil / Avatar - Çiftler İçin Profesyonel Gece Portresi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -849,7 +815,7 @@ Yüklenen görseli tek yüz referansı olarak kullanın ve yüz kimliğini, saç
 
 ---
 
-### No. 6: Profil / Avatar - Sokak Modası Editöryal Portre Kimlik Koruma
+### No. 5: Profil / Avatar - Sokak Modası Editöryal Portre Kimlik Koruma
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -895,7 +861,7 @@ Yüz kimliğimi, hatlarımı, cilt tonumu, saç stilimi ve doğal oranlarımı t
 
 ---
 
-### No. 7: Profil / Avatar - Vintage Eski Hollywood Güzellik Portresi
+### No. 6: Profil / Avatar - Vintage Eski Hollywood Güzellik Portresi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -929,7 +895,7 @@ Göz alıcı vintage esintili bir görünüme sahip, zarif bir kadının ultra g
 
 ---
 
-### No. 8: Profil / Avatar - Dış Mekan Doğrudan Flaşlı Dantel Elbiseli Portre
+### No. 7: Profil / Avatar - Dış Mekan Doğrudan Flaşlı Dantel Elbiseli Portre
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -970,7 +936,7 @@ Arka Plan: {argument name="background" default="Arkasındaki beyaz bir çiti vey
 
 ---
 
-### No. 9: Profil / Avatar - Omuz Dekolteli Kazak İçinde Zarif Portre
+### No. 8: Profil / Avatar - Omuz Dekolteli Kazak İçinde Zarif Portre
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1003,7 +969,7 @@ Uzun, kıvırcık saçlı bir kadın, yumuşak bej bir arka plan önünde zarif 
 
 ---
 
-### No. 10: Profil / Avatar - Gece Sokakta Genç Kadın Portresi
+### No. 9: Profil / Avatar - Gece Sokakta Genç Kadın Portresi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1038,7 +1004,7 @@ Konu: Bir omzuna dökülen uzun, dalgalı açık kahverengi veya sarı saçları
 
 ---
 
-### No. 11: Profil / Avatar - Maldivler Tatil Köyü İpek Elbiseli Portre
+### No. 10: Profil / Avatar - Maldivler Tatil Köyü İpek Elbiseli Portre
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1072,7 +1038,7 @@ Maldivler okyanusuna nazır bir sonsuzluk havuzunun kenarında, gün batımı sa
 
 ---
 
-### No. 12: Profil / Avatar - Chiaroscuro Altın Saat Sinematik Portre
+### No. 11: Profil / Avatar - Chiaroscuro Altın Saat Sinematik Portre
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1105,7 +1071,7 @@ Doğal güzelliğe, ela gözlere ve hafif aralık dudaklara sahip genç bir kad�
 
 ---
 
-### No. 13: Profil / Avatar - Sevimli, Yüzen ve Parlak Uzay Tekir Kedisi
+### No. 12: Profil / Avatar - Sevimli, Yüzen ve Parlak Uzay Tekir Kedisi
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -1138,7 +1104,7 @@ Siyah bir uzay arka planının merkezinde süzülen sevimli bir tekir kedi; vüc
 
 ---
 
-### No. 14: Profil / Avatar - Golden Hour DSLR Selfie Portresi
+### No. 13: Profil / Avatar - Golden Hour DSLR Selfie Portresi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1171,7 +1137,7 @@ Siyah bir uzay arka planının merkezinde süzülen sevimli bir tekir kedi; vüc
 
 ---
 
-### No. 15: Profil / Avatar - Etkileyici, Ressam Tarzı Gerçekçi Hibrit Portre
+### No. 14: Profil / Avatar - Etkileyici, Ressam Tarzı Gerçekçi Hibrit Portre
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1230,7 +1196,7 @@ En boy oranı: 9:16 dikey.
 
 ---
 
-### No. 16: Profil / Avatar - Lüks Moda Editöryel SUV Çekimi
+### No. 15: Profil / Avatar - Lüks Moda Editöryel SUV Çekimi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1263,7 +1229,7 @@ Yüklediğim fotoğrafı, üst düzey bir moda editöryel çekimine benzer lüks
 
 ---
 
-### No. 17: Profil / Avatar - Kore Tarzı Editöryel Güzellik Portresi
+### No. 16: Profil / Avatar - Kore Tarzı Editöryel Güzellik Portresi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1313,7 +1279,7 @@ Negatif istem: değişmiş kimlik, farklı yüz, güzelleştirilmiş yüz, plast
 
 ---
 
-### No. 18: Profil / Avatar - Pencere Kenarında Hintli Kadın Portresi
+### No. 17: Profil / Avatar - Pencere Kenarında Hintli Kadın Portresi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1347,7 +1313,7 @@ Pencere kenarında, yumuşak ışık altında, lavanta rengi elbiseli genç bir 
 
 ---
 
-### No. 19: Profil / Avatar - Sinematik ve Yoğun Yan Profil Portresi
+### No. 18: Profil / Avatar - Sinematik ve Yoğun Yan Profil Portresi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1378,6 +1344,40 @@ Yüklenen erkeğin dağınık, şekillendirilmiş ve saç telleri belirgin saçl
 - **Diller:** en
 
 **[👉 Şimdi dene →](https://youmind.com/tr-TR/nano-banana-pro-prompts?id=33567)**
+
+---
+
+### No. 19: Profil / Avatar - Eğlenceli Yatak Odası Yaşam Tarzı Fotoğrafçılığı
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Açıklama
+
+Profesyonel bir fotoğrafçılık görünümü için modelin pozuna ve ifadesine odaklanarak, yatak odası ortamında eğlenceli ve şakacı bir anı yakalamaya yönelik bir komut.
+
+#### 📝 İstem
+
+```
+Profesyonel fotoğrafçılık tarzı ve {argument name="setting" default="yatak odasında"} vakit geçiren {argument name="subject" default="modelimizin"} yeni bir açı ve pozunu yakala. Başını yana eğmiş, zafer işareti yapan ve dil çıkaran, şakacı ve eğlenceli bir poz.
+```
+
+#### 🖼️ Oluşturulan Görseller
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1788676670911_s88p6t_HRWk1OIa8AAnQYc.jpg" width="600" alt="Profil / Avatar - Eğlenceli Yatak Odası Yaşam Tarzı Fotoğrafçılığı - Image 1">
+</div>
+
+#### 📌 Detaylar
+
+- **Yazar:** [dreamy digital arts](https://x.com/dreamydigiarts)
+- **Kaynak:** [Twitter Post](https://x.com/dreamydigiarts/status/2096259560700805135)
+- **Yayınlandı:** 5 Eylül 2026
+- **Diller:** en
+
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/nano-banana-pro-prompts?id=33561)**
 
 ---
 
@@ -5849,7 +5849,7 @@ Birinci sınıf 3D fantezi illüstrasyonunun büyüleyici ve parlak boyutsal ren
 
 <div align="center">
 
-### 🎯 15481 burada gösterilmeyen daha fazla istem
+### 🎯 15480 burada gösterilmeyen daha fazla istem
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -5912,6 +5912,6 @@ Detaylı yönergeler için [CONTRIBUTING.md](docs/CONTRIBUTING.md) dosyasına ba
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-09-10T08:04:39.327Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-09-10T12:05:14.133Z</sub>
 
 </div>

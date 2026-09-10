@@ -143,9 +143,9 @@ Raycast에서 사용하면 인수를 동적으로 교체하여 빠르게 반복�
 
 | 지표 | 수 |
 |--------|-------|
-| 📝 총 프롬프트 수 | **15601** |
+| 📝 총 프롬프트 수 | **15600** |
 | ⭐ 추천 | **9** |
-| 🔄 마지막 업데이트 | **2026년 9월 10일 목요일 AM 8시 3분 51초 UTC** |
+| 🔄 마지막 업데이트 | **2026년 9월 10일 목요일 PM 12시 4분 8초 UTC** |
 
 </div>
 
@@ -781,41 +781,7 @@ Grok 검색 결과
 
 ---
 
-### No. 4: 프로필 / 아바타 - 골든 아워 실루엣 인물 사진
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 설명
-
-엄격한 본인 식별을 유지한 남아시아 남성의 영화 같은 일몰 인물 사진.
-
-#### 📝 프롬프트
-
-```
-{argument name="time of day" default="따뜻한 골든 아워 일몰"} 시간대 야외에서 촬영한 {argument name="subject" default="젊은 남아시아 남성"}의 오른쪽 측면을 향한 초현실적이고 영화 같은 클로즈업 인물 사진입니다. 업로드한 얼굴 참조 이미지를 사용하여 본인 식별을 엄격히 유지하고, 제 얼굴, 얼굴 비율, 수염, 콧수염, 피부 질감 및 헤어스타일을 100% 일치시켜 주세요. 보정, 피부 미백, 얼굴 형태 변경은 하지 마세요. 대통령 참조 이미지의 포즈와 구도만 복사하세요. 가슴 윗부분과 어깨부터 위쪽까지, 몸은 오른쪽으로 완전히 측면을 향하고, 머리는 똑바로 한 채 턱을 살짝 들고, 눈은 부드럽게 감고, 입술은 편안하게 다문 평온한 표정입니다. {argument name="clothing" default="무늬 없는 오버사이즈 무광 블랙 크루넥 티셔츠"}. 자연스러운 복숭아빛 오렌지색과 따뜻한 호박색 그라데이션이 있는 최소한의 열린 일몰 하늘, 은은하게 흐릿한 지평선. 강한 일몰 역광으로 어둡고 분위기 있는 실루엣을 연출하세요. 얼굴은 밝거나 정면 조명을 받지 않고 어둡게 유지되어야 합니다. 머리카락, 이마, 코, 입술, 수염, 턱선 및 어깨 윤곽을 따라 얇고 따뜻한 골든 림 라이트가 비칩니다. 85mm DSLR, f/1.8, 얕은 피사계 심도, 로우 키 노출, 깊은 그림자, 은은한 필름 그레인, 영화 같은 색감 보정, 초현실적인 12k 해상도, 자연스러운 사진, 3:4 세로형 인물 사진.
-```
-
-#### 🖼️ 생성된 이미지
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1789022272185_r06bom_HR0uNB9bcAA0JS-.jpg" width="600" alt="프로필 / 아바타 - 골든 아워 실루엣 인물 사진 - Image 1">
-</div>
-
-#### 📌 상세 정보
-
-- **작성자:** [Muhammad Jamil](https://x.com/JamilAI55)
-- **출처:** [Twitter Post](https://x.com/JamilAI55/status/2097883811053031584)
-- **게시일:** 2026년 9월 10일
-- **언어:** en
-
-**[👉 지금 시도하기 →](https://youmind.com/ko-KR/nano-banana-pro-prompts?id=34123)**
-
----
-
-### No. 5: 프로필 / 아바타 - 전문적인 커플 야간 인물 사진
+### No. 4: 프로필 / 아바타 - 전문적인 커플 야간 인물 사진
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -849,7 +815,7 @@ Grok 검색 결과
 
 ---
 
-### No. 6: 프로필 / 아바타 - 스트릿웨어 에디토리얼 인물 사진의 아이덴티티 유지
+### No. 5: 프로필 / 아바타 - 스트릿웨어 에디토리얼 인물 사진의 아이덴티티 유지
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -895,7 +861,7 @@ Grok 검색 결과
 
 ---
 
-### No. 7: 프로필 / 아바타 - 빈티지 올드 할리우드 뷰티 인물 사진
+### No. 6: 프로필 / 아바타 - 빈티지 올드 할리우드 뷰티 인물 사진
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -929,7 +895,7 @@ Grok 검색 결과
 
 ---
 
-### No. 8: 프로필 / 아바타 - 야외 직사광 플래시 레이스 드레스 인물 사진
+### No. 7: 프로필 / 아바타 - 야외 직사광 플래시 레이스 드레스 인물 사진
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -970,7 +936,7 @@ Grok 검색 결과
 
 ---
 
-### No. 9: 프로필 / 아바타 - 오프숄더 스웨터를 입은 우아한 인물 사진
+### No. 8: 프로필 / 아바타 - 오프숄더 스웨터를 입은 우아한 인물 사진
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1003,7 +969,7 @@ Grok 검색 결과
 
 ---
 
-### No. 10: 프로필 / 아바타 - 밤거리의 젊은 여성 인물 사진
+### No. 9: 프로필 / 아바타 - 밤거리의 젊은 여성 인물 사진
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1038,7 +1004,7 @@ Grok 검색 결과
 
 ---
 
-### No. 11: 프로필 / 아바타 - 몰디브 리조트 실크 드레스 인물 사진
+### No. 10: 프로필 / 아바타 - 몰디브 리조트 실크 드레스 인물 사진
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1072,7 +1038,7 @@ Grok 검색 결과
 
 ---
 
-### No. 12: 프로필 / 아바타 - 키아로스쿠로 골든 아워 시네마틱 인물 사진
+### No. 11: 프로필 / 아바타 - 키아로스쿠로 골든 아워 시네마틱 인물 사진
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1105,7 +1071,7 @@ Grok 검색 결과
 
 ---
 
-### No. 13: 프로필 / 아바타 - 귀여운 공중 부양 광택 우주 태비 고양이
+### No. 12: 프로필 / 아바타 - 귀여운 공중 부양 광택 우주 태비 고양이
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -1138,7 +1104,7 @@ Grok 검색 결과
 
 ---
 
-### No. 14: 프로필 / 아바타 - 골든 아워 DSLR 셀피 인물 사진
+### No. 13: 프로필 / 아바타 - 골든 아워 DSLR 셀피 인물 사진
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1171,7 +1137,7 @@ Grok 검색 결과
 
 ---
 
-### No. 15: 프로필 / 아바타 - 표현력이 풍부한 회화적 사실주의 하이브리드 초상화
+### No. 14: 프로필 / 아바타 - 표현력이 풍부한 회화적 사실주의 하이브리드 초상화
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1230,7 +1196,7 @@ Grok 검색 결과
 
 ---
 
-### No. 16: 프로필 / 아바타 - 럭셔리 패션 화보 스타일 SUV 촬영
+### No. 15: 프로필 / 아바타 - 럭셔리 패션 화보 스타일 SUV 촬영
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1263,7 +1229,7 @@ Grok 검색 결과
 
 ---
 
-### No. 17: 프로필 / 아바타 - 한국형 에디토리얼 뷰티 인물 사진
+### No. 16: 프로필 / 아바타 - 한국형 에디토리얼 뷰티 인물 사진
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1313,7 +1279,7 @@ Grok 검색 결과
 
 ---
 
-### No. 18: 프로필 / 아바타 - 창가에 앉은 인도 여성 인물 사진
+### No. 17: 프로필 / 아바타 - 창가에 앉은 인도 여성 인물 사진
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1347,7 +1313,7 @@ Grok 검색 결과
 
 ---
 
-### No. 19: 프로필 / 아바타 - 영화 같은 강렬한 측면 인물 사진
+### No. 18: 프로필 / 아바타 - 영화 같은 강렬한 측면 인물 사진
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1378,6 +1344,40 @@ Grok 검색 결과
 - **언어:** en
 
 **[👉 지금 시도하기 →](https://youmind.com/ko-KR/nano-banana-pro-prompts?id=33567)**
+
+---
+
+### No. 19: 프로필 / 아바타 - 장난기 넘치는 침실 라이프스타일 사진
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 설명
+
+침실을 배경으로 장난스럽고 익살스러운 순간을 포착하기 위한 프롬프트로, 전문적인 사진 느낌을 위해 모델의 포즈와 표정에 중점을 둡니다.
+
+#### 📝 프롬프트
+
+```
+전문적인 사진 스타일로, {argument name="setting" default="침실"}에서 시간을 보내는 {argument name="subject" default="모델"}의 새로운 각도와 포즈를 연출해 주세요. 장난스럽게 고개를 옆으로 기울이고 브이(V) 사인을 하며 혀를 내미는 익살스러운 포즈를 취하고 있습니다.
+```
+
+#### 🖼️ 생성된 이미지
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1788676670911_s88p6t_HRWk1OIa8AAnQYc.jpg" width="600" alt="프로필 / 아바타 - 장난기 넘치는 침실 라이프스타일 사진 - Image 1">
+</div>
+
+#### 📌 상세 정보
+
+- **작성자:** [dreamy digital arts](https://x.com/dreamydigiarts)
+- **출처:** [Twitter Post](https://x.com/dreamydigiarts/status/2096259560700805135)
+- **게시일:** 2026년 9월 5일
+- **언어:** en
+
+**[👉 지금 시도하기 →](https://youmind.com/ko-KR/nano-banana-pro-prompts?id=33561)**
 
 ---
 
@@ -5855,7 +5855,7 @@ L자형 디스플레이, 커스텀 3D 음향 효과 및 만화 패널 배경을 
 
 <div align="center">
 
-### 🎯 15481 여기에 표시되지 않은 더 많은 프롬프트가 있습니다
+### 🎯 15480 여기에 표시되지 않은 더 많은 프롬프트가 있습니다
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -5918,6 +5918,6 @@ The gallery features:
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-09-10T08:03:51.451Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-09-10T12:04:08.663Z</sub>
 
 </div>

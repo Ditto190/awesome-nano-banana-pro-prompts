@@ -143,9 +143,9 @@ by {argument name="author" default="Steve Jobs"}
 
 | 指標 | 數量 |
 |--------|-------|
-| 📝 提示詞總數 | **15601** |
+| 📝 提示詞總數 | **15600** |
 | ⭐ 精選 | **9** |
-| 🔄 最後更新 | **2026年9月10日 星期四 上午8:03:42 [UTC]** |
+| 🔄 最後更新 | **2026年9月10日 星期四 中午12:03:58 [UTC]** |
 
 </div>
 
@@ -781,41 +781,7 @@ M8 — 您知道嗎：3 個事實（來源、科學、全球統計）+ 圖示
 
 ---
 
-### No. 4: 個人檔案 / 頭像 - 黃金時刻剪影人像
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-南亞男性的電影感日落人像，嚴格保持人物特徵。
-
-#### 📝 提示詞
-
-```
-超逼真電影感特寫，右側側面人像，拍攝對象為 {argument name="subject" default="年輕南亞男性"}，場景為戶外 {argument name="time of day" default="溫暖的黃金時刻日落"}。請使用我上傳的人臉參考圖作為嚴格的身分參考，100% 匹配我的真實臉部特徵、臉部比例、鬍鬚、八字鬍、皮膚紋理和髮型，無需美化、無需美白、無需重塑臉型。僅複製總統參考圖中的姿勢與構圖。畫面呈現胸部以上及肩膀，身體完全側向右方，頭部保持正直，下巴微抬，雙眼輕閉，嘴唇放鬆，表情平靜。{argument name="clothing" default="素色寬鬆霧面黑色圓領 T 恤"}。背景為極簡的開闊日落天空，帶有自然的桃橙色與溫暖琥珀色漸層，地平線呈現細膩的模糊感。強烈的日落背光營造出深沉的憂鬱剪影效果；臉部必須保持暗色，不可明亮或正面補光。細膩溫暖的金色輪廓光勾勒出頭髮、額頭、鼻子、嘴唇、鬍鬚、下顎線和肩膀。85mm DSLR 鏡頭，f/1.8 光圈，淺景深，低調曝光，深邃陰影，細膩膠片顆粒感，電影級調色，超逼真 12k 解析度，自然攝影風格，3:4 直式人像。
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1789022272185_r06bom_HR0uNB9bcAA0JS-.jpg" width="600" alt="個人檔案 / 頭像 - 黃金時刻剪影人像 - Image 1">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [Muhammad Jamil](https://x.com/JamilAI55)
-- **來源:** [Twitter Post](https://x.com/JamilAI55/status/2097883811053031584)
-- **發布時間:** 2026年9月10日
-- **多語言:** en
-
-**[👉 立即嘗試 →](https://youmind.com/zh-TW/nano-banana-pro-prompts?id=34123)**
-
----
-
-### No. 5: 個人檔案 / 頭像 - 專業情侶夜間人像
+### No. 4: 個人檔案 / 頭像 - 專業情侶夜間人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -849,7 +815,7 @@ M8 — 您知道嗎：3 個事實（來源、科學、全球統計）+ 圖示
 
 ---
 
-### No. 6: 個人檔案 / 頭像 - 街頭潮流時尚人像身份保留
+### No. 5: 個人檔案 / 頭像 - 街頭潮流時尚人像身份保留
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -895,7 +861,7 @@ M8 — 您知道嗎：3 個事實（來源、科學、全球統計）+ 圖示
 
 ---
 
-### No. 7: 個人檔案 / 頭像 - 復古好萊塢經典美學肖像
+### No. 6: 個人檔案 / 頭像 - 復古好萊塢經典美學肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -929,7 +895,7 @@ M8 — 您知道嗎：3 個事實（來源、科學、全球統計）+ 圖示
 
 ---
 
-### No. 8: 個人檔案 / 頭像 - 戶外直閃蕾絲洋裝人像
+### No. 7: 個人檔案 / 頭像 - 戶外直閃蕾絲洋裝人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -971,7 +937,7 @@ M8 — 您知道嗎：3 個事實（來源、科學、全球統計）+ 圖示
 
 ---
 
-### No. 9: 個人檔案 / 頭像 - 穿著露肩毛衣的優雅肖像
+### No. 8: 個人檔案 / 頭像 - 穿著露肩毛衣的優雅肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1004,7 +970,7 @@ M8 — 您知道嗎：3 個事實（來源、科學、全球統計）+ 圖示
 
 ---
 
-### No. 10: 個人檔案 / 頭像 - 年輕女性夜間街頭肖像
+### No. 9: 個人檔案 / 頭像 - 年輕女性夜間街頭肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1039,7 +1005,7 @@ M8 — 您知道嗎：3 個事實（來源、科學、全球統計）+ 圖示
 
 ---
 
-### No. 11: 個人檔案 / 頭像 - 馬爾地夫度假村絲綢洋裝人像
+### No. 10: 個人檔案 / 頭像 - 馬爾地夫度假村絲綢洋裝人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1073,7 +1039,7 @@ M8 — 您知道嗎：3 個事實（來源、科學、全球統計）+ 圖示
 
 ---
 
-### No. 12: 個人檔案 / 頭像 - 明暗對照法黃金時刻電影感人像
+### No. 11: 個人檔案 / 頭像 - 明暗對照法黃金時刻電影感人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1106,7 +1072,7 @@ M8 — 您知道嗎：3 個事實（來源、科學、全球統計）+ 圖示
 
 ---
 
-### No. 13: 個人檔案 / 頭像 - 可愛漂浮亮面太空虎斑貓
+### No. 12: 個人檔案 / 頭像 - 可愛漂浮亮面太空虎斑貓
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -1139,7 +1105,7 @@ M8 — 您知道嗎：3 個事實（來源、科學、全球統計）+ 圖示
 
 ---
 
-### No. 14: 個人檔案 / 頭像 - 黃金時刻 DSLR 自拍人像
+### No. 13: 個人檔案 / 頭像 - 黃金時刻 DSLR 自拍人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1172,7 +1138,7 @@ M8 — 您知道嗎：3 個事實（來源、科學、全球統計）+ 圖示
 
 ---
 
-### No. 15: 個人檔案 / 頭像 - 表現主義繪畫風格寫實混合肖像
+### No. 14: 個人檔案 / 頭像 - 表現主義繪畫風格寫實混合肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1231,7 +1197,7 @@ M8 — 您知道嗎：3 個事實（來源、科學、全球統計）+ 圖示
 
 ---
 
-### No. 16: 個人檔案 / 頭像 - 奢華時尚雜誌風格 SUV 拍攝
+### No. 15: 個人檔案 / 頭像 - 奢華時尚雜誌風格 SUV 拍攝
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1264,7 +1230,7 @@ M8 — 您知道嗎：3 個事實（來源、科學、全球統計）+ 圖示
 
 ---
 
-### No. 17: 個人檔案 / 頭像 - 韓系時尚美妝人像
+### No. 16: 個人檔案 / 頭像 - 韓系時尚美妝人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1314,7 +1280,7 @@ M8 — 您知道嗎：3 個事實（來源、科學、全球統計）+ 圖示
 
 ---
 
-### No. 18: 個人檔案 / 頭像 - 印度女性窗邊肖像
+### No. 17: 個人檔案 / 頭像 - 印度女性窗邊肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1348,7 +1314,7 @@ M8 — 您知道嗎：3 個事實（來源、科學、全球統計）+ 圖示
 
 ---
 
-### No. 19: 個人檔案 / 頭像 - 電影感強烈側臉肖像
+### No. 18: 個人檔案 / 頭像 - 電影感強烈側臉肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1379,6 +1345,40 @@ M8 — 您知道嗎：3 個事實（來源、科學、全球統計）+ 圖示
 - **多語言:** en
 
 **[👉 立即嘗試 →](https://youmind.com/zh-TW/nano-banana-pro-prompts?id=33567)**
+
+---
+
+### No. 19: 個人檔案 / 頭像 - 趣味臥室生活風格攝影
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+這是一個用於捕捉臥室場景中俏皮、搞怪瞬間的提示詞，專注於模特兒的姿勢與表情，以呈現專業的攝影質感。
+
+#### 📝 提示詞
+
+```
+專業攝影風格，為我們的 {argument name="subject" default="模特兒"} 在 {argument name="setting" default="她的臥室"} 中閒暇時光提供一個新的拍攝角度與姿勢。一個俏皮的姿勢，比出勝利手勢並吐舌頭，頭部向一側傾斜，展現搞怪的模樣。
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1788676670911_s88p6t_HRWk1OIa8AAnQYc.jpg" width="600" alt="個人檔案 / 頭像 - 趣味臥室生活風格攝影 - Image 1">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [dreamy digital arts](https://x.com/dreamydigiarts)
+- **來源:** [Twitter Post](https://x.com/dreamydigiarts/status/2096259560700805135)
+- **發布時間:** 2026年9月5日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/zh-TW/nano-banana-pro-prompts?id=33561)**
 
 ---
 
@@ -5859,7 +5859,7 @@ STORYBOARD：
 
 <div align="center">
 
-### 🎯 15481 更多提示詞未在此顯示
+### 🎯 15480 更多提示詞未在此顯示
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -5922,6 +5922,6 @@ The gallery features:
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-09-10T08:03:42.222Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-09-10T12:03:58.348Z</sub>
 
 </div>
