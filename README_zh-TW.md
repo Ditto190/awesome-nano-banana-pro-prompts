@@ -143,9 +143,9 @@ by {argument name="author" default="Steve Jobs"}
 
 | 指標 | 數量 |
 |--------|-------|
-| 📝 提示詞總數 | **15635** |
+| 📝 提示詞總數 | **15638** |
 | ⭐ 精選 | **9** |
-| 🔄 最後更新 | **2026年9月15日 星期二 凌晨4:03:28 [UTC]** |
+| 🔄 最後更新 | **2026年9月15日 星期二 上午8:05:16 [UTC]** |
 
 </div>
 
@@ -1517,7 +1517,44 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 21: 社群媒體貼文 - 等待的母親肖像
+### No. 21: 社群媒體貼文 - 秋季時尚人像
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 描述
+
+使用 Nano Banana Pro 創建具有秋日氛圍的逼真優雅編輯時尚人像提示詞。
+
+#### 📝 提示詞
+
+```
+創建一張逼真的優雅編輯時尚人像，主角為一位成年女性，身穿合身暖棕色露肩針織毛衣，配有寬羅紋領口、裝飾性黑色絲帶綁帶以及右肩上的黑色緞面蝴蝶結。她搭配高腰黑色裙子。她的深棕色頭髮梳成整齊的低髮髻，臉頰兩側留有柔軟鬆散的髮絲。她化著精緻自然的妝容，眼部輪廓柔和清晰，唇色呈現淡淡的桃粉色，眼神平靜地向下注視。
+
+她優雅地站在一面簡單的暖巧克力棕色牆壁前，雙手輕輕交疊於身前。美麗的金色陽光從附近的窗戶射入，在牆壁和她的身體上形成柔和的矩形光斑和細微陰影。營造出溫暖舒適的秋日氛圍，展現精緻的女性氣質，採用柔和的電影感燈光，呈現自然的皮膚質感、逼真的布料細節、輕柔的景深效果、低飽和度的棕色與米色調色板、奢華時尚攝影風格、85mm 人像鏡頭、淺景深、高度細節、照片級真實感、4:5 垂直構圖。
+
+負面提示：塑料皮膚、過度平滑的面部、扭曲的手部、多餘的手指、變形的解剖結構、刺眼的燈光、過濃的妝容、文字、標誌、浮水印、CGI 外觀。
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1789454007201_1wcmgc_HSL6oZIbEAAYW7Q.jpg" width="600" alt="社群媒體貼文 - 秋季時尚人像 - Image 1">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [Aynelle](https://x.com/aynellex)
+- **來源:** [Twitter Post](https://x.com/aynellex/status/2099516029189886065)
+- **發布時間:** 2026年9月14日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/zh-TW/nano-banana-pro-prompts?id=34671)**
+
+---
+
+### No. 22: 社群媒體貼文 - 等待的母親肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1550,7 +1587,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 22: 社群媒體貼文 - 週日早晨家庭合影
+### No. 23: 社群媒體貼文 - 週日早晨家庭合影
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1583,7 +1620,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 23: 社群媒體貼文 - 黑色電影風 Pinup 寫真
+### No. 24: 社群媒體貼文 - 黑色電影風 Pinup 寫真
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1622,7 +1659,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 24: 社群媒體貼文 - 奢華時尚編輯人像
+### No. 25: 社群媒體貼文 - 奢華時尚編輯人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1656,7 +1693,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 25: 社群媒體貼文 - 都會優雅人像
+### No. 26: 社群媒體貼文 - 都會優雅人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1690,7 +1727,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 26: 社群媒體貼文 - 地中海夏季時尚特輯
+### No. 27: 社群媒體貼文 - 地中海夏季時尚特輯
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1735,7 +1772,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 27: 社群媒體貼文 - 雪地冬日森林人像
+### No. 28: 社群媒體貼文 - 雪地冬日森林人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1771,40 +1808,6 @@ https://t.co/QxbYpfFVj6
 - **多語言:** en
 
 **[👉 立即嘗試 →](https://youmind.com/zh-TW/nano-banana-pro-prompts?id=34446)**
-
----
-
-### No. 28: 社群媒體貼文 - 暗黑學院風男性肖像
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-為 Nano Banana 2 設計的精緻暗黑學院風提示詞，場景設定於高雅的飯店大廳，主角為一名男性。
-
-#### 📝 提示詞
-
-```
-一位專注的 {argument name="subject" default="年輕成年男性"} 坐在櫃檯前身體微傾，穿著一件 {argument name="clothing" default="合身深灰黑色針織長袖上衣，並配戴粗框黑眼鏡"}。他那中短長度的棕色頭髮長度及耳，呈現經典的後梳造型，髮質自然直順帶點微捲，髮絲紋理清晰可見，帶有細微的碎髮與兩側不規則的層次，使用中度定型產品營造出光澤濕潤感，向後梳理並在前方瀏海處保留適度蓬鬆感。他神情嚴肅而冷靜，低頭注視著一台打開的深灰色鋁製筆記型電腦。他略微駝背、放鬆的肩膀向下延伸，手肘支撐在櫃檯上，雙手在下顎前鬆散地交握，手指自然地交錯，顯得深思熟慮。他位於深灰色石材櫃檯的中央，櫃檯上有著細緻的白色紋理，旁邊放著一台裝有深色保護殼的智慧型手機。深邃奢華的背景展現了一個 {argument name="setting" default="高檔飯店大廳或休息室"}，左側中景處有一架蓋子合上的高光澤黑色平台鋼琴，以及一株茂盛的綠色琴葉榕，右側則平衡地擺放著柔軟的芥末黃弧形扶手椅與一盞發光的錐形桌燈。牆面為平滑的霧面暖米色與灰褐色，並以觸感豐富的垂直條紋深棕色木鑲板裝飾，深棕色實木地板上方掛著柔和照明的藝術畫作。整體氛圍陰鬱而精緻，沐浴在來自多個嵌入式頂燈與背景實用燈具的溫暖金黃色人工光線中，營造出電影般的適中對比度。柔和且漸層的灰色陰影聚集在他的下巴下方、手臂下方以及櫃檯上的筆電下方，而保留的亮部則輕柔地照亮了他的額頭、顴骨、眼鏡框與光澤髮絲。類比暖色調融合了深炭灰色、深棕色、灰褐色以及搶眼的芥末黃點綴。採用數位攝影風格，以 50mm 鏡頭、f/2.8 光圈、1/60s 快門與 ISO 800 拍攝，並設定暖色白平衡，呈現出真實的暗黑學院美學。影像擁有適中的景深，使主體保持清晰對焦，同時將豐富的背景渲染為柔和滑順的散景，陰影處帶有細微的數位雜訊，最後經過暖色調校色、提亮黑色階與柔和暗角處理，完美呈現於 4:5 的畫面比例中。
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1789195065173_u1d6i9_HRd930hWAAYYwnx.jpg" width="600" alt="社群媒體貼文 - 暗黑學院風男性肖像 - Image 1">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [Picts by AI](https://x.com/pictsbyai)
-- **來源:** [Twitter Post](https://x.com/pictsbyai/status/2098325170813534338)
-- **發布時間:** 2026年9月11日
-- **多語言:** en
-
-**[👉 立即嘗試 →](https://youmind.com/zh-TW/nano-banana-pro-prompts?id=34453)**
 
 ---
 
@@ -4242,7 +4245,53 @@ STORYBOARD：
 
 ---
 
-### No. 81: 產品行銷 - 高級時尚編輯人像
+### No. 81: 產品行銷 - 復古紅色電話人像
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 描述
+
+使用 Nano Banana Pro 創建以紅色電話為主題的電影感復古時尚人像提示詞。
+
+#### 📝 提示詞
+
+```
+基於上傳的參考圖像，創建一張超寫實、具有電影感的復古時尚人像。
+
+保留女性從參考圖中確切的自然面部身份和可辨識特徵——相同的臉型、眼睛、眉毛、鼻子、嘴唇、下顎線、膚色、面部比例和整體相似度。不要重塑、美化、改變年齡或Alter her identity（改變她的身份）。
+
+將她置於一個戲劇性的單色深紅色室內空間，營造奢華的復古氛圍。她自信地坐在深紅色沙發上，旁邊是一張配套的紅色桌子，手持經典的光澤紅色復古電話聽筒貼在臉旁。配套的旋轉撥號電話清晰地放在桌上，通過捲曲的紅色電線連接。
+
+她身穿一件精緻的寬鬆酒紅色剪裁大衣，配有寬大的翻領，內搭黑色緊身上衣。搭配一頂純酒紅色棒球帽，絕對沒有任何標誌、字母、符號或文字，並佩戴時尚的大框黑色矩形太陽鏡。她的深色頭髮是光滑的齊肩短髮波波頭，在帽子下清晰可見。
+
+她的表情沉著而神秘，雙唇放鬆，肢體語言充滿自信。一隻手自然地握著電話聽筒，另一隻手優雅地放在身側附近。
+
+使用豐富的紅對紅風格搭配、細微的黑色點綴、深邃的陰影和溫暖的方向性照明。在光澤的電話上添加逼真的高光，並在羊毛大衣上添加細膩的質感。背景應包括柔和照亮的紅色牆壁和最簡潔的復古傢俱。
+
+攝影：垂直編輯人像，85mm 鏡頭，電影構圖，淺景深，戲劇性工作室燈光，逼真的皮膚紋理，自然的手部和手指，豐富的色調對比，精緻的復古時尚美學，奢華雜誌攝影，超寫實，高度細節化，8K 品質。
+負面提示詞：改變臉部、不同的身份、臉部重塑、塑料皮膚、過度修圖、CGI、卡通、動漫、扭曲的手部、多餘的手指、畸形解剖結構、扭曲的電話、重複物體、模糊細節、低解析度。
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1789454008137_roiqy9_HSLvkHzaAAAq5nL.jpg" width="600" alt="產品行銷 - 復古紅色電話人像 - Image 1">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [Elvorya](https://x.com/Elvorya)
+- **來源:** [Twitter Post](https://x.com/Elvorya/status/2099503796804296742)
+- **發布時間:** 2026年9月14日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/zh-TW/nano-banana-pro-prompts?id=34672)**
+
+---
+
+### No. 82: 產品行銷 - 高級時尚編輯人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4281,7 +4330,7 @@ STORYBOARD：
 
 ---
 
-### No. 82: 產品行銷 - Ganesh Chaturthi 3D Logo
+### No. 83: 產品行銷 - Ganesh Chaturthi 3D Logo
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4333,7 +4382,7 @@ Generate 3d logo style text "{argument name="text" default="GANESH"}" with Ganes
 
 ---
 
-### No. 83: 產品行銷 - 復古報紙時尚專題
+### No. 84: 產品行銷 - 復古報紙時尚專題
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4371,7 +4420,7 @@ Generate 3d logo style text "{argument name="text" default="GANESH"}" with Ganes
 
 ---
 
-### No. 84: 產品行銷 - Q 版 RPG 遊戲活動主視覺
+### No. 85: 產品行銷 - Q 版 RPG 遊戲活動主視覺
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4422,7 +4471,7 @@ Generate 3d logo style text "{argument name="text" default="GANESH"}" with Ganes
 
 ---
 
-### No. 85: 產品行銷 - Old Money 汽車生活風格肖像
+### No. 86: 產品行銷 - Old Money 汽車生活風格肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4455,7 +4504,7 @@ Generate 3d logo style text "{argument name="text" default="GANESH"}" with Ganes
 
 ---
 
-### No. 86: 產品行銷 - 時尚編輯風格男裝拍攝
+### No. 87: 產品行銷 - 時尚編輯風格男裝拍攝
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4507,7 +4556,7 @@ Generate 3d logo style text "{argument name="text" default="GANESH"}" with Ganes
 
 ---
 
-### No. 87: 產品行銷 - 漫畫普普藝術風格產品廣告
+### No. 88: 產品行銷 - 漫畫普普藝術風格產品廣告
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4555,7 +4604,7 @@ Generate 3d logo style text "{argument name="text" default="GANESH"}" with Ganes
 
 ---
 
-### No. 88: 產品行銷 - 優雅攝影棚時尚人像
+### No. 89: 產品行銷 - 優雅攝影棚時尚人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4590,7 +4639,7 @@ Generate 3d logo style text "{argument name="text" default="GANESH"}" with Ganes
 
 ---
 
-### No. 89: 產品行銷 - 極簡時尚 Lookbook 主視覺
+### No. 90: 產品行銷 - 極簡時尚 Lookbook 主視覺
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4641,7 +4690,7 @@ Generate 3d logo style text "{argument name="text" default="GANESH"}" with Ganes
 
 ---
 
-### No. 90: 產品行銷 - 超現實鳥類時尚交響曲
+### No. 91: 產品行銷 - 超現實鳥類時尚交響曲
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4741,7 +4790,7 @@ Generate 3d logo style text "{argument name="text" default="GANESH"}" with Ganes
 
 ---
 
-### No. 91: 產品行銷 - 極簡主義阿爾卑斯時尚雜誌
+### No. 92: 產品行銷 - 極簡主義阿爾卑斯時尚雜誌
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4775,7 +4824,7 @@ Generate 3d logo style text "{argument name="text" default="GANESH"}" with Ganes
 
 ---
 
-### No. 92: 產品行銷 - 奢華產品靜物攝影企劃
+### No. 93: 電子商務主圖 - 奢華產品靜物攝影企劃
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4809,7 +4858,7 @@ Generate 3d logo style text "{argument name="text" default="GANESH"}" with Ganes
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1789022277328_vvwa7o_HRxBYM_XsAATlYx.jpg" width="600" alt="產品行銷 - 奢華產品靜物攝影企劃 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1789022277328_vvwa7o_HRxBYM_XsAATlYx.jpg" width="600" alt="電子商務主圖 - 奢華產品靜物攝影企劃 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -4823,7 +4872,7 @@ Generate 3d logo style text "{argument name="text" default="GANESH"}" with Ganes
 
 ---
 
-### No. 93: 電子商務主圖 - 紅色棒球帽時尚特寫
+### No. 94: 電子商務主圖 - 紅色棒球帽時尚特寫
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4857,7 +4906,7 @@ Generate 3d logo style text "{argument name="text" default="GANESH"}" with Ganes
 
 ---
 
-### No. 94: 電子商務主圖 - 極簡建築風格時尚人像
+### No. 95: 電子商務主圖 - 極簡建築風格時尚人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4903,7 +4952,7 @@ Generate 3d logo style text "{argument name="text" default="GANESH"}" with Ganes
 
 ---
 
-### No. 95: 電子商務主圖 - 鐵鏽紅絲綢洋裝野餐時尚特輯
+### No. 96: 電子商務主圖 - 鐵鏽紅絲綢洋裝野餐時尚特輯
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4937,7 +4986,7 @@ Generate 3d logo style text "{argument name="text" default="GANESH"}" with Ganes
 
 ---
 
-### No. 96: 電子商務主圖 - 吉他琴衍整修微距攝影
+### No. 97: 電子商務主圖 - 吉他琴衍整修微距攝影
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4971,7 +5020,7 @@ Generate 3d logo style text "{argument name="text" default="GANESH"}" with Ganes
 
 ---
 
-### No. 97: 電子商務主圖 - 頂級飲品廣告攝影
+### No. 98: 電子商務主圖 - 頂級飲品廣告攝影
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5011,7 +5060,7 @@ Generate 3d logo style text "{argument name="text" default="GANESH"}" with Ganes
 
 ---
 
-### No. 98: 電子商務主圖 - 優雅黑色歐根紗緞帶
+### No. 99: 電子商務主圖 - 優雅黑色歐根紗緞帶
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5051,7 +5100,7 @@ Generate 3d logo style text "{argument name="text" default="GANESH"}" with Ganes
 
 ---
 
-### No. 99: 電子商務主圖 - 奢華巧克力廣告靜物攝影
+### No. 100: 電子商務主圖 - 奢華巧克力廣告靜物攝影
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5103,7 +5152,7 @@ Generate 3d logo style text "{argument name="text" default="GANESH"}" with Ganes
 
 ---
 
-### No. 100: 電子商務主圖 - 超現實美妝產品髮捲
+### No. 101: 電子商務主圖 - 超現實美妝產品髮捲
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5137,7 +5186,7 @@ Generate 3d logo style text "{argument name="text" default="GANESH"}" with Ganes
 
 ---
 
-### No. 101: 電子商務主圖 - 覆盆子外殼產品攝影
+### No. 102: 電子商務主圖 - 覆盆子外殼產品攝影
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5189,7 +5238,7 @@ Generate 3d logo style text "{argument name="text" default="GANESH"}" with Ganes
 
 ---
 
-### No. 102: 電子商務主圖 - 帶有蜘蛛網元素的電影級產品廣告
+### No. 103: 電子商務主圖 - 帶有蜘蛛網元素的電影級產品廣告
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5229,7 +5278,7 @@ Generate 3d logo style text "{argument name="text" default="GANESH"}" with Ganes
 
 ---
 
-### No. 103: 電子商務主圖 - 冰塊中的極簡主義產品
+### No. 104: 電子商務主圖 - 冰塊中的極簡主義產品
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5263,7 +5312,7 @@ Generate 3d logo style text "{argument name="text" default="GANESH"}" with Ganes
 
 ---
 
-### No. 104: 電子商務主圖 - 奢華水瓶產品攝影
+### No. 105: 電子商務主圖 - 奢華水瓶產品攝影
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5303,7 +5352,7 @@ Generate 3d logo style text "{argument name="text" default="GANESH"}" with Ganes
 
 ---
 
-### No. 105: 電子商務主圖 - 夏季護膚品產品攝影
+### No. 106: 電子商務主圖 - 夏季護膚品產品攝影
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5355,7 +5404,7 @@ Generate 3d logo style text "{argument name="text" default="GANESH"}" with Ganes
 
 ---
 
-### No. 106: 電子商務主圖 - Nano Banana Pro 產品拼貼圖
+### No. 107: 電子商務主圖 - Nano Banana Pro 產品拼貼圖
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5395,7 +5444,7 @@ Generate 3d logo style text "{argument name="text" default="GANESH"}" with Ganes
 
 ---
 
-### No. 107: 電子商務主圖 - 風格化收藏玩具包裝
+### No. 108: 電子商務主圖 - 風格化收藏玩具包裝
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5447,7 +5496,7 @@ Generate 3d logo style text "{argument name="text" default="GANESH"}" with Ganes
 
 ---
 
-### No. 108: 電子商務主圖 - 頂級產品攝影棚轉化
+### No. 109: 電子商務主圖 - 頂級產品攝影棚轉化
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5499,7 +5548,7 @@ Generate 3d logo style text "{argument name="text" default="GANESH"}" with Ganes
 
 ---
 
-### No. 109: 電子商務主圖 - 奢華護膚品廣告
+### No. 110: 電子商務主圖 - 奢華護膚品廣告
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5551,7 +5600,7 @@ Generate 3d logo style text "{argument name="text" default="GANESH"}" with Ganes
 
 ---
 
-### No. 110: 遊戲素材 - 表現主義繪畫風格寫實混合肖像
+### No. 111: 遊戲素材 - 表現主義繪畫風格寫實混合肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5610,7 +5659,7 @@ Generate 3d logo style text "{argument name="text" default="GANESH"}" with Ganes
 
 ---
 
-### No. 111: 遊戲素材 - Artifact Diorama SQL 生成
+### No. 112: 遊戲素材 - Artifact Diorama SQL 生成
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5662,7 +5711,7 @@ Generate 3d logo style text "{argument name="text" default="GANESH"}" with Ganes
 
 ---
 
-### No. 112: 遊戲素材 - Woodpunk 動力木製雕塑自動裝置
+### No. 113: 遊戲素材 - Woodpunk 動力木製雕塑自動裝置
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5720,7 +5769,7 @@ Generate 3d logo style text "{argument name="text" default="GANESH"}" with Ganes
 
 ---
 
-### No. 113: 遊戲素材 - 漫畫主題桌面立體透視模型套件
+### No. 114: 遊戲素材 - 漫畫主題桌面立體透視模型套件
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5754,7 +5803,7 @@ Generate 3d logo style text "{argument name="text" default="GANESH"}" with Ganes
 
 ---
 
-### No. 114: 遊戲素材 - 空靈女子花卉髮飾肖像
+### No. 115: 遊戲素材 - 空靈女子花卉髮飾肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5788,7 +5837,7 @@ Generate 3d logo style text "{argument name="text" default="GANESH"}" with Ganes
 
 ---
 
-### No. 115: 遊戲素材 - 動漫龐克風格女性插畫
+### No. 116: 遊戲素材 - 動漫龐克風格女性插畫
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5822,7 +5871,7 @@ Generate 3d logo style text "{argument name="text" default="GANESH"}" with Ganes
 
 ---
 
-### No. 116: 遊戲素材 - 末日風格少女與焊接護目鏡
+### No. 117: 遊戲素材 - 末日風格少女與焊接護目鏡
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5856,7 +5905,7 @@ Generate 3d logo style text "{argument name="text" default="GANESH"}" with Ganes
 
 ---
 
-### No. 117: 遊戲素材 - 異想天開的擬人化友善昆蟲
+### No. 118: 遊戲素材 - 異想天開的擬人化友善昆蟲
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5890,7 +5939,7 @@ Generate 3d logo style text "{argument name="text" default="GANESH"}" with Ganes
 
 ---
 
-### No. 118: 遊戲素材 - 電影級 3D 動畫 AI 檔案管理員
+### No. 119: 遊戲素材 - 電影級 3D 動畫 AI 檔案管理員
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5924,7 +5973,7 @@ Generate 3d logo style text "{argument name="text" default="GANESH"}" with Ganes
 
 ---
 
-### No. 119: 遊戲素材 - 全息畫布玻璃工作室
+### No. 120: 遊戲素材 - 全息畫布玻璃工作室
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5958,69 +6007,13 @@ Generate 3d logo style text "{argument name="text" default="GANESH"}" with Ganes
 
 ---
 
-### No. 120: 遊戲素材 - 頂級動漫電影感戰士氣場
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-這是一個用於生成高端動漫視覺圖的提示詞，描繪了一位在廢墟神殿背景下，散發著強大且充滿氛圍感能量氣場的魅力戰士。
-
-#### 📝 提示詞
-
-```
-創作一幅令人屏息、極致高端的動漫電影級藝術作品，背景設定於黑暗奇幻世界，呈現出如同史上最高預算動漫作品中的畫面質感。
-
-{argument name="warrior" default="一位冷靜、極具魅力的男性戰士"} 獨自站在巨大的廢墟神殿邊緣，俯瞰著夜晚中充滿未來感的古老城市。他擁有銳利且富有表現力的雙眼，細緻的黑髮隨風自然飄動，身穿優雅的深色戰鬥外套，上面飾有精緻的銀色細節，帶有細微的戰損痕跡，姿勢從容且充滿威懾力。
-
-他沒有發動攻擊，也沒有大聲吶喊。他只是靜靜地站著，眼神微垂，表情冷漠而自信。僅僅是他的存在，就足以主宰整個畫面。
-
-在他周圍，一個 {argument name="aura" default="巨大的氣場領域——深沉的氛圍能量"} 如同隱形的壓力般具象化，自然地流動於環境之中。細小的發光粒子、飄散的餘燼、塵埃碎片與雨滴在他身體周圍迴旋。由於他散發的強大壓力，腳下的地面出現了細微的裂痕。他的外套與頭髮在充滿能量的風中劇烈擺動。
-
-在他身後，巨大的風暴雲在天空中盤旋，被遠處的閃電照亮。一輪 {argument name="moon" default="巨大的月亮"} 穿透雲層，為他的身影勾勒出強而有力的輪廓。遠處下方，成千上萬的城市微光營造出深邃的空間感與宏大的規模。
-
-氣場應呈現出美麗、威懾且超凡脫俗的感覺，而非普通的發光輪廓。運用層次分明的半透明能量、大氣扭曲、細微的光線折射、漂浮粒子以及角色周圍淡淡的波紋狀壓力。保持角色面部與身體的清晰度，同時讓環境對他的存在產生反應。
-
-構圖：低角度英雄視角，角色稍微偏離中心，上方留有巨大的負空間，戲劇性的景深，前景粒子，遠處的城市，宏大的天空，電影級視角。
-
-視覺風格：頂級現代動漫製作，極致細膩的線條，繪畫風格背景，寫實光影，符合物理規律的陰影，電影級調色，寫實的大氣透視，高度細緻的眼睛、髮絲與布料質感，細膩的皮膚紋理，體積光月光，高對比度，銳利的主體焦點，令人驚嘆的環境細節。
-
-將風格化的動漫角色設計與寫實的電影級渲染相結合，使圖像感覺像是一張高級動漫劇照，而非普通的插畫。
-
-角色應散發出極致的「氣場」能量：沉默的自信、壓倒性的存在感、毫不費力的主宰力、神秘的力量、優雅與危險並存。
-
-無文字、無標誌、無浮水印、無滑稽表情、無誇張尖叫、無巨大肌肉、無普通超級英雄服裝、無雜亂構圖、無過度霓虹、無模糊臉部、無扭曲解剖結構、無多餘手指、無畸形手部、無廉價 CGI 感。
-
-長寬比：16:9。超細節、電影感、令人屏息、頂級動漫視覺圖
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788245868600_lycm8i_HRCHmQVawAANNQN.jpg" width="600" alt="遊戲素材 - 頂級動漫電影感戰士氣場 - Image 1">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [aryan v](https://x.com/aryanv2844)
-- **來源:** [Twitter Post](https://x.com/aryanv2844/status/2094322928343232749)
-- **發布時間:** 2026年8月31日
-- **多語言:** en
-
-**[👉 立即嘗試 →](https://youmind.com/zh-TW/nano-banana-pro-prompts?id=33083)**
-
----
-
 ---
 
 ## 📚 更多提示詞
 
 <div align="center">
 
-### 🎯 15515 更多提示詞未在此顯示
+### 🎯 15518 更多提示詞未在此顯示
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -6083,6 +6076,6 @@ The gallery features:
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-09-15T04:03:28.012Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-09-15T08:05:16.010Z</sub>
 
 </div>
