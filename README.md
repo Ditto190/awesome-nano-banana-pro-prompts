@@ -143,9 +143,9 @@ When used in Raycast, you can dynamically replace the arguments for quick iterat
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **15713** |
+| 📝 Total Prompts | **15712** |
 | ⭐ Featured | **9** |
-| 🔄 Last Updated | **Tuesday, September 29, 2026 at 8:04:00 AM UTC** |
+| 🔄 Last Updated | **Tuesday, September 29, 2026 at 12:04:15 PM UTC** |
 
 </div>
 
@@ -6370,7 +6370,7 @@ Whimsical digital anthropomorphic friendly insect standing on the ground with fa
 
 <div align="center">
 
-### 🎯 15593 more prompts not shown here
+### 🎯 15592 more prompts not shown here
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -6433,6 +6433,6 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-09-29T08:04:00.592Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-09-29T12:04:15.276Z</sub>
 
 </div>

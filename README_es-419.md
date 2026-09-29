@@ -143,9 +143,9 @@ by {argument name="author" default="Steve Jobs"}
 
 | Métrica | Cantidad |
 |--------|-------|
-| 📝 Total de prompts | **15713** |
+| 📝 Total de prompts | **15712** |
 | ⭐ Destacado | **9** |
-| 🔄 Última actualización | **martes, 29 de septiembre de 2026, 8:05:08 a.m. UTC** |
+| 🔄 Última actualización | **martes, 29 de septiembre de 2026, 12:05:00 p.m. UTC** |
 
 </div>
 
@@ -6347,7 +6347,7 @@ Insecto antropomórfico digital caprichoso de pie sobre el suelo con hojas caíd
 
 <div align="center">
 
-### 🎯 15593 prompts más no mostrados aquí
+### 🎯 15592 prompts más no mostrados aquí
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -6410,6 +6410,6 @@ Licenciado bajo [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Enviar un prompt](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Dar estrella a este repositorio](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-09-29T08:05:08.038Z</sub>
+<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-09-29T12:05:00.346Z</sub>
 
 </div>

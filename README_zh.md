@@ -143,9 +143,9 @@ by {argument name="author" default="Steve Jobs"}
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **15713** |
+| 📝 提示词总数 | **15712** |
 | ⭐ 精选 | **9** |
-| 🔄 最后更新 | **2026年9月29日星期二 UTC 08:04:07** |
+| 🔄 最后更新 | **2026年9月29日星期二 UTC 12:04:21** |
 
 </div>
 
@@ -6361,7 +6361,7 @@ Mini Cooper 内部细节渲染得极其逼真（仪表盘、方向盘、座椅�
 
 <div align="center">
 
-### 🎯 15593 更多提示词未在此显示
+### 🎯 15592 更多提示词未在此显示
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -6424,6 +6424,6 @@ The gallery features:
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-09-29T08:04:07.861Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-09-29T12:04:21.945Z</sub>
 
 </div>
